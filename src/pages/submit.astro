@@ -110,7 +110,7 @@ const tagOptions = [
           {busynessOptions.map(b => (
             <label style="position:relative;display:inline-block;" class="option-pill cursor-pointer">
               <input type="radio" name="busyness" value={b} style="position:absolute;opacity:0;width:0;height:0;" />
-              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block">{b}</span>
+              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block bg-white">{b}</span>
             </label>
           ))}
         </div>
@@ -124,7 +124,7 @@ const tagOptions = [
           {tagOptions.map(tag => (
             <label style="position:relative;display:inline-block;" class="option-pill cursor-pointer">
               <input type="checkbox" name="tags" value={tag} style="position:absolute;opacity:0;width:0;height:0;" />
-              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block">{tag}</span>
+              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block bg-white">{tag}</span>
             </label>
           ))}
         </div>
