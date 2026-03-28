@@ -2537,35 +2537,6 @@
     "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHzXewC7SSMOC2JoTFp-oFzO69FEzxM0xuqhsH9MHaOGYynEpvukahoMWgfCn6Il_ZWVgpZQZ5YWDetq9fKw3LItzQujQLyrt3EkmJ4n4EJQhbxo-MXbMU6efpBXDPBh1mBQfwt38WwErppN2w=s4800-w400"
   },
   {
-    "id": "bagels-on-fire-caf",
-    "placeId": "ChIJhSu4UQo1K4gRdXB0hcqhyhQ",
-    "name": "Bagels on Fire Café",
-    "neighbourhood": "Liberty Village",
-    "address": "85 Hanna Ave #104a, Toronto, ON M6K 3S3, Canada",
-    "price": "$$",
-    "rating": 4,
-    "reviewCount": 54,
-    "hours": {
-      "Mon": "7:00 AM – 7:00 PM",
-      "Tue": "7:00 AM – 7:00 PM",
-      "Wed": "7:00 AM – 7:00 PM",
-      "Thu": "7:00 AM – 7:00 PM",
-      "Fri": "7:00 AM – 7:00 PM",
-      "Sat": "7:00 AM – 7:00 PM",
-      "Sun": "7:00 AM – 7:00 PM"
-    },
-    "openPast6pm": true,
-    "website": "https://www.bagelsonfire.com/",
-    "tags": [],
-    "wifi": null,
-    "busyness": null,
-    "isSponsored": false,
-    "photoRef": "places/ChIJhSu4UQo1K4gRdXB0hcqhyhQ/photos/AU_ZVEHLSbV-eRUzAyTBrOnJ08J1WMNGJauv1AjpbLi9epsZCX2Aj9fMkj2r_pYL5sK3jTFZyukBeZaW4T1Iujq01cO7oicqGPQW0yOoHurhSBqZaHhsV7wivoA8RmtbFhfemms4X3x2y7BHApLRt-cg3KOsUXpapOzDIifCpOodKCrJ6qiw_Ijq8uezUZWln0Vb_uP-8Yzrop7D5Ycfvy676mPtG7KXjfiQdE2qaNLAKhqtg--TEdapnJ4QumN6fTU5HW1unSXNxDp6QHGNCE_b3AMHDIV6G2oXQmkpn1qsPjanHavcg4jPHd9tAm80JKA0eZsg3rwJGkAmsz0_vHXh8LtQQ-1wNluxVxEUR3GQDHy8IPwqz7J1ZEkB9mOF5cPWp0vcdNdfkFzJhdifFb24u9WtDksdITzINM53zgSUx5HJBpoN0IKK5Fqr5ADYpDB5",
-    "lat": 43.640011,
-    "lng": -79.419972,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFzun0IC06UWKo6EUHvZoMLmA5zCHG9m-mqUtMHVTP4JO6u3QtHGSYSOl4eCPxaEOd0NzTXl-nuIjjcDq12t7cQmt4YNLgfgUxgK5olC2XSLOeHjynJKOoL6n_5qFSO49KbUmz_1BpYCBKBsH8b8IN_jw=s4800-w400"
-  },
-  {
     "id": "oeb-breakfast-co",
     "placeId": "ChIJf4-Dbvs1K4gRRurSDCy8_ww",
     "name": "OEB Breakfast Co.",
