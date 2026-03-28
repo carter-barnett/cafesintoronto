@@ -77,6 +77,7 @@ const cafes = cafesData as any[];
           data-neighbourhood={cafe.neighbourhood}
           data-tags={JSON.stringify(cafe.tags)}
           data-open6pm={cafe.openPast6pm ? "true" : "false"}
+          data-sponsored={cafe.isSponsored ? "true" : "false"}
         >
           <CafeCard cafe={cafe} />
         </div>
@@ -169,6 +170,25 @@ const cafes = cafesData as any[];
       applyFilters();
     });
   });
+
+  // Shuffle cafes on page load — sponsored stay pinned at top
+  function shuffle() {
+    const list = document.getElementById('cafe-list');
+    if (!list) return;
+    const sponsored = allCafes.filter(el => el.querySelector('[data-sponsored="true"]'));
+    const regular   = allCafes.filter(el => !el.querySelector('[data-sponsored="true"]'));
+    // Fisher-Yates
+    for (let i = regular.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [regular[i], regular[j]] = [regular[j], regular[i]];
+    }
+    [...sponsored, ...regular].forEach(el => list.appendChild(el));
+    // Keep allCafes in sync with new DOM order
+    allCafes.length = 0;
+    allCafes.push(...[...sponsored, ...regular]);
+  }
+
+  shuffle();
 
   // Init: hide all after first 10
   applyFilters();
