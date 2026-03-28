@@ -46,6 +46,9 @@ const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
       : "border-gray-200 hover:border-gray-300 hover:shadow-sm"
   }`}
   data-cafe-id={cafe.id}
+  data-cafe-name={cafe.name}
+  data-neighbourhood={cafe.neighbourhood}
+  data-sponsored={cafe.isSponsored ? "true" : "false"}
 >
   <!-- Main row -->
   <div class="flex items-start gap-4 p-5">
@@ -162,8 +165,23 @@ const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
     card.addEventListener('click', () => {
       const expanded = card.querySelector('.cafe-expanded');
       if (!expanded) return;
+
+      const isOpening = expanded.classList.contains('hidden');
       expanded.classList.toggle('hidden');
       card.classList.toggle('shadow-md');
+
+      // Fire GA event on open only
+      if (isOpening && typeof gtag !== 'undefined') {
+        const el = card as HTMLElement;
+        const eventParams: Record<string, string | boolean> = {
+          cafe_name:     el.dataset.cafeName    ?? '',
+          neighbourhood: el.dataset.neighbourhood ?? '',
+        };
+        if (el.dataset.sponsored === 'true') {
+          eventParams.sponsored = true;
+        }
+        gtag('event', 'cafe_click', eventParams);
+      }
     });
   });
 </script>
