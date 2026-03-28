@@ -3689,35 +3689,6 @@
     "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNH8hf-NwcBmyON1sOaEhR28d_E9OQQ5PLx9PT4hOf7VpyiYHUmArhlFtbPxjsed8QxjneP36eBl8xjtY42jf6xOlD9NY77MafmIaTHK7XwxWIh8mJ8CYZ-KcLPgTEEIRN5gN1zBd9kQL-wF=s4800-w400"
   },
   {
-    "id": "oretta-king-west",
-    "placeId": "ChIJe56zxIw1K4gRtP5JWO98q9Y",
-    "name": "Oretta King West",
-    "neighbourhood": "King West",
-    "address": "633 King St W, Toronto, ON M5V 1M7, Canada",
-    "price": "$$",
-    "rating": 4.2,
-    "reviewCount": 4500,
-    "hours": {
-      "Mon": "11:30 AM – 10:30 PM",
-      "Tue": "11:30 AM – 10:30 PM",
-      "Wed": "11:30 AM – 10:30 PM",
-      "Thu": "11:30 AM – 11:30 PM",
-      "Fri": "11:30 AM – 11:30 PM",
-      "Sat": "10:00 AM – 11:30 PM",
-      "Sun": "10:00 AM – 10:30 PM"
-    },
-    "openPast6pm": true,
-    "website": "https://www.oretta.to/kingwest/home",
-    "tags": [],
-    "wifi": null,
-    "busyness": null,
-    "isSponsored": false,
-    "photoRef": "places/ChIJe56zxIw1K4gRtP5JWO98q9Y/photos/AU_ZVEEOnqyYwbIjJXzbMIiwxZaT_ON6eUHN2reDS38pXNI_ikNYtXzG0br1jjTWiod488V6WFGFeIEiPBSi1H_Hqo96Z4dSdaJj9QnO2JuofLcjp1tHaZf3dBwQp_5urs8aYxlpiSYkvNGEGbGYU58VXPQT1un6-sD7XNcZZ5TSPt9uACFdaKjMz9-9gJWjJiPRieRYnCev59_ONiWQ87fuaU_KmJZQCQZk9e_F7wOmppwWCxqfS6imixop1IjYxwsxsnAvqMG0HdKKIiBRbmR_tbFI-9toAo_GYoJGDnCOD0G6RA",
-    "lat": 43.6439175,
-    "lng": -79.40162889999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEbmwgDOgs2GxqrVIIuie-_cfzbt44YHU_v9sH4wekJQByTBzGONqSgaITAnedvvevMb6_4KAOfLKJ0BNBHRIoNcnjQHGr2wQE=s4800-w400"
-  },
-  {
     "id": "boxcar-social-laneway",
     "placeId": "ChIJsSZ7ebY1K4gR_YZW3cDCQjE",
     "name": "Boxcar Social Laneway",
