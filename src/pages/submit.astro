@@ -70,7 +70,7 @@ const tagOptions = [
           required
           maxlength="100"
           placeholder="e.g. Jimmy's Coffee"
-          class="w-full px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-caramel transition-colors"
+          class="w-full px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-caramel transition-colors bg-white"
         />
       </div>
 
@@ -97,7 +97,7 @@ const tagOptions = [
           {wifiOptions.map(w => (
             <label style="position:relative;display:inline-block;" class="option-pill cursor-pointer">
               <input type="radio" name="wifi" value={w} style="position:absolute;opacity:0;width:0;height:0;" />
-              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block">{w}</span>
+              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block bg-white">{w}</span>
             </label>
           ))}
         </div>
@@ -141,7 +141,7 @@ const tagOptions = [
           name="notes"
           rows="3"
           maxlength="500"
-          class="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-caramel transition-colors resize-none"
+          class="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-caramel transition-colors resize-none bg-white"
         ></textarea>
       </div>
 
