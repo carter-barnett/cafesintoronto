@@ -1,0 +1,248 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const web3formsKey = import.meta.env.PUBLIC_WEB3FORMS_KEY;
+
+const neighbourhoods = [
+  "Kensington Market",
+  "Queen West",
+  "The Annex",
+  "Ossington",
+  "Distillery",
+  "King West",
+  "Yorkville",
+  "Chinatown",
+  "Liberty Village",
+  "Downtown Toronto",
+  "Other",
+];
+
+const wifiOptions = ["Fast", "Medium", "Slow", "None", "Not sure"];
+const busynessOptions = ["Usually quiet", "Moderate", "Busy afternoons", "Busy weekends", "No laptops weekends"];
+const tagOptions = [
+  "Great for working",
+  "Great for dates",
+  "Great for meet-ups",
+  "Natural light",
+  "Cozy vibes",
+  "Aesthetic",
+  "Spacious",
+  "Modern",
+  "Laptops OK",
+  "Not busy",
+];
+---
+
+<Layout title="Submit a Cafe — Cafes In Toronto" description="Know a great Toronto cafe we're missing? Submit it here.">
+  <main class="max-w-2xl mx-auto px-4 py-10">
+
+    <a href="/" class="inline-flex items-center gap-1.5 text-sm text-gray-400 hover:text-gray-600 mb-8 transition-colors">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+      </svg>
+      Back
+    </a>
+
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold text-espresso mb-1">Submit a cafe</h1>
+      <p class="text-gray-500">Know a spot we're missing? Fill in what you know — we'll do the rest.</p>
+    </header>
+
+    <form
+      action="https://api.web3forms.com/submit"
+      method="POST"
+      class="space-y-8"
+      id="submit-form"
+    >
+      <input type="hidden" name="access_key" value={web3formsKey} />
+      <input type="hidden" name="subject" value="New cafe submission — Cafes In Toronto" />
+      <!-- Honeypot — bots fill this, humans don't -->
+      <input type="checkbox" name="botcheck" style="display:none;" />
+      <!-- Cafe name -->
+      <div class="pt-2">
+        <label class="block text-sm font-medium text-gray-700" style="margin-bottom:0.75rem;" for="name">
+          Cafe name <span class="text-red-400">*</span>
+        </label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          required
+          maxlength="100"
+          placeholder="e.g. Jimmy's Coffee"
+          class="w-full px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-caramel transition-colors"
+        />
+      </div>
+
+      <!-- Neighbourhood -->
+      <div style="margin-top:1.5rem;">
+        <label class="block text-sm font-medium text-gray-700" style="margin-bottom:0.75rem;" for="neighbourhood">
+          Neighbourhood <span class="text-red-400">*</span>
+        </label>
+        <select
+          id="neighbourhood"
+          name="neighbourhood"
+          required
+          class="w-full px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-800 focus:outline-none focus:border-caramel transition-colors bg-white"
+        >
+          <option value="" disabled selected>Select a neighbourhood</option>
+          {neighbourhoods.map(n => <option value={n}>{n}</option>)}
+        </select>
+      </div>
+
+      <!-- Wifi -->
+      <div style="margin-top:2rem;">
+        <p class="text-sm font-medium text-gray-700 mb-3">Wifi speed</p>
+        <div style="display:flex;flex-wrap:wrap;gap:0.75rem 0.625rem;">
+          {wifiOptions.map(w => (
+            <label style="position:relative;display:inline-block;" class="option-pill cursor-pointer">
+              <input type="radio" name="wifi" value={w} style="position:absolute;opacity:0;width:0;height:0;" />
+              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block">{w}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+
+      <!-- Busyness -->
+      <div style="margin-top:2rem;">
+        <p class="text-sm font-medium text-gray-700 mb-3">Usually how busy?</p>
+        <div style="display:flex;flex-wrap:wrap;gap:0.75rem 0.625rem;">
+          {busynessOptions.map(b => (
+            <label style="position:relative;display:inline-block;" class="option-pill cursor-pointer">
+              <input type="radio" name="busyness" value={b} style="position:absolute;opacity:0;width:0;height:0;" />
+              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block">{b}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+
+      <!-- Tags -->
+      <div style="margin-top:2rem;">
+        <p class="text-sm font-medium text-gray-700 mb-1">Vibes</p>
+        <p class="text-sm text-gray-400 mb-3">Pick all that apply</p>
+        <div style="display:flex;flex-wrap:wrap;gap:0.75rem 0.625rem;">
+          {tagOptions.map(tag => (
+            <label style="position:relative;display:inline-block;" class="option-pill cursor-pointer">
+              <input type="checkbox" name="tags" value={tag} style="position:absolute;opacity:0;width:0;height:0;" />
+              <span class="px-4 py-2 rounded-full border border-gray-200 text-sm text-gray-600 hover:border-gray-400 transition-colors block">{tag}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+
+      <!-- Anything else -->
+      <div style="margin-top:2rem;">
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="notes">
+          Anything else?
+        </label>
+        <p class="text-sm text-gray-400 mb-3">Address, website, why you love it...</p>
+        <textarea
+          id="notes"
+          name="notes"
+          rows="3"
+          maxlength="500"
+          class="w-full px-4 py-3 rounded-xl border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:border-caramel transition-colors resize-none"
+        ></textarea>
+      </div>
+
+      <button
+        type="submit"
+        style="background:#2C1A0E;display:block;margin:0 auto;"
+        class="px-6 py-2 rounded-full text-white text-sm font-medium transition-opacity hover:opacity-90"
+      >
+        Submit cafe
+      </button>
+    </form>
+
+    <!-- Success message (hidden by default) -->
+    <div id="success-msg" class="hidden text-center py-12">
+      <p class="text-2xl mb-2">☕</p>
+      <h2 class="text-xl font-semibold text-espresso mb-1">Thanks!</h2>
+      <p class="text-gray-500 text-sm">We'll review it and add it soon.</p>
+      <a href="/" class="inline-block mt-6 text-sm text-caramel hover:underline">← Back to cafes</a>
+    </div>
+
+  </main>
+</Layout>
+
+<script>
+  // Highlight selected pills
+  document.querySelectorAll('.option-pill input').forEach((input) => {
+    input.addEventListener('change', () => {
+      const span = input.nextElementSibling as HTMLElement;
+      const isRadio = (input as HTMLInputElement).type === 'radio';
+      if (isRadio) {
+        // Deselect siblings
+        document.querySelectorAll(`input[name="${(input as HTMLInputElement).name}"]`).forEach((r) => {
+          (r.nextElementSibling as HTMLElement).style.cssText = '';
+        });
+      }
+      const checked = (input as HTMLInputElement).checked;
+      span.style.cssText = checked ? 'border-color:#b45309;color:#b45309;background:#fff7ed;' : '';
+    });
+  });
+
+  const form = document.getElementById('submit-form') as HTMLFormElement;
+  const success = document.getElementById('success-msg');
+  const submitBtn = form?.querySelector('button[type="submit"]') as HTMLButtonElement;
+
+  // --- Sanitise: strip HTML tags from a string ---
+  function sanitise(val: string): string {
+    return val.replace(/<[^>]*>/g, '').trim().slice(0, 500);
+  }
+
+  // --- Rate limit: max 3 submissions per hour via localStorage ---
+  const RATE_KEY = 'cafe_submit_times';
+  const RATE_LIMIT = 3;
+  const RATE_WINDOW = 60 * 60 * 1000; // 1 hour in ms
+
+  function isRateLimited(): boolean {
+    const raw = localStorage.getItem(RATE_KEY);
+    const times: number[] = raw ? JSON.parse(raw) : [];
+    const now = Date.now();
+    const recent = times.filter(t => now - t < RATE_WINDOW);
+    return recent.length >= RATE_LIMIT;
+  }
+
+  function recordSubmission() {
+    const raw = localStorage.getItem(RATE_KEY);
+    const times: number[] = raw ? JSON.parse(raw) : [];
+    const now = Date.now();
+    const recent = times.filter(t => now - t < RATE_WINDOW);
+    recent.push(now);
+    localStorage.setItem(RATE_KEY, JSON.stringify(recent));
+  }
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    if (isRateLimited()) {
+      alert('You've submitted a few times recently. Please wait a bit before trying again.');
+      return;
+    }
+
+    // Sanitise free-text fields before sending
+    const nameInput = form.querySelector<HTMLInputElement>('#name');
+    const notesInput = form.querySelector<HTMLTextAreaElement>('#notes');
+    if (nameInput) nameInput.value = sanitise(nameInput.value);
+    if (notesInput) notesInput.value = sanitise(notesInput.value);
+
+    if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Sending…'; }
+
+    const data = new FormData(form);
+    const res = await fetch(form.action, {
+      method: 'POST',
+      body: data,
+      headers: { Accept: 'application/json' },
+    });
+
+    if (res.ok) {
+      recordSubmission();
+      form.classList.add('hidden');
+      success?.classList.remove('hidden');
+    } else {
+      if (submitBtn) { submitBtn.disabled = false; submitBtn.textContent = 'Submit cafe'; }
+      alert('Something went wrong. Please try again.');
+    }
+  });
+</script>

@@ -1,0 +1,28 @@
+---
+interface Area {
+  slug: string;
+  label: string;
+}
+
+interface Props {
+  areas: Area[];
+  active?: string;
+}
+
+const { areas, active = 'all' } = Astro.props;
+---
+
+<div class="flex flex-wrap gap-2" id="area-chips">
+  {areas.map((area) => (
+    <button
+      class={`area-chip px-4 py-2 rounded-lg border text-sm font-medium transition-colors ${
+        active === area.slug
+          ? 'bg-gray-900 text-white border-gray-900'
+          : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
+      }`}
+      data-area={area.slug}
+    >
+      {area.label}
+    </button>
+  ))}
+</div>

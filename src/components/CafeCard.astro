@@ -1,0 +1,169 @@
+---
+export interface Props {
+  cafe: {
+    id: string;
+    placeId: string;
+    name: string;
+    neighbourhood: string;
+    address: string;
+    price: string;
+    rating: number | null;
+    reviewCount: number;
+    hours: Record<string, string> | null;
+    openPast6pm: boolean;
+    website: string | null;
+    tags: string[];
+    wifi: string | null;
+    busyness: string | null;
+    isSponsored: boolean;
+    photoRef: string | null;
+    photoUrl: string | null;
+  };
+}
+
+const { cafe } = Astro.props;
+
+const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(cafe.name + ' ' + cafe.address)}`;
+
+const tagColors: Record<string, string> = {
+  "Great for dates":    "bg-blue-50 text-blue-700",
+  "Great for working":  "bg-green-50 text-green-700",
+  "Great for meet-ups": "bg-purple-50 text-purple-700",
+  "Natural light":      "bg-yellow-50 text-yellow-700",
+  "Cozy vibes":         "bg-orange-50 text-orange-700",
+  "Aesthetic":          "bg-pink-50 text-pink-700",
+  "Spacious":           "bg-teal-50 text-teal-700",
+  "Modern":             "bg-gray-100 text-gray-700",
+};
+
+const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+---
+
+<div
+  class={`bg-white rounded-2xl border transition-all duration-200 cursor-pointer cafe-card ${
+    cafe.isSponsored
+      ? "border-caramel shadow-sm"
+      : "border-gray-200 hover:border-gray-300 hover:shadow-sm"
+  }`}
+  data-cafe-id={cafe.id}
+>
+  <!-- Main row -->
+  <div class="flex items-start gap-4 p-5">
+    <!-- Text -->
+    <div class="flex-1 min-w-0">
+      <div class="flex items-center gap-2 flex-wrap mb-1">
+        <h2 class="font-semibold text-lg text-espresso leading-tight">{cafe.name}</h2>
+        {cafe.isSponsored && (
+          <span class="text-xs font-medium text-caramel bg-orange-50 border border-orange-100 px-2 py-0.5 rounded-full">
+            Sponsored
+          </span>
+        )}
+      </div>
+
+      <p class="text-sm text-gray-500 mb-3">
+        {cafe.neighbourhood} · {cafe.price}
+      </p>
+
+      <!-- Tags -->
+      {cafe.tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mb-3">
+          {cafe.tags.map((tag) => (
+            <span class={`text-xs px-2.5 py-1 rounded-full font-medium ${tagColors[tag] ?? "bg-gray-100 text-gray-600"}`}>
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+      <!-- Meta row -->
+      <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-gray-500">
+        {cafe.rating && (
+          <span>{cafe.rating} ★ Google</span>
+        )}
+        {cafe.wifi && (
+          <span>Wifi: {cafe.wifi}</span>
+        )}
+        {cafe.busyness && (
+          <span class={cafe.busyness.toLowerCase().includes("no laptop") ? "text-red-500" : ""}>
+            {cafe.busyness}
+          </span>
+        )}
+        {cafe.openPast6pm && (
+          <span class="text-green-600 font-medium">Open past 6pm</span>
+        )}
+      </div>
+    </div>
+
+    <!-- Photo -->
+    <div class="w-20 h-20 rounded-xl bg-gray-100 flex-shrink-0 overflow-hidden flex items-center justify-center">
+      {cafe.photoUrl ? (
+        <img
+          src={cafe.photoUrl}
+          alt={cafe.name}
+          class="w-full h-full object-cover"
+          loading="lazy"
+        />
+      ) : (
+        <span class="text-xs text-gray-400 text-center px-1">No photo</span>
+      )}
+    </div>
+  </div>
+
+  <!-- Expanded section (hidden by default) -->
+  <div class="cafe-expanded hidden border-t border-gray-100 px-5 pb-5">
+    <div class="pt-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <!-- Reviews -->
+      {cafe.rating && cafe.reviewCount > 0 && (
+        <div class="sm:col-span-2 mb-1">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-1">Reviews</p>
+          <p class="text-sm text-gray-700">{cafe.rating} ★ Google · {cafe.reviewCount.toLocaleString()} reviews</p>
+        </div>
+      )}
+
+      <!-- Address + Maps link -->
+      <div>
+        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-1">Address</p>
+        <p class="text-sm text-gray-700 mb-2">{cafe.address}</p>
+        <a
+          href={mapsUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-1.5 text-sm font-medium text-caramel hover:underline"
+          onclick="event.stopPropagation()"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+          </svg>
+          View on Google Maps
+        </a>
+      </div>
+
+      <!-- Hours -->
+      {cafe.hours && (
+        <div>
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-1">Hours</p>
+          <div class="space-y-0.5">
+            {days.map((day) => cafe.hours![day] && (
+              <div class="flex gap-2 text-sm">
+                <span class="text-gray-400 w-8">{day}</span>
+                <span class="text-gray-700">{cafe.hours![day]}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll('.cafe-card').forEach((card) => {
+    card.addEventListener('click', () => {
+      const expanded = card.querySelector('.cafe-expanded');
+      if (!expanded) return;
+      expanded.classList.toggle('hidden');
+      card.classList.toggle('shadow-md');
+    });
+  });
+</script>

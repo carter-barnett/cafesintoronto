@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@theme {
+  --color-cream: #F5F2EE;
+  --color-espresso: #2C1A0E;
+  --color-caramel: #C47A2B;
+  --font-family-sans: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  background-color: #F5F2EE;
+  color: #2C1A0E;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Safelist dynamic classes used in JS */
+.active-filter {
+  background-color: #2C1A0E;
+  color: white;
+  border-color: #2C1A0E;
+}
+
+.area-chip-active {
+  border-color: #C47A2B;
+  color: #C47A2B;
+  background-color: #fff7ed;
+}

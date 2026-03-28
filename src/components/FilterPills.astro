@@ -1,0 +1,37 @@
+---
+interface Filter {
+  id: string;
+  label: string;
+}
+
+interface Props {
+  active?: string;
+}
+
+const { active = 'all' } = Astro.props;
+
+const filters: Filter[] = [
+  { id: 'all', label: 'All' },
+  { id: 'working', label: 'Working' },
+  { id: 'dates', label: 'Dates' },
+  { id: 'meetups', label: 'Meet-ups' },
+  { id: 'laptops', label: 'Laptops OK' },
+  { id: 'quiet', label: 'Not busy' },
+  { id: 'late', label: 'Open past 6pm' },
+];
+---
+
+<div class="flex flex-wrap gap-2" id="filter-pills">
+  {filters.map((filter) => (
+    <button
+      class={`filter-pill px-4 py-2 rounded-full border text-sm font-medium transition-colors ${
+        active === filter.id
+          ? 'bg-gray-900 text-white border-gray-900'
+          : 'bg-white text-gray-700 border-gray-300 hover:border-gray-400'
+      }`}
+      data-filter={filter.id}
+    >
+      {filter.label}
+    </button>
+  ))}
+</div>

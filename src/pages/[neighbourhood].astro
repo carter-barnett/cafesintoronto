@@ -1,0 +1,55 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CafeCard from '../components/CafeCard.astro';
+import cafesData from '../../cafes.json';
+
+export function getStaticPaths() {
+  const areas = [
+    "Kensington Market",
+    "Queen West",
+    "The Annex",
+    "Ossington",
+    "Distillery",
+    "King West",
+    "Yorkville",
+    "Chinatown",
+  ];
+
+  return areas.map((area) => ({
+    params: {
+      neighbourhood: area.toLowerCase().replace(/\s+/g, '-'),
+    },
+    props: { area },
+  }));
+}
+
+const { area } = Astro.props;
+const cafes = (cafesData as any[]).filter((c) => c.neighbourhood === area);
+const slug = area.toLowerCase().replace(/\s+/g, '-');
+---
+
+<Layout
+  title={`Cafes in ${area}, Toronto`}
+  description={`The best independent cafes in ${area}, Toronto — find spots for working, dates, or just enjoying a coffee.`}
+>
+  <main class="max-w-2xl mx-auto px-4 py-10">
+    <a href="/" class="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-espresso mb-6 transition-colors">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+      </svg>
+      All cafes
+    </a>
+
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold text-espresso mb-1">Cafes in {area}</h1>
+      <p class="text-gray-500">{cafes.length} cafe{cafes.length !== 1 ? 's' : ''} in this neighbourhood</p>
+    </header>
+
+    <div class="space-y-4">
+      {cafes.length > 0
+        ? cafes.map((cafe) => <CafeCard cafe={cafe} />)
+        : <p class="text-gray-400 text-center py-12">No cafes listed yet for {area}.</p>
+      }
+    </div>
+  </main>
+</Layout>

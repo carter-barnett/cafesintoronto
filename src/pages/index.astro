@@ -1,0 +1,175 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CafeCard from '../components/CafeCard.astro';
+import cafesData from '../../cafes.json';
+
+const areas = [
+  "Kensington Market",
+  "Queen West",
+  "The Annex",
+  "Ossington",
+  "Distillery",
+  "King West",
+  "Yorkville",
+  "Chinatown",
+  "Liberty Village",
+];
+
+const filters = [
+  { label: "All",           key: "all" },
+  { label: "Working",       key: "working" },
+  { label: "Dates",         key: "dates" },
+  { label: "Meet-ups",      key: "meetups" },
+  { label: "Laptops OK",    key: "laptops" },
+  { label: "Not busy",      key: "quiet" },
+  { label: "Open past 6pm", key: "open6pm" },
+];
+
+const cafes = cafesData as any[];
+---
+
+<Layout title="Cafes In Toronto" description="Find the right cafe in Toronto for working, dates, or just enjoying a coffee.">
+  <main class="max-w-2xl mx-auto px-4 py-10">
+
+    <!-- Header -->
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold text-espresso mb-1">Cafes In Toronto</h1>
+      <p class="text-gray-500">Find the right cafe for what you're doing — working, dates, or just enjoying a coffee.</p>
+    </header>
+
+    <!-- Browse by area -->
+    <section class="mb-8">
+      <div class="flex flex-wrap gap-2" id="area-chips">
+        {areas.map((area) => (
+          <button
+            class="area-chip px-3.5 py-2 rounded-xl border border-gray-200 bg-white text-sm text-gray-700 hover:border-caramel hover:text-caramel transition-colors"
+            data-area={area}
+          >
+            {area}
+          </button>
+        ))}
+      </div>
+    </section>
+
+    <hr class="border-gray-200 mb-6" />
+
+    <!-- Filter pills -->
+    <div class="flex flex-wrap gap-2 mb-6" id="filter-pills">
+      {filters.map((f, i) => (
+        <button
+          class={`filter-pill px-4 py-1.5 rounded-full border text-sm transition-colors ${
+            i === 0
+              ? "active-filter"
+              : "bg-white text-gray-600 border-gray-200 hover:border-gray-400"
+          }`}
+          data-filter={f.key}
+        >
+          {f.label}
+        </button>
+      ))}
+    </div>
+
+    <!-- Cafe list -->
+    <div class="space-y-4" id="cafe-list">
+      {cafes.map((cafe) => (
+        <div
+          class="cafe-item"
+          data-neighbourhood={cafe.neighbourhood}
+          data-tags={JSON.stringify(cafe.tags)}
+          data-open6pm={cafe.openPast6pm ? "true" : "false"}
+        >
+          <CafeCard cafe={cafe} />
+        </div>
+      ))}
+    </div>
+
+    <!-- Load more + count -->
+    <div class="mt-8 flex flex-col items-center gap-3">
+      <button
+        id="load-more"
+        class="px-6 py-2.5 rounded-full border border-gray-300 bg-white text-sm text-gray-600 hover:border-gray-400 transition-colors"
+      >
+        Load more
+      </button>
+      <p class="text-sm text-gray-400" id="cafe-count">
+        Showing 10 of {cafes.length} cafes in Toronto
+      </p>
+    </div>
+  </main>
+</Layout>
+
+<script>
+  const allCafes = Array.from(document.querySelectorAll<HTMLElement>('.cafe-item'));
+  let activeArea: string | null = null;
+  let activeFilter = 'all';
+  const PAGE_SIZE = 10;
+  let visibleCount = PAGE_SIZE;
+
+  function getMatchingCafes() {
+    return allCafes.filter((item) => {
+      const neighbourhood = item.dataset.neighbourhood ?? '';
+      const tags: string[] = JSON.parse(item.dataset.tags ?? '[]');
+      const open6pm = item.dataset.open6pm === 'true';
+      const areaMatch = !activeArea || neighbourhood === activeArea;
+      let filterMatch = true;
+      if (activeFilter === 'working')  filterMatch = tags.includes('Great for working');
+      if (activeFilter === 'dates')    filterMatch = tags.includes('Great for dates');
+      if (activeFilter === 'meetups')  filterMatch = tags.includes('Great for meet-ups');
+      if (activeFilter === 'laptops')  filterMatch = tags.includes('Laptops OK');
+      if (activeFilter === 'quiet')    filterMatch = tags.includes('Not busy') || tags.includes('Usually quiet');
+      if (activeFilter === 'open6pm')  filterMatch = open6pm;
+      return areaMatch && filterMatch;
+    });
+  }
+
+  function applyFilters() {
+    const matching = getMatchingCafes();
+    allCafes.forEach((item) => item.style.display = 'none');
+    matching.slice(0, visibleCount).forEach((item) => item.style.display = '');
+
+    const countEl = document.getElementById('cafe-count');
+    const loadMoreBtn = document.getElementById('load-more');
+    const suffix = activeArea ? ` in ${activeArea}` : ' in Toronto';
+    const showing = Math.min(visibleCount, matching.length);
+
+    if (countEl) countEl.textContent = `Showing ${showing} of ${matching.length} cafe${matching.length !== 1 ? 's' : ''}${suffix}`;
+    if (loadMoreBtn) loadMoreBtn.style.display = matching.length > visibleCount ? '' : 'none';
+  }
+
+  // Load more
+  document.getElementById('load-more')?.addEventListener('click', () => {
+    visibleCount += PAGE_SIZE;
+    applyFilters();
+  });
+
+  // Area chips
+  document.querySelectorAll<HTMLButtonElement>('.area-chip').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const area = btn.dataset.area ?? '';
+      if (activeArea === area) {
+        activeArea = null;
+        btn.classList.remove('area-chip-active');
+      } else {
+        document.querySelectorAll('.area-chip').forEach((b) => b.classList.remove('area-chip-active'));
+        activeArea = area;
+        btn.classList.add('area-chip-active');
+      }
+      visibleCount = PAGE_SIZE;
+      applyFilters();
+    });
+  });
+
+  // Filter pills
+  document.querySelectorAll<HTMLButtonElement>('.filter-pill').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-pill').forEach((b) => b.classList.remove('active-filter'));
+      btn.classList.add('active-filter');
+      activeFilter = btn.dataset.filter ?? 'all';
+      visibleCount = PAGE_SIZE;
+      applyFilters();
+    });
+  });
+
+  // Init: hide all after first 10
+  applyFilters();
+</script>
