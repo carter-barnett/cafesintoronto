@@ -3,42 +3,51 @@ import Layout from '../layouts/Layout.astro';
 import CafeCard from '../components/CafeCard.astro';
 import cafesData from '../../cafes.json';
 
-const neighbourhoodInfo: Record<string, { description: string; bestFor: string }> = {
+const neighbourhoodInfo: Record<string, { description: string; bestFor: string; metaDescription: string }> = {
   "Kensington Market": {
     description: "Kensington Market is Toronto's most eclectic neighbourhood — a maze of vintage shops, global food stalls, and independent cafes that feel a world away from the rest of the city. The cafe scene here leans bohemian and unhurried, perfect for long mornings with a book or a slow afternoon coffee.",
     bestFor: "Cozy independents, outdoor seating, laid-back vibes",
+    metaDescription: "The best independent cafes in Kensington Market, Toronto — bohemian spots perfect for slow mornings, long coffees, and laid-back afternoons.",
   },
   "Queen West": {
     description: "Queen West has long been Toronto's creative heartbeat, and its cafes reflect that energy. Expect design-forward spaces, excellent espresso, and the kind of atmosphere that makes you want to stay for hours. Great for working, people-watching, or catching up with friends.",
     bestFor: "Working, aesthetic spaces, strong coffee",
+    metaDescription: "The best cafes in Queen West, Toronto — design-forward spaces with excellent espresso, great for working, people-watching, or catching up.",
   },
   "The Annex": {
     description: "Sandwiched between U of T and Dupont, The Annex draws a mix of students, academics, and long-time locals. Cafes here tend to be welcoming and unpretentious — good wifi, good coffee, and plenty of table space make it one of the best areas in the city for getting things done.",
     bestFor: "Laptop-friendly, affordable, all-day spots",
+    metaDescription: "The best cafes in The Annex, Toronto — laptop-friendly, affordable spots near U of T perfect for working or a quiet afternoon coffee.",
   },
   "Ossington": {
     description: "Ossington Avenue is one of Toronto's most reliably cool strips. The cafes here sit alongside wine bars and independent restaurants, and tend to attract a neighbourhood crowd rather than tourists. Relaxed but well-crafted — a good pick any day of the week.",
     bestFor: "Neighbourhood feel, great espresso, evenings",
+    metaDescription: "The best cafes on Ossington Avenue, Toronto — neighbourhood spots with great espresso, relaxed vibes, and no tourist crowds.",
   },
   "Distillery": {
     description: "The Distillery District is one of Toronto's most beautiful spaces — Victorian industrial architecture, cobblestone laneways, and a handful of cafes that make the most of the setting. Best visited on a weekday when the tourist crowds thin out.",
     bestFor: "Atmosphere, architecture, date spots",
+    metaDescription: "The best cafes in the Distillery District, Toronto — charming spots set among Victorian industrial architecture and cobblestone laneways.",
   },
   "King West": {
     description: "King West moves fast and its cafes keep up. Expect sleek, modern spaces with good wifi, fast service, and a clientele that's often working through a laptop between meetings. A solid choice when you need to be productive somewhere that doesn't feel like a co-working space.",
     bestFor: "Working, modern spaces, fast wifi",
+    metaDescription: "The best cafes in King West, Toronto — sleek modern spaces with fast wifi and great coffee, perfect for working or between meetings.",
   },
   "Yorkville": {
     description: "Yorkville is Toronto's upscale village — leafy streets, high-end boutiques, and cafes that lean towards the polished end of the spectrum. It's not cheap, but the quality is consistently high and the neighbourhood itself is one of the most pleasant in the city to wander through.",
     bestFor: "Dates, upscale atmosphere, afternoon coffee",
+    metaDescription: "The best cafes in Yorkville, Toronto — polished, upscale spots perfect for dates, afternoon coffee, or a relaxed catch-up on leafy streets.",
   },
   "Chinatown": {
     description: "Toronto's Chinatown spills into Kensington and along Spadina, and the cafes here reflect the neighbourhood's layered identity. You'll find everything from traditional bubble tea shops to specialty espresso bars tucked between restaurants. Affordable, authentic, and always lively.",
     bestFor: "Affordable, unique finds, local character",
+    metaDescription: "The best cafes in Chinatown, Toronto — affordable, authentic spots along Spadina with unique character, great coffee, and plenty of variety.",
   },
   "Liberty Village": {
     description: "Liberty Village is one of Toronto's most walkable neighbourhoods — converted factory buildings, a tight-knit community, and a growing cafe scene that caters to the area's creative and tech workforce. Great wifi, good coffee, and a relaxed pace make it a solid choice for a long work session.",
     bestFor: "Working, laptop-friendly, neighbourhood regulars",
+    metaDescription: "The best cafes in Liberty Village, Toronto — laptop-friendly spots in converted factory spaces, great for long work sessions or a morning coffee.",
   },
 };
 
@@ -104,7 +113,7 @@ const jsonLd = {
 
 <Layout
   title={`Best Cafes in ${area}, Toronto`}
-  description={`The best independent cafes in ${area}, Toronto — find spots for working, dates, or just enjoying a coffee.`}
+  description={info?.metaDescription ?? `The best independent cafes in ${area}, Toronto — find spots for working, dates, or just enjoying a coffee.`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <main class="max-w-2xl mx-auto px-4 py-10">
