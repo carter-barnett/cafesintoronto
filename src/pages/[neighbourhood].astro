@@ -73,7 +73,7 @@ const slug = area.toLowerCase().replace(/\s+/g, '-');
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "name": `${area} Cafes, Toronto`,
+  "name": `Best Cafes in ${area}, Toronto`,
   "description": info?.description ?? `The best independent cafes in ${area}, Toronto.`,
   "url": `https://cafesintoronto.com/${slug}`,
   "itemListElement": cafes.map((cafe, i) => ({
@@ -103,7 +103,7 @@ const jsonLd = {
 ---
 
 <Layout
-  title={`${area} Cafes, Toronto`}
+  title={`Best Cafes in ${area}, Toronto`}
   description={`The best independent cafes in ${area}, Toronto — find spots for working, dates, or just enjoying a coffee.`}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
