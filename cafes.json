@@ -26,7 +26,7 @@
     "photoRef": "places/ChIJC98ZwjnL1IkRJBt79ilbe5U/photos/ATCDNfWKugavqX4dRCSIdBf5UmJkdUBYxI9-rcEWPL_H4Vkwk8IayJeGgvcBlsG2jlnERM12MnoINaf6B2daAyLFEdwep6v5B2Al4Unrw4nY_j1KiugYxQhhGqbl-yYtM_YRcQs6ZyhjAQSEtJwcngJS6DySYQkz4k1LVo55bdAErTFYAH1-_sWlSDboaM1ZItMx1HLrQXamo35NEog7dVx7sdLBIrvuCulmYEst5KPUu5aMiumk7Q7MCfOD7dCYEgEgfSB35jMNn-mLmMFd0gE-yP1ttcIAi6I_6s6fC5lu5syPWg",
     "lat": 43.6505693,
     "lng": -79.3766067,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGztcpnC_mX-mADYs0crJeyuiKqF0ch7z41Tr_4Ti9dW-jIk0uPmbY-l_n7LAVB2BMEX2EYKrlDhEmKE4RI-mIog-66JBB3t78=s4800-w400"
+    "photoUrl": "/photos/coffee-at-carltons.jpg"
   },
   {
     "id": "moments",
@@ -55,7 +55,7 @@
     "photoRef": "places/ChIJQQRNPBc1K4gR64YZ1ZgTw-U/photos/AU_ZVEElwYFde1GOBoTaQrh6UPGsuQsh_ETYeTD7U9KvJp67DuodjuH-Ey96i95cnF_Bh1JH2EzvZUInqzg3ibrOqOmGub1GsrmxjhAMTkJg_F3ym52FVNlpOH_4FhxvIIQZgG_Vf_kGYAkVgCWiMeXo3uYVFD4mlny7Ot2lhvFIdrYsia7T0jkAFIwChSlJuuI8KOFRK1_qmClUhV4V4TkAzWXLlbHepnsipAsUArAEne4kxPkxG9Hf-ZXiz_NjIgRuleicacJY3sG-L0aDiTOGkMDzyoMsF0UuaUlx3_DMWKmxFPKtru7Z3bkukaX-0VQWJyyqfeYLmIiMJa7pXnLe1ut8Ybp1pgB3RHhu-1jKXfuI_EqLHFhCPJIFoD4EkaKLrMgy9UtJ_S02wZA8mv3gZdNmIvRgRzxDFQyF7YGIvLHP-tnriIyIpenNSq1wlXoD",
     "lat": 43.6511387,
     "lng": -79.41228819999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGjgYb7eUsYPHHTBT8MnhRqMeNkxpe5l4yvwOoagwOfstkMOv4bOkTWna5F03k9ccFYGlUkDj0EItkiTz-AxuIGzrp34G2E3H2yi0SmPdDrVwlTgrNRf6ijm2QBv1vu6UjEl2g6CA-2TCjFMbzb4kgmlw=s4800-w400"
+    "photoUrl": "/photos/moments.jpg"
   },
   {
     "id": "6x8-market",
@@ -84,7 +84,7 @@
     "photoRef": "places/ChIJldYpyqw1K4gRoZ3ZkGzD-Kg/photos/ATCDNfWK-rEbI5Qw6TCqhIHUCpV60XDYflhi5yAFBHbj4ylqcE04OCzIAgekB7KIrl_vRTUz7onSuyKc6w0P1Kpy2BxPUTgY0hratcHvVS2GROPgDU1cvmj--iavTHrGxM-nPVRqNEDMvikffsg4G4vNjAPnMJ9BdsaYBhRmLFeAA8L4RFiEX7tiXiZwyBOl8_mm7ZnkWF9aW4pkz8I5KCu9vTq1o-lYyTb93KJ7naCUXtv_rvewd1d5ugXDE2knx-fMswsmlQByOcB8DBQaOFr9KoHZ6dDac-IOagBg7wL2mlIsKRK2myRffO0sRsvT8nv3i_xwPBbo3KHMC4WVCSRavD5kQVezTHBpsT_R3Sm6h0cRr8e4kkvjvAzxjzoOdU32IltjqXMct1zk4TKNxFqH_q20uziSSCBwHA50dL1CXTl0m7qpEqsw4m6TCsQsXei7",
     "lat": 43.6547966,
     "lng": -79.4010914,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNE_ieipwhXI_l20slVWD587atQbCtJZ3CmLBgz5P0MzQubc_5-ADJwHIhVVhEfNRfjHIg1I9C3OtTP9HSbPQeoObThmWUg7vXswmo0c5uX1PNY5Fo60B4YnQ9xcYl5VZMmJpRhPH6LOKH3YuS_yTf0tuA=s4800-w400"
+    "photoUrl": "/photos/6x8-market.jpg"
   },
   {
     "id": "sip-sip",
@@ -113,7 +113,7 @@
     "photoRef": "places/ChIJ1Q9qMA81K4gR-Rf8_wPe3TY/photos/AU_ZVEHYVLEabHgYi_fhow9jYNuHTgTmCXx17wwoY8nEnpemVZXLLS47Tge4VhXRbMHxybP0hxI_UW1sGRQaemTEyaoJZrr3PcliiRaL9s6hh7KZ4MEpBjXloTU_gH20VYApqkN12VaL42xKspPrzQ3dv8Sb2pVKT-D39vbPbG9uy6I8au54wWxldTeb5zswgjV9eeRJatpDZdsumk0weHhorz_iaXA_zsz0mRwnAwnPMQ4fr1-tolZhGCdq-jzfNZibTbaBFxxYdI163WIegMisQM048XBl06LyVm_X6n3K8LCr3Q",
     "lat": 43.670791799999996,
     "lng": -79.3923973,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqH2O0uJmiIwbO_vDOMuRgxUReMSeeo0srhGBQEJ55s3V1tKfDkHPDpqPbBMiRF-JN0aQChhlNtpYMJdyx-NJj6_bctZFoxu9Ec=s4800-w400"
+    "photoUrl": "/photos/sip-sip.jpg"
   },
   {
     "id": "kandl-kaf",
@@ -142,7 +142,7 @@
     "photoRef": "places/ChIJt1odcbc1K4gRsQkAlVh8RZ4/photos/AU_ZVEE-cX3RlICBneHIIFpmqtwdhfPmKrSJXmbCw6Q1o3r3JB1qKI4JnMFqg_6I3oX6bwD0EOcDztNJN1JqIJ7BwVmcK7z-opviE-37hMSUz6nC7NAAdqGw0JCbShcb9-rY91x9JGyr0hffpec3Xq_kI45VayQCMMOy-pOs2jX_0sTF6RO-2YXQMwkn4pHZQSEfoQN9MDk8ZXiOvqpkkLRurParhPWQY_TGEl6XVcWapFrICALcEMj2j8FskiQSOJWIKWANpyK85_47Kj0VHE_GFDRE0nt3seu6x4cHC8h9UOucLg",
     "lat": 43.6722325,
     "lng": -79.3959603,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGZVhGhyBD4P46yMk_fZ1q0xV4df67MN6lKaAOO698x7v31WaY8QV5jZ4jo5-sx947VmHy7xtGJ8QeIW6uOb2Ofa31Z0r4qCcQ=s4800-w400"
+    "photoUrl": "/photos/kandl-kaf.jpg"
   },
   {
     "id": "solaris-coffee",
@@ -171,7 +171,7 @@
     "photoRef": "places/ChIJa8_45JU1K4gRiq-MZ3JL8RE/photos/ATCDNfVV7g5B2SlbDQVI08ueQq5YCqFPHKqUZb5jd5uRPqv03IVERE1AfI-0ZZlrjBNCRxJIlAhu7noHbx514k-KaCR3d_jvrpSJowD35Ir0zbxT9eDAUAWXJVQG6J3fd-RQYxVg3NAihSkWOlZ8Db_gfxUR2U9c4879aHROF-AkkbhwlAJrwU29-a3mQJVANAVV5X0kx-r9vVUvb-olP1BXs7X8bpqbMHxAxj7XsO0WNyGLIpyKZ6icn0Z5cRgpsi6LcZR67lMafl5Dy-ekPr81sQnz380widQ3pF53KTMCvvmb1Q",
     "lat": 43.650582899999996,
     "lng": -79.38882149999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEB56uVxsmK6sy8sJm3aIg4JtMUmnM4kJ_pNDHAX0fmsUDDGb7Yw-Aqyfd092nOrm12FQAf5gmtA6BBP1YdAQE4N15XHKa4ocg=s4800-w400"
+    "photoUrl": "/photos/solaris-coffee.jpg"
   },
   {
     "id": "black-wolf-coffee",
@@ -200,7 +200,7 @@
     "photoRef": "places/ChIJIaWzQLQ1K4gROgPmWY236zI/photos/ATCDNfUYVi5PtITU08Rv4PBimmreD50-ot7dIV93fr_QKUbQFMzN24s1aYfFfgsAU1YHZ-HU_795BSRSo4LTkNH6glRadU1I0Ew01XOKjkYCvW7fEwEsGQHl_TgUmbIxMRGngGWZMM_gwPfEIK4Hiqlx3NDPtwuML8mKpxf5PQ_53VsVnrS1IVSFR5roBZmr1R3ua9SyB6KqWRPP9FnDznbGf5E1ZJkls1YE-aZE64rrNQX7ezcFpfvVJ1nQ6dOIWrjpj7wCXuQjc0Jofg5D0VjzALEuSJBnw2d5UjmzcO7J5IxHmKd07CouoxS4sz6FSqEcjNwQ7QykPui_XFRrdzP-_UhXbRh7vPgk8OR3ePudxKnb1hr6gV_q6biQELCIv5UDEuByKmmJoASwlds6SCEjt0Ji0FaTTI6Dg33Idh7v2LEdhqqpsNRVTfzGxJg5iiFt",
     "lat": 43.6590503,
     "lng": -79.3849008,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFs38J1v3GufkYMgHtkbrmQkNOQHl8_TPzklZYfB5X-9CmLEwhRrAOwJwQ7ooN74ZdRjPoC_OfPHxSin-9ynB5HnwQw3oO4iktRmROATK83Mmc5NBP4S69xfxlbqudkW5Kx1Um2dnT0-Z9np6RCBfQKDA=s4800-w400"
+    "photoUrl": "/photos/black-wolf-coffee.jpg"
   },
   {
     "id": "ivy-coffee-shop",
@@ -229,7 +229,7 @@
     "photoRef": "places/ChIJcZbbwCHL1IkRX8qYwb23s8w/photos/ATCDNfXldYHYmxr0urmR6PT0Jm2AiIdKWv-fEgFQGrIdQLfKsv1lpgMoBXrs3VYidspJ0w6KhudDkRHOKyPRHScrXjWQqSWbOHFiocF0P1dhh99MkWq36Z8pAt_pwPiqcB7p4pac0fRiJg6ujzMgLhX_Lok2dxrWGasXrgY3IClx6wFWbs3xzoEeYeKPOGCRu-oCUDf2xICuKkHMOLC-9vNRlkkz_qlOXK0und7Ek373TpYs8wKbkla7cpFy0M--M0ohL8OJzy-8z3K1rqjD6BcjpHZdlt4hSnZoZveKBrN5PiXMgg",
     "lat": 43.63996110000001,
     "lng": -79.3795607,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHiS-4LnJlTLISnFuVAxDm-Dme_6ODwafcOREBOkCjEzMHOnfF9cgY3KutrWYvYqZKGGFZGz6UCW9yYY43TAGR0aCjBYLYEsVk=s4800-w400"
+    "photoUrl": "/photos/ivy-coffee-shop.jpg"
   },
   {
     "id": "hailed-coffee-elizabeth-st",
@@ -258,7 +258,7 @@
     "photoRef": "places/ChIJMcTTf-Q1K4gRhp5p2gVf1Xs/photos/ATCDNfUyufrXEzMDsLKeJmRDxxh6UXjkLCG1g06yGLFT1oMy37DA1-l-tyGoDONh5hio096qr7uxsSqbVLADaiYeIpVG99E74wAJta6geu6ZpwpJz2R-KoUkdzQQ_iU6Brr-5L-RLCOWuU07HKH_oiK0clvnOmpipBpBIXl9Dsr6PnacbX5zSNokeE1jLL13_gknIqDJAWTd646yI_95d_XskxIK6xLzUpbKaYEG1NiMpMfT6WDvs0-Y0mHiF0EmfFYCvmppgwMujxHHT8MIb7Q7FKGkf36HGMst63tKR9N6Gqw",
     "lat": 43.6547931,
     "lng": -79.38507899999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGQkszZQooIu9FbhcrY7GrBZN2gc-8IfxF3Mf8oTkC1BSQ6miurDHlPGbXFxltOhSkYqH4mI0hye6L7wdzqKpDicznevbs9zg=s4800-w400"
+    "photoUrl": "/photos/hailed-coffee-elizabeth-st.jpg"
   },
   {
     "id": "mystik-cafe",
@@ -287,7 +287,7 @@
     "photoRef": "places/ChIJf96hegA1K4gR-hlqdMsSZoI/photos/ATCDNfUj0P1yzrjS0tub434aEAOX9e3_d5jlUhbAtF-Uh5DEtYMWBLSfIoOFmIjbKZfiPaSS2yBYnRbp0rM2jeNWgfVugx7sihd8xjki0LDJkD8vjmVMfVpa_xAv4NF7M1tsi9Bo-CW2sADAMrNoWEQa70_ufNekWU7OKjGw0_okgCUepYq-KDbQ5s_3ZNJlAkwdegkec89Q_NS1o8Hpy9gKbHe6yjkbm-VTThmIAMkmAYyxhYEurdbC2-hhNdBssjXk9OmPNClY-1HLPMyHPuK5N4xQiTVLAxPSlKlgHjfrma78xg",
     "lat": 43.6541838,
     "lng": -79.4005852,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEc4lqFa_MDt3NOEKVF84sA_L4n3G7498Z8gv9Z1gF1Kh84UDc7reZqdWPkzWDH7i-ATccep0h93NEv91UGUZaojB8S3Zgd7uU=s4800-w400"
+    "photoUrl": "/photos/mystik-cafe.jpg"
   },
   {
     "id": "epos-cafe-restaurant",
@@ -316,7 +316,7 @@
     "photoRef": "places/ChIJgwZYLBk1K4gR4qQNxaMQPlE/photos/AU_ZVEFG0gUXr4lMt4-Aidr25OiWu1YMsjXXFJ2I8tH6rtCFFsGncEde3KN4EW-y4Z5-CT7FO0wFLpfeXHel2TW01Wx5XqeVEm5cMG8-kkQaFcxNlS48emRAfmj0o9Ts5pL8kx_8PlRJ6heLytgp0o1b2XVkTJmFlfIoI-WoSs73cZz3f0jUqjVwO9091sH4kAfpp85ZHwU05F_fJYVaRjGLzIF3HtfpwicX59AXoAO2t8qxWVoZwp6QeQBQ_AvOfDmBzv9UtCsDl97ZjM4RcnDV25B8MMC5tVLl7yQcBfeuCgetaw",
     "lat": 43.671154,
     "lng": -79.39181459999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEcY7D-9EpGFa_w0O0MyUkKRMuo_wFszSMBWwzyUn4w566wpf4fsZzSZSHADhS4itYMfGACS4KVfn_s-6BBbhQ-IJzCpc7e0-U=s4800-w400"
+    "photoUrl": "/photos/epos-cafe-restaurant.jpg"
   },
   {
     "id": "daily-dose-coffee-bar",
@@ -345,7 +345,7 @@
     "photoRef": "places/ChIJdSUr08k1K4gRXRgskdg7pv8/photos/ATCDNfV-BhPYXfhgkUJ_tnIP3XoPD5l3JbHNA3DKoRT1Cl3_plk8BTFwxPu0GCq4Ap9RUI5GuQVc7a3UIhE8n_RBPL1bMHQ0ae7Lv4cZHJzpFADImK5wAPJAi8QB1leR1vkB1qtTl78Mz0SFj8oAyMM-XFe_etLpJuHSBK3aFVRjTCq2Fw37cct7uatF0tX9_UaSkrKBoVn1BhDsUj6i8LzJQXN7n9vj7JZdvOS_LemuEJ-SKBNT6E09sDddVT9768NTUGkV2QO2xjM8wlZJtckbzBIbnJ9Z5ro_N4XCsmxPTBrTirxriWwmfSNvfJKjaOUYsBqYFaxeRuEPP2uvOROT01jrckLY4HfQF8iyhTw1ll1Ug4YFjV6gWTRcvk84D7fdjNMUBcESRT_Q4gFwYgyfs8AhwoiDpxKQOV5NfOpxJzayy68",
     "lat": 43.6483436,
     "lng": -79.39019789999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGvyOqEtIP28zvvVx1AUI8AoU9XSdz53PrFl895dShQlUjuG4Yoo_GSkPDaFldDYJ1YQ7jGIYjACtszNX7vP9D5uRitd_ms1JwNsfNwDZWEcTglevgYclEsTTLtzfSY0HAQ1v7l8y_aKkyXCw=s4800-w400"
+    "photoUrl": "/photos/daily-dose-coffee-bar.jpg"
   },
   {
     "id": "fahrenheit-coffee",
@@ -374,7 +374,7 @@
     "photoRef": "places/ChIJ4bJ3djvL1IkRWav6-FyyDds/photos/ATCDNfX7dcNASaB_sws7LJJ_9vVGMRapAM3_UeJhsl9fos7zae-ZN3pEHlX7hgy-FTTZKmt6EE2J8tloCbQ3c6eJgtm-3aUwa7WkBNooUjwuCEN8U71xfW2pgD_n5a_pfpTappRkU2_KyeKZkEuxk7pQC1PL5CIvcjvUbbOzcGYTGjbBxI3m69nahBblZhWkQ7KFaFT6S_ocXpENjiKIIh90U4ghb_1gD_nkVK5aVoVo5D5CEp9wFXllqaYsMfzcpb3Q8c2DYl2BpzhwiByY8bFocoVbpRJ0OIRZMhNDav3GVGVPNN7Pi__ZbNA0lMhjQ-88oosK0OmoVCl6S59OdVI5rGvhz39nBECnpoa6Cd5AGBKM9F84LQ8Y-eVtXrutpVWsJSv1KJ78EhZij0UWzhM56CIU8F2C-RJORc6yYINApP8eBw",
     "lat": 43.652416599999995,
     "lng": -79.3729352,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNF5Ov-0KNL7FKGRzVS2IbBt1yiyz2Op49keDP1HDLgrMipI-zYIE2_f7rorOtIRIcVGWLSP_bWpouCvTB9pY03I3j5mEnabheyGF4BumHUDfUNZL8ZoOP5m_wk0_idb_scM46fT1ZKBrKJ2rw=s4800-w400"
+    "photoUrl": "/photos/fahrenheit-coffee.jpg"
   },
   {
     "id": "goldstruck-coffee",
@@ -403,7 +403,7 @@
     "photoRef": "places/ChIJX_6idzA1K4gR678ma1xVFfU/photos/ATCDNfUV3Z0VngHw611GSIkrsTMaRhZXNTehYboKd7PTKEH0EnngRsdxEhfTNZm0cB1-L-ujNNN83spHynpI5vFuQod-DPrcgcaQ0qMGtEgiOBkznKf4AA1h4flxQancwRilukNqzeJC3c7TgbIS7s3CdWrKKaStFbO9bg0Q3DhyJrpxJ2torIN1owzxOBUcY0_AtBdAZ50qJcj-JTi50Dk3QAL3v4QUh2YJU3N62KKqVrsaJ1nnsUOHkB96bCmRq5Vh4sCxPvmG1NFPfHcRWVkrTE4mKHRSyMQCobvGBuINDqMSPw",
     "lat": 43.650158,
     "lng": -79.384551,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGw01o182JQLQKeZ0Kg43nyCLXWedySsSz3fYAvJsF2RtchzDdkWtCZGR1TEiJVSwq8xfLFP40qV_2ozThR3DlmKAdpv0D5s4s=s4800-w400"
+    "photoUrl": "/photos/goldstruck-coffee.jpg"
   },
   {
     "id": "el-pacho-coffee-roasters",
@@ -432,7 +432,7 @@
     "photoRef": "places/ChIJEQ4LqpE1K4gRmsdIPXfAXsI/photos/ATCDNfVMqApCGZzUCH_a3e_oM_zrEcE8_O40cxfFWvkn5TPLacvfRyF_xgbPuz47HXlxQmkoeENMlH5ujR_or2wYevuDnwCrtUC_lYFlaJxGTYEygLpxMVRXT8r5u8ufe5r-War5u2wiZkeRrhZgZlIbY-9bAZ5MPOJyzXMqbEVBBqxDdQfBjK6B0kUf55fYSVu9A6tjhC-CLFm7brPfkON2OR4ObN8pHnPxfB1lzu0BhhKLvuIPSPm4oTWzN0H1IyMmcR1xQCNzob-W5E0Fr2xcjkdAVulKpby7zsXDNk1hm22d8whbQiBOYJDmxex9U36B9dfXhas5BMsWWInrnHj7H-Fppq2XdGjfT5oCTyCCHrIk1AFd_ZPfPcEOl01JARZAByEflr2utiODDyv5IVByVUShaA3koRmkcSmEQWah0Zv-StsgUyDt4GrtpgmGWnim",
     "lat": 43.6459891,
     "lng": -79.3841131,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHs2VCTyMD0YOZJ8-B3gvqWgo-Cm00jSpiBW4VrxRsTWjCMrWZPTL2BQqRTUnNfrBVHt5GlUBn97iox_CXnq_JGbmk-h8XEX0JViOuVkhqwfVfWOHuCaNCX_acfMZBOxRDZrZGVQYNepWRT9XH__qPW_Q=s4800-w400"
+    "photoUrl": "/photos/el-pacho-coffee-roasters.jpg"
   },
   {
     "id": "library-coffee",
@@ -461,7 +461,7 @@
     "photoRef": "places/ChIJCU1G3lU1K4gR8PO7sj2uAEM/photos/ATCDNfV5TCHcqJeZh9hAGqMxFkYBE3qURtmbn_coRkUD7rEuabyqUg2YMpRrYaopAsTr0TCpc0CmwQ1nlx0jVdJn1xN1Pb74Mxesn9E2rbadCg0jDnddg8wo9gtl-raZFqmWPmxTmrRY27BQNrjoZysDQ3M6V3-4ZED7uzNQsw33b5s-g6hib_mcljb5_sL4-YjLRz73objbCS-3alrqKNsWXNBxvKQ5KVg5aSLSBkGQ07t_xCQ5sXUkvXTyvJUImtI5cgaTaXCZ6RLX1YSEEg-0uHtdw_SMxIkp2--tDuvCyYqP6YJoge46IdLIM6vF4K5hXopKKlTDtyBRw2DT-Wjh9V5A8uk1eEhHmFiUdHf2Wtjg-wKsYJ0XSKjsLUYiLIp5zAL11n1tyO9zUgnEyW5yCg9CwLaMwQsNShbwUSP3LU_gqK1M",
     "lat": 43.6453187,
     "lng": -79.412552,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHLckIu9hSv77CNwp5sgu02PkB1-uFVz4_yp_VmIFTQmaAfyzXVmwi9hvDyiVKfDexQEiVkmg19u3IDIcmZfBH6LSMzPMxw6deP3CyeIeVz03RwDE32gFMJrvlhsnMwYS5irYkc31s4Vd6eJ7w=s4800-w400"
+    "photoUrl": "/photos/library-coffee.jpg"
   },
   {
     "id": "augusta-coffee-bar",
@@ -490,7 +490,7 @@
     "photoRef": "places/ChIJbXnN0Mw1K4gRvQyfYYpzs6w/photos/ATCDNfXgSXY5Vi_82L1p_MttJpGwv7QiUnvad3qkWSaARiE7K39WCKribSYNLGCpL5baNDGLt5XiwKI6H1pSdT-NCe4YIMcupA7Gs54jClg96IEscpmAxFMnFlwpiGAOidowDFRIZPGUfTDN3Ml86RNw4zod-W66hB_kJ-dUZgbst_-D-H-ipo_BQV6m0PL9CxDghWehi7xhekIgx072eDtfc3IJ2RJkcQU-xZ930SxT1X-d4gE1rUN6jRnS-6OOutNar-AwvbeYiccUBqLuhjCYuYZ2nSaVP4rUywSm84xNI7ZRew",
     "lat": 43.6544546,
     "lng": -79.4018767,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqG4O9RcVv0A1gLM9In88ovK8s2CB95mRfcTpHYlhJqwMZNdBTuwvoJd52P3Ye0C3iimQpYFZS73l2MvD-r1VwYoLQ4Zj1YPiTA=s4800-w400"
+    "photoUrl": "/photos/augusta-coffee-bar.jpg"
   },
   {
     "id": "the-harmony-cafe-bar",
@@ -519,7 +519,7 @@
     "photoRef": "places/ChIJWeClCO01K4gRlcy_Zw4-ZZ0/photos/ATCDNfXsOY_0O1UU4_IRYFtiN4mPCdsALDmMsXMXDg67uZSMPRtwzvdJw0SIqLUzIO69Pjcw5Ofdm8XJ6AebEFyJ5AxMpBVU0bJz1DTJmnT-FAla59dXuIcRetqEa1hwkn12jYfRxPyJUH_f3QHMTCr6IVAEVdi76GnNbiq6mavGb7KeVmFzwyOhlmXhf33TOWZJK-PALHHfb4ZVs2s8f08WSxdYDUFBs8akjdhUOjWeUnze_MMUYe-czg9ptqlAAGd3SzXOlz_26zBLMO_jCglC4yMsfk4RFRf6_WZGc4kDTw1V_A",
     "lat": 43.654952900000005,
     "lng": -79.40288389999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHwEXnIaop8uIq1A_bbs2MHi-8OKVpplb3FxY2rkdafuKuhCXEvUnu4-ndPaJe_y9fpoXTL5THYReK49i-cmHylH_LL6siAStM=s4800-w400"
+    "photoUrl": "/photos/the-harmony-cafe-bar.jpg"
   },
   {
     "id": "san-cafe",
@@ -548,7 +548,7 @@
     "photoRef": "places/ChIJ3S1aG1U1K4gRijuSayOZ4iA/photos/ATCDNfX0ddfpe6qysYxtaxwSadhsA6vrWb0eikw-61PR6rZyFSPzYifk1HpMNQVx9gq0xUFE1BiKKjxjZvtwYYdnFgaZISN5aydE5H858wIP-BFUscSVQe05IKKTv9X30A0rcvnYZ_5xF3ijLa6R5iqar7f49aXNfpgauZtDI0k8IizzDNRhQ4Q0M-vGVBSXIO1gllkcaKnqUDv4S3YGIkVxOKX3jN8zr0oEuHK3RkIeG1yv_hcqcPQmu9qVfwE-HVfLeK-Z7gD29G-1lP0fwNMLxyVCfk6RGa-MWKsoQMXLapP-nUXpkI-j_bb410XK1GIQOk_YQICEomC9vuJUBoafQQFFVLK0qzS65_zHyQDZLH4oDEtzcg0-8QfF-dUX66utbZw-Pisho9Ha3IOX7jifR8-97Ke8-m1RMhGKmPjNVqJOqko4CGA6kcI5IzLDlZgu",
     "lat": 43.65308890000001,
     "lng": -79.4011037,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNERVpKGKhEC3WgwZ-Ae5Zf99ysTrjNI_-VJ9NdWVYPuu6P7dQJhoP-vUK6pV_LUXmr3lxU1lF45_2BrjTSUryVNiCxbUvN6mnJSpqStd_fQfqE4sF43sCqDe1OGk3CRkPbQ0pl-jW2vCqFSNXldd02Law=s4800-w400"
+    "photoUrl": "/photos/san-cafe.jpg"
   },
   {
     "id": "nonni-cafe-bakery",
@@ -579,7 +579,7 @@
     "photoRef": "places/ChIJOw4IfwA1K4gRDFroKRIOCKc/photos/AU_ZVEFe21naANefNEK_uvORBNdKEiYIgyczclRiSva33GtTwqAxW4aE6UfOaDAUVqoAIFp9-fV7A5xAm2ufEstGtPuHgB8y7TIPZfsWHbXcEEi35pzpQy5KmZ_t0gRrEvEYpGQSLkopTvzYqDqjy1_xIE3ljRdm-r8eipqY_dBExw9sx-Ent6LoPNJNQUQPMShP1WgPD9KofqyHA4s1AYCHwu042x4Kch2wJrQ5LZXiWEm3KMoVn6MetuLzsjliW5lR_X-xemuH_kT3FRI5hxG_HsAJY04yXQGCWO_Kkx32R8EzwQ",
     "lat": 43.645779499999996,
     "lng": -79.3941265,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHsSI6MBnyEP8jehkn0pXWqtSQEE72tQyBaTxPmOznzRjPlEEPLQ_IQszbsQz88d34XwwUyN_q8vWjklSNPtrhseqy5pHoqBC0=s4800-w400"
+    "photoUrl": "/photos/nonni-cafe-bakery.jpg"
   },
   {
     "id": "hello-coffee",
@@ -608,7 +608,7 @@
     "photoRef": "places/ChIJ579QCpI1K4gRO7QUE_cbDkw/photos/AU_ZVEGpR0V3eCUjtIfaYAQ3xOgWistrO4KyQQ7o5b9eaPXaZBc3uuFrgI1mBBZndgesfYY-_4oP0dc4WD-ReSl0hrEMJq8zKN4kmvXXrcHCPTKet-9o1JVGbRIruF7t1VgyneeQLd8RrBk0lcIRVQOrj5a2y5qgUybIBuTfHOttHQaw65XmeFcHQRPSLB82IiNL8pjZi3CR1Yki-euitWI4Xuf8Zxmq-Kl8WE90xeG0mswV3tovqF9RUn2YypdF5D2G9NijEVdbVCScY38imOYAl0gxgDu0_wAkbi64D0mPUwEXk5ZWBn7JNr2np-DL1hXJ-i8-C1g4bSolFuIWMF-Rt7YkxCv8M-0ChZ4EAXAHW5YCzt_OmXKzk17_NbOrVu_jht2dmIbhyGNa-VADngKwaw1pgGyxBM56OeL-ReDEMVgo5I8LITOusH49f65K4syA",
     "lat": 43.6628761,
     "lng": -79.4223794,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHNBUGEVAMW3_j0mDVvImjYbeDhCYKgV__gTNkQNiaDA5HlJsrTkIX4yAGzghTMz-msIjAhEiTL2BkJjwAFLgQbBWGo8uxQJGWX_oLyR7ujrnWPQqqmZQ5wxgegKpwA0hxG36kK4KRG5x1ig7iCvcCL_g=s4800-w400"
+    "photoUrl": "/photos/hello-coffee.jpg"
   },
   {
     "id": "library-coffee",
@@ -666,7 +666,7 @@
     "photoRef": "places/ChIJMxdFNAA1K4gRqAgyuXHgqRg/photos/ATCDNfU3MaTucqo7WO_k0sbrfpNTFTXV3cD_KjSMdug9zMG7nvN9W408f_poQgHvWcWRVhCu4I2TF8f_9h8FXp3BcMvD0_X1sItJbMhG1xokX7P-MnEZpj8XaF_WHOBDKurDpTYA3VwWpv23qaCURJ6Pa6R_QP3J3dLLJYvnVTeI8TbZ1JL5PpNHt-dLI5GCHIW0nSaGmRCai_2KUFPYq043Z_0iB5zy3Yb4bU9DmgQPgTKZEq1NRDfcJBKqStupS0U9R91Nemhy6__Aby1qT8JfFT7TBdMqmUmUuLlaEb9q0I6rcQ",
     "lat": 43.6660706,
     "lng": -79.38562290000002,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHuJxNL50LUpLNCpgs_7MkEG3IBgZSD2hFmnYaxEcBDTv8Gd0JE5EffoZy2Yokf3ZQxKclsuxJ_g7GcKcNsfgCbYkYxbxYkNgY=s4800-w400"
+    "photoUrl": "/photos/nabulu-coffee.jpg"
   },
   {
     "id": "lazy-barista",
@@ -695,7 +695,7 @@
     "photoRef": "places/ChIJb5qMb-vL1IkRjgzb_yTorl4/photos/ATCDNfVq41uOTzgT9uTQCraWVJ9vDPhvGBdCzR3M6qEKjug3p4aPtyRpiHLFzm2wJhkBwhkkozuTmPzen0nPWsPfdEip0ynCShP43deEFBxP93mFkSvHAbU2ESJgBDD9pZnsr-2qbnbFFP41uiQSmV3Avt2_T4ArdFD0v51FDWH4LVI-sIVdOkODN8pbpEl12DcN4u8_KLdV5sUNihT1Tlyz6QgsOl8NNle0hlypoO-VkSWmp6tOVyWCsv9x7R6lhzmXuTgialUqEXJG-TM_A1XQCAOyAMXmAmsL2nDUIXmMAQ2Cdw",
     "lat": 43.6445264,
     "lng": -79.3669735,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHveUlHD-IF7ILxRNS2dmWu8A9M-uZFB40TAcgqu_N2qXQUfFISBT1xmRXc7z3hikr64TBXY6CXGYcIFEOiI2By3FHOSaRRb4Q=s4800-w400"
+    "photoUrl": "/photos/lazy-barista.jpg"
   },
   {
     "id": "hale-coffee-company",
@@ -724,7 +724,7 @@
     "photoRef": "places/ChIJe54Pel7L1IkRFRcxrg8jWY8/photos/ATCDNfVO6_9SFSP28aw6NXhcRyVRsMyeX2EaA1e_e6MJEYojcG6PY0J9oL3Y4GEcixZsnKqz9u-Hf3OWRg8OAMwqNHjPbdBxGvqwEs0QuDW7TihCl-vL9Ytf2mto_O77d0kNGclljyGRQWa_wCBa90AEZNmSHJYogfNq0agp0hAgTlUUytweJhZWYZdGZVTU_r6aD6_zP2ISTJDMEKLUPbeEleh9LNNvENGN1QLENGFgrGzy5nXV8dUHzg5t8TZEIdDoLUHPGs-Q1Mi3NC8eA8emQF2QPby3TjfZWDbkIyRtwggIpQ",
     "lat": 43.650403499999996,
     "lng": -79.3779534,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHa4TfMjmTzofk7BN_54QJNEk6iKP8SrmlIhwYYCzCHh1l6nj8zHtjKhU57t23YDlsfKh5c0ds8YPrIanCqc-5MLSgW1_NCshw=s4800-w400"
+    "photoUrl": "/photos/hale-coffee-company.jpg"
   },
   {
     "id": "graination-specialty-coffee",
@@ -753,7 +753,7 @@
     "photoRef": "places/ChIJXTQ-t6s1K4gReGLEX3LwL2Y/photos/ATCDNfXo5IxZ_UbHYyTnReYJGWG9yPTBmesRiGkFg9gvmmHNLALKjr4CKXgYjm3VgV-HdYMKQqhqNkuKLVHj7R22KUQjFyT4cYvcFo4FKXhskniV2GEINqgIj7v6cRnjIhUf1J_exO9xfsJ_GGIFpJcT_-u7qCdlTGuOMzFMW13f2Q6TFiazoZWcsmDZEkDT-KHOU48SxPtxiqpSK8kb-Uot4BdwQYcm8-v5B-qizbY0h8ykVNYA3Lae1DdXxOJenyw2kaLahX1XZHnBFS4h0QM_UBk8tUHuzdfbbD7MQ56-dsSyAtl983L4FynCleN3015Hcp85bhWGmC3uuNTbmciXVqTPSVZZZCF0Uu5uvEzkYA1WFEIKAko8mrcq_SGfXlzkyMYL8hAeU7gVtlbT8ZY_6p3Ucn-B6u12s_vHNA5swPZBjIo2lYvjvbUBbVRLagWp",
     "lat": 43.6504334,
     "lng": -79.39732359999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNErjpOA4JOyDCQ2CzIQE6XC2-a2LjERUW8znq4LD2fIwDSXtCZ8gwlw6Ngz5ZyznRWT6nbGl_pI9sb9lK29i7XYpkTP2L1pw1-BenWxk9vXDsezDzm1EAtB7vkRMZF9xP8Cq739zk10DA2l68R4YNaPNA=s4800-w400"
+    "photoUrl": "/photos/graination-specialty-coffee.jpg"
   },
   {
     "id": "fika-cafe",
@@ -782,7 +782,7 @@
     "photoRef": "places/ChIJs09aUcI0K4gR6phtG366G4g/photos/ATCDNfVycvtePpbDEVr05H9qdBSpgkrI8AK9C_5rPfciNLbz28f-pQQNZV6GNz1d8_NVYpWkAXi8T6GJgdyqOuWigOc3XlD_6-w3XVLR3-uo4sYq-eijhcWLS19ZVn97Qb5vy9ktafX2WjH1c9kzR7ZSzO0i_vkxuJ9__GL2sBatljUlWoycBIlnfhvd-bzOGyVke-wkDr-Dn4nzRCpnu5hBg1iFlfi7Tp73r7n4XznSMiPOEeu2a9H_gyaggG-GSm82hK1cgKBowR_OyPbRhgjUSrCXTQ96Ewe7xUC650zPD0F6-g",
     "lat": 43.6535775,
     "lng": -79.4004428,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHERg1tvdzILp9_qwq8_28zLSSyd8zfa0-MNRcQXkaNOP20kgKYrvaLkEKNaNLPwbaM93X0VgYuu0MdL53Gud8uh6uMC8gUf4Y=s4800-w400"
+    "photoUrl": "/photos/fika-cafe.jpg"
   },
   {
     "id": "moonbean-coffee-company",
@@ -811,7 +811,7 @@
     "photoRef": "places/ChIJ5SbjSsI0K4gRxhgtLRkalKk/photos/ATCDNfUFhR1JbyRlNXipMpVssejuGyhn44ko5NVqTYJLNvsEWLwQVZwb9MhIN_J3dQ0aXYihiWvS0R8vH5On_vKs7uyPxMlBeV5LVp1GlBBUBbhIMpsLvzuldndLGgFLJuvd6xeL-PX7L93ce5PSSVBTSsyfKIDLh7Rh736BvoHDL3YmQN7-Q0JztBcn93okVX_ABk0Qaf2_wLG2T_tgeCMhD5ggNPsF0dH8PU12pYs1yJmmRIBQUSzR11buyWUK_eIHxjkQ0CKyP9k0U6dhbcS6tMat2kgoQ9EpMkSaNCCTVE1K3w",
     "lat": 43.654229,
     "lng": -79.40021349999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqG6uHNssNQ144Vh1tLhrgjw4Rr3_a2Zs7XM2TAsJmT7kWN0eEKWsui-5j0o3wbJ4IR3frc4bdI-uvUaTQI1DoSCI4ayHyjG6_c=s4800-w400"
+    "photoUrl": "/photos/moonbean-coffee-company.jpg"
   },
   {
     "id": "butter-blue",
@@ -840,7 +840,7 @@
     "photoRef": "places/ChIJp6TlSbg1K4gRxW07pIYvIA0/photos/ATCDNfV97tCDv4I9GTIC3QoHmaT58w1zOwLHVjNbXMWcm_exLRPfwJoW0EG4_mdDIKUTIS8vJjDIf354exqa6BRoHYMCS9hmBe8YSUbTFXFVeRrYu5F6sGWicqUxl50-o55vGKCo8ejfYf8Cw1D6jWLJ_bu8T7lz9vtgFwFceQXZ_roS3A9bQJ_35itMEJ0e8f0fJUy6f5cZbvnCCaFA4Uvghnup7kX5k_Jw0ENqy8WvEQMSf8lH99SUUvHPlpYsGckpp9qX1QlWBUVAAEJvMEklSz2uAje82wzXvvNSPHFrSMX7adJlq8MBCiSvgd4QyoUzGuM73-L7dA2IOmrhufNmS6NSua6VWjFGHAN9Ijk4aiXsYrF7-xf1WwN27g3wfKD4jyt7v6J5jjadALMKByQylvvr9rJPHOYUkmBiBBBSGNPRuWA-s9CpoYPkOXy5sMsT",
     "lat": 43.656058200000004,
     "lng": -79.3925864,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNH8jWD4h_tvGT47boM1mzJ9f63icxNe_bRlIsb1MnOJYDhnKAyaXgcterckm0wY6-Q0Nfv6pUovFTogp_Mz8G3f6ycjw0QjBKz8NtOpOcJlL5lQ2puS0N-5aF7ZlNeB1fmzs7KEpCLQNeGw68sz4KXQng=s4800-w400"
+    "photoUrl": "/photos/butter-blue.jpg"
   },
   {
     "id": "wu-wei-coffee",
@@ -869,7 +869,7 @@
     "photoRef": "places/ChIJC-6YSAA1K4gRGDF2hvinVak/photos/ATCDNfVL6jdhIDvXX6lkiiBLSe_9ws_5A6OQ_8zh5ONOkotxP85p6GJtvyEVIGmDhRM2DPrhiTaxfTt4LJX4O7QwemzStPOdmsthpIW3MIBzIT6E4HmQFzbKctsXCK6pJP0I5icY049xnWHuqURoipVOE9q0Pc5z9tTNLb9GmGb7z54ieMy063QfICZCM0vylul66AACkIVk7CzPa9JP6ut8q7w3I7jqrt2J9vEpYJ66d16X3Gr4Vd0dB0sPKUKxE24cwyV7CBi_0kOpoP2uMuTpivJkDb6H7br-SasVf_pvlJ8QHw",
     "lat": 43.6538622,
     "lng": -79.4006088,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGAMwvq1Tze6QZdo5Ifv6gBCyntoWUDoLHSYxku70B5EKqGGtvYQezIlx0f9yN3i8n4wGwWTEtE-VzXsMPgaaNSEGjFtiuykfU=s4800-w400"
+    "photoUrl": "/photos/wu-wei-coffee.jpg"
   },
   {
     "id": "aeset-coffee-co",
@@ -898,7 +898,7 @@
     "photoRef": "places/ChIJqbk-0vI1K4gRrnx7KSxC8K0/photos/AU_ZVEF9QuAV-a5ei8IqYL9d9gUsgvXP5l1fRhvz8FlavaPE2fZv0dGeHOJnPCVL0Vvtw-ro-6DdXExSzyOt31rkNP-QFJGmffNPVSSOXto_DzBDg1X1P6b4SQFfavhtIRNTUKCQEF5L3_2raRgMf0vvwWT3tlzzSfWw-T0syhEYYpsBFK89Xgl0BuhzTjNpb3jRxC_VNvyfQAexDKgel1SMi_4AE8sIMv61QLQtWiSD_sJyLoed5YQHrmGNcnQ4Q7cn7OowfPrSGka8PxNlBM2QvdTQ-9XK_H3mBtRPynaXv2nQtA",
     "lat": 43.670758,
     "lng": -79.391262,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEVO3H3_a4tY0lskajwMhBVVO_eLIHIqq8E9gZ1AjdiWW3WHrm4XCA7IXOoQh82KR96cXVKUjy0ZYdPqEE1yBpXoL-LCOiSGyE=s4800-w400"
+    "photoUrl": "/photos/aeset-coffee-co.jpg"
   },
   {
     "id": "rooms-coffee",
@@ -927,7 +927,7 @@
     "photoRef": "places/ChIJzz4J8-I1K4gRZG_yYbKL9iM/photos/AU_ZVEFFDsopNW7can_Gv6_SkVRi-8OzXbJZ2SC1SFzrL-5h3dOv2SPNH4H7HiauzZVBAHFBWkrmgv9pT7zWzLAD1puXiFxLL9yWkPoYSfDCZC711yjFEj0HC0i_4wERWUflj50dh2qFA1o1QaqUJWWIqu_L_b8FVfWW0T01w2GO-NHEKL32_u2ffB4vZWYaJeJ5beTG_C_Bt78f8MOkWvHzbwv5mq25iUT12Q_EYe1JtVcK5OfB_2RGKvJeP07DJ4mlhKIydWekh4YLwnr-AFbm81z2e0APGpMvOA0VZGunlU-QA51BpbtwiDd-cPZZKsRYUYmUPeJ3NMj8v-dgSZGC8VtCwjVplLlPpo02YHow2KjOV7OSO_nMzuB3RHIEUl5O-xzZOx96cZZh67NQXHcTXWuCk0BsU3BmdSqe4EYprkFuxQ",
     "lat": 43.6472513,
     "lng": -79.4197269,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGvubibu22B0sktBbqagiTijG_Ch_6qvy5bJq5yCG_-G087dElMR7U5HPq314Tura5BJvQ45SdeDabcctg1i9Rf4iiRcd7bX9rZPprEUANAPUDTMxrvNsBuRsg1RiXxljghzCqKGLbnyrka8g=s4800-w400"
+    "photoUrl": "/photos/rooms-coffee.jpg"
   },
   {
     "id": "rooms-17-baldwin",
@@ -956,7 +956,7 @@
     "photoRef": "places/ChIJFaz7SRQ1K4gRYn1AukFrlq0/photos/AU_ZVEGXLi5zgufwJma_hRDDWY0koQeTcKzWZRWQmEWIm5vPsKD-6kQbPZZ3xWtm5kiPmN-VSKlKPfAQl6NYo3InJk0odZ1NqQzUi3N16O39nl1TZJh1Regk7R3ap_83Sbz0dxuR0zcMk7-eSdqyqrBkQvvspjR1PoCCYdsy6V4sR-40v_6x9JTfp677haMc32SgyL9vqoVyoE6Q4__gLAyB37R_OMxaAr_XkI0gvw7Tsv28QhOkdp_wIer-GVxYUw0TyK_zTBgirWiDH9jh_giW-YcetXjhir8I8_56lApi2Suxkfkzi0TP0S8swkL8R-9Xu7dyNfRFGfgZBybalcJDs96Fsvw4EVdAoxnVuX-3ewmWu_R7U9ntSeoeXvt6m8qIElyjP3ZzXizwh60rInUAaPmIjaoYl5CuL0EyNvPGVQNjBw",
     "lat": 43.6559416,
     "lng": -79.3927922,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGkBVw0ER9n-zjyxsIDUSUUEYH5GFKVnzmFBr-8GeYFq3CgHOMHk-4GxvPczQGxdVRTbQTv3TRvWdFPo9HcAliMW0MGOEr-aGNelI1mjcEDxbRxEqomIaXgKWP6-mh2Iw2ohz8FyomwmcTq6g=s4800-w400"
+    "photoUrl": "/photos/rooms-17-baldwin.jpg"
   },
   {
     "id": "mercury-espresso",
@@ -985,7 +985,7 @@
     "photoRef": "places/ChIJG-I7PsbL1IkRWReezAslAQQ/photos/AU_ZVEEq_CAh-fpdpieAuemW44k-hb7vJmrztdyirwvKsl73PN1q_iiGNhscxQOehyjtHhoozLG0WXkiXEloY2p5aL3lGEC6gmfpDl7aK6xi0RYaBVtv57iZbZc1vwLLwF-yWbHaGyNFFWKVRsNCwe_7mjxfWymkUX2trKhO77eDtU6aRps9efVA2r2dhh5ZAvZD-6UArJTxlgbDWUYVWTWZ-hCVGlSUvFk0XgXx_23UHSyfD30MULCz6-IXV0gpLNQx-ktyoykX_-ml7K0ifMTzVU6BC__-uYu6wDUQAGlVRNKD4Q",
     "lat": 43.6540359,
     "lng": -79.3607918,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFvthhYMwVw0Mv6PDoWmmieJtivhrFkAgafaXCa1MqKJ-UFbKOLppT_7MK9g3aFGwjaD5NrGUiGY3SClbmmGv-IsCNKehNs2a8=s4800-w400"
+    "photoUrl": "/photos/mercury-espresso.jpg"
   },
   {
     "id": "varda",
@@ -1014,7 +1014,7 @@
     "photoRef": "places/ChIJb5vqhtA0K4gRM2sNDGWoSDE/photos/AU_ZVEFUHH84faAxZOWGBMrGCNQa7OYDC1ST4AT6tEfuM1LzkWM2-Fq5h0RQlylc6Ux8QcsN8gA3VN3dJfN8E-xGFYwlIIPl0TCtq_d5dkV8-daqX01ZwSBFhN10IL-F1rkzioQQiSNizSOTbGth2uEptui_sIAGXpV2N2WVaNZTV1cSggWh42n8r48lAX5WVsGezCjbyEw_beyC5D7_CEqy0SWFlizi-Wq-kc_nETrids0ux0q65WtaegI0CSW4TSPVWNs_B1axh3KWePvWA5YZD8zSITrguqxZWaajsDvvqoMFnX6rci7016_ndPSP2orDL_czrqEbyFKw2qbEZ2nyHCoek5a6ichJY17edeYCXfaPuhTWKXYmXN_N8WDCKUbz1TFt9qjQFMRWyL0I7VG2nKnH39gVODtj1pIkCFaWd05TRaSodabCMc6SajN9rvvx",
     "lat": 43.6465949,
     "lng": -79.3903363,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHkKXd0IgHdrxGoZoSM_nktXric6TCNCG6hZ9Ewwdow5FOG_H5mBPY7bkanehV18oG8nz3zYJuhmDuWlkb_udvM5h8ltHZZ0ga2O2lhj-7adOKr-Vj2njr8piX4hpWrmbCyOV2dxHRBeq9MHt6Qcyn1Qg=s4800-w400"
+    "photoUrl": "/photos/varda.jpg"
   },
   {
     "id": "versus-coffee",
@@ -1043,7 +1043,7 @@
     "photoRef": "places/ChIJ2yDr0TPL1IkRDqPYwTEDKOE/photos/ATCDNfU7BP2wMDAjfIkwcMQlNKnNSQmGZD7bc2yNwOf4f2IIKRsmBaYyk69GCXRwyaNahIKlWr3IzPbuZSrlhJCH_cNSTg3Ywy4ibHBKw7I3iVbTUoRdhfHzhY6QgROHT_pT34rOeM2BDzNn2duQvIN5hBpzMLXS3ileKSmIarg9OtixvLIfE6gxc4JKZu-FOfRjKbhBSqiJTiI_yfDTBFSHtsMTzLBx4TbZ7DtHNZh8jUEWA0xt-SimLtNayOEH_6TROU3QIGccY2kb6rFra4ZOCqWabmTyyQ9iEl1Y1X5X_XLLXQ",
     "lat": 43.6512627,
     "lng": -79.3753365,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFjca-ngdqU80dA4PPlYGQAmnEpeK2BYStGwx9vsYVR_saUuaEj1Y8ZB2Zwot4LucLdnKd5RxCNHDFtKrI0yBg8vHFe_uBnytk=s4800-w400"
+    "photoUrl": "/photos/versus-coffee.jpg"
   },
   {
     "id": "hotblack-coffee",
@@ -1072,7 +1072,7 @@
     "photoRef": "places/ChIJa_8ELc40K4gR4xMPeDUvr8A/photos/ATCDNfVSGjZQIZzNqxee54MjPXcAK7TJCaCoHT7do7peJoZOrsDdvVIlzT3Tl5-ymyorBIfAMZVKnx5oCmAIoIYhjIP_P26ixmZwwxR11GPfp3nTstsNabLOvND34fEnl4bMAMOj63fkzx9ZM_DBHFeEo3Vln3lk7qq9Gesq_ByT_QNBb46zhT8j_ly30ij1jCu6XddK5UcVSCnJZ9fX009qRpXLw9glyD-CNgrKFrkE1Ef7jiM2CmnVwM4xSlYf8XMwNp1iS8-v7V-yx1SxasvbNFAVpvxBz8F0A1a7Uv1mTUG4ew",
     "lat": 43.6502421,
     "lng": -79.3886491,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEXb8VTcrxQB0_Kd7Dgd_watdWh5mkyr7BtyAzswXjfVQjCipo8CQQzSxM96Q6XnIfDaQvHIOrLycjvDoqv7gmd73TJHTl4ccM=s4800-w400"
+    "photoUrl": "/photos/hotblack-coffee.jpg"
   },
   {
     "id": "mast-coffee",
@@ -1101,7 +1101,7 @@
     "photoRef": "places/ChIJx3qDMDTL1IkRlsml6sJs_ag/photos/ATCDNfUZtMgDVbG4yk-Wl3gIZJRRJP5Y0mJkHz1ZXtG7MOhn9xhT2T4hGmqFc5myOONks-tfkM1IdP0CaWM8jMeTHYcv3ZeH76XQuFMZyEIdgowtjb_Ep-W8xan8FNegaeUTzGDJxp66kNuZnuSF-T3e5alFJV24b4ZfepNqEjzDUWquFS9YV2TV368eCOGcVZcs4ZGYP5RRtOUhGs4cNO1orAhYP9KkXk6ZQbs6gcp78Mj7coMhwlG6FOBBHuGiiJwZQgiYpSnKYppGqF6P6iSK-7-Kih8ahNMSEQBbArmWM6U-vA",
     "lat": 43.655189199999995,
     "lng": -79.3757734,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqE9dAjrfqxDQc27QxMN-fX2ehjPuRFsSSmmWSAyGCfr7ObAjAjdzQmsHPY6y_NW4s9sEFtuj18-N1pz9tT_uMDIo1AprgcauTo=s4800-w400"
+    "photoUrl": "/photos/mast-coffee.jpg"
   },
   {
     "id": "vereda-central-coffee-roasters",
@@ -1130,7 +1130,7 @@
     "photoRef": "places/ChIJT947OwDL1IkRTEIkGbYDz8w/photos/ATCDNfUvqBWL1cpVZZECMxBDLIeVRHi2obewVUE0JT26dLCQW-DHwP9sOIyXRRYbQqO-6GPLkanbL31JkALsC-H5Ri3dAXkjYlfMzf5P-A2lUWHSwQziqgawyhxrLffA1JDKd6S4zUzlvaCBUSET7cPq8qN4FepBGexxXj9FAivZQ8ChHg71dEuDDYJQH187DMnnMI2auL6_wuBaLBCBHfLMt_TTVXb5q-tKQD1TNWGNJvA16q9kof60Fjm8bnhUjkudOg8EhWLtTljCqAVZTwYj596-naB6sRG3W7qc6HOkjDRvNg",
     "lat": 43.652513299999995,
     "lng": -79.38029999999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGuvTzpQAL5p9UXw1oODmfWwyCmfyPdB3V1DlSCaHXoPfEjMH5ZOD8EORBo6bLzinnhKXRyaHlDcwxa1WMNAIJa4qnevflIYY0=s4800-w400"
+    "photoUrl": "/photos/vereda-central-coffee-roasters.jpg"
   },
   {
     "id": "neo-coffee-bar",
@@ -1164,7 +1164,7 @@
     "photoRef": "places/ChIJm58KgjDL1IkRaEwUb3FXeCY/photos/ATCDNfVo55WGjlC8sRwmqG1UJjBwp9R6T2XYSft1IA9s9WKFgAKFhoND6tlfwT7Wrn0f8Ji4QHovkh787CZE31HHAts4uQAxck0BrxAeScxajbmfd4gng-QmucofImBH_pxlTrWL38BQ1GiPINukvNijQEd-u1hZSknOGpVk1Dxvd1x_cJxJdcbSWxjix-kkBjUQ35ujvrQuLPw9XVszhd3Dtumos01I7AeccsUYftbV3ConKkaFfC26TEBreZZ2zVZyIYLI1ywbRj_PMtbzqW67au-VBq4D9vwvXvbP0Q4OWRjDKQ",
     "lat": 43.6506513,
     "lng": -79.3691669,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGSXcdUlSNMNpI4J6K6_YuSfLIGKdvUShI4YR5BAtLOeHRkOrhs-C1lXILU085_G7SexgOkF8LTyJwtLZDVy67NVIMQFEDCMr4=s4800-w400"
+    "photoUrl": "/photos/neo-coffee-bar.jpg"
   },
   {
     "id": "carbonic-coffee-baldwin",
@@ -1193,7 +1193,7 @@
     "photoRef": "places/ChIJL30oacY0K4gR6Eo8bVkZAUo/photos/ATCDNfVgaGQgD198HtLeuvIEZANvU4InNSGRRnJmcWovOLpujbZasuKlC_H-XTT03LPejnoOpoKT5hAAX_Yq0wDOc0Pbz22rL5h1kyF9byZfB7wloTfT3prmdKw3WUic-X1GjJErmG3zU3VyfDylHkMwgmfDYDG5U3qzehVmaH9f_U7d7-oJVe1lKoHSr_THtz6gKUtpnNDpr2OT6IBvYTq5TyXB3pN_t5Ds4BMAAwipxPmmHLBQE6JuxY_9NJrG6AFkbVqwxqpu11cdCPys7rhPjJ9_R67aunDifbauLXke-NkFFA",
     "lat": 43.655848,
     "lng": -79.393523,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEG_K2Cowr9Wkp--rs5_lqH9lkJCJYbIkZzfLoj3dZIBGRhtVdGG6Hqw9VAlfpnXZ_C00aR_cIajWDftB4z8wJkQ2tzgbwrWTE=s4800-w400"
+    "photoUrl": "/photos/carbonic-coffee-baldwin.jpg"
   },
   {
     "id": "shy-coffee-co",
@@ -1224,7 +1224,7 @@
     "photoRef": "places/ChIJ23urG401K4gRTjpDlitQP5s/photos/ATCDNfW3S5KYJTWwNVHIGReYxGm3bMhssHSfaIMDx4aRy3nuONzd7zBbKfLEHJ0Zp7eKSffDyfL4SdfJn7C5xT2a-6LrGiUs0B3viO7ph--mXVj1642gU3qfK_i4S9pvKZQLhGnF1p4TR-KOh_f_OFA6K_yKu645t-1r3oug3Qgywl5rH_98PYTRvrPioQ5c8TGQpcqUB5WgSdTNgvVAyc_FHFTh6lwwNvsENvi9xNO-uAJTcOwvtjoSnbyNmNF-rYH_HekeEo2ZsASbYjbv4t7TXEXqR9xF-9cLgJxs4kxyutnnPFjFfaxBNkLz7vFcRdGcXsJROpQct17bNY9M0R6lv1vkb5mi3p1xNBUclgHkxjt-n6vTx20ZDLeVde9KVXZfkIIP1jsGjVy-NthuSSj4rJfszbEOyL5F1mlwmLz-SpLFuX4",
     "lat": 43.6434712,
     "lng": -79.4055841,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHuGz4NBFpRY2b_Lm04sECNIFTAaA2Ff_8tafHiCynET5hD3dV1aImEIvVDORBRZFndWkIAx2D6uhenaU0Rh0_qEkiZiH5R0WWdLWL_OlxCLXTu8iPdEfagDm11kVphnyFmR1DFFoQwv1h01Q=s4800-w400"
+    "photoUrl": "/photos/shy-coffee-co.jpg"
   },
   {
     "id": "cafe23",
@@ -1255,7 +1255,7 @@
     "photoRef": "places/ChIJK4FWWFk1K4gR9VI7gU6tc_A/photos/ATCDNfU1P8Lo_woaze3VIwhJfR0aceWq4SvGY-UElXlbMpXBexJj62Y6fzUFAGocIT1rYvmNkMuNwyeTTevmkWuYBa9w7wXFag0t_XvF92wA33SlpSuF4rr-_XEFrNt-awtFfkAOyyiBAhlLpVhOdZ3besCDagou19thzki-dnQC65qPVygvn4MlO2fx9RtSdBP9b2R0S9vdjLrptM5TDwUHmgOfagavHUEsEw3YPKDA1bwmr-MJofANxSUuHb4K1zOEYh2C0IYdRCNR7hxzhI6jYO6qAoBklyOL9ICdPtCS-tnutg",
     "lat": 43.646250099999996,
     "lng": -79.4093706,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqH1x-d9A_iYm5QvSJ9XrAZ33usc0t9kOxYWS3B2eiewxTRjYP6TuUbwvcumaMyrlqr1YKdnNuUu5KM30_W6CxcNe3C0Kt7GC28=s4800-w400"
+    "photoUrl": "/photos/cafe23.jpg"
   },
   {
     "id": "goldstruck-coffee",
@@ -1313,7 +1313,7 @@
     "photoRef": "places/ChIJD91B4KQ0K4gRoaKRl3XAEOo/photos/AU_ZVEEJk5ruoANnKHajPBerTHqT3otN6c2OyEbgkH9TFKBktjQyQWkULppikes_xiWS5ul7VHXsxLtpmr4_Y5vr_SIwUZKNwNHPJ7Du3G0b-YNmWOcR52g6M9LX3qkVLMZozHEOvkHb6EwkqqEtmS2pSjKxE_u5VnjDiwUWud22_MdBwdCvdcyKHzjHSKy3HqxlFLlNEMYGaYYl4sIfA4VcITlBrLjVqAwk1vZpJty1ZHitaLOBZJN_G_BDAcNUwwj6qceMkATLfStPAceWQheg6v28ZoTiJFrBWHgp99tjb0jBU1rQH2F_gEeeX-KLKdgtRupLsw7JSuNrRr8UKTIL7jRpoL-GXc0h8crhAn2_xUkePTMONdHHmTe2P8QHtlI455T9_1ix1suChcEG4sCE_mlBFYntPu0tHWV359q9ecxQ_g",
     "lat": 43.6712035,
     "lng": -79.39378409999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHrzkGNkWINdcw1WIFdfBtGSOJbYrkTM-LqkxF8K0j7w4LEq7J-3X4rfxSIgHM7vnUIDSBIUKXOnr-JitBl35PJ9ocYpKhBhu6WUwMZss3NSumAslRhHlH9CEg2jytpTmS5USk80RxkUqZOew=s4800-w400"
+    "photoUrl": "/photos/jacked-up-coffee.jpg"
   },
   {
     "id": "arvo-coffee",
@@ -1342,7 +1342,7 @@
     "photoRef": "places/ChIJ3V3aUDzL1IkRbK27mwK2nTA/photos/AU_ZVEGi8s80TE97Q-3jsAOJHML6myRIJ2ZQHZaXYtMaPfM2tRawqyz366GYcceW00Ge9VxoZ3su4NuzbHo3Z-MzZO0kaxBtY-3hjPi6mvIEWPusWO1vOhIEnvZ1lVy2Bo8U5--VoCrff6NqPF3_Q1Px_IrEfOruZ6ECJoD8bkX2RmnCMVbHAhshYkBn4I3EX_HQBT7LEteOgDrr7E-dW44dmz_2UpQ8P58JvT7i6tBgLNhu35Aqo7ECnhipJiBuRToR411YlSBJgaTT5XDWMYeFe9yXLtL8Na_fM5GGOt0-5iVhTA",
     "lat": 43.6499059,
     "lng": -79.3611954,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHGQsC68FCFrItGfHELyjJ7JkkaaLf3osAJpbLOwazPX-a9_XVDaGJ5qM6x8SvexwKyiF0G7MrBD34cqnkP0r01vfc502wVVT4=s4800-w400"
+    "photoUrl": "/photos/arvo-coffee.jpg"
   },
   {
     "id": "jimmy-s-coffee",
@@ -1373,7 +1373,7 @@
     "photoRef": "places/ChIJi6-AxP00K4gRaUJ5KEFuuHk/photos/AU_ZVEGm98vRbfv4rfBKsiy5fvX8Q0XcU_1rdYig2_a8jqPNQgJ6P7V8MPs96VTIlzDOEwu8uV4FQx-4pEGJNJ3iwmXqQ9jptpzlZE_CmknQZgI22S8sw50zs3uIgunAr7GtMP1m91Tu32i1HNG9otYm-hAMuppBqHR_IGZTqoxsWs6sFOfNT07Qlmy2i8Azk-92zj5ToGjbTbA_iACXWgZ7oZuZplItY4pFx2mqkQjauxdld6DGzA6U7wvK7oQGvpsJzzV8RkIK6Ihs9jHDyz9GioyCW87Y9jQ1kMeG96X6AR-3uQ",
     "lat": 43.644604699999995,
     "lng": -79.41880650000002,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqELW8Nd79f3P675F1m5l_87nXupfGeu1A1OH33DIVoPJ_ax1tXUDybEViRbEdo4F5IuI5gq4f91fUp8kLQHJB2OdGlQAREmWNQ=s4800-w400"
+    "photoUrl": "/photos/jimmy-s-coffee.jpg"
   },
   {
     "id": "coffee-oysters-champagne",
@@ -1402,7 +1402,7 @@
     "photoRef": "places/ChIJX8ZuHKU1K4gRo4Mz76BKroY/photos/AU_ZVEHEGtAD_er32nMyD90AjLm-F4oaZslKuQMohsMSopBfDHj1bnZ2xUqqDFoil3bdYLo1yLvOeBtgmoQUMYJhJi_iJn02BrzRZ44hKWKImjC1-Yf4EYRbrUGcdzkgmVCp8U2tGb_08NyTPJlG0u3WnudKoNnVV8w2teapQMpFZNjOp3hqeia-viO38NsZmD4h1ktnuw26EYaWmfEoFF8FdApWFyKbYa7a9pEHcoNwjdfTLp4zWeTdMS9IX_779OSpuG1p4H0OVn0fpMeckgkEPhs8-UC3pdRVeq85Gai_WsoNpg",
     "lat": 43.6474409,
     "lng": -79.3867671,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHG-s3fn7G4VVLu7HEQ6KAY_9ux3EQ2OrqHSRv948D9MB6kKyM8ATzMlTsudzGxyOk0wqT6vDzH4IUxc3TvcnjurPnaz1R8DfM=s4800-w400"
+    "photoUrl": "/photos/coffee-oysters-champagne.jpg"
   },
   {
     "id": "arvo-coffee-wine",
@@ -1431,7 +1431,7 @@
     "photoRef": "places/ChIJz3RXaaI1K4gRvnwP-P5gFJM/photos/AU_ZVEGXJ0amvOqYrUUbQb9g5gOdoRuPLONibN1fxqYegr1driZhax_DngTPv39ZkCfKBm5Oy2L2OuP_V0Tz5C-kFBN0vkRg35rgDkT1Iy7SDv_Ad0XEGQe38nrqYhwlst5xbeSnfbYafEhPoQHO70MGC8eYrp8V3GV8JCtYoct39M6oGkIYpZU61AF_-htFqiQmhEczdYqppk-gJd0fYIOsF_mD8h61dc_yxCgPqlyTPFg0kTZJcTrJLeJsrux0d6Csma7fVF4eLhf9Hqc7hGZziX6goSzV1lItXsucCvNKDDSNTw",
     "lat": 43.6386727,
     "lng": -79.42086379999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEMMUJL0peTEaIkOkE_mS18RYRL_sQBGkHOQwcduzafkQAUd3bMJrjfk2Bn3_HrDNBx_2Uf4byrP--li1ug_ThTPpz6037AhMg=s4800-w400"
+    "photoUrl": "/photos/arvo-coffee-wine.jpg"
   },
   {
     "id": "coffee-exchange",
@@ -1460,7 +1460,7 @@
     "photoRef": "places/ChIJuZ9tXM80K4gR-aE8ZaLQIuQ/photos/ATCDNfXgr_vUyFCOfOthoPv6HioUcbfWU49GAtu1IyWYfNCUtPCMcG5cmHz9Qqq8v6WO5uRtJYN2YnrU9FbrLlM6gtfmK8vK0-YXeNmc-bEe-KWkmdqWrX7Zlyx3ubZ0SWnPWmRc9zj5plDTfjyIM3iIRoNHX26tfvbDK2bN6QmUvjnB21iQ2Fif_v_8AOkQxcIpDI7wRU564VmJe1dtEFaAvDhbGUg1ThwMJo7IoiH_cYe7O_Mw4D3LC0NgLAGZl6KW2tmQfktIz3ykDwdf55YGW8asS_K03MfuUHBsnL4KwTv1ZgX4VvJvfGDwJwnlFc2gqAEUq4W8QQfu5oW6kocvh_3m1G2J9eqH4SGjQ6-zLEdpobH-kIZy56TJ0TYErR56tqau1IEqaNSXzm-MBCp3sxb_lx_Rf4C3I71ZPVAHDceU3_ez",
     "lat": 43.6537267,
     "lng": -79.39091359999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNEfatP1aprviA1QdJH7wYhMsQt74x22VBj_TweZvm20GHQgHHQjiSiKKPCu_0JSEJMGSMY06ZZFAz7cEmf4kXjINC1fkr89YTRG_U6AQ9Zbleln7FZlC3y1fQDWQarhndKeIAeWesBxltS7vfg=s4800-w400"
+    "photoUrl": "/photos/coffee-exchange.jpg"
   },
   {
     "id": "coco-espresso-bar",
@@ -1489,7 +1489,7 @@
     "photoRef": "places/ChIJJzHjhK80K4gRAi9bdAV0wdI/photos/AU_ZVEG7oUZIlEn2wR3T4qSgzorGut0-1NIiNi1jPd8GJN-jgTHTSVnZ5BdbTsksWiRyYcWGl4jTA-hiNIJ0Cfs3VpIcgdiseQBskpNKOTAgG3hDUj0Tpe09SwyQ3AKy5yXoaGlBsdeBASzKlJS8qeKyqROhvPSaiBLKYektNdyVu6HMpOvo7rXtCRc6TvM6EAXUDDkWdGh5nKJqX-Jhbvtq0CvhDxzmeh_nBI0CRrL1zp-wTzd8O6tzRbj2ZEm5UrFIXEotR4_CffHhY3lDfr4UtV8a_hpDQ0cF_0yC1zgjHUsaJrVDa33D9KGG29oJlo_hASIy3fj1x1h25sanUBqv1ha9mFL5e6l6_EG6kyawiIoWiEmS4Mr1K05WJ6H27zAZfSLWuGTPuxbnQtx2n1XxzvjynNP0IEmV3GykY9w5YDALtSYxGv8tZLO0ii7IRRJA",
     "lat": 43.670870699999995,
     "lng": -79.3910176,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHXuBUgvwttrA-m7rDny4tZm1666dMRzARZvgn8e_jC179oulNMbHNOON_nzaOup_J3pj6s_V9eN7vWmSZTtfFUI5cK0zr8_x-GCLEFGNsaY0OoRGBLqNj8oh6eAO49v5VMG_mn2MkqOvvui7rVndhBrA=s4800-w400"
+    "photoUrl": "/photos/coco-espresso-bar.jpg"
   },
   {
     "id": "coffee-lunar",
@@ -1518,7 +1518,7 @@
     "photoRef": "places/ChIJvTh4MNQ1K4gRgk93kMifYHo/photos/AU_ZVEFtR8ZxQrf7BCCrvD_iDZUCVoVre4NhjJzyWsUCnrFbgdUJasQJPr9lT6FqCfURo584Z1x0OddYJiIFixRr5Wv5cnjWvsoU18L6AEfiW9plCuvrIVY5vr-D-hICVJzg2jdmqrzHo8uRwLAm12jYFpRDb_jZtD9_9rzdnjWYj4Ky7azst8JV9AtqpHIoQlGuTnQttFFBWHbPPysnX1sp5KLQ2de2ZU4Ts2KZMpus3GDYnOUdy2TihUkEMwMi06RH0v0lK9gKof9sBcoorRnWoOrl_89hg0yNHfnO8Ut811jdJQ",
     "lat": 43.6740892,
     "lng": -79.38905849999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFOTdIQhlU8RRUfd5txVfS7osTeCPQKHx_LpNQSVcI1rVAxcHEY-NUSQiFYQ8UfwWrImPKeEfysNAxo875VysPT6fqEBAwqqSE=s4800-w400"
+    "photoUrl": "/photos/coffee-lunar.jpg"
   },
   {
     "id": "forget-me-not-coffee",
@@ -1549,7 +1549,7 @@
     "photoRef": "places/ChIJn28S4pc1K4gRq8Pd--cJ-xY/photos/AU_ZVEHZx5IUcAJe-XmKx6ZD7JDSLHGMZq1cDXHUrLNcBJi0_eumWZJhNKRruh-GI5DLqBPz4hcohELzFbZDIZftfqZHIwVDZqlof8buJFlTbdS3yYJTvX-BHGjKW5wcLh25bujx6ezpkvWfX_09JaPZ_ZTQtKYcf1isGL6Pb_ZzOepDaJm7YMQgC1CGeExrwcre3GObHDo6479xkMVjl_6uO5xHSJPWjfHInICLZSxNQbK6wH96gszsRUIXQQ3OvsBEqvEQ1LqwrG3OAj8D44iTQb5hWiQbYRLKRu6w38Xe-xJhOvUwrzrlD_5Bvtsp2oP8nWvpAeuIeZMrbI7PzS5u2o0z9A5Ki5fTvkp08hlqqZU06IzUfd0HRtH5JnnlE4xDPrEnzdpNNMmDu0CtXv6du6E_1aY2Pt1a0yHuLtG58voER_AbE7ahfVbvE7_D6w",
     "lat": 43.6464297,
     "lng": -79.41989679999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGp7GPvl6vM0_8SjeQp2vz3aw1h7tnvL_Vsjlmc7C0XDEFpoAQeV9mBRH-kW3rZvcUeosl5rGV8EaHVi4A1W-OTTs_DEwb7dGBQINlptrknVx2S-HJ4yV6viFD9Kji1VmRwRA7K12n36qOZ7uBoCmjh=s4800-w400"
+    "photoUrl": "/photos/forget-me-not-coffee.jpg"
   },
   {
     "id": "balzac-s-distillery-district",
@@ -1578,7 +1578,7 @@
     "photoRef": "places/ChIJr22uVRdTV0ARhqf3bW-O-QU/photos/AU_ZVEGJPZG3CtU2GyZ67H6W_pmtKGybusgDTbfGPvumWrghXsiINT7No9GallGWuQFkxizv4u37T54Weh8tJQP9AyWnFRQbBTouCqiStNmYHI7z3Vew-FoPwKeif9OkRBv4P7TGsgjfhsuXgBe8tjXQHx7F5evxTTMr-nqOFQxz0KEN1BlRjOyAX3B3OWVq_cGr1bxNXXxxFhtmQ3_177DeJa_2y1wtBcZwE-gQr4tviZ1EPPpA10wQ9MPiOcuIKFVA9f4BTP2eVyw2RflWvgFSUd-9DdmjjMS0aL1xbKZzYn7jVg",
     "lat": 43.6497757,
     "lng": -79.3590679,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHmVlxSNK1toanam-06wE9PCj7kOUNvvezPT2ZZcYgL5IowN1C-PrzUh3fq301_Fm3RUvGkwV0pEzby2YcN7RxwXdcH-PBO3yM=s4800-w400"
+    "photoUrl": "/photos/balzac-s-distillery-district.jpg"
   },
   {
     "id": "dineen-coffee-co",
@@ -1607,7 +1607,7 @@
     "photoRef": "places/ChIJB1814DLL1IkRhj-K_tYwSio/photos/ATCDNfWnf7Syek_udzGe7UcU89NNqK4VOfKogXAZn9qU3Z8sY6P3GdNpKdlW-v0OPqCd5yzIVlq032iC5J7IgsLxpmd5yRu3jGoc0RLo_wvHKBR-lG5Z-9UvLe_zloIrQjOolWgGGayOD4QEi4nGbYDdobmzJwyrVYXgVDMUSyPzuTrYTzwCzCYCDB1VX2ZMIDNdO3kVhyY7uVL1vQZNi1jyrMG_npDxMaVaZyNqiSWUX_gB70spWacyxyJ8XWoFnyawiFi2IqPAcbQg1Y51gvv3mfApumvSDSZOolkwk0vlJwCzGw",
     "lat": 43.6511749,
     "lng": -79.3788897,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHBNRury7yYUAB0PM6ZwU19nmAGQTy8F95PyjV1D9Krgs2LJ4D0ziXdryC6vVUz6LM41oLVbcD43IHFcB7BgQ76vh_pq9EDAVs=s4800-w400"
+    "photoUrl": "/photos/dineen-coffee-co.jpg"
   },
   {
     "id": "white-squirrel-coffee-shop",
@@ -1639,7 +1639,7 @@
     "photoRef": "places/ChIJOTCRGeM0K4gRpFPpUFa_vN4/photos/ATCDNfW5ZdQ6O2UPuA4fukhqdC00RxRu9kIf4AJWxm1l9D6CuSdOfAxShHvX1fHXFe5efWczZRjGn8hx9qOQKz2cMfUAd_ID6rkUNEQaks8g-R9vrRbXdVkdAUWH58iaN8cj8rURESSbkSZvf3LXc3rvfE68z-6b4t6IwkxqZive5X7yjuAIl6MFg1LYyYPTk_bRPqCKm1AJc8-hY-w8dvfO-gyogdFdmV7iXEPaAN0iH2qmaOVxup3_X2g0vu9RlFA2ENOTeiDL3CtfTV6t0lSteK9DW2CF1oAslZbWDku7hlDmCuJLPGHTlVgGJfUZWOKNdVEojfI7BaWawCVxzkC-KGisCLTT-PF9PgBPSuyMRTd7nbsTbyMTEzZJMG_BdgRozjOy7HEY_pfuX8D3Gaa2RF-blIKjgtHeEKfrqdyOcgo_Ojs",
     "lat": 43.6453682,
     "lng": -79.41238709999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFKZSrVryO0YzwbxOU3y2-oEpOtqY_TIJpV-h-IJi1S9qN99cM0JXtCbB5ewrlNnk0TKzxYFc17-IyT9HBJ4GPGIhbSehe4R_Fc661u_4fXR6GpLNpR2Wm_rfn8QbD0XDnM3sPFkvUM_ba6XA=s4800-w400"
+    "photoUrl": "/photos/white-squirrel-coffee-shop.jpg"
   },
   {
     "id": "the-coffee",
@@ -1671,7 +1671,7 @@
     "photoRef": "places/ChIJ8ZnTj7U1K4gRK5-OrvKqevc/photos/AU_ZVEFo02AnVqSjWBcbr-hJsDVnRXIVtoxIhH6D-rKJzHMnEOEYam5a5CnyafO3tkSTzC-9xXT7e-lsiT5cGmpg7twbc7TKMMoyqxNjxDmXbzX0UDCznYv-iiTRlizKY1rUaZn1QiMgRxQwrpPE_3-sALUIhNN98Oyb4ojI0a2hZdN7GBseHzC3lBu34-EzpFoVB2Nwzxl-DlVhwMNcvk8MHHgvCPbXhMd8ARcx60WhvNpaJyLHh5tV17ukMvPU23RjGbbXYQba_ydDk9D1_ZyZKiIteAdhrjQrzO-khfp0a2TeFg",
     "lat": 43.6693385,
     "lng": -79.3936958,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqH_wCRxn27IYcJZraeXLmz9PQ025EisNl1aDygIeurSabty0wAlatNuLeeZ03sQG67dQ_bbyVZW9eS-qprLPfm0GP8vuol5Mkk=s4800-w400"
+    "photoUrl": "/photos/the-coffee.jpg"
   },
   {
     "id": "wfm-coffee-bar",
@@ -1700,7 +1700,7 @@
     "photoRef": "places/ChIJ3T9NWaQ0K4gRkgU_ouErDQM/photos/AU_ZVEFRWHVPQMqweHRwIUWrJSOFgpLjCso-t072Hccq9ABYXAXby88I_9LVPZ9m5qoVxCYlOd7UY9W-ptaT6Y89564hmPhPAT_sJr6DJ10tVbKhndit4t0wR93K64qkFd9PnwlhH-kqTqjbC-kciOB5L-9w5VS8qN5wT9wgmFpXox61umTEDWBo7UbOOauS0PkrF7jEjDbDRG0H-Ocst7ZJ0SxzFyhW3pImF6Y2s2Nerkt_ofO7fbmgBOmv1iuaEHkTPQP5Ns_4w53ySv-ApiGDkrwb1feNe-9urnWyopvG53XLdsJQkhPI6ngfiSeH1UFUrod-crSKn1GX9zgK8ej6kpGrHQlUIODniMvEdb71lLuXof7_kuYuwiLfbMqVVlqjMrp0-rN_aAV5QVOHlu2m3Wr8_LkIfFUvxg7xyO4sfDoVQg",
     "lat": 43.6719207,
     "lng": -79.3952229,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGpRfxFQXm5n0YJlaEhdIlL-Vj1QFfgX0V7-QFwxc86c74ukD73HR3PXzR1H9hjpVy1NQYnGAmIl1BN279I7N1iAkIGuF33jmh3QQaphppq-W_g_c7iljdTgqAyr1bUdL1dPSr_cqysw034Ug=s4800-w400"
+    "photoUrl": "/photos/wfm-coffee-bar.jpg"
   },
   {
     "id": "5-elements-espresso-bar",
@@ -1732,7 +1732,7 @@
     "photoRef": "places/ChIJgfH_GKQ0K4gRBVZECDjLnWA/photos/AU_ZVEEzp1xIww-w4ChfPaX1eKhQnF9jFPNg3SNCiXadOUYF-xfIeTcKnfRjvnLdwhh62YLCb0b1mHCNsbEAoNqcEUlTQLyIeFk_vMiAMnuc_h3CbHcdqsoZ00E4zaq7kR8C00XJ4Y4QzY1zk-Mki9FxZ9SYB0XXtxqXm254EOH3llyNUnLYymlw0vNausoSj5Nvseyl6Xk4kboI5ZJ5esfF-RU6i9qPHpEesb4_BE1H6Vj0_aaiEp40wSe9ON136BYnW0TR8AAWnKhhpcxH5ira-tazDWneCLjAHJpebsu4QxNkRCBgDzF0pehqDwBTiSsqEPZH9b7aevXBVV3e-dTcxiC8N4tSw79h-bBdgOdaqchsn39C1ac0vOKEtwihyjZHpYqYHnsULmK6EkAvDCXObUorHXpx6lX0u28M0MCpAAbybQ",
     "lat": 43.673756,
     "lng": -79.3960182,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFTqKDfrcJ0marI_hC8nvObVPtZ05keiNZ26nwSboxwuW1ZCKbI9VKvmvYLmEX2PR4_YwFYwjloD_-sAkuiPIEF7fkq2cJVok2jSgVJkMGg0ukkDvcUstZMcT5V3ikaYfECse64Zy-XbR3NBA=s4800-w400"
+    "photoUrl": "/photos/5-elements-espresso-bar.jpg"
   },
   {
     "id": "pilot-coffee-roasters",
@@ -1766,7 +1766,7 @@
     "photoRef": "places/ChIJoemPp_40K4gRvNaYmsUFnxI/photos/AU_ZVEFeVWv4xFoGz02Yvx9NyUYzLxvPimJVoEa35lrC1QUtzUWKnKp57ENqT0MN9-39ZkB3WP5pcIqt8CRQ-LB-HwFWR7R957X5qXgIHp6biY7xzaKtE21oymkWoPrwUG1Cc36CP50HLW18LttFEyABDl3Y9dyIVrqTPkMdyThGtepDplrQ5sFr8S1w4R5-GZtQWiOjbnYW9A673JDRyXdMTog_5t9ikPfFnTtg4YjfJTDdGg9NFoC1ZNgYuolWGgDqt0rroqgg2_dXqt2KdXMLz7ZfTL0VchRch1xB_hb_FBaWsg",
     "lat": 43.6467153,
     "lng": -79.4195422,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHwgG82-LgIrY4cNP6BBrwzwuHS33t0R_31i9x7zjTgGcSQ4WsN9jQCZmw7d-kzBt0U-eZ3Chs0u5tYBGUV0RXJVqyXlDbKLDI=s4800-w400"
+    "photoUrl": "/photos/pilot-coffee-roasters.jpg"
   },
   {
     "id": "i-deal-coffee-wine",
@@ -1797,7 +1797,7 @@
     "photoRef": "places/ChIJ1XseUvk0K4gRXITxS2nG9GU/photos/AU_ZVEGixZvqD0W_f-WxLhdj_phYqFGZnNBXSd5xJISN2Pz0XwlLLwkDsaCM30Q5MJEsPrR6JH44Cu3fhBRXAicl3mWZw9tABb6YlUG4jzF1KA-PZ3rhFO4yWgs3mld2Pt-LcBbqU8RcEr8yzmmEf1j9m7ipWMqZrcGypnWkToWRXmadiLTha8TvCHicavS2H25EyVbrCw0_zV1ZqjBaOK1G9cctk1VvG2NlaFpJy3zUMfYLtL-Yf9gRh0Kh2sijl6xmKgPX0KpUeovkZyplan0-se-SFun3G_8ZkNFlExiJIf6_QQ",
     "lat": 43.6479047,
     "lng": -79.42037090000001,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGHW4303NGPCcnLskcnjWnDtf6aXoQ9SgGEQuybAe1_TT7GOP_1X4enw7ym0YaA5BY3vmPp6z7XrgRtO-r8AyBlMFMSa7D6kRE=s4800-w400"
+    "photoUrl": "/photos/i-deal-coffee-wine.jpg"
   },
   {
     "id": "daily-ritual-cafe",
@@ -1826,7 +1826,7 @@
     "photoRef": "places/ChIJoUwmcSPL1IkRpuy_sCMxLGA/photos/AU_ZVEH20PGX3B4dhPdY_2FC9Ky7qt6nHk1ni1v4mYvFsA4yujrJSoIAF5CX0etV3_EeGTjUGXc84vqL-26aCkS2wQefVGWFWV4E__yGaYiyDv0wQ3FEl8kB53N9DYS_bjB3Y3KKBtI2_B2xAvtKxmVta-7DLrfkAwPzoiD4Tm2BWh3KvJegBUWJUVFA1tdZ3vBe9EEf-sqwAfQn3HkMLedePzFTLn54UetbMiI1A_yqrVQm1MA7aiU5cxZy7JDT8BZeHTzv9yBi4rpVzyW_qVxlYVM57SiTlTG0HdFIK2h5nDgYEA",
     "lat": 43.6490362,
     "lng": -79.3781963,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqESGQKxmZc93Rk7P3EMkpuWpWnh6ew6j-vqHiWdquVV8_RQqG3umSBAfoSqZBHlvclxN0bjZxMRBTDzlhKpZaurWZLbgv9E_HM=s4800-w400"
+    "photoUrl": "/photos/daily-ritual-cafe.jpg"
   },
   {
     "id": "film-cafe",
@@ -1855,7 +1855,7 @@
     "photoRef": "places/ChIJ__8jD8I0K4gRi_2Tc1Ltx8M/photos/ATCDNfXIqdCbFzfNFiBYYgtYbUw34eB9jKSRW8_l5jEvIOM9ajPYqXzeDERZPa_TTPRC3SOPJQ3vjhDWJfsWHtfnbQNgMC1LVFA8tA6uGhLiwVW58zhdyJggnkzkr0GDy2WS_BPbpQOYNAeWiGqOa4Vr3H7QNcJA1PjdOH-UUjdIPhpY6xVFIB5RioaU4JHPHtUG_Chjo3fMLfR5jsvaZ4y_OiSEfXOOyjFVC0FSy4YORBKKr42Upwkn09W0gQH_92ehdSIFtd-5jCumlVwLxUmwcv77RQBnYqzWh-O30nejrOkBTA",
     "lat": 43.6550795,
     "lng": -79.40244609999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFMjlt2_8oit7A-ztjDsinQW78i3KIXtfqsgaUZl6ZmfAVo6AzLMszEQIroLBMmF0zoNKptcS1q-tPWuzeh1496pwnrFBTyuHI=s4800-w400"
+    "photoUrl": "/photos/film-cafe.jpg"
   },
   {
     "id": "ladur-e-toronto-yorkville-caf",
@@ -1884,7 +1884,7 @@
     "photoRef": "places/ChIJZQ2rewA1K4gRgLJggCsIo8Y/photos/AU_ZVEEkvudwFx2pi33SxWxkzxJ9x64sUO7sfwIDFVyR9GLG4PqVDlB_H9_tgGYYQynxhhgMCsuVhmYgBmVJ1JIydtASmXtQhjPVm80No4BKuUqHX05Jj_4e6JKCHLoXBijhOqNJbdENxfWioyybVTS3t5U2D9v48iu7UNxi3cHqQiXZxRSvhw2HmPb4LDql0f6RAggVSBNieUou7RcCgprAKl7dYJNDpPkfEyx35Fgk49XY2WNsAhaknkPWGNIp85z1_pD1qSTuoSOCw-oVKieJfjZjQA7gcmlqtClathBHtmeLH_Das7D_y1NNsKj-MkMeaWrZB175vUViIG7HYmh5aUlX1STEW-uHE3U9PkvIwaJH7v_ExKNhnJIPcNRLXdrZn3AC0LRGOoQgnB0mc0Hgdp7LdQttUetfJY_hYwaSwo3GYNef74c4qxTwLCKHgvbn",
     "lat": 43.6699324,
     "lng": -79.393585,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFBTF3snFn_WP-L2eO4e2N5WN4ma-dOpSI5gx8geU8krIJTYKtQ6KVwm4bpcd19kpYugNcDLgrf3HoEYkjpoPwckGe0V_ron7ejUO-c_BoulTWJZiUPznm5wIQcABjtDqDd_AvoCHpcfhIxR5PHzSVq3w=s4800-w400"
+    "photoUrl": "/photos/ladur-e-toronto-yorkville-caf.jpg"
   },
   {
     "id": "cafe-x-bica",
@@ -1913,7 +1913,7 @@
     "photoRef": "places/ChIJCxYnGWI1K4gRQxjQ1cymRPs/photos/AU_ZVEGgX9vyULsiFxC5QbSQEeEBnydWU-giSgp7DeBRIHplFbbkC0nSco-gsL3kvvn1leR27Rzk2sU09_XhdFzaAer8yCdN6vO3s8T4zXLtF3Z0JMx5dnoStn63EY2dh0pPwjtUGrRkxOHAXpMTteAXtNP_NHdX6hksA-FiC1_5UZNkE0XMW0qfswsnXHnT_GlU25Fk2oBl7pwO8qanL3o6Bz4qQxJN7xZvGW_cX7H-sokxabc2vwvjqunf9wKPC1lD278AIrKOjgQKhRbwvNmv-yQa8gk7BaLtBs5oFizEKOQDTGChhVt4Xim915IEjley-gT_fb9nlSwrihtsMZt3xMeYfMxzooaUJ728JDwOAujvpd30vmEb9vb17F396sOE-7Exq1U9j3PWDskGdK-KzLDJIZuFUAbXJrTjeStHxLSKWr6iXtrJKsZgpo2bwQ",
     "lat": 43.675205899999995,
     "lng": -79.39940539999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHX7_e6jMeBFny_uU-imhExCf7m67XW9JdEl212zP5bMeHS4mE_4C1FefkcvIDgroSA97usihgvbhf4TFltfQky2M_vg45gU6xa-I16WtTyje_Z3qmrAn5ccLRo0wivZtkywXzVjots_4Y-bJGQg3I_=s4800-w400"
+    "photoUrl": "/photos/cafe-x-bica.jpg"
   },
   {
     "id": "zaza-espresso-bar",
@@ -1942,7 +1942,7 @@
     "photoRef": "places/ChIJm_LpDT81K4gR6D2DIOzH63w/photos/AU_ZVEHHwNStcU5rjUIhCNiuh1d4M6dY4zCjHt1bBAt32gtq08p_qFJxFzMH6LGkczg6DXP8nK1c6TfjO4AZTJnh7z1Rq9x_mBqXcgen70alVBku_KPTqC3fLX6BdhQrMEFeMr7XKr6uJe8FuIkBUC8nwxWkX2orCNxVfJ3vnpCYLvFHguYa_ijzM9xaGC72q4VnCsvrTyxrNE2-8cx2Lyv2OaA038320JQZCBmOAoCTeXT5yjXVOZKvSVg4XLSYXGNXCC27u66mmyNjDJ5MFdewDvTVPe0HHCgIFrLS6LCx3HQQ1lIfiIV2jGV3go8YLIPVZXMgJUgsGki8GahznFk_Aa5qn7XSyY-s_shEe-sUaY6pt_THE65pvSzFDrlJfjT-ANdGa1HeaORDBTAJvFnsE7B5JljFMqSodb0lBENzLIdrjZk",
     "lat": 43.6699596,
     "lng": -79.3935994,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNG3IPOHoKxzK99VVvmVE8VLfQo_nL3j2ve0nB2N3V0_BndsKFiaAl_OvexYRzB5TRI7TebsZoFrcxtyE_-ujUKBChF7fEP53Nta2WHrTNeXai4nLgmI9VxTxy7qSIoEMMSAiI59RSMFMVHxbA=s4800-w400"
+    "photoUrl": "/photos/zaza-espresso-bar.jpg"
   },
   {
     "id": "amadeus-patisserie",
@@ -1971,7 +1971,7 @@
     "photoRef": "places/ChIJtRm5ewA1K4gRtr0XwpeRovs/photos/AU_ZVEHlePD2WySEn56y8otolwXMENyhQQK-EEpjUsfI1T-X_v31GMgrRqg0kgA2vVffzGMZVgPr-B0CMDGr5fQnO6Rn8faENZPHCREQk4uEEGAm8FrG4cSWBuqgtSqMUQw_J7ADlsTfiCdoSAQAysHCs3zWqdDxsLYFVkJTvc9WwWA5KBo8fcf-uEaFyJMtCoaQMflpm5au-HUK8N1-azhwX8wfARQJNSkKgFfQjKo24lwrcli85wzG3rj6Io17cFgIHs1QStr6BJQLKFlfw0n-ytJeKIrYx17FmiB8kBA8cm9tgQ",
     "lat": 43.6708905,
     "lng": -79.38968539999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGxfbaASoU1AksEN_IcHsXYc-u27IxufxU2pteSZJMfgaFELF_LSuRy4HE0NrYP98vdu8doPOwEpNRlLAtnZfoDWWnrTSA__pU=s4800-w400"
+    "photoUrl": "/photos/amadeus-patisserie.jpg"
   },
   {
     "id": "a-ok-cafe",
@@ -2000,7 +2000,7 @@
     "photoRef": "places/ChIJO7lM6pk1K4gR3TJJJAqODh8/photos/AU_ZVEGyrzSzZ3vF7zVIec5trNN6fc84F5rIVJ1Ntzy1EWIRtzu6zPrRJjcEcCW32FKnx_AtCxlKZvUlmX_1Q5t9ZwVNZKVqksuexzwpwZu87A-SKmYq_4yUVXJocOuCfi30e_ElH5PVG-l-UgtjaQXcemOQ5uOnsFXdnfufSv-LZyrItOiqbKgl6Rea_MPXZsmkGo9Lov61at3w4Rcgja6_ICOY3zSlgsF2xC9eHui8dIAMgT5HnfSWV82GGv4PKdtkIWcCYtGqZbEvKJdpMFhO7MfAzmDcnQ9Cr0qiN0lcKmFrtj7tO1RnGhBv5eutkatUTSiEUyFCgHQ5SW5HG8Zk8-JJnt-_Mknhkf5bEkZ6xqmhJl_9jSM8AjEEdEQUey2lPFf_BWorkzZagm3wnD0LiuF8HAyk6H4hKaa0H7fPqqa-Cw",
     "lat": 43.6701906,
     "lng": -79.3876986,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFBeQv_DOAzl0NOKOHnYYQMJccR1fG9TdMHpyhPKw797NC5FVM2EFiBk_RjXx5BLrP-ckHMT5BZQw-DXTUZ3R9egRdA1hMo9K2peEM6-tuhU2FvSq4wt3T2LJGoKg-zPhiYcCfK6HZYe3flcQ=s4800-w400"
+    "photoUrl": "/photos/a-ok-cafe.jpg"
   },
   {
     "id": "fungo-cafe",
@@ -2031,7 +2031,7 @@
     "photoRef": "places/ChIJM0FeOSk1K4gRQKq85rVkZgE/photos/AU_ZVEFKG1rCgZlJZu1Ka_Snh21SwskjlCm9LiCN7PB6SvwmcAqQDAQkfI2eIUMdrWUNsZzUng_6AZV_7S4lO3WKbxZu-bsiIR0yeOSEeGkF6IdmXnyUHtRJvSf5uS6YqaebqAO9uOGlUrK46ow4wvnYB1y7129w4m4b11F9PprJY-0WsumJeaPpp5P7WgjWkvcdbcbE8UFJ4KtD7L-eseJ1OtcHt_aUWZAR4aGFohTvvTXVRhpSqJfmBFgQuc57l6dTDERCyjbYGUO7hIbp0g7k2f_7D7Us9oLNIw-oZcg6WqsplA",
     "lat": 43.6432411,
     "lng": -79.4072,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFhTIymdd3f3-ssipfueBsqW5fk3DBLtpKyZD_7oH8UEUJjuRzqj0Hzsokshyxy8C_J-djb8okX3kxO_FGsB_snGRE02K4ogvE=s4800-w400"
+    "photoUrl": "/photos/fungo-cafe.jpg"
   },
   {
     "id": "theatre-cafe",
@@ -2064,7 +2064,7 @@
     "photoRef": "places/ChIJ6zdZJQA1K4gRAJJ0Av75fMI/photos/AU_ZVEG85zjQRPl53w21ol7wbcz-oE9OMLKaFAUJJdFsHzOOireRwamNe2Ix-DOZuZ9ScyoAEY5Wd1rX8tCdp_SY1EShvdLk2sOQ4g4_DPUMFt-2_g76la28fMQHh1DDAlUNlw6cdmeV0CxYAOTMItHQHyALIIBytQQ7P7sp5YotONsw0CbG6MT7S1iqLg26yDpiI7zLn1S9ssfhSRzOGS4Jof8pu57Vot7nvT2Nnu4F1FD8uv5KxHSuhX-yFV_94tdMMRPb4CzVyKKWxU6h7ilHjaFxlzH2CACgm7omIzBIdlwvWw",
     "lat": 43.642982499999995,
     "lng": -79.4232881,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFARXvLsA0QSeUwxzdrf5ZMs2gso1Gfvu9YJuns3pnCDRBuRo9DVKey4p3U9P3nrg805HXlC9T8GB0FeCB9u_AEhVo2RZE6GNA=s4800-w400"
+    "photoUrl": "/photos/theatre-cafe.jpg"
   },
   {
     "id": "louie-coffee-shop",
@@ -2093,7 +2093,7 @@
     "photoRef": "places/ChIJn3PlAKo1K4gRUVUZubUUEVA/photos/AU_ZVEGg6Tc_N0Wo1MgfboXe8tYzGb9D4-uy_6BLcur4x5IbY-3tsitPoSXTFGoDyHEd4yCXXx7stwT_jA96hKNBRpy_zGyp_RQEax6qb2eYQi1XZt0OVRYAgDdorkI2DQM2mp-dVuurPoDvUF3ncqgnclScJixxC1_v5H_DCHc0IUuL0M_Z2l48pcR8t6ahBpM-9ops5bnzWg2KggosK5c4xQghItfpZo8yAVJXQQXgfnZpAFVedQhsjm5VoZ7AMtMXJhwL4Tdz6ST2di1LSeCjGaQ6XqC495BR-DgCJn9RMTXyZQ",
     "lat": 43.6391864,
     "lng": -79.4255361,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEiGvkFLrpUA9YBtc8F95TK1VfefcDhpQhCQZRRDL4sqNJTZ38m8fszTrruNjGN5oApSAngubaQPifwb_8Lgs09UfKzlYxJJ6Y=s4800-w400"
+    "photoUrl": "/photos/louie-coffee-shop.jpg"
   },
   {
     "id": "tonton-matcha-coffee",
@@ -2122,7 +2122,7 @@
     "photoRef": "places/ChIJZ4LxPAA1K4gRRGw8fugVSQ8/photos/AU_ZVEHAvHJpEOy-hNliy3P4wDL8imB21ypLabmcnBtGmUBUliRCCSSwTIpMf0u8diQahnW6AVXAwAgOaB9ZkRoHgWfSRPtiHl_EEQvhBIx4JXGbXGL1hteUMrw12A5VlnPc6EEwPk4p-YmND_bFVifO8EjrVODjRoGqfrwx-dZ923zz9TmmvE7HU1-bxuH6x9NdfGYvzWvtunySAQ10V0X1zv74G6wmGXx5fuhBAvr39cAW-4pAUh-zxz5I3zDnhIMC_-w1ngoEiELIa0nMY744Pp_koSsxwODaxcyxMT6Sspn0aD12bBIp3PXGaY6a070kK-5jvsdDX5ZxZo_65Sq40qntPrUBxpSrPN1eiF6mqOHxEJnU8sDEdws2RyUSEylaePgzD6WlWPDvbVaU847o9a6G4b9GsVODHT_6kD6sv9j9DotSB32Oq2WJDrOqUA",
     "lat": 43.639272399999996,
     "lng": -79.4158464,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNG7JthIQidnt81W6ds2rsP1Q_6Np3lVYnpMDSnVI5wn090QZEevaIEKHzovOoWqwFmKlMXqYeTOp11Fl_Jp-yke_SWmRIdL1qll42vsKr1iXkY5eb-ksLINjYWqAT1rbK_aHYBrf4orkQlagi2WDemn=s4800-w400"
+    "photoUrl": "/photos/tonton-matcha-coffee.jpg"
   },
   {
     "id": "thindi-cafe",
@@ -2151,7 +2151,7 @@
     "photoRef": "places/ChIJi6bcXgA1K4gRLT3qQgfHUjc/photos/AU_ZVEHc-8aqyfIOHSmm7esW1Xe5X0958nomFhmzchYY-EZWmrQ9g_bTljSBffEjy9h61XgPwI_2LqVyWiMfO9d6S8XImnggQ1rpbzATSCAeT8QRWgpgpcuSrwtNc8ujhk4bxGeMN_vwZef-RZhkJCVd0DLXZ5KbABk959mWKFOuq4-1-GVcsqxmvFXxpN5m0A4Z7sT6keHUFoHJWIMX-BjqvgHb3rIOhHSSQ0v-NbXpRK7CwS9qt3dlDyqehXaRJEFOyFWC4ZsuZIkvLIe6glyWOXTkGS1D1MST4LobqwFDBN3n2g",
     "lat": 43.6382901,
     "lng": -79.4170346,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEOHP7WjhDWCn2J-HNc_aRyWgL182OLtmA9KgxcNTIq7iJsEyW3VFv-jmCsf6roPMgblsVW2O1JTDI_6MATyURRGtZBx89LP7s=s4800-w400"
+    "photoUrl": "/photos/thindi-cafe.jpg"
   },
   {
     "id": "balzac-s-liberty-village",
@@ -2180,7 +2180,7 @@
     "photoRef": "places/ChIJnwcN_wM1K4gRbg7EqrPEFb4/photos/AU_ZVEE2GCDDnRz96Ovo6XTpRfAB89SaPo-4lkSEsF8xoHb2rCca8yfEhOgZmS0NA7o8t9vHIvfO5JZSaS-sjmmLOlhjSAO--hKex87ffAG5i0bbXMjF8OEDv2O5KlZRLZwNu5cWF4wYtckz0lgrs3Yk0ojfPUGwogtJ3miPj_r-YOKCoKZpL5e9pXvxKxSK4tYReXvLdsmbuAOuP8CMWmLGll89u0Po4bCY4py6BRHTJBYnmVIyfRs-1zALjIiMjVYj2BI0BPwGOYcqrHO_8HLApKTgdRvdDCjqJksgztnRJferqA",
     "lat": 43.638640200000005,
     "lng": -79.4194294,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGPTwI8HZ9rioU4mQPk8VEkXH0Y0W4s8SgdzssNUsm-1qWRq23JBIaYyz5clMcqOOv1BN2zVVWEd_6OXAy1_b5fMGoz5orJk4A=s4800-w400"
+    "photoUrl": "/photos/balzac-s-liberty-village.jpg"
   },
   {
     "id": "liberty-village-market-cafe",
@@ -2209,7 +2209,7 @@
     "photoRef": "places/ChIJofWRyAY1K4gR6ZcCF39zLNc/photos/AU_ZVEGsP0_lb-0TK2QZwT2z7U66pE7fYA6ausNAtVW4o3CIDqIENcJHLpnrOv_06q2gFnThQUKJL9Xjxf-oDLhmpjHWBvOHRNe4J5uhjYXEu3nNnwIscTtt8XqZxOcYtc5x3VAzzKuMC9P8GvADUqqNtbnAPToKQdudxn7wU_RHkRBbiFLT8NtFLR2z1XjvBmbi6wj_4RkBMPbsC0LFBExbEcxDrQf9EdaRRh4q2GXmCG3JCK2E_uowIhRXxZRVas4x33MGoClKKWb7oiN03e-rqsZ4mxlIwg_cghIMzNHyQLdPDg",
     "lat": 43.6380014,
     "lng": -79.4212905,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGybbDiEKUfaKbXHFhJd71gfUW0OqFitcUB2Ep8uTtCeyBjswsjlrp17wuCkcBPIr9TOPp6ybL2S6r__S_tgFQriODPFGeateY=s4800-w400"
+    "photoUrl": "/photos/liberty-village-market-cafe.jpg"
   },
   {
     "id": "highly-likely-coffee",
@@ -2238,7 +2238,7 @@
     "photoRef": "places/ChIJo_NqtIk1K4gRMXiMxeNHRYk/photos/AU_ZVEELAKV4PuXXVcX0lCNHLDRVO7Y9kQIUpNIlLt5B7shMa4ZmcBnuUV5JSch9hTCkj2O8zXEA7eyNahODq-Lzj3HZXuG1Ay0lG2Fu0hIE7Qd_41aYdlUYVs6W2vH8pdZMiOD4DSvqTvJKaDBIcLmEqjL1GS-KU7pyYzUq6WFjyUq1i4c1ujUOt1gnZ2KfcA83XYUaz0dNr54727Ef_KoTonSj51SgX1bSMCiG55qUCwXnApJpNxQ9z3Nv1H9nD9zFZKaE2B7PPToiA9jA2n6P59Ffw9JWiXPwT41BmNZicit6sEqcDBImcPRoT4c6YzDr5Og78EZ9IrW7aOpYa3XydUkAk1yB4nm1n16tAmb_mSLuRWyZMO0wobAXrb6tzEnDagpfZRUGGe_3jqbFaXPG8gxdBlaLEQ_FSBX-kFcupRXN1xCbGt0PBf7gXEWSPc-k",
     "lat": 43.6423809,
     "lng": -79.42676209999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHrTeNwBIvb219-DA7j3ulnSh_Qd8UIg6SmQ6hE9XEPEc6GAhekrgqN5UDikonqtWaFnGYCOu7Snl9CaJr8Mo4_mJY2l7wTEaIg7wq3dcIhAR9bUe509-xTgBi_XQzYGn7uLIOcmJdMl5XbnNnjaSZ84w=s4800-w400"
+    "photoUrl": "/photos/highly-likely-coffee.jpg"
   },
   {
     "id": "aroma-espresso-bar",
@@ -2267,7 +2267,7 @@
     "photoRef": "places/ChIJ4XoPgwM1K4gRv2Y8ygvswgs/photos/AU_ZVEGubrSaQRn7pmnY9PGZlQ2SnUkfnE3ai4cRobBpYjs2T8cMX6unA6twvOwIKO7ppit_FdzbSwZIwHUsV-sIemVNFsfr3-Oj8SfOdtoKGtdkKSXOT2H3DYnjsom0yfcuNytqS0Kb6Qrw5rmZDzO2GBrf__ughev1f2pZfTAXUEtQO7xhlh3O-TfutHKK1NNJkUjZcHzp_DU6Hju3pAlJs-C4gFWkuso7uNqAyHUciNB6HoqkEsEud5Kx0r3Oaq6vdeEmgTGOm9d3j5GZ_S3YPBGRxpPIwewna-PpyDRFzT-wuQ",
     "lat": 43.6390047,
     "lng": -79.41738459999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqH3MNvEDvKa14SfDEQ98EN7SIAzJJ2gJMZp6uiDgDHpytYglBQdWBwPxqFSNvm4tFr4Idi3Z6jxFqNYMVSqqAG-zueirFVK6qA=s4800-w400"
+    "photoUrl": "/photos/aroma-espresso-bar.jpg"
   },
   {
     "id": "bold-brew-coffee",
@@ -2296,7 +2296,7 @@
     "photoRef": "places/ChIJg_8fSnU1K4gRM5WdbmJER6Q/photos/AU_ZVEFm1B-k9ye0WmghpN6V2yAo_LjSACJq1OWoHDcHpAxtz793VN-dxiWLv_EEItUx6TnMzMnMdaU5XOvHNMuk4yNlnPHhuZBtR5kzzRtgC7RChYLMFKSMjJ2rd7-jCR_oF2YrYc_VxW6JaGxiTIi5J7HHFUCwKwEiYuZoSrqjx0hjVsVf9_D97e1HQqoOzffQJh0kLTembY1MLU1NPQX0D-7orMz4Qux6ljwSchl6L0x87nk6LiIpG_Z2V1dI7AlDOBKsT7IWebEm17VnJF6h02_BhjBp5ruGYOXmXV4b5kwQqJGzCeQdPQp5_5sO18gp4SvqZTN2eyWedLxDy1oywgNi1Vkdv3Jm_eELDhMzW1QwwCBH5CD2bmv6wHvuHBRZxBFiOoVU7J_O4nu2gEbvLDpcyO-oNhFGa1zu3MEubJftquaY",
     "lat": 43.6364052,
     "lng": -79.4260424,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNEkdsicfxzoear7-ttnG51JdfHWq7kJkhTaiwfa-udT18qLW2ZC4oO8gUOMWHcJgc91zLSkDVXt-cKxk4zgUODXRWKhABDA8hQ6ThzkBwjUQ6JsCS447gkBDtNSV-2fos3EISdcQ1lMAmTpMv4=s4800-w400"
+    "photoUrl": "/photos/bold-brew-coffee.jpg"
   },
   {
     "id": "the-common",
@@ -2325,7 +2325,7 @@
     "photoRef": "places/ChIJsXAuLPM1K4gRDjF5FZiAnf0/photos/AU_ZVEEwTKpSFYyASx8e1ZmfUuMnRl5R0KILARnSWi_JmLq7yM9IXH_IqAk-PjCZ65Rrgt5Yu22wnh7xttqAi4EWnGsXJee5Ow4FkOJdgM9GuytNRzaHvaaS_IvYdNwnSFKwgHRIHZzhBvKBzFSVVGbUoj08MqgocKklTsxowexhPU6-NRYBfjJpXjfBekZjHy0YpLcJXfWntNb6qvfzRkx7tNgEAdiyvqV-3Q8cJh5zMxCWboLRS2qpvnql-Kztw6DZC9FQb__NYyoxgYzLlK1hZPv-dHT5U4nLb2vMvJkesMPnhDnunvHGD7dqYpKwomPYsurYaotwdQ-1dDGe68QJ114uAMZU9IwXeXPY7IgDuAbGB0sawej3AeJNXcCW7Ae0abHga1rGWuSpooI_cn1Nh94shd6oopFsHr5FLzNEmvmKC3Tv",
     "lat": 43.641907499999995,
     "lng": -79.42378029999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHzXewC7SSMOC2JoTFp-oFzO69FEzxM0xuqhsH9MHaOGYynEpvukahoMWgfCn6Il_ZWVgpZQZ5YWDetq9fKw3LItzQujQLyrt3EkmJ4n4EJQhbxo-MXbMU6efpBXDPBh1mBQfwt38WwErppN2w=s4800-w400"
+    "photoUrl": "/photos/the-common.jpg"
   },
   {
     "id": "larry-s-place",
@@ -2354,7 +2354,7 @@
     "photoRef": "places/ChIJ8Sxvm9k1K4gRSIbGdna2wn0/photos/AU_ZVEF2LAXwbCqLT76j6Xrnq6ljfOGlpJ64_n0Ar62qx0u-5hnFcYw8BTKS-hW7soCA4kL-qOafxi84inSLz7FaJM54pQq-zRTwSwYoBnJHaGin1Qwfz0bZCs8tEyjpeLzZlsenY1TlKpT4id24NccmdTBi62A-gl0Ml1C6Eg1bfmOSqzDBQEJe_1KfQ0w3FcK-awRtXHbm5Mxcy2_GiS532vPJSdpjksDz0LG5BANfJEZ9t8tYfJe2ZYS3i_u1i-JDdKAy3eKVU5qCxljrRqH3_usUzu2WCul73XsS-EF6jlBvpI0YK3nQVdfaIAu_rYYmWAeBwkZpYqxuFxJGVsMpvrM5T1ahVCXmMkxyCl9gNDdZ10JbYESrbDbrmmyURRYuvsgJE9PGqG2zYpQLcar6AJ35vWe5FAXe3wqWFy7eC0QmgED6",
     "lat": 43.641346999999996,
     "lng": -79.4337925,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHyG4cS476Xl9suLlSn9HO4dxULD5A2M77BEJchjRQ-RChnatb1gECAl6sKmMh3-vNzE2i4UnTdOHle4wJBzWQE81xt6wPvioJ3jnGriEKjktfqD3QH5iIbmNegy_eyC7QxB63UfTrtwq1uV-E=s4800-w400"
+    "photoUrl": "/photos/larry-s-place.jpg"
   },
   {
     "id": "found-coffee-bellwoods",
@@ -2383,7 +2383,7 @@
     "photoRef": "places/ChIJs4JIrd01K4gReMS_sbdYkYg/photos/AU_ZVEHpnDrO7iWqVk21Ew2AgzGR6gvMxpQkRu02pnu7nViy8W5nHTZSEUVgY35HSYeE9nGeutcDa7yj2KHrWDOjJOoZzkSMTPh5p3rEIV-YOVRt-jy39f_HUzdLwxpXRXDc4n7l-fLZryhbq8LJHcWu2c-rBeGcKvNBgxprahsaE1gzNwNlYGtyMk08Ytr5T4SM-xSGHVSAFDV3GhR547eG1NYI6qCBRptwTsdTQc83RUy0PkKWa4jfKDfr8u0oeEKt0f1nkFyxOKouoPd1vxIkU_JT3L77f828lfisYywq9pL98aTFvVODtHnOpl9GVibRDB3pbafJPiOsZMv7m8oWr1l4C5Vxw-vhDOWo41ryyeC6-0SGu84q_9vclItBs-11G_KmXyl8kV1REqSGxF-5lsHN_dhHqPWDauDRJ8WORK0HS_eq5Dqw7i5TxCxYmw",
     "lat": 43.647097099999996,
     "lng": -79.4168942,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNH1VsHFqs5-3fK31yksGfx_vZZx1o0I064pOi5pAMi2W-qzlfVz_Cf_J5Pte14ZAWF4ZqnpyAIih85LdvLqv4lBkuTRqtQd-XE6TbG3kKbHFjbFfsO4WWojbmvzBHu5_5Q6IJME7Zc9jbVSoDcwcDZG=s4800-w400"
+    "photoUrl": "/photos/found-coffee-bellwoods.jpg"
   },
   {
     "id": "milky-s-cloud-room",
@@ -2412,7 +2412,7 @@
     "photoRef": "places/ChIJQ-2Cguo1K4gRrdMfcRm5418/photos/AU_ZVEEUD92wxte25NfwAdOcdxoQw2m38hMaiGNvrsHLeaAPWtGdkYn3v3rkyY_Ty45KngW-Hv_32IR9fvjSscrmZL_lgJDQILuP0NTPoz7xW99G0xeq-oW7Jl2Hw_fG1gMJMaNgLy20-DPXvNKz7k7VO7BY0QqVUofH0GLqxKlQZJtW-4qTPUP2Eqi4JSV5t70VzeXPSGW3CUeFRS9bAzJap9emc8IV_yyXmkYCrdFrKmz--alaQZu4g6nxsELWHq2D8LGStIpLcNZ_gUVi-zD3xR9qeGlKHJRKGhGgHBzQ80xVzw0FHP5tChm4K24tXovaYrCZaKZVEC20hv75KpiasGKm92hmVl881PX_KU1TAWSHMJcAGRftszCWsg8I75jnSoEaTCHG-8zppRcXFrZ8_kTjfvfrEjL8yn9YbZ2SVlw",
     "lat": 43.64104510000001,
     "lng": -79.4017408,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGtL9lL2wKRVuagoe15fC9NeOZ3eQJGctP8-vah2BAt-U0mW3AK_233_zZMbS7a0kss-0y0iLYapFSpnzkfCg39bM6s5wU1b2Ey6JVPB-KiY-z9gTKMO8J9dZl6deRYEYTK6pG0kS2AmlmG=s4800-w400"
+    "photoUrl": "/photos/milky-s-cloud-room.jpg"
   },
   {
     "id": "the-abbott",
@@ -2441,7 +2441,7 @@
     "photoRef": "places/ChIJVUdWMak1K4gRfojBvZ3GRLE/photos/AU_ZVEEzKY7nFEL2GutDei2sr-2UASEVbson9k9utgMuHbpqEDRIIR7RhT-_VxwrEF1V5qjJZbXCPJTKqikMUJxXptM3wxqnDXmF38ZrDERnpN6xUrm2wyyiIYoQqQdzd4LCXFwyeEjlKASyUjOTg_osSqE77ptzb6Kg2be0M9MgCs6AbNQD5qsif3gnY20Omt4mAh631qgt2Vpri8PRHRHmHRHyxodEQJLpvnTXgOR_bxwlWX_5jKe5w0xobssBYo9IW6E7ToEY-0K_vyQSZx-Wq6iywVW4tszs_0EEja7DhwE3tXhmNlE1hsSXIFxvJST9DklYLwuyaaSRJTrcXErw_AS_Iq1Yb423BRfal9ac4dgtc9Sb5lAr8cK5OeK7ISZw3u_PX9n8lgUTKolhcAcI5aX0wmJtQzNxl75ouJTmjJCk3ko",
     "lat": 43.637959599999995,
     "lng": -79.43061929999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHVeoikyl5EH_9oQUQmk3nRZ057GB2l3JN9pbRpkeL4PBPfI_gcKAHE8lLtyVXQ2UKSaBnHAvQpm-6qjzvZeM5CvkFSEmaBLJCdN6SeCiJZPVkAeBz58Ue5O0w_MQBSbyFg19u7Oy9MUYRxoQ=s4800-w400"
+    "photoUrl": "/photos/the-abbott.jpg"
   },
   {
     "id": "project-seoul",
@@ -2470,7 +2470,7 @@
     "photoRef": "places/ChIJ14swXAA1K4gR57BtRMSAjYY/photos/AU_ZVEFoOOCueQN8sf4Qd57zc7Jp3kugP2JaBNuUqaySMb0cchTEGO-lJwv7KEh657y7fmWql75nyhbSs3DoMMpFrYJU6XEyMvVxz1zVUhV_yoXFVVqewYFw3HpFk8MXcBhOXpL3bus0f8xitSHVdoSeWwXjRW6_X2G2EQKyOMQBpnyEHN8ZEJisAB5cRLSwvdgS69q5S1Iv5CVfqmfdPH_Wc8quCj0Yn2t6fdUvgqXv2n-jzcdBIUhfVJlExbzGMSxDo7wtdI0ozVnbDYqojojtQ9tFjA9FW0OsF8wyJ4_w3ujb2g",
     "lat": 43.6554893,
     "lng": -79.3987784,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqF5XUlCp_sNPxqPo3JA89UdOIJCbSgUcGyw7KDpZU-wfNsJVkLpThdUs0UUmQazgdQT_FDaIB1NqCwqXAJtpYEpAIXzUMvCjno=s4800-w400"
+    "photoUrl": "/photos/project-seoul.jpg"
   },
   {
     "id": "neo-coffee-bar-king-x-spadina",
@@ -2499,7 +2499,7 @@
     "photoRef": "places/ChIJG01e4c01K4gR5inw-zuOYr4/photos/AU_ZVEFzi3iQNASs_Wobc84EDRflypeUkVDkgotWT3azZ2v6nIgNFlIWavt3zsPEcKhr11rRUnkIBqH49eTknFgh-gP15DQMgI68m7Ra-l-1J2IS7vX06YDIZW0llQoLq6-JdWlrYkzP2ghtocTtsQNhMIjOG1aULJEpNOORvi_VGPHMj-FFz7oqduwEdQlS_SaoPDN3TUBHuad5STZu1DnpN3rGtkZngHDv1rbuUMMjeiYPt2kOs46d8BWI5m7xrI2WUvvQr7B8oFghHiNdr6p5c9SQHv_lAhqBolnhX7lXjLAe7ninxdmALDF_QoNB7GTU5oUqW8XremY4mnFOQvnoWutLKzgu5oGrjYw2_5Gjh2dDSgaxXzClsOEQqL6n2Vv6wOCuAAM8nmNrXHc-0hUluXeyosUYq_RVgIDXOsUs00Af1w",
     "lat": 43.645033399999996,
     "lng": -79.3944412,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNGoTcXfG_t2B2ETzoTSFcMAzeZsvkPOcGZGEW_0wPs5FKGV1oBqypHr89zL0AoJplXZ5K7WJVzH4QQqo4RboZFU3zNgK0srpREsX7UuERx-MLFOoOTUQYc_tmdHE_Qr5xolgvWizETLRpJ0Iw=s4800-w400"
+    "photoUrl": "/photos/neo-coffee-bar-king-x-spadina.jpg"
   },
   {
     "id": "cafe-la-on",
@@ -2528,7 +2528,7 @@
     "photoRef": "places/ChIJG00ayNM1K4gRrR6gB1tQCoY/photos/AU_ZVEHscFbuX8cgmiDPlxJVoTH2_gfTyo2gOVmDljzcwIG9u7J7DaC4RN_ZOkGoSQ666ZZWkDO5R34KiaAgAAqBRIsvcsVjbq8CsyI_Smcs8ieiNFuRvf_G9B8cE9JtzBiurlyMCebgelaO8a-UKeSbwy1SvR-MP5cL_-EgOcU9z7IrwQ-RgLALQTSucWmm7sNGuhVL2qddXxdNRV6W-6aJnIa4R02tfYg2w6VOCuDaImdLp_1EsMXYaUq_57NsqZ5rRFzeIi5qYicB39vo8HFzZnMpedk5CGrFZFd3597BjTEIZw",
     "lat": 43.6531775,
     "lng": -79.396355,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFr1n46pFb2dx3yXDNhrF3kQWVmw1usRNf1AbquM_ua3bstWYrPGYmkhqwhHPcJ8wFEgKfmrbG2TfJgLuybRzK9O3H0vmznXvk=s4800-w400"
+    "photoUrl": "/photos/cafe-la-on.jpg"
   },
   {
     "id": "dark-horse-espresso-bar",
@@ -2557,7 +2557,7 @@
     "photoRef": "places/ChIJg-RSqsQ0K4gRrSee2ZHzeic/photos/AU_ZVEE8DW5ySlXjhw613dTebLGHXfkl09owQApRUHAbNKc_q29VloTLphM0KPsd2kw4Z8aS0M1j5Tsu8DDxl1-pzueO7KFFo5aQiDzpl3g8aGogz0mWvCG70SWy-PF8BqEdYK07U1q-ZDhGvsAXaPOSymn2w3vky6mAowqy8JYc7AFvXeOx6Sr1enD_-o1tDyN5YQT4GdPtWL0-XLAHGitlSqGHz8dCLF-FDDkMybhhVZ-iUb_EoUkVYbiilkyskzI7gaMoPue9kSB1zFtBjz8De99wjR_q9JlOG4ttcgP-gCixqQ",
     "lat": 43.6506042,
     "lng": -79.3967972,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqF6okdcAEx45Gy8j5Tz6cEMoaYuZnvodmsr5bml2qPEOU9Dnk08cZ6ZaCo-C_E9FnroPjOidDJliqyAS0XBoqcNpqzP07FQqa4=s4800-w400"
+    "photoUrl": "/photos/dark-horse-espresso-bar.jpg"
   },
   {
     "id": "10-dean-waverley",
@@ -2586,7 +2586,7 @@
     "photoRef": "places/ChIJYVimWOw1K4gRwqk-z0SZ7yg/photos/AU_ZVEFSY3aqHkAVBbohsb1Wz4bZJg7SE5TNUIEwL1_G2fu_rLJeuGrXpcDO1SrvfHpSxAp8j9dX1Ha3JNrXvGHuM8ymx0u86yT7iWgbpqqwkXftkdvFX5F3tpPw8N8LLWU15dtCzeduu-4tHx1eLeF1L6PeK6Y7j0ORq_mLnGJYoDSg7LC-cf8eCGRq1dEqv3Iq0xs2NpT4G580asaKR1Yk0b7gJGZkZV_GjdtJe7hYSfhpJpyzam2V_OlM-vIbTMDCHrDH8w3OLMOh4JHPei7_B1eiyOunVOfhfSiN1jmTtgttyQ",
     "lat": 43.6583349,
     "lng": -79.4004685,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHDqSi8LSSDR6zPqM_dErvMsGgiGI9OU4JNck5fCJWmDhred43xFapOgKMAMSJ89ackGS7KZ6rfRQ4b9T6U_F5N5IfUy_qqkcc=s4800-w400"
+    "photoUrl": "/photos/10-dean-waverley.jpg"
   },
   {
     "id": "cosmo-cafe-bar",
@@ -2615,7 +2615,7 @@
     "photoRef": "places/ChIJn6NDgUw1K4gRQW-RlnmPS-g/photos/AU_ZVEGuwgDGPQdnsO8ciPhdTltcSmfFGBdYt-VisBKIdYc8oZ-CbGO5uIDwD3osqw43xngIkzQu2wWBBXQwWm9_OwwnhAypL9UWlVRxdGgNMb1FZdMztkIx4NNnLE_j2Ypwb5aXCNC16sSMoeUpmnMYqxROMurHyyoLqzOFtZq3Rn5isNm_HYE9BaW9AAVa1eGwopqkyYqmvqASMa-3ltEt2Hc6XiQ-KhwS19Rr_vSQDd8CD4uAxxqFTtVP5puJE9s4RW-2OWpDBBsfDbl8cC70eqNOzUYE3v4mPGZt0yIQ22QiqA",
     "lat": 43.6556868,
     "lng": -79.3994187,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFfbs23G3d7-dXlOIh7tYETFBvz8OMi7VXB1eEOq1Fx9CFvBgE0eTVc5TS9JRTyNN-zv_Re0akkLS47ia6F_szZd0tx4EdndAM=s4800-w400"
+    "photoUrl": "/photos/cosmo-cafe-bar.jpg"
   },
   {
     "id": "hanbingo",
@@ -2644,7 +2644,7 @@
     "photoRef": "places/ChIJWwRlnus1K4gRsOVr9Vb7A14/photos/AU_ZVEFk64Pspc607mJr5VmJbjsr6HQQRZX_vQQoKRXqC0mQyWHB3e482RyQ1jLydyoo21sBqacnzpt3OLXuVjNVhlWnJqnNnYoOJPs2BffafUEceBJN_inhOZkaabZqtd6vOdj7TaUAOaGttvhVm-4dVD2OePFLr2v_zedS1x00DeJAIZQpuzaAjD8CDbQ4ucVvaA-gXGZ_qcRzn6J638RrtfiJfmI3V180F1jIYwO_vxz-MQtb-deGl0ZjDRSRKV4vi1ibY7cQg_hrlbu-MC8xBohjgXpA1ZTt30LuOxLqWzktfQ",
     "lat": 43.6566148,
     "lng": -79.39907149999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGDSyYnQwjhsTZpFHFs4ZRDkriNnNbWb2WY5aKCehn2Caj-ZX5GGipwHD6XhzVbOX7z0TYpCj7rfpum87EHnu-Q6nMCGWrrVPA=s4800-w400"
+    "photoUrl": "/photos/hanbingo.jpg"
   },
   {
     "id": "de-mello-coffee",
@@ -2673,7 +2673,7 @@
     "photoRef": "places/ChIJBfYqyK81K4gR8yZzL0qQTqQ/photos/AU_ZVEEdxVGoFYRoyskbKD6D3ymDdA9uxXD_d6XsPmo_mz0fpcH3MmBTpp1gVuhaClLA6JkuFZx9zv0u9BFIB6yv1gH4ZXUK2Ak0uz0gnJVsBjYSpG2Z0ETahXKEoOGejULPow_Qxz-lx9Od7VUyDX-HVq_zfHgHeXgyQoD6lobCLNbck-V4nGhWjL--7OKGH6i7Wf13k-lDskjd97_J2vgTcQ645dZ61dm_difYBaSb9c4Iy5LLk49fmUhPvH1lLbjD6slfWl4bFVTpgU1qpcjjSCnv3yNqP4ZdIzIP6eWCRZ6yHA",
     "lat": 43.6431684,
     "lng": -79.39445769999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFAvZfc0GBr-4E2UeSNMNGtCLdq518f4r3lIr8NdrNAZnho09P_GXVohOp4gg5sqjvzFIxo89osJm7oksXZx6r4sXZxRY7duAo=s4800-w400"
+    "photoUrl": "/photos/de-mello-coffee.jpg"
   },
   {
     "id": "icha-tea",
@@ -2702,7 +2702,7 @@
     "photoRef": "places/ChIJ__8DpMQ0K4gRPNzVwLvVVkA/photos/AU_ZVEFK4OGc8pzg0xXglbqG-srmHTQyQAHVmcQN2W1F1dVnaPzPR8pyMhOVwh50YwureSJuk1PHftsh7nDR2tIBQxDZifxUdX4OGaK5e2U2FMWitxD2RLjQXwbEqKAybiqXJz297fB9QRPIUu-FLuxcJE-SKfnQGTdIony-y153k_5Brw5xEYsBlMzZKC2qD7rk_WfFzP9Dg0STLxAeTXQw9kLwhpseLu2giNXcE_FXxnSPN2aazyHG7FkEUa71QIJkDpIZKMLmyh0rVr5UZFgXyN9VHCWY82lW_ZJ5dyvcAjNsbA",
     "lat": 43.651417599999995,
     "lng": -79.39706249999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqG4SFhkipInBndhg4kWjRxEp4jMcVJ9pqWbxsRefDMVf6IP5-OZk8YWdXrN3siDc5UgbLSWcG_NFac2vyDG9It26OvTalkRUSE=s4800-w400"
+    "photoUrl": "/photos/icha-tea.jpg"
   },
   {
     "id": "lait-night",
@@ -2731,7 +2731,7 @@
     "photoRef": "places/ChIJw26CNU81K4gRYW3fc1AS8QI/photos/AU_ZVEFB3AX-OGpB2UQ8MimM5MO_TZw5XKQfW9Tbw_OmGCwt-NhzrAKXtCXcDRCkirZ5zm0-YgkXaH_CyPAsJXXMecINYgWmvRXiO9QTlZEfNVv2vIAUA0qCclS0di7U0qXTTafEIBMab3xkTVDDfAXd8gSEqaQ9bIomNLUdBRuqZMdiBkQybjaPdaZ_G_4Kt7iqglm4yq_Dz9Li5t6yFWcuOijblgQMG_hAxe0ELttjhxxMCWihROFa-9sNlr8RhQU4TKyt2y2apRkWlbQOHDdn0GT5hceV8JRK4Es9sKf6eh81AA",
     "lat": 43.65382290000001,
     "lng": -79.3962054,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFIii_Pw3CRkuoNBh0RFxDkucjAA7DrVVnWu6q0syNie3gbaGJm5fyRmdhtgMBDVVuizqyo7lEqDqrGk6tiE0ca0zW-kXbcqQ0=s4800-w400"
+    "photoUrl": "/photos/lait-night.jpg"
   },
   {
     "id": "le-gourmand",
@@ -2760,7 +2760,7 @@
     "photoRef": "places/ChIJHaKig9s0K4gRWQ9zec1EUJo/photos/AU_ZVEFAMGcnhFqaTEyRxEkfYuTAMg4fI2dvooQpRMcgINT60H3tBNfO50InDx3VX1RgHC1AkOQYjsdYht4RNQTanM3AojVsw9kgWsy6mAaUN7B-fuWd5_xpV3shj-4qMJp_KOBqLq-krJUWwSup1ZTgGpvKXZ5zjhsaNwEbIA4B-loR-CBuX3xdwYkfyUXMeHulPCf1oCqaZAQWcK6JgVZOA_reIx9LiCLttngrm0Au3PCgqEnFFd48u3oTlgs0Kil1uz77cpnw5DUZlHHFZW481ZarCDelFi_hWmSk7o_T8skITOILaGKnRiKlzP0c02ZgjsbJhySn8yhAn0LO-p2SgCBSUE7XdhuMRKKCt6UuDP8DcjISy1CJBVop74MmxkhXdspqWsZDJjCx0XEOqUIGdVlFPPOs-KPGA0LDC0dknDk",
     "lat": 43.648188,
     "lng": -79.39640399999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFcXaTFZumChmYFzvNC2xclLMb4vlUnE9eKZDfQAXTlBJeklsM-QRnyVbttC2IFqRRyE7b_JME335_ZuY1djghShY1ChkiaaZPb6gSrDeqsfGt2F628UvEBSRJH6_K8Uaj7aP2fyPS7g3eD=s4800-w400"
+    "photoUrl": "/photos/le-gourmand.jpg"
   },
   {
     "id": "little-pebbles-cafe",
@@ -2789,7 +2789,7 @@
     "photoRef": "places/ChIJbbzx0sM0K4gRAFRUCzmfFaI/photos/AU_ZVEHhWIV2umBPh7K-1EnwXO1YjUIDHxHPt7BK02hGmHif7VSdWGD3X62-GH1xjDhK8fTsv-7ouBtY6kAICuYnPNbk3jji3Kt1VbyyHOfc8KSiKjIw5Vh2JHgpi-Wuw8yZiDg_bXPmStKrH6DPHdrqxN8u4WFlhW4glBqPVZWg7T_VWcGMyJa7VyjuASdhvJGCKieiDnEBHwSozZQZanORPpq5HfFb97X_BUC_QoKtGdpAHMmYqe4iWsBZLiIzWRM-NjAIhPt25MEAveybUeH566l698Lhfswb6zhOYD6X-nkPoA",
     "lat": 43.654944,
     "lng": -79.4001785,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGITRAyNhWFJ6ltdkt54ZwXVMgvjtTeGePZFWRQZlRpxvTtVoxnJ9SwCL5LOLIZJMk-ixWoQrNNNVCjBAHLf6pFqFbgQUEJeKg=s4800-w400"
+    "photoUrl": "/photos/little-pebbles-cafe.jpg"
   },
   {
     "id": "crimson-teas",
@@ -2818,7 +2818,7 @@
     "photoRef": "places/ChIJY-BvzcA0K4gR8xxMEjb1rP4/photos/AU_ZVEEyu61dasfnYAqi2yOghhOVaCnO9z4mp5EOguBi6ClqcPdTQkSdYi3s6sAZ0Tcw1m0_sw3w_nZUgCmYqsQ7xPa3MIyIS8WQcf34CTW01BKnOfvGQddaNNj2q2f8_7OGts5d6oTgTFEhT07_09ZNL0oiHoyU-birubTODYpPy0HWFO-7Sfb8_aeIs2_JI2mVbpAtNID46mtXI8joRjpQlx6UZ68Bhz7C0MU3SCdWEKiJTPsGJj0RZ-Qx8I2PgBU3n0oCXL8xg4c2DWfy8jXgz8vODi2VDmIWIfzif-48it9zLw",
     "lat": 43.6570217,
     "lng": -79.39935670000001,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGXqRmqHUfEvP_7WHabarEfb0MZLJc3nJ9aHKwu80branWV7ao297jymWf0iHPC1cyLRbWUWUffTPAzWhRQIcdPAHvheWr_isM=s4800-w400"
+    "photoUrl": "/photos/crimson-teas.jpg"
   },
   {
     "id": "arena-coffee-bar",
@@ -2847,7 +2847,7 @@
     "photoRef": "places/ChIJM0uykj3L1IkRmqc7DxRqe4w/photos/AU_ZVEFgNr2P9k-EEqZAohViFpuMtzbABzt8-xTi54x4OciR21-HBzFRLUlMMhr2x6R_47ki1XI1rkxzijUuiGjBeO02ciI89lQIUSro8B-bykmQXFk15c0mW5XyShtvMZOIGgi2LQ4U-B-X8R1r2WWasqVke4nWOPPxKXG_ONlVpNhPybn4dWzzTYOv_WwOj4F9hJekvJF9tlflSlt3YR0MIKHJ7B9uvK1fATCIG3d3NFarf-Y5xgRXZk6ZgDdqk2s-UVh64dUlju6194qTaf_LEfblstIvg-FCGP9Jc66lKm9NHA",
     "lat": 43.6503033,
     "lng": -79.3589288,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHbokhFSVZ9CKrXW5dN7rAEyY1Ego42J8YEN2TKtmY6i6gMglbDg9qUqcN55ieXF_Z6yAHUvgJj4ydlvC66x4C9BAMzUQr_zGg=s4800-w400"
+    "photoUrl": "/photos/arena-coffee-bar.jpg"
   },
   {
     "id": "brick-street-bakery",
@@ -2876,7 +2876,7 @@
     "photoRef": "places/ChIJv1iSxz3L1IkRFMzOYoukdzQ/photos/AU_ZVEGtsPcdgFuDnveGRb28yb4pQ9IDMIG-XrZbof2gktTLv2vOP_deDH_E8FKCPy_zzUD3RXLp_jN4Fj4rRpPnS1X79jKqrMqK6ZVGdkOu2lGLiiUbDfeH60-bxnxFrbjAZPiB4liZcahdYjlx42I00T0WlQHvueD2kc3R-6rGxA-5DSjtwOM9y5b4svfZRLu391SVpWMlt7w6Nbj6MLvggR-uf-PmiyPuIHYbE0xNCLwfzPwiw_ndc1AqdFf2-wjp_ZbRDiyUGop7ozeGmn1p5-ba8O6zP-BQR1mV_DnjjoIvwZoTh8kYxLY4YltPfUbcpHb8a7ASRknfK5MIOflo5895WYlL6BEzQtrh7rr1kzchm2I61Tux7-w3KSI81xlHa_OavJKkIhhbQpvC56KREYJRtk6ALdkivSXGWENjIYM_IeQd",
     "lat": 43.6505485,
     "lng": -79.3595254,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFpze6CCQLBLCnF2MlzakJ_7UyWsEprDRwB3XPCuJq4CBR9RFAL0XhJ96AKywEMLbQE87aOhUTE9na45KQ8Irv4FTOHl0iKq2fjENOA0JHuqTw5H6lXMyLZdUM2IWXuacchh952rVfCK9glSrQ=s4800-w400"
+    "photoUrl": "/photos/brick-street-bakery.jpg"
   },
   {
     "id": "berkeley-cafe",
@@ -2905,7 +2905,7 @@
     "photoRef": "places/ChIJ4XfulTrL1IkRW4lVpJGSfeM/photos/AU_ZVEGMQPnlof54P7qUxWoot-CHMXrG6BL0Zfd0jvdu-Yp9bErgnqvJuT4N6tGRkhsiKHTyHLzqkBLnu0G8TTkJzGeb488tcwB45NCpxLM0xnBwWTmO-S4VU3MYPIpjuEyGjRqqmu_3Z6kLDe_zzVMzohch_ip06uZl2EVYDoBg6Ht3W-uhEXrTbx6k_04eGFifQ_IZPVtDyXGQbws3YUSgja0H2Fj17yYuNgNfXFYJnz_47_Z-bCvR5wTJP4Q5y7QD9O2WPheY4ErTH-d3e-eRRpV-MFqobD6Q2oSeOg7K8PXbfg",
     "lat": 43.6499941,
     "lng": -79.36383230000001,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFVexP0fgUo_kzXWK5GqNWfDVPCmK_DPMRasYTEmgRnju5S1g0FAymfRsF8hS5jAv-FIL7kdx1vywWPXxc40jYRHBftM3TUmLQ=s4800-w400"
+    "photoUrl": "/photos/berkeley-cafe.jpg"
   },
   {
     "id": "wildly-delicious-fine-foods",
@@ -2934,7 +2934,7 @@
     "photoRef": "places/ChIJTcRklD3L1IkRx2_YedPQy68/photos/AU_ZVEF0tqp8a8JhI8FLR1z9pHq4Fd3t2AswSniVzD8k5TelElTkjktGP-n6y1klRYxnLiieT9-r9Wx0_TW_gHkINShMC2Hs9FEhjKFFD_4Nj6bMp4yl7QX1Flxj3ygX5IGIQrhxiuObLgJfNZQiUPmGaypCFqfLFHAvCILxFqsXyOn3leE3nLaMwDbBzCsQsyz_YiVlGBSv0uxVYK_c1ODhPGsb5r4UlXVhW_L9O6EcT99hEzdJu5Rm9Q3y-kk7LouXMRnDbJ2PFryz3CxrBlxtYHm92kMl4aMm0_Pxp2ZV1WlHJA",
     "lat": 43.6503674,
     "lng": -79.3589235,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqFD0YpCYwa8W58AXkvTBNyiJ0up5QgQsrzfZVDK4cGKlgk2ae5EFvP07pdfRiEGkGo3QJ9to03bZfpSQEvLV1Xd9NMb7BReSFU=s4800-w400"
+    "photoUrl": "/photos/wildly-delicious-fine-foods.jpg"
   },
   {
     "id": "roozamoon-cafe",
@@ -2963,7 +2963,7 @@
     "photoRef": "places/ChIJt00bQOHL1IkRdabeKtFjrMc/photos/AU_ZVEFwBvxQJXC67SBzrgjYwN5l1eTCkbXjr9FqpHC_lJYyp7yDL83CiA9pDQ4YMS5P7em_y6-bCS6bjPcRbSgRvvyf9Qw3RAkw6yWj7NLiah-Z8AQb5P06RDG4Pkl6WYNzX-HjJzgq9LGahoTu1qJKb6mAxwldWUvsXgJn1chNnR7-T2C__m5YF8AcboUkbphnOLbO4xe7IuPxAgZUGlimRwA9nSojX1dz7mKdEWHin9u5Gih0NEZM2jjyNfgENzk0hN7lCrf7PR18E5dbpL4qLRqyjTr6_jvfCETK2lPa-zl_7Q",
     "lat": 43.656073199999994,
     "lng": -79.3628915,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEPxtsXywoWlZNXXdbhP4RiUCPCRiDiktv12KFWGyGHSee1GqqCVn78booUYiRgjJSTez7zsen_RObdLDO_HOXQXRZsK6WKmkI=s4800-w400"
+    "photoUrl": "/photos/roozamoon-cafe.jpg"
   },
   {
     "id": "el-catrin-destileria",
@@ -2992,7 +2992,7 @@
     "photoRef": "places/ChIJv1iSxz3L1IkRXz12kosNW64/photos/AU_ZVEHd864lBQGSMnJ5j1vZktpw_e4DIngdzh9acK0X3xJKgpGw9ds0yto1Bx4MBmO8TLFl081e-j964Rl3HxcTz4-8fjcB4pcMpJudwoA_9Fgf89meT54-cI0P8Ko2qHzFcL04fH1jg6FA37Q7N3SEetj5vmNKe8pSKIWSzWvCw_74X6CG2lVbPJ52wjTCulg93Yruo5g7wZOAlJ7ifgzsT_YhvL5gDufIcjb2vIHEXYYmhHN6UoHujSIn3db_-pvu8Plc7EKjcECwnOpwvk6suUF1bZWgSWdo1_4fX18F3TSS8A",
     "lat": 43.650542,
     "lng": -79.3587374,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqGuKt8eGCWCA7RFGG9vFgyr4FjE5pOj5lHQkxp97B1UfXmF8l_JBFABU5smjTDycn8HOjgiFsOQFbHsn5kWzHW_fLiEwsiSY80=s4800-w400"
+    "photoUrl": "/photos/el-catrin-destileria.jpg"
   },
   {
     "id": "wallace-espresso",
@@ -3021,7 +3021,7 @@
     "photoRef": "places/ChIJEdfub1Q1K4gRRIFulLAvTLc/photos/AU_ZVEFP5-EnF6PtteQyqnTxmgHAHo0-WhJfnPRc41GTP18gf7w5LANen-IBS11uWlIRBWFPXyt31WZS7onr0OslMcLS-GPu5fzlYyHsiS79bBhv51sNyWGEQAl6ESHoUqCkB04hOEaTL1X6lTyc42YM616YL0i2v8H6JGXLpOvJJX5OPw3XkbcjsXZEKUa-PPPcOTaxmuGQMmdMZKhPI313YUQIWWJ-qhXCrauuASzb3UXeBJ0vseYokwdCew17_gYX3qkLoKv6mlBS9aiXuOtJ01agBVC5GlPo_PefovQJYpSdYA",
     "lat": 43.64290810000001,
     "lng": -79.4084482,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqHOqhx5N3mP9WBI0AxdDknwi8iXoFKw9pJzVRZ4iDocsz-rE5AE2OYp0CZcsi_WAdCohgQd0z9TBcwPh__ANgFC_oOJAdnZji8=s4800-w400"
+    "photoUrl": "/photos/wallace-espresso.jpg"
   },
   {
     "id": "caf-negin",
@@ -3050,7 +3050,7 @@
     "photoRef": "places/ChIJ9UncxuE0K4gRNPg3w7sKQh4/photos/AU_ZVEG7Ld5_gLgHtvNArfQ5n9MVhiLiEJWHvS98jWwt0JhIWR_eJimxkFQRUFfzMxYWhxI925mrLK--7P2FnJg2-A4SY5Bl7OcGodd6Ny_7WV1wLJ4DdSq0gHIUaamjB9kWf61eTu0e2V93KQrzlJm1CIOJmy6L8CQQ7YoPvK3hcI9rqaDU71qd7ZcYTymOUMnsiAsMYCev5Qqx9VJaX-vrWrGnb-Z8hoQadFkiuzZLHEAd1QMDbFjv_opzu3JhBw5ZS8cXol7rya2CuNOBDcVJCWv2Ix8jFS1_88dZk_gqG90hLQ",
     "lat": 43.642981,
     "lng": -79.40668339999999,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqH0ru9G6Y7JPJKMj2Wo1z3ChJDWrmLmoQcuZj-iDKfMQApPYl6Tsq4Ao7QyA_06clAi44kWofgCS9C46svYTgTZdD4ati44cDg=s4800-w400"
+    "photoUrl": "/photos/caf-negin.jpg"
   },
   {
     "id": "jacked-up-coffee-225-king",
@@ -3079,7 +3079,7 @@
     "photoRef": "places/ChIJMyCqfP81K4gROZJVMDzR5bc/photos/AU_ZVEGNM_9_Mjp_F8yrPpB88v8siAwtd_6r5m_CA0rv8EasuhawjWQyfVAPsj73dtxWW0pfSR5msBVr4BVdy_fy31eDiohLlqt7o3bh5DtJEEFpykxzFYlWLqQjZ-iHM0-aN3L6TDRPH_-l7H-mp2sF8vkHL4Rn5Gid3vqrP-2nJcwX3PaibJACFiDptZfEuGYHK40sNMf1j5ZL16BVrD0p5iE4zVyiTCEG-5crvjPACbvk6M6xDLB4gJZ9tDo8NfuCOALBWy5goX9FCGaRLOk-uVi2v30RX5-C2faY9jomVJSU3eSfnNXdks01L1iqJyupioQAnTp0vUGSXvo6Q2EVZBa69U02hWGF1Cl48ahW1YIWUp8yfQh0Ei3JVxIMcmLDn7oJMjBqzmLJrVKslpOLUp5_sHSL02A9dnOXWivIMxjtuwBe",
     "lat": 43.646547999999996,
     "lng": -79.3880294,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNH1vEUWejv4L_ovr1mu3ojSR9Y_W3cEr-Y62jjXkBteuK_Hq1bhy74wvpkH3IGKUvbpNc9B4FNkNRnc-U2kRSXTtVUJjkwwZn6tLpaif_SkYngd3MlkaG1bSMEQKgQRVbQle5UkNliKxFdsetU=s4800-w400"
+    "photoUrl": "/photos/jacked-up-coffee-225-king.jpg"
   },
   {
     "id": "forno-cultura",
@@ -3108,7 +3108,7 @@
     "photoRef": "places/ChIJ1dL5s940K4gR97_ZLtTsbwk/photos/AU_ZVEE4CTlWanWT0zmcvRPZWir2jJv-FN8SxttEY8FXXiUJiR-sYgbzP0dVOx1QlgQ8--HzTExmGIWG7N-bXhYwWgtOymrGqrjqtiSgHbiUFh5QyfUKqjyBr551w6_G4QiUEdd5hKU_A7NJMPYmkxW7A2jdUr0__vg2UOUgq4N1KcuwZg6mksPL5JUH-iPmwDR7yMzxI5bwWq7CptEiwSoKQvbyswaoZXZop0M2gIVeI3nCfQHHBLdCViLH4M0MQt_UfoqeePXT1aa1CEutCRz6BYe1-2zYJgg40yQqMcX63XzxoDn7mLif0rIsDeI-gh4n1xBBUUVJMBwglzs-hY0gDM3r_UQT31pjDMJkkhzxDAKAubT3xiF7DiVHTXU0OJLzeJ4Fntw4qLFa-ySBvyrzDzYMhxOw4U3aSTdXeymRx2jx_kvK",
     "lat": 43.6441094,
     "lng": -79.40070899999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNEw-RPkysiQn111yas2UtESap0L3DVbf8JiQo93MJNJ_Y9VRHz55R5sX7yT_Pag4nGsB2n4MUWlg0wtfODI07R87ljyDhu9zNi1HlSVf4C1B_ik5JwIelL9O3KR3bJ2ZQTwh2Oa18exL8Nlty4=s4800-w400"
+    "photoUrl": "/photos/forno-cultura.jpg"
   },
   {
     "id": "maman",
@@ -3137,7 +3137,7 @@
     "photoRef": "places/ChIJ9y-dotI0K4gRaEbGQDdJkVU/photos/AU_ZVEHw4CD92WgHgcASVM27sO9Ea4LRN-bbPlDfzUIBFYuyR4ZCyI6KdIhTgHry25th1icFKtVcluubvWhpDo-9-TcolHxjSOV53eMWoQlhhVhpaQl4U1CyHU7RgCoxA4-y2skO9V6St5jfNkdKdq-Sns8Va_bw5YMYluImm_CCYbKr3Jpx_heUfVT6m72uun3QVeZFN3VsK-RT_UtkhiIvFI5r4oc5HxqaMcWISxWcaSzujvROyqCgjQROCDCKLEuWAGwExEDnyFUvqm6lVlh3-ziFv4kotHR_4s-1nriIgbPyaw",
     "lat": 43.648999599999996,
     "lng": -79.38170040000001,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqERZVf2X6LGfaed20RYMUl-Q4C5TAOeAlb9v96_kll7Y8aaYlJoATUYR4sByYSIP9mMTjKjbaut_azIw1STPvWxh-rIFZmhvLo=s4800-w400"
+    "photoUrl": "/photos/maman.jpg"
   },
   {
     "id": "neo-coffee-bar-path",
@@ -3166,7 +3166,7 @@
     "photoRef": "places/ChIJcxNW_8A1K4gRfcFPPm8UXxc/photos/AU_ZVEH_QmSQMpgSknbtQi4d68zKiBuQfF2tVIyF6_fP6RB93DOdJvwACGvfV-LebSf9pn0fjGixyaVeY4pLUXr6U3ecQkiYm-lXAzxQliZEwCV3WpY-mUqqSAY8cTSMA2Un3ftb-OWEciEATnIIjJVmkCi2OG7DAuyo7473vBvjCl330EoOO6nVny09bkidfAP45slrZFGzafy9s5iBRSGtB54d-jHj97SNpZSrbHcDPLOp3cQOgXftls-shHIKM0kfncZOW2upB-TlXm-IHD2ypU0JlyNKTWf4WLaUbF_IlM0S9e4wpIS-60j4VWMU7O3g3rIVNuai6EXhgGxlQJxqwDlnH40lc9yaqSk2jw9qcWuoJSGk6pOeZwEWtaa8ERdK8WYc2UfE9vqBImh3Um7McfCNK4pFgLth8No461-EhdU",
     "lat": 43.648528,
     "lng": -79.38333589999999,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNH8hf-NwcBmyON1sOaEhR28d_E9OQQ5PLx9PT4hOf7VpyiYHUmArhlFtbPxjsed8QxjneP36eBl8xjtY42jf6xOlD9NY77MafmIaTHK7XwxWIh8mJ8CYZ-KcLPgTEEIRN5gN1zBd9kQL-wF=s4800-w400"
+    "photoUrl": "/photos/neo-coffee-bar-path.jpg"
   },
   {
     "id": "sam-james-coffee-bar-path",
@@ -3195,7 +3195,7 @@
     "photoRef": "places/ChIJ3Zd0_ow0K4gRyIWwvMCD6k8/photos/AU_ZVEHv7r8ZIy1nfqxyHP5eTUrRgS4dP3KkojDtd7CHaynTLBXHhiUONO-bTMb-KOoUo6ccgpu3aeZ6GBIujEek7SvPOg6EvQ9Xb_n8yaxefEDWXVF158EXwf37u7CK9PC1W7Oqm2NODc4uRLd7yal3HqNtmTz-r-lCEDZkL_XX-RP0Wk_l1F2mA7AbGKOzIeS_bwXDd0goHUmM1enerS45U6y0_8rk9S61qq-nfhvIWCcVCUrbl7V1Mmv8rydgAzENulio9ID3hCJomStTxwEbzwzeJLVycfm3QV7aDV4AhS71iw",
     "lat": 43.6480458,
     "lng": -79.3840713,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEeR-qvIq1Oo_m2_UIE48CcVKe9DdrEXNhLFdzF62k0YeHemRMxqt5sFR7W0xcH3PgYXrUtKMDvuF9EXKIFBPSHPA5jt3xZY_I=s4800-w400"
+    "photoUrl": "/photos/sam-james-coffee-bar-path.jpg"
   },
   {
     "id": "cosette-coffee",
@@ -3224,7 +3224,7 @@
     "photoRef": "places/ChIJVaXgRKw1K4gRc336r5bB0Vk/photos/AU_ZVEG9HyTBlYGdT3Q-HxKDb456EkHY-OjMkug1VMUoH-93FhJ4LTqMwY1cFBuIttydSEB2hM3JiW0wb0K7JOeX13CmpI-d4mKE7hEGL88YctLneW5R2d7az7MEVa-SRhnXgi7fO6Vag7VFkur14IAT7NsaTXG1r674LyVJy41sGC9IEMBLuX4nCQ_JA9CUipjwzy6yN2kWHZ2-kBR7gZJ2EkNhTjc3CkGGb7RR0xH6-6a8tPRLBkHHPAVZOQd-IsUhQ3b0s6xcpnpAT_SIJmz-00ZntfwPpj4V09CTSJilWPQmtiPzv5lMItw1cGiYekCz0K522ik5EHpaVQMgHrwnvvNrA3HY6SbIg6M7_JLNRwVPzCBa5KAAQbPX5GGe1wxBAroiLxHNek8pPM-DFwGSOc080Tfoh3oSOnu-4i5MJ8w",
     "lat": 43.65473310000001,
     "lng": -79.4592048,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNHa7FcWXT88cQea-vlm3agmjmb-37q_yWmgsu5MCTpmm77I1AztVdXUW-7bbczC01MFTAgIxOyLjGb6JlMxTBMM3oLKYLLO-wjcZ3VQONMSTvpYmyRZiRat0fmq3wkb_cNkTuBkmFdEZ42i=s4800-w400"
+    "photoUrl": "/photos/cosette-coffee.jpg"
   },
   {
     "id": "the-brick-room",
@@ -3253,7 +3253,7 @@
     "photoRef": "places/ChIJI-HScCTL1IkRz6C8LwOT7wc/photos/AU_ZVEFdA_JIyjCRognt_1v0eSdRXnhqDVGagXAY_ThUCoV6WaKs1iiTTNJs9-0VRgDVETbA7oSJ5Lz61cddL4xTJEzAMztB6I6sTF1AQtn31a31kBsCAj1D13ANoeDIBYAqXFMvUiUux9JAmNLH-ImDi7vTtNQLKFajmTh8VOo4-VXSuiqd-Shohnx5TBSF3-uXoIpMfkTtcHYfb9fxX2Cg1uTN-9XwsNPePks9mIYBpnV5jaWEqWV9Odyd-1qqoHm9Noett2cnouueZXRFb7FVQFo7ig7SlsE0qLkejUCPqedCwSfWdrXtNYid7PWFdoop5wua84WgkAUSnSyjX50mVlGpH1c948rU0t8ejYBy5PqIBDb4ZwkyHbgbITNOAFts764W0DjEGKCu-AXPYYfJjRmAoZhYlfkYiJ3mF0VTRIlBTcMdPJv_PF9uG75SkOs7",
     "lat": 43.6507894,
     "lng": -79.3791418,
-    "photoUrl": "https://places.googleapis.com/v1/places/ChIJI-HScCTL1IkRz6C8LwOT7wc/photos/AU_ZVEFdA_JIyjCRognt_1v0eSdRXnhqDVGagXAY_ThUCoV6WaKs1iiTTNJs9-0VRgDVETbA7oSJ5Lz61cddL4xTJEzAMztB6I6sTF1AQtn31a31kBsCAj1D13ANoeDIBYAqXFMvUiUux9JAmNLH-ImDi7vTtNQLKFajmTh8VOo4-VXSuiqd-Shohnx5TBSF3-uXoIpMfkTtcHYfb9fxX2Cg1uTN-9XwsNPePks9mIYBpnV5jaWEqWV9Odyd-1qqoHm9Noett2cnouueZXRFb7FVQFo7ig7SlsE0qLkejUCPqedCwSfWdrXtNYid7PWFdoop5wua84WgkAUSnSyjX50mVlGpH1c948rU0t8ejYBy5PqIBDb4ZwkyHbgbITNOAFts764W0DjEGKCu-AXPYYfJjRmAoZhYlfkYiJ3mF0VTRIlBTcMdPJv_PF9uG75SkOs7/media?maxWidthPx=400&key=AIzaSyCq4V3b_mJDvyxAnT2FsWx4sTTPulXXjZw"
+    "photoUrl": "/photos/the-brick-room.jpg"
   },
   {
     "id": "ninetails-coffee-bloor",
@@ -3282,7 +3282,7 @@
     "photoRef": "places/ChIJ2wQ2bb41K4gRSaAgiZyju7I/photos/AU_ZVEHcI-O5jJvpPgIAvTnEcYk7Rq9GB-ZTXT6coj0KPuWdTimEwkI-oZ5PB422EsEX4jJ-ZsIp0NVNNUiqhfIGIHQPlbX2gbega4yCUoP-O8Nwawije7lPIzajlBwxUthumX_axvkEs89GJ-c8TOcQaJ11ZmtWBAA2OHuvw_lYudPg_uIFTLeYhrmXLwL4cfup6cvXSU1MzHU1iSD-eaJ9nj7uKaq5s_uUOVy9wJQw5bJfRt4ORAt7K_GXyZ4joVoJUl50Rkm9e1Ju51qc0uQUQ6ZCetruMcU1fQyv4eATVeZFFQ",
     "lat": 43.6641279,
     "lng": -79.41528269999999,
-    "photoUrl": "https://places.googleapis.com/v1/places/ChIJ2wQ2bb41K4gRSaAgiZyju7I/photos/AU_ZVEHcI-O5jJvpPgIAvTnEcYk7Rq9GB-ZTXT6coj0KPuWdTimEwkI-oZ5PB422EsEX4jJ-ZsIp0NVNNUiqhfIGIHQPlbX2gbega4yCUoP-O8Nwawije7lPIzajlBwxUthumX_axvkEs89GJ-c8TOcQaJ11ZmtWBAA2OHuvw_lYudPg_uIFTLeYhrmXLwL4cfup6cvXSU1MzHU1iSD-eaJ9nj7uKaq5s_uUOVy9wJQw5bJfRt4ORAt7K_GXyZ4joVoJUl50Rkm9e1Ju51qc0uQUQ6ZCetruMcU1fQyv4eATVeZFFQ/media?maxWidthPx=400&key=AIzaSyCq4V3b_mJDvyxAnT2FsWx4sTTPulXXjZw"
+    "photoUrl": "/photos/ninetails-coffee-bloor.jpg"
   },
   {
     "id": "typist-studios-coffee",
@@ -3311,7 +3311,7 @@
     "photoRef": "places/ChIJE5acvx81K4gRsqM-zSacjnk/photos/AU_ZVEGHwYunNQrW2Dzd2U_ADp4NI6BbPFSY5WP6u_1-76jzQ18fgEpb1OL68VdRkwct7LcYhxVX1jvqcQlme4gz1jTgSY6rYzFsLtL2V_bfuUhvDAQ7Vsnm_3-Gsb4A4wKFiaUDeC60BYrxJyaAx8q1wvbM15rCcO8wZb53Z38x74Z7VLjl1FcwAhizNqvjBpr7Oy-OEB7JH-nPfn43MtJiGdKlxqX2vNh2ESrMnRj2W1vmzAmAi7uOuOMwhpdt7D4vKxZ-lFbAuPeEWIHUiMhtdp6VNWDWIE9S0uxsAV_CVlyuHQ",
     "lat": 43.6742734,
     "lng": -79.41091329999999,
-    "photoUrl": "https://places.googleapis.com/v1/places/ChIJE5acvx81K4gRsqM-zSacjnk/photos/AU_ZVEGHwYunNQrW2Dzd2U_ADp4NI6BbPFSY5WP6u_1-76jzQ18fgEpb1OL68VdRkwct7LcYhxVX1jvqcQlme4gz1jTgSY6rYzFsLtL2V_bfuUhvDAQ7Vsnm_3-Gsb4A4wKFiaUDeC60BYrxJyaAx8q1wvbM15rCcO8wZb53Z38x74Z7VLjl1FcwAhizNqvjBpr7Oy-OEB7JH-nPfn43MtJiGdKlxqX2vNh2ESrMnRj2W1vmzAmAi7uOuOMwhpdt7D4vKxZ-lFbAuPeEWIHUiMhtdp6VNWDWIE9S0uxsAV_CVlyuHQ/media?maxWidthPx=400&key=AIzaSyCq4V3b_mJDvyxAnT2FsWx4sTTPulXXjZw"
+    "photoUrl": "/photos/typist-studios-coffee.jpg"
   },
   {
     "id": "pamenar",
@@ -3340,7 +3340,7 @@
     "photoRef": "places/ChIJ2zl04sE0K4gR-44Du4C98TM/photos/AU_ZVEHvvQVMEQZrHtyHNYSNRUqx_xT-Bd5vQHLS5iGhjK4AKJVbcaGY45ZADPACdf7UA108P193uhRwJznFU3-zXpt8DYtT7pJ_o-a1MrSyuUsUOXuD0vTtuRWOCZYZJnl_BVD083QTV5gIxoxNMr7HvxWyLMTfEc68gXPCwJnSgLrQSBvKQRGFYgrsePIf0qWOKIROdbUMou--6XmEGIqurZMzsFJ0JZN_HgHymkw59CYCn9eZfxNCPrcFQ1ZU8eDKKVug5v7NX68BwcyUnP57AHUon6Wm48Ro8m_87nwV9jImUtsV1zWu1BNYpiyXO0wc85Tc-DXCZ_U752JpbUDRk0FlmcWMvOBL3wLclRXnAfRTbZHDm0UBxeTCrxIR1sNBkLgPds61M3SGmzp4vyqj4DGsG1XNSCNPtdlP4O4PFX8",
     "lat": 43.65668350000001,
     "lng": -79.40270939999999,
-    "photoUrl": "https://places.googleapis.com/v1/places/ChIJ2zl04sE0K4gR-44Du4C98TM/photos/AU_ZVEHvvQVMEQZrHtyHNYSNRUqx_xT-Bd5vQHLS5iGhjK4AKJVbcaGY45ZADPACdf7UA108P193uhRwJznFU3-zXpt8DYtT7pJ_o-a1MrSyuUsUOXuD0vTtuRWOCZYZJnl_BVD083QTV5gIxoxNMr7HvxWyLMTfEc68gXPCwJnSgLrQSBvKQRGFYgrsePIf0qWOKIROdbUMou--6XmEGIqurZMzsFJ0JZN_HgHymkw59CYCn9eZfxNCPrcFQ1ZU8eDKKVug5v7NX68BwcyUnP57AHUon6Wm48Ro8m_87nwV9jImUtsV1zWu1BNYpiyXO0wc85Tc-DXCZ_U752JpbUDRk0FlmcWMvOBL3wLclRXnAfRTbZHDm0UBxeTCrxIR1sNBkLgPds61M3SGmzp4vyqj4DGsG1XNSCNPtdlP4O4PFX8/media?maxWidthPx=400&key=AIzaSyCq4V3b_mJDvyxAnT2FsWx4sTTPulXXjZw"
+    "photoUrl": "/photos/pamenar.jpg"
   },
   {
     "id": "woolshed-coffee",
@@ -3361,6 +3361,6 @@
     "photoRef": "places/ChIJu3CUA3k1K4gRMoFbebzvV8I/photos/AU_ZVEED8sp8pMbV3TuAP3oG-z9kO_uztNRTb0TYoQrqpZf_gdBDWXVgb5Ih-oANjeWlckbU4vre8LEZjKgj5anSH0eAZQ-8oI82c4RKixI6XhWnL-OPPh_THcV6D5GLjMgIG0DYczDVsEHPEUH4Xn6eAxXdWy8oz9_8D-pwDb3waEOEpRe3iwncZjRK2BcUKIFn9q8RIC_vcZST09__ttV2tTwgvfLRf7hRhhLL3gGwf0l5hBXgOd8yf_sE9uSsP2Afn_e9IG1XI0SPld7OkivIFr_XGwPuf6MUo8sqEp533yM6SA",
     "lat": 43.6436628,
     "lng": -79.4116245,
-    "photoUrl": "https://places.googleapis.com/v1/places/ChIJu3CUA3k1K4gRMoFbebzvV8I/photos/AU_ZVEED8sp8pMbV3TuAP3oG-z9kO_uztNRTb0TYoQrqpZf_gdBDWXVgb5Ih-oANjeWlckbU4vre8LEZjKgj5anSH0eAZQ-8oI82c4RKixI6XhWnL-OPPh_THcV6D5GLjMgIG0DYczDVsEHPEUH4Xn6eAxXdWy8oz9_8D-pwDb3waEOEpRe3iwncZjRK2BcUKIFn9q8RIC_vcZST09__ttV2tTwgvfLRf7hRhhLL3gGwf0l5hBXgOd8yf_sE9uSsP2Afn_e9IG1XI0SPld7OkivIFr_XGwPuf6MUo8sqEp533yM6SA/media?maxWidthPx=400&key=AIzaSyCq4V3b_mJDvyxAnT2FsWx4sTTPulXXjZw"
+    "photoUrl": "/photos/woolshed-coffee.jpg"
   }
 ]
