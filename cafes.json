@@ -1075,37 +1075,6 @@
     "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqEXb8VTcrxQB0_Kd7Dgd_watdWh5mkyr7BtyAzswXjfVQjCipo8CQQzSxM96Q6XnIfDaQvHIOrLycjvDoqv7gmd73TJHTl4ccM=s4800-w400"
   },
   {
-    "id": "forget-me-not-coffee",
-    "placeId": "ChIJZ220cN40K4gRq6iMSZrxhjE",
-    "name": "Forget Me Not Coffee",
-    "neighbourhood": "Queen West",
-    "address": "506 Adelaide St W, Toronto, ON M5V 1T5, Canada",
-    "price": "$$",
-    "rating": 4.5,
-    "reviewCount": 769,
-    "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "9:00 AM – 7:00 PM",
-      "Sun": "9:00 AM – 7:00 PM"
-    },
-    "openPast6pm": true,
-    "website": "http://forgetmenotcoffee.ca/",
-    "tags": [
-      "Laptops OK"
-    ],
-    "wifi": null,
-    "busyness": "Busy weekends",
-    "isSponsored": false,
-    "photoRef": "places/ChIJZ220cN40K4gRq6iMSZrxhjE/photos/ATCDNfWOsBAvqdIpmzWITIcUU7lVP-rDP2ZYQV0Q_KJ2ilfL6DFbQ9Bc11ZvOiUPiIXX_XIMeiV84j8NtdNVDwqFbMKDlFuxdbI038qTB3YHFxzowRx7EodEU1P0NAcFTQUq84La-k8Bk_aZE862IzJxgOunNSTTGO1u0YcO8YxhztlSphNNhRj2X6tspKkxgbSFffI6jC15xbLMGNLhU5TmluHhlNp45955Fdqw1OYW4ZBZrktfZURUtiE7eIWny76zyySrka3kCwux-KjKTwpmERMaHSRovi4IgYoykghmWBsDmX2EBf4I6wNWunUWBkR1P9L2LvIF2MurvTtCCmxJAZMA3qdyAYTNMKctCkoX5tgR__7BxVq6x-r_wS1VPzfFHzrssmaJdcuUVZbH9xqBitq6ANwgsnxlm07RM6ile-SSt-s1",
-    "lat": 43.6457919,
-    "lng": -79.40082950000001,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNEeR2UPb2ctF1k0M9aMjNOkttRnw0pobkEFiEOB1cS98IG3h9Uii59ISZI4bI6vapveVTPou0hw27dCPjH_Ey00kXshNVK9CRA0FP7zpwIAXTD5W0G02MaaKdAm6tuROqLvLy7_BiAB2eF7XFA=s4800-w400"
-  },
-  {
     "id": "mast-coffee",
     "placeId": "ChIJx3qDMDTL1IkRlsml6sJs_ag",
     "name": "Mast Coffee",
