@@ -68,12 +68,45 @@ export function getStaticPaths() {
 const { area } = Astro.props;
 const cafes = (cafesData as any[]).filter((c) => c.neighbourhood === area);
 const info = neighbourhoodInfo[area];
+const slug = area.toLowerCase().replace(/\s+/g, '-');
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `${area} Cafes, Toronto`,
+  "description": info?.description ?? `The best independent cafes in ${area}, Toronto.`,
+  "url": `https://cafesintoronto.com/${slug}`,
+  "itemListElement": cafes.map((cafe, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "item": {
+      "@type": "CafeOrCoffeeShop",
+      "name": cafe.name,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": cafe.address,
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      },
+      ...(cafe.rating && {
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": cafe.rating,
+          "reviewCount": cafe.reviewCount
+        }
+      }),
+      ...(cafe.website && { "url": cafe.website }),
+    }
+  }))
+};
 ---
 
 <Layout
-  title={`Cafes in ${area}, Toronto`}
+  title={`${area} Cafes, Toronto`}
   description={`The best independent cafes in ${area}, Toronto — find spots for working, dates, or just enjoying a coffee.`}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <main class="max-w-2xl mx-auto px-4 py-10">
     <a href="/" class="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-espresso mb-6 transition-colors">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">

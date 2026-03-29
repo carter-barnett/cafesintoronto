@@ -26,9 +26,41 @@ const filters = [
 ];
 
 const cafes = cafesData as any[];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Cafes In Toronto",
+  "description": "Find the right cafe in Toronto for working, dates, or just enjoying a coffee.",
+  "url": "https://cafesintoronto.com",
+  "itemListElement": cafes.map((cafe, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "item": {
+      "@type": "CafeOrCoffeeShop",
+      "name": cafe.name,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": cafe.address,
+        "addressLocality": "Toronto",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      },
+      ...(cafe.rating && {
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": cafe.rating,
+          "reviewCount": cafe.reviewCount
+        }
+      }),
+      ...(cafe.website && { "url": cafe.website }),
+    }
+  }))
+};
 ---
 
 <Layout title="Cafes In Toronto" description="Find the right cafe in Toronto for working, dates, or just enjoying a coffee.">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <main class="max-w-2xl mx-auto px-4 py-10">
 
     <!-- Header -->
