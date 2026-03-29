@@ -49,6 +49,9 @@ const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   data-cafe-name={cafe.name}
   data-neighbourhood={cafe.neighbourhood}
   data-sponsored={cafe.isSponsored ? "true" : "false"}
+  data-tags={JSON.stringify(cafe.tags || [])}
+  data-busyness={cafe.busyness || ''}
+  data-closing={cafe.openPast6pm ? 19 : 18}
 >
   <!-- Main row -->
   <div class="flex items-start gap-4 p-5">

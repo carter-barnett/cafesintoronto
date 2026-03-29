@@ -3,6 +3,47 @@ import Layout from '../layouts/Layout.astro';
 import CafeCard from '../components/CafeCard.astro';
 import cafesData from '../../cafes.json';
 
+const neighbourhoodInfo: Record<string, { description: string; bestFor: string }> = {
+  "Kensington Market": {
+    description: "Kensington Market is Toronto's most eclectic neighbourhood — a maze of vintage shops, global food stalls, and independent cafes that feel a world away from the rest of the city. The cafe scene here leans bohemian and unhurried, perfect for long mornings with a book or a slow afternoon coffee.",
+    bestFor: "Cozy independents, outdoor seating, laid-back vibes",
+  },
+  "Queen West": {
+    description: "Queen West has long been Toronto's creative heartbeat, and its cafes reflect that energy. Expect design-forward spaces, excellent espresso, and the kind of atmosphere that makes you want to stay for hours. Great for working, people-watching, or catching up with friends.",
+    bestFor: "Working, aesthetic spaces, strong coffee",
+  },
+  "The Annex": {
+    description: "Sandwiched between U of T and Dupont, The Annex draws a mix of students, academics, and long-time locals. Cafes here tend to be welcoming and unpretentious — good wifi, good coffee, and plenty of table space make it one of the best areas in the city for getting things done.",
+    bestFor: "Laptop-friendly, affordable, all-day spots",
+  },
+  "Ossington": {
+    description: "Ossington Avenue is one of Toronto's most reliably cool strips. The cafes here sit alongside wine bars and independent restaurants, and tend to attract a neighbourhood crowd rather than tourists. Relaxed but well-crafted — a good pick any day of the week.",
+    bestFor: "Neighbourhood feel, great espresso, evenings",
+  },
+  "Distillery": {
+    description: "The Distillery District is one of Toronto's most beautiful spaces — Victorian industrial architecture, cobblestone laneways, and a handful of cafes that make the most of the setting. Best visited on a weekday when the tourist crowds thin out.",
+    bestFor: "Atmosphere, architecture, date spots",
+  },
+  "King West": {
+    description: "King West moves fast and its cafes keep up. Expect sleek, modern spaces with good wifi, fast service, and a clientele that's often working through a laptop between meetings. A solid choice when you need to be productive somewhere that doesn't feel like a co-working space.",
+    bestFor: "Working, modern spaces, fast wifi",
+  },
+  "Yorkville": {
+    description: "Yorkville is Toronto's upscale village — leafy streets, high-end boutiques, and cafes that lean towards the polished end of the spectrum. It's not cheap, but the quality is consistently high and the neighbourhood itself is one of the most pleasant in the city to wander through.",
+    bestFor: "Dates, upscale atmosphere, afternoon coffee",
+  },
+  "Chinatown": {
+    description: "Toronto's Chinatown spills into Kensington and along Spadina, and the cafes here reflect the neighbourhood's layered identity. You'll find everything from traditional bubble tea shops to specialty espresso bars tucked between restaurants. Affordable, authentic, and always lively.",
+    bestFor: "Affordable, unique finds, local character",
+  },
+  "Liberty Village": {
+    description: "Liberty Village is one of Toronto's most walkable neighbourhoods — converted factory buildings, a tight-knit community, and a growing cafe scene that caters to the area's creative and tech workforce. Great wifi, good coffee, and a relaxed pace make it a solid choice for a long work session.",
+    bestFor: "Working, laptop-friendly, neighbourhood regulars",
+  },
+};
+
+const FILTERS = ["Working", "Dates", "Meet-ups", "Laptops OK", "Not busy", "Open past 6pm"];
+
 export function getStaticPaths() {
   const areas = [
     "Kensington Market",
@@ -13,6 +54,7 @@ export function getStaticPaths() {
     "King West",
     "Yorkville",
     "Chinatown",
+    "Liberty Village",
   ];
 
   return areas.map((area) => ({
@@ -25,7 +67,7 @@ export function getStaticPaths() {
 
 const { area } = Astro.props;
 const cafes = (cafesData as any[]).filter((c) => c.neighbourhood === area);
-const slug = area.toLowerCase().replace(/\s+/g, '-');
+const info = neighbourhoodInfo[area];
 ---
 
 <Layout
@@ -40,16 +82,75 @@ const slug = area.toLowerCase().replace(/\s+/g, '-');
       All cafes
     </a>
 
-    <header class="mb-8">
+    <header class="mb-6">
       <h1 class="text-3xl font-bold text-espresso mb-1">Cafes in {area}</h1>
-      <p class="text-gray-500">{cafes.length} cafe{cafes.length !== 1 ? 's' : ''} in this neighbourhood</p>
+      <p class="text-gray-500 mb-4">{cafes.length} cafe{cafes.length !== 1 ? 's' : ''} in this neighbourhood</p>
+      {info && (
+        <p class="text-gray-600 leading-relaxed mb-2">{info.description}</p>
+        <p class="text-sm text-gray-400"><span class="font-medium text-gray-500">Best for:</span> {info.bestFor}</p>
+      )}
     </header>
 
-    <div class="space-y-4">
+    <!-- Filter pills -->
+    <div class="flex flex-wrap gap-2 mb-8" id="filter-bar">
+      <button
+        class="filter-pill px-4 py-1.5 rounded-full border border-espresso bg-espresso text-white text-sm font-medium transition-colors"
+        data-filter="all"
+      >All</button>
+      {FILTERS.map(f => (
+        <button
+          class="filter-pill px-4 py-1.5 rounded-full border border-gray-300 text-gray-600 text-sm font-medium hover:border-gray-400 transition-colors"
+          data-filter={f}
+        >{f}</button>
+      ))}
+    </div>
+
+    <div class="space-y-4" id="cafe-list">
       {cafes.length > 0
         ? cafes.map((cafe) => <CafeCard cafe={cafe} />)
         : <p class="text-gray-400 text-center py-12">No cafes listed yet for {area}.</p>
       }
     </div>
+    <p id="no-results" class="hidden text-gray-400 text-center py-12">No cafes match this filter.</p>
   </main>
 </Layout>
+
+<script>
+  const pills = document.querySelectorAll<HTMLButtonElement>('.filter-pill');
+  const cards = document.querySelectorAll<HTMLElement>('.cafe-card');
+  const noResults = document.getElementById('no-results')!;
+
+  pills.forEach(pill => {
+    pill.addEventListener('click', () => {
+      const filter = pill.dataset.filter!;
+
+      pills.forEach(p => {
+        p.classList.remove('bg-espresso', 'text-white', 'border-espresso');
+        p.classList.add('border-gray-300', 'text-gray-600');
+      });
+      pill.classList.add('bg-espresso', 'text-white', 'border-espresso');
+      pill.classList.remove('border-gray-300', 'text-gray-600');
+
+      let visible = 0;
+      cards.forEach(card => {
+        const tags: string[] = JSON.parse(card.dataset.tags || '[]');
+        const busyness = card.dataset.busyness || '';
+        const closing = parseInt(card.dataset.closing || '0', 10);
+
+        const show =
+          filter === 'all' ||
+          (filter === 'Working' && tags.includes('Great for working')) ||
+          (filter === 'Dates' && tags.includes('Great for dates')) ||
+          (filter === 'Meet-ups' && tags.includes('Great for meet-ups')) ||
+          (filter === 'Laptops OK' && tags.includes('Laptops OK')) ||
+          (filter === 'Not busy' && (tags.includes('Not busy') || busyness === 'Usually quiet')) ||
+          (filter === 'Open past 6pm' && closing > 18);
+
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+
+      noResults.classList.toggle('hidden', visible > 0);
+    });
+  });
+</script>
