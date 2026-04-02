@@ -232,6 +232,37 @@ const jsonLd = {
       </div>
     )}
 
+    <!-- Accessibility & Amenities -->
+    {(cafe.accessibility || cafe.amenities) && (() => {
+      const acc = cafe.accessibility ?? {};
+      const am = cafe.amenities ?? {};
+      const accItems = [
+        acc.wheelchairEntrance  && "Wheelchair accessible entrance",
+        acc.wheelchairSeating   && "Wheelchair accessible seating",
+        acc.wheelchairParking   && "Wheelchair accessible parking",
+        acc.wheelchairRestroom  && "Wheelchair accessible restroom",
+      ].filter(Boolean);
+      const amItems = [
+        am.outdoorSeating  && "Outdoor seating",
+        am.reservable      && "Accepts reservations",
+        am.takeout         && "Takeout available",
+        am.delivery        && "Delivery available",
+        am.dineIn          && "Dine-in",
+        am.goodForGroups   && "Good for groups",
+      ].filter(Boolean);
+      const all = [...accItems, ...amItems];
+      return all.length > 0 && (
+        <div class="border-t border-gray-100 pt-6 mb-8">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-3">Amenities & Accessibility</p>
+          <div class="flex flex-wrap gap-2">
+            {all.map((item) => (
+              <span class="text-xs bg-gray-50 border border-gray-200 text-gray-600 px-3 py-1 rounded-full">{item}</span>
+            ))}
+          </div>
+        </div>
+      );
+    })()}
+
     <!-- Reviews -->
     {reviews.length > 0 && (
       <div class="border-t border-gray-100 pt-6">
