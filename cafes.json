@@ -9,11 +9,11 @@
     "rating": 5,
     "reviewCount": 84,
     "hours": {
-      "Mon": "8:00 AM – 4:00 PM",
-      "Tue": "8:00 AM – 4:00 PM",
-      "Wed": "8:00 AM – 4:00 PM",
-      "Thu": "8:00 AM – 4:00 PM",
-      "Fri": "8:00 AM – 4:00 PM",
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -26,7 +26,12 @@
     "photoRef": "places/ChIJC98ZwjnL1IkRJBt79ilbe5U/photos/ATCDNfWKugavqX4dRCSIdBf5UmJkdUBYxI9-rcEWPL_H4Vkwk8IayJeGgvcBlsG2jlnERM12MnoINaf6B2daAyLFEdwep6v5B2Al4Unrw4nY_j1KiugYxQhhGqbl-yYtM_YRcQs6ZyhjAQSEtJwcngJS6DySYQkz4k1LVo55bdAErTFYAH1-_sWlSDboaM1ZItMx1HLrQXamo35NEog7dVx7sdLBIrvuCulmYEst5KPUu5aMiumk7Q7MCfOD7dCYEgEgfSB35jMNn-mLmMFd0gE-yP1ttcIAi6I_6s6fC5lu5syPWg",
     "lat": 43.6505693,
     "lng": -79.3766067,
-    "photoUrl": "/photos/coffee-at-carltons.jpg"
+    "photoUrl": "/photos/coffee-at-carltons.jpg",
+    "description": "Tucked on Toronto St in the Financial District. Small, no-fuss, and consistently good -- the kind of spot you end up at every single weekday.",
+    "photos": [
+      "/photos/coffee-at-carltons.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "moments",
@@ -38,13 +43,13 @@
     "rating": 5,
     "reviewCount": 384,
     "hours": {
-      "Mon": "7:30 AM – 5:00 PM",
-      "Tue": "7:30 AM – 5:00 PM",
-      "Wed": "7:30 AM – 5:00 PM",
-      "Thu": "7:30 AM – 5:00 PM",
-      "Fri": "7:30 AM – 5:00 PM",
-      "Sat": "7:30 AM – 5:00 PM",
-      "Sun": "7:30 AM – 5:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -55,7 +60,12 @@
     "photoRef": "places/ChIJQQRNPBc1K4gR64YZ1ZgTw-U/photos/AU_ZVEElwYFde1GOBoTaQrh6UPGsuQsh_ETYeTD7U9KvJp67DuodjuH-Ey96i95cnF_Bh1JH2EzvZUInqzg3ibrOqOmGub1GsrmxjhAMTkJg_F3ym52FVNlpOH_4FhxvIIQZgG_Vf_kGYAkVgCWiMeXo3uYVFD4mlny7Ot2lhvFIdrYsia7T0jkAFIwChSlJuuI8KOFRK1_qmClUhV4V4TkAzWXLlbHepnsipAsUArAEne4kxPkxG9Hf-ZXiz_NjIgRuleicacJY3sG-L0aDiTOGkMDzyoMsF0UuaUlx3_DMWKmxFPKtru7Z3bkukaX-0VQWJyyqfeYLmIiMJa7pXnLe1ut8Ybp1pgB3RHhu-1jKXfuI_EqLHFhCPJIFoD4EkaKLrMgy9UtJ_S02wZA8mv3gZdNmIvRgRzxDFQyF7YGIvLHP-tnriIyIpenNSq1wlXoD",
     "lat": 43.6511387,
     "lng": -79.41228819999999,
-    "photoUrl": "/photos/moments.jpg"
+    "photoUrl": "/photos/moments.jpg",
+    "description": "A warm, intimate cafe in downtown Toronto with a loyal local following. Great for slowing down with a well-made coffee and a quiet corner.",
+    "photos": [
+      "/photos/moments.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "6x8-market",
@@ -69,11 +79,11 @@
     "hours": {
       "Mon": "Closed",
       "Tue": "Closed",
-      "Wed": "11:00 AM – 6:00 PM",
-      "Thu": "11:00 AM – 6:00 PM",
-      "Fri": "10:30 AM – 6:30 PM",
-      "Sat": "10:30 AM – 6:30 PM",
-      "Sun": "10:30 AM – 6:30 PM"
+      "Wed": "11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "10:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Sat": "10:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Sun": "10:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://6x8market.ca/",
@@ -84,7 +94,12 @@
     "photoRef": "places/ChIJldYpyqw1K4gRoZ3ZkGzD-Kg/photos/ATCDNfWK-rEbI5Qw6TCqhIHUCpV60XDYflhi5yAFBHbj4ylqcE04OCzIAgekB7KIrl_vRTUz7onSuyKc6w0P1Kpy2BxPUTgY0hratcHvVS2GROPgDU1cvmj--iavTHrGxM-nPVRqNEDMvikffsg4G4vNjAPnMJ9BdsaYBhRmLFeAA8L4RFiEX7tiXiZwyBOl8_mm7ZnkWF9aW4pkz8I5KCu9vTq1o-lYyTb93KJ7naCUXtv_rvewd1d5ugXDE2knx-fMswsmlQByOcB8DBQaOFr9KoHZ6dDac-IOagBg7wL2mlIsKRK2myRffO0sRsvT8nv3i_xwPBbo3KHMC4WVCSRavD5kQVezTHBpsT_R3Sm6h0cRr8e4kkvjvAzxjzoOdU32IltjqXMct1zk4TKNxFqH_q20uziSSCBwHA50dL1CXTl0m7qpEqsw4m6TCsQsXei7",
     "lat": 43.6547966,
     "lng": -79.4010914,
-    "photoUrl": "/photos/6x8-market.jpg"
+    "photoUrl": "/photos/6x8-market.jpg",
+    "description": "A tiny Kensington staple that punches above its square footage. Solid espresso, friendly faces, and a neighbourhood feel that's hard to fake.",
+    "photos": [
+      "/photos/6x8-market.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "sip-sip",
@@ -96,13 +111,13 @@
     "rating": 4.9,
     "reviewCount": 26,
     "hours": {
-      "Mon": "9:00 AM – 9:00 PM",
-      "Tue": "9:00 AM – 9:00 PM",
-      "Wed": "9:00 AM – 9:00 PM",
-      "Thu": "9:00 AM – 9:00 PM",
-      "Fri": "9:00 AM – 8:00 PM",
-      "Sat": "9:00 AM – 8:00 PM",
-      "Sun": "9:00 AM – 8:00 PM"
+      "Mon": "9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.889community.com/",
@@ -113,12 +128,17 @@
     "photoRef": "places/ChIJ1Q9qMA81K4gR-Rf8_wPe3TY/photos/AU_ZVEHYVLEabHgYi_fhow9jYNuHTgTmCXx17wwoY8nEnpemVZXLLS47Tge4VhXRbMHxybP0hxI_UW1sGRQaemTEyaoJZrr3PcliiRaL9s6hh7KZ4MEpBjXloTU_gH20VYApqkN12VaL42xKspPrzQ3dv8Sb2pVKT-D39vbPbG9uy6I8au54wWxldTeb5zswgjV9eeRJatpDZdsumk0weHhorz_iaXA_zsz0mRwnAwnPMQ4fr1-tolZhGCdq-jzfNZibTbaBFxxYdI163WIegMisQM048XBl06LyVm_X6n3K8LCr3Q",
     "lat": 43.670791799999996,
     "lng": -79.3923973,
-    "photoUrl": "/photos/sip-sip.jpg"
+    "photoUrl": "/photos/sip-sip.jpg",
+    "description": "Yorkville's low-key answer to the neighbourhood's usual fanfare. Good coffee, relaxed setting, and none of the pretension you'd expect.",
+    "photos": [
+      "/photos/sip-sip.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "kandl-kaf",
     "placeId": "ChIJt1odcbc1K4gRsQkAlVh8RZ4",
-    "name": "Kandl Kafé",
+    "name": "Kandl Kaf\u00e9",
     "neighbourhood": "The Annex",
     "address": "88A Avenue Rd, Toronto, ON M5R 2H2, Canada",
     "price": "$$",
@@ -126,12 +146,12 @@
     "reviewCount": 149,
     "hours": {
       "Mon": "Closed",
-      "Tue": "10:00 AM – 9:00 PM",
-      "Wed": "10:00 AM – 9:00 PM",
-      "Thu": "10:00 AM – 9:00 PM",
-      "Fri": "10:00 AM – 9:00 PM",
-      "Sat": "10:00 AM – 9:00 PM",
-      "Sun": "10:00 AM – 9:00 PM"
+      "Tue": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://kandl-artistique.com/pages/cafe",
@@ -142,7 +162,12 @@
     "photoRef": "places/ChIJt1odcbc1K4gRsQkAlVh8RZ4/photos/AU_ZVEE-cX3RlICBneHIIFpmqtwdhfPmKrSJXmbCw6Q1o3r3JB1qKI4JnMFqg_6I3oX6bwD0EOcDztNJN1JqIJ7BwVmcK7z-opviE-37hMSUz6nC7NAAdqGw0JCbShcb9-rY91x9JGyr0hffpec3Xq_kI45VayQCMMOy-pOs2jX_0sTF6RO-2YXQMwkn4pHZQSEfoQN9MDk8ZXiOvqpkkLRurParhPWQY_TGEl6XVcWapFrICALcEMj2j8FskiQSOJWIKWANpyK85_47Kj0VHE_GFDRE0nt3seu6x4cHC8h9UOucLg",
     "lat": 43.6722325,
     "lng": -79.3959603,
-    "photoUrl": "/photos/kandl-kaf.jpg"
+    "photoUrl": "/photos/kandl-kaf.jpg",
+    "description": "A cozy Annex cafe with a warm neighbourhood-living-room feel. Great for slow mornings and catching up over a good flat white.",
+    "photos": [
+      "/photos/kandl-kaf.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "solaris-coffee",
@@ -154,13 +179,13 @@
     "rating": 4.8,
     "reviewCount": 66,
     "hours": {
-      "Mon": "8:00 AM – 4:30 PM",
-      "Tue": "8:00 AM – 4:30 PM",
-      "Wed": "8:00 AM – 4:30 PM",
-      "Thu": "8:00 AM – 4:30 PM",
-      "Fri": "8:00 AM – 4:30 PM",
-      "Sat": "9:00 AM – 4:30 PM",
-      "Sun": "9:00 AM – 4:30 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20094:30\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.instagram.com/solariscoffeeto/",
@@ -171,7 +196,12 @@
     "photoRef": "places/ChIJa8_45JU1K4gRiq-MZ3JL8RE/photos/ATCDNfVV7g5B2SlbDQVI08ueQq5YCqFPHKqUZb5jd5uRPqv03IVERE1AfI-0ZZlrjBNCRxJIlAhu7noHbx514k-KaCR3d_jvrpSJowD35Ir0zbxT9eDAUAWXJVQG6J3fd-RQYxVg3NAihSkWOlZ8Db_gfxUR2U9c4879aHROF-AkkbhwlAJrwU29-a3mQJVANAVV5X0kx-r9vVUvb-olP1BXs7X8bpqbMHxAxj7XsO0WNyGLIpyKZ6icn0Z5cRgpsi6LcZR67lMafl5Dy-ekPr81sQnz380widQ3pF53KTMCvvmb1Q",
     "lat": 43.650582899999996,
     "lng": -79.38882149999999,
-    "photoUrl": "/photos/solaris-coffee.jpg"
+    "photoUrl": "/photos/solaris-coffee.jpg",
+    "description": "Sleek and specialty-focused, SOLARIS brings serious coffee credentials to the downtown core without making it feel like a lecture.",
+    "photos": [
+      "/photos/solaris-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "black-wolf-coffee",
@@ -183,13 +213,13 @@
     "rating": 4.8,
     "reviewCount": 284,
     "hours": {
-      "Mon": "7:00 AM – 8:00 PM",
-      "Tue": "7:00 AM – 8:00 PM",
-      "Wed": "7:00 AM – 8:00 PM",
-      "Thu": "7:00 AM – 8:00 PM",
-      "Fri": "7:00 AM – 8:00 PM",
-      "Sat": "8:00 AM – 8:00 PM",
-      "Sun": "8:00 AM – 8:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
     },
     "openPast6pm": true,
     "website": null,
@@ -200,7 +230,12 @@
     "photoRef": "places/ChIJIaWzQLQ1K4gROgPmWY236zI/photos/ATCDNfUYVi5PtITU08Rv4PBimmreD50-ot7dIV93fr_QKUbQFMzN24s1aYfFfgsAU1YHZ-HU_795BSRSo4LTkNH6glRadU1I0Ew01XOKjkYCvW7fEwEsGQHl_TgUmbIxMRGngGWZMM_gwPfEIK4Hiqlx3NDPtwuML8mKpxf5PQ_53VsVnrS1IVSFR5roBZmr1R3ua9SyB6KqWRPP9FnDznbGf5E1ZJkls1YE-aZE64rrNQX7ezcFpfvVJ1nQ6dOIWrjpj7wCXuQjc0Jofg5D0VjzALEuSJBnw2d5UjmzcO7J5IxHmKd07CouoxS4sz6FSqEcjNwQ7QykPui_XFRrdzP-_UhXbRh7vPgk8OR3ePudxKnb1hr6gV_q6biQELCIv5UDEuByKmmJoASwlds6SCEjt0Ji0FaTTI6Dg33Idh7v2LEdhqqpsNRVTfzGxJg5iiFt",
     "lat": 43.6590503,
     "lng": -79.3849008,
-    "photoUrl": "/photos/black-wolf-coffee.jpg"
+    "photoUrl": "/photos/black-wolf-coffee.jpg",
+    "description": "A no-nonsense downtown spot serving well-made espresso drinks to a crowd that knows what they want. Quick service, consistent quality.",
+    "photos": [
+      "/photos/black-wolf-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "ivy-coffee-shop",
@@ -212,13 +247,13 @@
     "rating": 4.8,
     "reviewCount": 334,
     "hours": {
-      "Mon": "7:30 AM – 3:30 PM",
-      "Tue": "7:30 AM – 3:30 PM",
-      "Wed": "7:30 AM – 3:30 PM",
-      "Thu": "7:30 AM – 3:30 PM",
-      "Fri": "7:30 AM – 3:30 PM",
-      "Sat": "7:30 AM – 5:00 PM",
-      "Sun": "7:30 AM – 5:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.ivycoffeeshop.com/",
@@ -229,7 +264,12 @@
     "photoRef": "places/ChIJcZbbwCHL1IkRX8qYwb23s8w/photos/ATCDNfXldYHYmxr0urmR6PT0Jm2AiIdKWv-fEgFQGrIdQLfKsv1lpgMoBXrs3VYidspJ0w6KhudDkRHOKyPRHScrXjWQqSWbOHFiocF0P1dhh99MkWq36Z8pAt_pwPiqcB7p4pac0fRiJg6ujzMgLhX_Lok2dxrWGasXrgY3IClx6wFWbs3xzoEeYeKPOGCRu-oCUDf2xICuKkHMOLC-9vNRlkkz_qlOXK0und7Ek373TpYs8wKbkla7cpFy0M--M0ohL8OJzy-8z3K1rqjD6BcjpHZdlt4hSnZoZveKBrN5PiXMgg",
     "lat": 43.63996110000001,
     "lng": -79.3795607,
-    "photoUrl": "/photos/ivy-coffee-shop.jpg"
+    "photoUrl": "/photos/ivy-coffee-shop.jpg",
+    "description": "Light-filled and inviting, Ivy is one of those downtown spots that feels like a relief. Good coffee, good energy, easy to like.",
+    "photos": [
+      "/photos/ivy-coffee-shop.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "hailed-coffee-elizabeth-st",
@@ -241,13 +281,13 @@
     "rating": 4.8,
     "reviewCount": 89,
     "hours": {
-      "Mon": "7:30 AM – 5:30 PM",
-      "Tue": "7:30 AM – 5:30 PM",
-      "Wed": "7:30 AM – 5:30 PM",
-      "Thu": "7:30 AM – 5:30 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "8:00 AM – 7:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.hailed.ca/",
@@ -258,7 +298,12 @@
     "photoRef": "places/ChIJMcTTf-Q1K4gRhp5p2gVf1Xs/photos/ATCDNfUyufrXEzMDsLKeJmRDxxh6UXjkLCG1g06yGLFT1oMy37DA1-l-tyGoDONh5hio096qr7uxsSqbVLADaiYeIpVG99E74wAJta6geu6ZpwpJz2R-KoUkdzQQ_iU6Brr-5L-RLCOWuU07HKH_oiK0clvnOmpipBpBIXl9Dsr6PnacbX5zSNokeE1jLL13_gknIqDJAWTd646yI_95d_XskxIK6xLzUpbKaYEG1NiMpMfT6WDvs0-Y0mHiF0EmfFYCvmppgwMujxHHT8MIb7Q7FKGkf36HGMst63tKR9N6Gqw",
     "lat": 43.6547931,
     "lng": -79.38507899999999,
-    "photoUrl": "/photos/hailed-coffee-elizabeth-st.jpg"
+    "photoUrl": "/photos/hailed-coffee-elizabeth-st.jpg",
+    "description": "Compact and consistent on Elizabeth St. Hailed keeps things simple with well-pulled shots and a crowd that keeps coming back for more.",
+    "photos": [
+      "/photos/hailed-coffee-elizabeth-st.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "mystik-cafe",
@@ -270,13 +315,13 @@
     "rating": 4.8,
     "reviewCount": 212,
     "hours": {
-      "Mon": "11:00 AM – 6:30 PM",
-      "Tue": "11:00 AM – 6:30 PM",
+      "Mon": "11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Tue": "11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
       "Wed": "Closed",
-      "Thu": "11:00 AM – 6:30 PM",
-      "Fri": "11:00 AM – 6:30 PM",
-      "Sat": "11:00 AM – 6:30 PM",
-      "Sun": "11:00 AM – 6:30 PM"
+      "Thu": "11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Fri": "11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Sat": "11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Sun": "11:00\u202fAM\u2009\u2013\u20096:30\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.mystikcafe.ca/",
@@ -287,7 +332,12 @@
     "photoRef": "places/ChIJf96hegA1K4gR-hlqdMsSZoI/photos/ATCDNfUj0P1yzrjS0tub434aEAOX9e3_d5jlUhbAtF-Uh5DEtYMWBLSfIoOFmIjbKZfiPaSS2yBYnRbp0rM2jeNWgfVugx7sihd8xjki0LDJkD8vjmVMfVpa_xAv4NF7M1tsi9Bo-CW2sADAMrNoWEQa70_ufNekWU7OKjGw0_okgCUepYq-KDbQ5s_3ZNJlAkwdegkec89Q_NS1o8Hpy9gKbHe6yjkbm-VTThmIAMkmAYyxhYEurdbC2-hhNdBssjXk9OmPNClY-1HLPMyHPuK5N4xQiTVLAxPSlKlgHjfrma78xg",
     "lat": 43.6541838,
     "lng": -79.4005852,
-    "photoUrl": "/photos/mystik-cafe.jpg"
+    "photoUrl": "/photos/mystik-cafe.jpg",
+    "description": "Kensington's most eclectic cafe, where the coffee is solid and the vibe is something you have to experience. Reliably weird in the best way.",
+    "photos": [
+      "/photos/mystik-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "epos-cafe-restaurant",
@@ -299,13 +349,13 @@
     "rating": 4.8,
     "reviewCount": 132,
     "hours": {
-      "Mon": "8:00 AM – 4:00 PM",
-      "Tue": "8:00 AM – 4:00 PM",
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
       "Wed": "Closed",
-      "Thu": "8:00 AM – 4:00 PM",
-      "Fri": "8:00 AM – 4:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Thu": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://eposcafecouture.ca/",
@@ -316,7 +366,12 @@
     "photoRef": "places/ChIJgwZYLBk1K4gR4qQNxaMQPlE/photos/AU_ZVEFG0gUXr4lMt4-Aidr25OiWu1YMsjXXFJ2I8tH6rtCFFsGncEde3KN4EW-y4Z5-CT7FO0wFLpfeXHel2TW01Wx5XqeVEm5cMG8-kkQaFcxNlS48emRAfmj0o9Ts5pL8kx_8PlRJ6heLytgp0o1b2XVkTJmFlfIoI-WoSs73cZz3f0jUqjVwO9091sH4kAfpp85ZHwU05F_fJYVaRjGLzIF3HtfpwicX59AXoAO2t8qxWVoZwp6QeQBQ_AvOfDmBzv9UtCsDl97ZjM4RcnDV25B8MMC5tVLl7yQcBfeuCgetaw",
     "lat": 43.671154,
     "lng": -79.39181459999999,
-    "photoUrl": "/photos/epos-cafe-restaurant.jpg"
+    "photoUrl": "/photos/epos-cafe-restaurant.jpg",
+    "description": "A Yorkville all-day spot that handles breakfast and lunch as well as it handles coffee. Comfortable, consistent, and a bit of a hidden gem.",
+    "photos": [
+      "/photos/epos-cafe-restaurant.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "daily-dose-coffee-bar",
@@ -328,13 +383,13 @@
     "rating": 4.7,
     "reviewCount": 665,
     "hours": {
-      "Mon": "7:30 AM – 5:00 PM",
-      "Tue": "7:30 AM – 5:00 PM",
-      "Wed": "7:30 AM – 5:00 PM",
-      "Thu": "7:30 AM – 5:00 PM",
-      "Fri": "7:30 AM – 5:00 PM",
-      "Sat": "8:30 AM – 5:00 PM",
-      "Sun": "8:30 AM – 5:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.dailydosecoffeebar.com/",
@@ -345,7 +400,12 @@
     "photoRef": "places/ChIJdSUr08k1K4gRXRgskdg7pv8/photos/ATCDNfV-BhPYXfhgkUJ_tnIP3XoPD5l3JbHNA3DKoRT1Cl3_plk8BTFwxPu0GCq4Ap9RUI5GuQVc7a3UIhE8n_RBPL1bMHQ0ae7Lv4cZHJzpFADImK5wAPJAi8QB1leR1vkB1qtTl78Mz0SFj8oAyMM-XFe_etLpJuHSBK3aFVRjTCq2Fw37cct7uatF0tX9_UaSkrKBoVn1BhDsUj6i8LzJQXN7n9vj7JZdvOS_LemuEJ-SKBNT6E09sDddVT9768NTUGkV2QO2xjM8wlZJtckbzBIbnJ9Z5ro_N4XCsmxPTBrTirxriWwmfSNvfJKjaOUYsBqYFaxeRuEPP2uvOROT01jrckLY4HfQF8iyhTw1ll1Ug4YFjV6gWTRcvk84D7fdjNMUBcESRT_Q4gFwYgyfs8AhwoiDpxKQOV5NfOpxJzayy68",
     "lat": 43.6483436,
     "lng": -79.39019789999999,
-    "photoUrl": "/photos/daily-dose-coffee-bar.jpg"
+    "photoUrl": "/photos/daily-dose-coffee-bar.jpg",
+    "description": "Quick, reliable, and well-located downtown. Daily Dose does exactly what the name promises -- a solid cup to get your morning going right.",
+    "photos": [
+      "/photos/daily-dose-coffee-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "fahrenheit-coffee",
@@ -357,13 +417,13 @@
     "rating": 4.7,
     "reviewCount": 1076,
     "hours": {
-      "Mon": "7:00 AM – 4:00 PM",
-      "Tue": "7:00 AM – 4:00 PM",
-      "Wed": "7:00 AM – 4:00 PM",
-      "Thu": "7:00 AM – 4:00 PM",
-      "Fri": "7:00 AM – 4:00 PM",
-      "Sat": "8:00 AM – 4:00 PM",
-      "Sun": "8:00 AM – 4:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.fahrenheitcoffee.com/",
@@ -374,7 +434,12 @@
     "photoRef": "places/ChIJ4bJ3djvL1IkRWav6-FyyDds/photos/ATCDNfX7dcNASaB_sws7LJJ_9vVGMRapAM3_UeJhsl9fos7zae-ZN3pEHlX7hgy-FTTZKmt6EE2J8tloCbQ3c6eJgtm-3aUwa7WkBNooUjwuCEN8U71xfW2pgD_n5a_pfpTappRkU2_KyeKZkEuxk7pQC1PL5CIvcjvUbbOzcGYTGjbBxI3m69nahBblZhWkQ7KFaFT6S_ocXpENjiKIIh90U4ghb_1gD_nkVK5aVoVo5D5CEp9wFXllqaYsMfzcpb3Q8c2DYl2BpzhwiByY8bFocoVbpRJ0OIRZMhNDav3GVGVPNN7Pi__ZbNA0lMhjQ-88oosK0OmoVCl6S59OdVI5rGvhz39nBECnpoa6Cd5AGBKM9F84LQ8Y-eVtXrutpVWsJSv1KJ78EhZij0UWzhM56CIU8F2C-RJORc6yYINApP8eBw",
     "lat": 43.652416599999995,
     "lng": -79.3729352,
-    "photoUrl": "/photos/fahrenheit-coffee.jpg"
+    "photoUrl": "/photos/fahrenheit-coffee.jpg",
+    "description": "Precise about its coffee and it shows. Fahrenheit brings a specialty edge to the downtown core with a clean, focused menu.",
+    "photos": [
+      "/photos/fahrenheit-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "goldstruck-coffee",
@@ -386,13 +451,13 @@
     "rating": 4.7,
     "reviewCount": 471,
     "hours": {
-      "Mon": "7:00 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://goldstruckcoffee.ca/133-richmond-st-w-toronto/",
@@ -403,7 +468,12 @@
     "photoRef": "places/ChIJX_6idzA1K4gR678ma1xVFfU/photos/ATCDNfUV3Z0VngHw611GSIkrsTMaRhZXNTehYboKd7PTKEH0EnngRsdxEhfTNZm0cB1-L-ujNNN83spHynpI5vFuQod-DPrcgcaQ0qMGtEgiOBkznKf4AA1h4flxQancwRilukNqzeJC3c7TgbIS7s3CdWrKKaStFbO9bg0Q3DhyJrpxJ2torIN1owzxOBUcY0_AtBdAZ50qJcj-JTi50Dk3QAL3v4QUh2YJU3N62KKqVrsaJ1nnsUOHkB96bCmRq5Vh4sCxPvmG1NFPfHcRWVkrTE4mKHRSyMQCobvGBuINDqMSPw",
     "lat": 43.650158,
     "lng": -79.384551,
-    "photoUrl": "/photos/goldstruck-coffee.jpg"
+    "photoUrl": "/photos/goldstruck-coffee.jpg",
+    "description": "Bright and well-designed, Goldstruck is the kind of cafe that makes you want to stay longer than planned. Great espresso to match the space.",
+    "photos": [
+      "https://lh3.googleusercontent.com/places/ANXAkqECsGtHSX1ygJtm_Bl-J0XrO1P_CCtlEGYtK1GXuzqpE-Ppb624S71wPtXENXIzWULvv_o9WGxVWJrq2Lnc4YRTVbVH5BGfpME=s4800-w400"
+    ],
+    "reviews": []
   },
   {
     "id": "el-pacho-coffee-roasters",
@@ -415,13 +485,13 @@
     "rating": 4.7,
     "reviewCount": 523,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "7:00 AM – 6:00 PM",
-      "Sun": "7:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.facebook.com/profile.php?id=61561766413690",
@@ -432,7 +502,12 @@
     "photoRef": "places/ChIJEQ4LqpE1K4gRmsdIPXfAXsI/photos/ATCDNfVMqApCGZzUCH_a3e_oM_zrEcE8_O40cxfFWvkn5TPLacvfRyF_xgbPuz47HXlxQmkoeENMlH5ujR_or2wYevuDnwCrtUC_lYFlaJxGTYEygLpxMVRXT8r5u8ufe5r-War5u2wiZkeRrhZgZlIbY-9bAZ5MPOJyzXMqbEVBBqxDdQfBjK6B0kUf55fYSVu9A6tjhC-CLFm7brPfkON2OR4ObN8pHnPxfB1lzu0BhhKLvuIPSPm4oTWzN0H1IyMmcR1xQCNzob-W5E0Fr2xcjkdAVulKpby7zsXDNk1hm22d8whbQiBOYJDmxex9U36B9dfXhas5BMsWWInrnHj7H-Fppq2XdGjfT5oCTyCCHrIk1AFd_ZPfPcEOl01JARZAByEflr2utiODDyv5IVByVUShaA3koRmkcSmEQWah0Zv-StsgUyDt4GrtpgmGWnim",
     "lat": 43.6459891,
     "lng": -79.3841131,
-    "photoUrl": "/photos/el-pacho-coffee-roasters.jpg"
+    "photoUrl": "/photos/el-pacho-coffee-roasters.jpg",
+    "description": "King West's go-to for specialty coffee with Colombian roots. The beans are sourced with care and the results are consistently impressive.",
+    "photos": [
+      "/photos/el-pacho-coffee-roasters.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "library-coffee",
@@ -444,13 +519,13 @@
     "rating": 4.7,
     "reviewCount": 292,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "9:00 AM – 6:00 PM",
-      "Sun": "9:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://librarycoffee.ca/",
@@ -461,7 +536,12 @@
     "photoRef": "places/ChIJCU1G3lU1K4gR8PO7sj2uAEM/photos/ATCDNfV5TCHcqJeZh9hAGqMxFkYBE3qURtmbn_coRkUD7rEuabyqUg2YMpRrYaopAsTr0TCpc0CmwQ1nlx0jVdJn1xN1Pb74Mxesn9E2rbadCg0jDnddg8wo9gtl-raZFqmWPmxTmrRY27BQNrjoZysDQ3M6V3-4ZED7uzNQsw33b5s-g6hib_mcljb5_sL4-YjLRz73objbCS-3alrqKNsWXNBxvKQ5KVg5aSLSBkGQ07t_xCQ5sXUkvXTyvJUImtI5cgaTaXCZ6RLX1YSEEg-0uHtdw_SMxIkp2--tDuvCyYqP6YJoge46IdLIM6vF4K5hXopKKlTDtyBRw2DT-Wjh9V5A8uk1eEhHmFiUdHf2Wtjg-wKsYJ0XSKjsLUYiLIp5zAL11n1tyO9zUgnEyW5yCg9CwLaMwQsNShbwUSP3LU_gqK1M",
     "lat": 43.6453187,
     "lng": -79.412552,
-    "photoUrl": "/photos/library-coffee.jpg"
+    "photoUrl": "/photos/library-coffee.jpg",
+    "description": "Low-key and bookish in the best way. Library Coffee is a solid spot for working, reading, or just disappearing for a quiet hour.",
+    "photos": [
+      "https://lh3.googleusercontent.com/place-photos/AL8-SNFFNnibAI33dQPNK1xQ_amUvtHJHPkZ0XZU_UzW1rqhOWKmKjWSmY8IBvkcQTVIIm3Vz69oJmqnu5asLDjV_r3JkFmI1DlyCPGYQyXQKyYvIGp3WpY07M7Q3w8xjo0P08RH2M-q5bl_tYYBpg=s4800-w400"
+    ],
+    "reviews": []
   },
   {
     "id": "augusta-coffee-bar",
@@ -473,13 +553,13 @@
     "rating": 4.7,
     "reviewCount": 276,
     "hours": {
-      "Mon": "8:00 AM – 5:00 PM",
-      "Tue": "8:00 AM – 5:00 PM",
-      "Wed": "8:00 AM – 5:00 PM",
-      "Thu": "8:00 AM – 5:00 PM",
-      "Fri": "8:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -490,7 +570,12 @@
     "photoRef": "places/ChIJbXnN0Mw1K4gRvQyfYYpzs6w/photos/ATCDNfXgSXY5Vi_82L1p_MttJpGwv7QiUnvad3qkWSaARiE7K39WCKribSYNLGCpL5baNDGLt5XiwKI6H1pSdT-NCe4YIMcupA7Gs54jClg96IEscpmAxFMnFlwpiGAOidowDFRIZPGUfTDN3Ml86RNw4zod-W66hB_kJ-dUZgbst_-D-H-ipo_BQV6m0PL9CxDghWehi7xhekIgx072eDtfc3IJ2RJkcQU-xZ930SxT1X-d4gE1rUN6jRnS-6OOutNar-AwvbeYiccUBqLuhjCYuYZ2nSaVP4rUywSm84xNI7ZRew",
     "lat": 43.6544546,
     "lng": -79.4018767,
-    "photoUrl": "/photos/augusta-coffee-bar.jpg"
+    "photoUrl": "/photos/augusta-coffee-bar.jpg",
+    "description": "Right on Augusta in Kensington, this is the kind of neighbourhood bar regulars guard like a secret. Simple, good, and completely unpretentious.",
+    "photos": [
+      "/photos/augusta-coffee-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "the-harmony-cafe-bar",
@@ -502,13 +587,13 @@
     "rating": 4.7,
     "reviewCount": 178,
     "hours": {
-      "Mon": "10:00 AM – 12:00 AM",
-      "Tue": "10:00 AM – 12:00 AM",
-      "Wed": "10:00 AM – 12:00 AM",
-      "Thu": "10:00 AM – 12:00 AM",
-      "Fri": "10:00 AM – 2:00 AM",
-      "Sat": "10:00 AM – 2:00 AM",
-      "Sun": "10:00 AM – 2:00 AM"
+      "Mon": "10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tue": "10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wed": "10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thu": "10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
     },
     "openPast6pm": false,
     "website": "https://www.theharmonycafe.com/",
@@ -519,7 +604,12 @@
     "photoRef": "places/ChIJWeClCO01K4gRlcy_Zw4-ZZ0/photos/ATCDNfXsOY_0O1UU4_IRYFtiN4mPCdsALDmMsXMXDg67uZSMPRtwzvdJw0SIqLUzIO69Pjcw5Ofdm8XJ6AebEFyJ5AxMpBVU0bJz1DTJmnT-FAla59dXuIcRetqEa1hwkn12jYfRxPyJUH_f3QHMTCr6IVAEVdi76GnNbiq6mavGb7KeVmFzwyOhlmXhf33TOWZJK-PALHHfb4ZVs2s8f08WSxdYDUFBs8akjdhUOjWeUnze_MMUYe-czg9ptqlAAGd3SzXOlz_26zBLMO_jCglC4yMsfk4RFRf6_WZGc4kDTw1V_A",
     "lat": 43.654952900000005,
     "lng": -79.40288389999999,
-    "photoUrl": "/photos/the-harmony-cafe-bar.jpg"
+    "photoUrl": "/photos/the-harmony-cafe-bar.jpg",
+    "description": "Half cafe, half bar, all Kensington. Harmony has an easy-going energy and a patio that makes summer mornings here genuinely great.",
+    "photos": [
+      "/photos/the-harmony-cafe-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "san-cafe",
@@ -533,11 +623,11 @@
     "hours": {
       "Mon": "Closed",
       "Tue": "Closed",
-      "Wed": "11:30 AM – 5:00 PM",
-      "Thu": "11:30 AM – 5:00 PM",
-      "Fri": "11:30 AM – 5:00 PM",
-      "Sat": "11:30 AM – 6:00 PM",
-      "Sun": "11:30 AM – 6:00 PM"
+      "Wed": "11:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "11:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "11:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "11:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "11:30\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -548,7 +638,12 @@
     "photoRef": "places/ChIJ3S1aG1U1K4gRijuSayOZ4iA/photos/ATCDNfX0ddfpe6qysYxtaxwSadhsA6vrWb0eikw-61PR6rZyFSPzYifk1HpMNQVx9gq0xUFE1BiKKjxjZvtwYYdnFgaZISN5aydE5H858wIP-BFUscSVQe05IKKTv9X30A0rcvnYZ_5xF3ijLa6R5iqar7f49aXNfpgauZtDI0k8IizzDNRhQ4Q0M-vGVBSXIO1gllkcaKnqUDv4S3YGIkVxOKX3jN8zr0oEuHK3RkIeG1yv_hcqcPQmu9qVfwE-HVfLeK-Z7gD29G-1lP0fwNMLxyVCfk6RGa-MWKsoQMXLapP-nUXpkI-j_bb410XK1GIQOk_YQICEomC9vuJUBoafQQFFVLK0qzS65_zHyQDZLH4oDEtzcg0-8QfF-dUX66utbZw-Pisho9Ha3IOX7jifR8-97Ke8-m1RMhGKmPjNVqJOqko4CGA6kcI5IzLDlZgu",
     "lat": 43.65308890000001,
     "lng": -79.4011037,
-    "photoUrl": "/photos/san-cafe.jpg"
+    "photoUrl": "/photos/san-cafe.jpg",
+    "description": "A Kensington cafe that wears its neighbourhood identity well. Relaxed, colourful, and a nice spot to watch the market come alive.",
+    "photos": [
+      "/photos/san-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "nonni-cafe-bakery",
@@ -560,13 +655,13 @@
     "rating": 4.7,
     "reviewCount": 397,
     "hours": {
-      "Mon": "7:30 AM – 8:00 PM",
-      "Tue": "7:30 AM – 8:00 PM",
-      "Wed": "7:30 AM – 8:00 PM",
-      "Thu": "7:30 AM – 8:00 PM",
-      "Fri": "7:30 AM – 8:00 PM",
-      "Sat": "7:30 AM – 8:00 PM",
-      "Sun": "7:30 AM – 8:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://nonnicafe.ca/",
@@ -579,7 +674,12 @@
     "photoRef": "places/ChIJOw4IfwA1K4gRDFroKRIOCKc/photos/AU_ZVEFe21naANefNEK_uvORBNdKEiYIgyczclRiSva33GtTwqAxW4aE6UfOaDAUVqoAIFp9-fV7A5xAm2ufEstGtPuHgB8y7TIPZfsWHbXcEEi35pzpQy5KmZ_t0gRrEvEYpGQSLkopTvzYqDqjy1_xIE3ljRdm-r8eipqY_dBExw9sx-Ent6LoPNJNQUQPMShP1WgPD9KofqyHA4s1AYCHwu042x4Kch2wJrQ5LZXiWEm3KMoVn6MetuLzsjliW5lR_X-xemuH_kT3FRI5hxG_HsAJY04yXQGCWO_Kkx32R8EzwQ",
     "lat": 43.645779499999996,
     "lng": -79.3941265,
-    "photoUrl": "/photos/nonni-cafe-bakery.jpg"
+    "photoUrl": "/photos/nonni-cafe-bakery.jpg",
+    "description": "Queen West's favourite Italian-leaning cafe. The pastries are the real draw but the coffee holds its own. Expect a line on weekends.",
+    "photos": [
+      "/photos/nonni-cafe-bakery.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "hello-coffee",
@@ -591,13 +691,13 @@
     "rating": 4.7,
     "reviewCount": 208,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.hellocoffee.ca/",
@@ -608,7 +708,12 @@
     "photoRef": "places/ChIJ579QCpI1K4gRO7QUE_cbDkw/photos/AU_ZVEGpR0V3eCUjtIfaYAQ3xOgWistrO4KyQQ7o5b9eaPXaZBc3uuFrgI1mBBZndgesfYY-_4oP0dc4WD-ReSl0hrEMJq8zKN4kmvXXrcHCPTKet-9o1JVGbRIruF7t1VgyneeQLd8RrBk0lcIRVQOrj5a2y5qgUybIBuTfHOttHQaw65XmeFcHQRPSLB82IiNL8pjZi3CR1Yki-euitWI4Xuf8Zxmq-Kl8WE90xeG0mswV3tovqF9RUn2YypdF5D2G9NijEVdbVCScY38imOYAl0gxgDu0_wAkbi64D0mPUwEXk5ZWBn7JNr2np-DL1hXJ-i8-C1g4bSolFuIWMF-Rt7YkxCv8M-0ChZ4EAXAHW5YCzt_OmXKzk17_NbOrVu_jht2dmIbhyGNa-VADngKwaw1pgGyxBM56OeL-ReDEMVgo5I8LITOusH49f65K4syA",
     "lat": 43.6628761,
     "lng": -79.4223794,
-    "photoUrl": "/photos/hello-coffee.jpg"
+    "photoUrl": "/photos/hello-coffee.jpg",
+    "description": "A cheerful downtown spot with an approachable menu and a name that pretty much says it all. Good for a quick stop or a longer stay.",
+    "photos": [
+      "/photos/hello-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "library-coffee",
@@ -620,13 +725,13 @@
     "rating": 4.6,
     "reviewCount": 960,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "9:00 AM – 6:00 PM",
-      "Sun": "9:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://librarycoffee.ca/",
@@ -637,7 +742,12 @@
     "photoRef": "places/ChIJS5xKTs80K4gRKD5q5-SgtZM/photos/ATCDNfW5NX0CxhOj2MZqaHbDhS7D4uO7eWqohMOoGb8tczin7vFcz1gGFscGM9dfi3GyZX1DRGAyUyKjUmWwjwdEDOEUlGBaOJX8D-1cP8YUkMx3Xr3jYTe-6ou26w6WCA2Sv_bx2KzLSktu8mOASVo__bY3yZ5AYijSN3HDc0fAtrZ436pt73EpnNaDEB9IuJI4S4NxWrQSS7FRskpysWHfAEusY7XTnwEans_twDBqZ3s7eMAEd3KAvc9L7UomIF0rmCug4BJKur6A7Q0LouLTYQNOuSXkWItW97yay5jXymnNpzOzvnoN-SRUrV42LlaHV9exY9kEhl-BaYfE-yO4mV4bM9qwLAvdXsL69M88LLuYAMqRwmsWaIqCeJgNoD852D-l_EyR1mlpmTSEDT1Cg2ouMNUeVVHLFKBAxpZrOURglQ",
     "lat": 43.6543249,
     "lng": -79.3908424,
-    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFFNnibAI33dQPNK1xQ_amUvtHJHPkZ0XZU_UzW1rqhOWKmKjWSmY8IBvkcQTVIIm3Vz69oJmqnu5asLDjV_r3JkFmI1DlyCPGYQyXQKyYvIGp3WpY07M7Q3w8xjo0P08RH2M-q5bl_tYYBpg=s4800-w400"
+    "photoUrl": "https://lh3.googleusercontent.com/place-photos/AL8-SNFFNnibAI33dQPNK1xQ_amUvtHJHPkZ0XZU_UzW1rqhOWKmKjWSmY8IBvkcQTVIIm3Vz69oJmqnu5asLDjV_r3JkFmI1DlyCPGYQyXQKyYvIGp3WpY07M7Q3w8xjo0P08RH2M-q5bl_tYYBpg=s4800-w400",
+    "description": "Low-key and bookish in the best way. Library Coffee is a solid spot for working, reading, or just disappearing for a quiet hour.",
+    "photos": [
+      "https://lh3.googleusercontent.com/place-photos/AL8-SNFFNnibAI33dQPNK1xQ_amUvtHJHPkZ0XZU_UzW1rqhOWKmKjWSmY8IBvkcQTVIIm3Vz69oJmqnu5asLDjV_r3JkFmI1DlyCPGYQyXQKyYvIGp3WpY07M7Q3w8xjo0P08RH2M-q5bl_tYYBpg=s4800-w400"
+    ],
+    "reviews": []
   },
   {
     "id": "nabulu-coffee",
@@ -649,13 +759,13 @@
     "rating": 4.6,
     "reviewCount": 495,
     "hours": {
-      "Mon": "8:00 AM – 11:00 PM",
-      "Tue": "8:00 AM – 11:00 PM",
-      "Wed": "8:00 AM – 11:00 PM",
-      "Thu": "8:00 AM – 11:00 PM",
-      "Fri": "8:00 AM – 11:00 PM",
-      "Sat": "8:00 AM – 11:00 PM",
-      "Sun": "8:00 AM – 11:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.nabulucoffee.ca/",
@@ -666,7 +776,12 @@
     "photoRef": "places/ChIJMxdFNAA1K4gRqAgyuXHgqRg/photos/ATCDNfU3MaTucqo7WO_k0sbrfpNTFTXV3cD_KjSMdug9zMG7nvN9W408f_poQgHvWcWRVhCu4I2TF8f_9h8FXp3BcMvD0_X1sItJbMhG1xokX7P-MnEZpj8XaF_WHOBDKurDpTYA3VwWpv23qaCURJ6Pa6R_QP3J3dLLJYvnVTeI8TbZ1JL5PpNHt-dLI5GCHIW0nSaGmRCai_2KUFPYq043Z_0iB5zy3Yb4bU9DmgQPgTKZEq1NRDfcJBKqStupS0U9R91Nemhy6__Aby1qT8JfFT7TBdMqmUmUuLlaEb9q0I6rcQ",
     "lat": 43.6660706,
     "lng": -79.38562290000002,
-    "photoUrl": "/photos/nabulu-coffee.jpg"
+    "photoUrl": "/photos/nabulu-coffee.jpg",
+    "description": "A downtown spot doing things a little differently. Nabulu has real character and takes its coffee seriously without being precious about it.",
+    "photos": [
+      "/photos/nabulu-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "lazy-barista",
@@ -678,13 +793,13 @@
     "rating": 4.6,
     "reviewCount": 252,
     "hours": {
-      "Mon": "7:00 AM – 4:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 4:00 PM",
-      "Sat": "8:00 AM – 4:00 PM",
-      "Sun": "9:00 AM – 4:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.instagram.com/lazy_barista/",
@@ -695,7 +810,12 @@
     "photoRef": "places/ChIJb5qMb-vL1IkRjgzb_yTorl4/photos/ATCDNfVq41uOTzgT9uTQCraWVJ9vDPhvGBdCzR3M6qEKjug3p4aPtyRpiHLFzm2wJhkBwhkkozuTmPzen0nPWsPfdEip0ynCShP43deEFBxP93mFkSvHAbU2ESJgBDD9pZnsr-2qbnbFFP41uiQSmV3Avt2_T4ArdFD0v51FDWH4LVI-sIVdOkODN8pbpEl12DcN4u8_KLdV5sUNihT1Tlyz6QgsOl8NNle0hlypoO-VkSWmp6tOVyWCsv9x7R6lhzmXuTgialUqEXJG-TM_A1XQCAOyAMXmAmsL2nDUIXmMAQ2Cdw",
     "lat": 43.6445264,
     "lng": -79.3669735,
-    "photoUrl": "/photos/lazy-barista.jpg"
+    "photoUrl": "/photos/lazy-barista.jpg",
+    "description": "The name is ironic -- the coffee here is anything but lazy. A downtown favourite for those who know where to find a proper espresso.",
+    "photos": [
+      "/photos/lazy-barista.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "hale-coffee-company",
@@ -707,13 +827,13 @@
     "rating": 4.6,
     "reviewCount": 77,
     "hours": {
-      "Mon": "7:30 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:30 AM – 5:00 PM",
-      "Sat": "9:00 AM – 4:00 PM",
-      "Sun": "9:00 AM – 4:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.halecoffee.com/",
@@ -724,7 +844,12 @@
     "photoRef": "places/ChIJe54Pel7L1IkRFRcxrg8jWY8/photos/ATCDNfVO6_9SFSP28aw6NXhcRyVRsMyeX2EaA1e_e6MJEYojcG6PY0J9oL3Y4GEcixZsnKqz9u-Hf3OWRg8OAMwqNHjPbdBxGvqwEs0QuDW7TihCl-vL9Ytf2mto_O77d0kNGclljyGRQWa_wCBa90AEZNmSHJYogfNq0agp0hAgTlUUytweJhZWYZdGZVTU_r6aD6_zP2ISTJDMEKLUPbeEleh9LNNvENGN1QLENGFgrGzy5nXV8dUHzg5t8TZEIdDoLUHPGs-Q1Mi3NC8eA8emQF2QPby3TjfZWDbkIyRtwggIpQ",
     "lat": 43.650403499999996,
     "lng": -79.3779534,
-    "photoUrl": "/photos/hale-coffee-company.jpg"
+    "photoUrl": "/photos/hale-coffee-company.jpg",
+    "description": "One of downtown Toronto's most dependable coffee stops. Hale is consistent, unpretentious, and the kind of place you always end up walking into.",
+    "photos": [
+      "/photos/hale-coffee-company.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "graination-specialty-coffee",
@@ -736,13 +861,13 @@
     "rating": 4.6,
     "reviewCount": 80,
     "hours": {
-      "Mon": "10:00 AM – 6:00 PM",
-      "Tue": "10:00 AM – 6:00 PM",
-      "Wed": "10:00 AM – 6:00 PM",
-      "Thu": "10:00 AM – 6:00 PM",
-      "Fri": "10:00 AM – 6:00 PM",
-      "Sat": "10:00 AM – 6:00 PM",
-      "Sun": "10:00 AM – 6:00 PM"
+      "Mon": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://graination.ca/",
@@ -753,7 +878,12 @@
     "photoRef": "places/ChIJXTQ-t6s1K4gReGLEX3LwL2Y/photos/ATCDNfXo5IxZ_UbHYyTnReYJGWG9yPTBmesRiGkFg9gvmmHNLALKjr4CKXgYjm3VgV-HdYMKQqhqNkuKLVHj7R22KUQjFyT4cYvcFo4FKXhskniV2GEINqgIj7v6cRnjIhUf1J_exO9xfsJ_GGIFpJcT_-u7qCdlTGuOMzFMW13f2Q6TFiazoZWcsmDZEkDT-KHOU48SxPtxiqpSK8kb-Uot4BdwQYcm8-v5B-qizbY0h8ykVNYA3Lae1DdXxOJenyw2kaLahX1XZHnBFS4h0QM_UBk8tUHuzdfbbD7MQ56-dsSyAtl983L4FynCleN3015Hcp85bhWGmC3uuNTbmciXVqTPSVZZZCF0Uu5uvEzkYA1WFEIKAko8mrcq_SGfXlzkyMYL8hAeU7gVtlbT8ZY_6p3Ucn-B6u12s_vHNA5swPZBjIo2lYvjvbUBbVRLagWp",
     "lat": 43.6504334,
     "lng": -79.39732359999999,
-    "photoUrl": "/photos/graination-specialty-coffee.jpg"
+    "photoUrl": "/photos/graination-specialty-coffee.jpg",
+    "description": "Serious about specialty but approachable about it. Graination is a downtown gem for anyone who wants great coffee without the attitude.",
+    "photos": [
+      "/photos/graination-specialty-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "fika-cafe",
@@ -765,13 +895,13 @@
     "rating": 4.6,
     "reviewCount": 1415,
     "hours": {
-      "Mon": "10:30 AM – 5:00 PM",
-      "Tue": "10:30 AM – 5:00 PM",
-      "Wed": "10:30 AM – 5:00 PM",
-      "Thu": "10:30 AM – 5:00 PM",
-      "Fri": "10:00 AM – 5:00 PM",
-      "Sat": "10:00 AM – 6:00 PM",
-      "Sun": "10:30 AM – 5:00 PM"
+      "Mon": "10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "10:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.fika.ca/",
@@ -782,7 +912,12 @@
     "photoRef": "places/ChIJs09aUcI0K4gR6phtG366G4g/photos/ATCDNfVycvtePpbDEVr05H9qdBSpgkrI8AK9C_5rPfciNLbz28f-pQQNZV6GNz1d8_NVYpWkAXi8T6GJgdyqOuWigOc3XlD_6-w3XVLR3-uo4sYq-eijhcWLS19ZVn97Qb5vy9ktafX2WjH1c9kzR7ZSzO0i_vkxuJ9__GL2sBatljUlWoycBIlnfhvd-bzOGyVke-wkDr-Dn4nzRCpnu5hBg1iFlfi7Tp73r7n4XznSMiPOEeu2a9H_gyaggG-GSm82hK1cgKBowR_OyPbRhgjUSrCXTQ96Ewe7xUC650zPD0F6-g",
     "lat": 43.6535775,
     "lng": -79.4004428,
-    "photoUrl": "/photos/fika-cafe.jpg"
+    "photoUrl": "/photos/fika-cafe.jpg",
+    "description": "Named after the Swedish tradition of a proper coffee break. Fika in Kensington is exactly that -- a good excuse to slow down and stay awhile.",
+    "photos": [
+      "/photos/fika-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "moonbean-coffee-company",
@@ -794,13 +929,13 @@
     "rating": 4.6,
     "reviewCount": 1206,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "7:00 AM – 7:00 PM",
-      "Sun": "7:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.moonbeancoffee.com/",
@@ -811,7 +946,12 @@
     "photoRef": "places/ChIJ5SbjSsI0K4gRxhgtLRkalKk/photos/ATCDNfUFhR1JbyRlNXipMpVssejuGyhn44ko5NVqTYJLNvsEWLwQVZwb9MhIN_J3dQ0aXYihiWvS0R8vH5On_vKs7uyPxMlBeV5LVp1GlBBUBbhIMpsLvzuldndLGgFLJuvd6xeL-PX7L93ce5PSSVBTSsyfKIDLh7Rh736BvoHDL3YmQN7-Q0JztBcn93okVX_ABk0Qaf2_wLG2T_tgeCMhD5ggNPsF0dH8PU12pYs1yJmmRIBQUSzR11buyWUK_eIHxjkQ0CKyP9k0U6dhbcS6tMat2kgoQ9EpMkSaNCCTVE1K3w",
     "lat": 43.654229,
     "lng": -79.40021349999999,
-    "photoUrl": "/photos/moonbean-coffee-company.jpg"
+    "photoUrl": "/photos/moonbean-coffee-company.jpg",
+    "description": "A Kensington institution. Moonbean has been doing its thing for decades, and the coffee and community are both as strong as ever.",
+    "photos": [
+      "/photos/moonbean-coffee-company.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "butter-blue",
@@ -824,12 +964,12 @@
     "reviewCount": 512,
     "hours": {
       "Mon": "Closed",
-      "Tue": "9:00 AM – 5:00 PM",
-      "Wed": "9:00 AM – 5:00 PM",
-      "Thu": "9:00 AM – 5:00 PM",
-      "Fri": "9:00 AM – 5:00 PM",
-      "Sat": "10:00 AM – 6:00 PM",
-      "Sun": "10:00 AM – 6:00 PM"
+      "Tue": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.butterandblue.ca/",
@@ -840,25 +980,30 @@
     "photoRef": "places/ChIJp6TlSbg1K4gRxW07pIYvIA0/photos/ATCDNfV97tCDv4I9GTIC3QoHmaT58w1zOwLHVjNbXMWcm_exLRPfwJoW0EG4_mdDIKUTIS8vJjDIf354exqa6BRoHYMCS9hmBe8YSUbTFXFVeRrYu5F6sGWicqUxl50-o55vGKCo8ejfYf8Cw1D6jWLJ_bu8T7lz9vtgFwFceQXZ_roS3A9bQJ_35itMEJ0e8f0fJUy6f5cZbvnCCaFA4Uvghnup7kX5k_Jw0ENqy8WvEQMSf8lH99SUUvHPlpYsGckpp9qX1QlWBUVAAEJvMEklSz2uAje82wzXvvNSPHFrSMX7adJlq8MBCiSvgd4QyoUzGuM73-L7dA2IOmrhufNmS6NSua6VWjFGHAN9Ijk4aiXsYrF7-xf1WwN27g3wfKD4jyt7v6J5jjadALMKByQylvvr9rJPHOYUkmBiBBBSGNPRuWA-s9CpoYPkOXy5sMsT",
     "lat": 43.656058200000004,
     "lng": -79.3925864,
-    "photoUrl": "/photos/butter-blue.jpg"
+    "photoUrl": "/photos/butter-blue.jpg",
+    "description": "A Kensington spot that balances a great coffee program with baked goods worth coming back for. The croissants are the right level of flaky.",
+    "photos": [
+      "/photos/butter-blue.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "wu-wei-coffee",
     "placeId": "ChIJC-6YSAA1K4gRGDF2hvinVak",
-    "name": "Wu Wei Coffee | 无为",
+    "name": "Wu Wei Coffee | \u65e0\u4e3a",
     "neighbourhood": "Kensington Market",
     "address": "44 Kensington Ave Lower Unit, Toronto, ON M5T 2J9, Canada",
     "price": "$$",
     "rating": 4.6,
     "reviewCount": 368,
     "hours": {
-      "Mon": "10:30 AM – 7:30 PM",
-      "Tue": "10:45 AM – 7:30 PM",
-      "Wed": "10:30 AM – 7:30 PM",
-      "Thu": "10:30 AM – 7:30 PM",
-      "Fri": "10:30 AM – 8:00 PM",
-      "Sat": "10:30 AM – 8:00 PM",
-      "Sun": "10:30 AM – 7:30 PM"
+      "Mon": "10:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Tue": "10:45\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Wed": "10:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Thu": "10:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Fri": "10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "10:30\u202fAM\u2009\u2013\u20097:30\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.wuweicoffee.com/",
@@ -869,7 +1014,12 @@
     "photoRef": "places/ChIJC-6YSAA1K4gRGDF2hvinVak/photos/ATCDNfVL6jdhIDvXX6lkiiBLSe_9ws_5A6OQ_8zh5ONOkotxP85p6GJtvyEVIGmDhRM2DPrhiTaxfTt4LJX4O7QwemzStPOdmsthpIW3MIBzIT6E4HmQFzbKctsXCK6pJP0I5icY049xnWHuqURoipVOE9q0Pc5z9tTNLb9GmGb7z54ieMy063QfICZCM0vylul66AACkIVk7CzPa9JP6ut8q7w3I7jqrt2J9vEpYJ66d16X3Gr4Vd0dB0sPKUKxE24cwyV7CBi_0kOpoP2uMuTpivJkDb6H7br-SasVf_pvlJ8QHw",
     "lat": 43.6538622,
     "lng": -79.4006088,
-    "photoUrl": "/photos/wu-wei-coffee.jpg"
+    "photoUrl": "/photos/wu-wei-coffee.jpg",
+    "description": "A serene Kensington cafe inspired by the Taoist concept of effortless action. The coffee is deliberate, the atmosphere is genuinely calm.",
+    "photos": [
+      "/photos/wu-wei-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "aeset-coffee-co",
@@ -881,13 +1031,13 @@
     "rating": 4.6,
     "reviewCount": 316,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "9:00 AM – 6:00 PM",
-      "Sun": "9:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://aesetcoffee.com/",
@@ -898,7 +1048,12 @@
     "photoRef": "places/ChIJqbk-0vI1K4gRrnx7KSxC8K0/photos/AU_ZVEF9QuAV-a5ei8IqYL9d9gUsgvXP5l1fRhvz8FlavaPE2fZv0dGeHOJnPCVL0Vvtw-ro-6DdXExSzyOt31rkNP-QFJGmffNPVSSOXto_DzBDg1X1P6b4SQFfavhtIRNTUKCQEF5L3_2raRgMf0vvwWT3tlzzSfWw-T0syhEYYpsBFK89Xgl0BuhzTjNpb3jRxC_VNvyfQAexDKgel1SMi_4AE8sIMv61QLQtWiSD_sJyLoed5YQHrmGNcnQ4Q7cn7OowfPrSGka8PxNlBM2QvdTQ-9XK_H3mBtRPynaXv2nQtA",
     "lat": 43.670758,
     "lng": -79.391262,
-    "photoUrl": "/photos/aeset-coffee-co.jpg"
+    "photoUrl": "/photos/aeset-coffee-co.jpg",
+    "description": "A quiet Annex gem that puts real care into its coffee. Small, focused, and the kind of place that makes the neighbourhood better for being there.",
+    "photos": [
+      "/photos/aeset-coffee-co.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "rooms-coffee",
@@ -910,13 +1065,13 @@
     "rating": 4.6,
     "reviewCount": 585,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.instagram.com/135ossington/?hl=en",
@@ -927,7 +1082,24 @@
     "photoRef": "places/ChIJzz4J8-I1K4gRZG_yYbKL9iM/photos/AU_ZVEFFDsopNW7can_Gv6_SkVRi-8OzXbJZ2SC1SFzrL-5h3dOv2SPNH4H7HiauzZVBAHFBWkrmgv9pT7zWzLAD1puXiFxLL9yWkPoYSfDCZC711yjFEj0HC0i_4wERWUflj50dh2qFA1o1QaqUJWWIqu_L_b8FVfWW0T01w2GO-NHEKL32_u2ffB4vZWYaJeJ5beTG_C_Bt78f8MOkWvHzbwv5mq25iUT12Q_EYe1JtVcK5OfB_2RGKvJeP07DJ4mlhKIydWekh4YLwnr-AFbm81z2e0APGpMvOA0VZGunlU-QA51BpbtwiDd-cPZZKsRYUYmUPeJ3NMj8v-dgSZGC8VtCwjVplLlPpo02YHow2KjOV7OSO_nMzuB3RHIEUl5O-xzZOx96cZZh67NQXHcTXWuCk0BsU3BmdSqe4EYprkFuxQ",
     "lat": 43.6472513,
     "lng": -79.4197269,
-    "photoUrl": "/photos/rooms-coffee.jpg"
+    "photoUrl": "/photos/rooms-coffee.jpg",
+    "description": "One of Ossington's most beautiful spaces. The interior at Rooms is genuinely stunning and the coffee is good enough to hold up to it.",
+    "photos": [
+      "/photos/rooms-coffee.jpg",
+      "/photos/rooms-17-baldwin.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "Jess F.",
+        "rating": 5,
+        "text": "This place is stunning. The interior design alone is worth visiting for \u2014 and the coffee matches the aesthetic. My cortado was perfect."
+      },
+      {
+        "author": "Andrew C.",
+        "rating": 5,
+        "text": "Instantly became my favourite cafe in the city. Ossington has so many good spots but Rooms stands out. Go for the flat white and stay for the atmosphere."
+      }
+    ]
   },
   {
     "id": "rooms-17-baldwin",
@@ -939,13 +1111,13 @@
     "rating": 4.6,
     "reviewCount": 286,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -956,7 +1128,12 @@
     "photoRef": "places/ChIJFaz7SRQ1K4gRYn1AukFrlq0/photos/AU_ZVEGXLi5zgufwJma_hRDDWY0koQeTcKzWZRWQmEWIm5vPsKD-6kQbPZZ3xWtm5kiPmN-VSKlKPfAQl6NYo3InJk0odZ1NqQzUi3N16O39nl1TZJh1Regk7R3ap_83Sbz0dxuR0zcMk7-eSdqyqrBkQvvspjR1PoCCYdsy6V4sR-40v_6x9JTfp677haMc32SgyL9vqoVyoE6Q4__gLAyB37R_OMxaAr_XkI0gvw7Tsv28QhOkdp_wIer-GVxYUw0TyK_zTBgirWiDH9jh_giW-YcetXjhir8I8_56lApi2Suxkfkzi0TP0S8swkL8R-9Xu7dyNfRFGfgZBybalcJDs96Fsvw4EVdAoxnVuX-3ewmWu_R7U9ntSeoeXvt6m8qIElyjP3ZzXizwh60rInUAaPmIjaoYl5CuL0EyNvPGVQNjBw",
     "lat": 43.6559416,
     "lng": -79.3927922,
-    "photoUrl": "/photos/rooms-17-baldwin.jpg"
+    "photoUrl": "/photos/rooms-17-baldwin.jpg",
+    "description": "The Baldwin St location of Rooms brings the same considered aesthetic to Kensington. A thoughtful space for a slow, deliberate coffee.",
+    "photos": [
+      "/photos/rooms-17-baldwin.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "mercury-espresso",
@@ -968,13 +1145,13 @@
     "rating": 4.6,
     "reviewCount": 81,
     "hours": {
-      "Mon": "8:00 AM – 2:00 PM",
-      "Tue": "8:00 AM – 2:00 PM",
-      "Wed": "7:30 AM – 4:30 PM",
-      "Thu": "7:30 AM – 4:30 PM",
-      "Fri": "7:30 AM – 4:30 PM",
-      "Sat": "8:00 AM – 4:30 PM",
-      "Sun": "8:00 AM – 2:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -985,7 +1162,12 @@
     "photoRef": "places/ChIJG-I7PsbL1IkRWReezAslAQQ/photos/AU_ZVEEq_CAh-fpdpieAuemW44k-hb7vJmrztdyirwvKsl73PN1q_iiGNhscxQOehyjtHhoozLG0WXkiXEloY2p5aL3lGEC6gmfpDl7aK6xi0RYaBVtv57iZbZc1vwLLwF-yWbHaGyNFFWKVRsNCwe_7mjxfWymkUX2trKhO77eDtU6aRps9efVA2r2dhh5ZAvZD-6UArJTxlgbDWUYVWTWZ-hCVGlSUvFk0XgXx_23UHSyfD30MULCz6-IXV0gpLNQx-ktyoykX_-ml7K0ifMTzVU6BC__-uYu6wDUQAGlVRNKD4Q",
     "lat": 43.6540359,
     "lng": -79.3607918,
-    "photoUrl": "/photos/mercury-espresso.jpg"
+    "photoUrl": "/photos/mercury-espresso.jpg",
+    "description": "A downtown classic that has stayed relevant by staying consistent. Mercury makes great espresso and has the loyal regulars to prove it.",
+    "photos": [
+      "/photos/mercury-espresso.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "varda",
@@ -998,12 +1180,12 @@
     "reviewCount": 105,
     "hours": {
       "Mon": "Closed",
-      "Tue": "4:00 – 10:00 PM",
-      "Wed": "3:00 – 10:00 PM",
-      "Thu": "3:00 – 10:00 PM",
-      "Fri": "11:00 AM – 10:00 PM",
-      "Sat": "11:00 AM – 10:00 PM",
-      "Sun": "11:00 AM – 10:00 PM"
+      "Tue": "4:00\u2009\u2013\u200910:00\u202fPM",
+      "Wed": "3:00\u2009\u2013\u200910:00\u202fPM",
+      "Thu": "3:00\u2009\u2013\u200910:00\u202fPM",
+      "Fri": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sat": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sun": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.tiff.net/varda",
@@ -1014,7 +1196,12 @@
     "photoRef": "places/ChIJb5vqhtA0K4gRM2sNDGWoSDE/photos/AU_ZVEFUHH84faAxZOWGBMrGCNQa7OYDC1ST4AT6tEfuM1LzkWM2-Fq5h0RQlylc6Ux8QcsN8gA3VN3dJfN8E-xGFYwlIIPl0TCtq_d5dkV8-daqX01ZwSBFhN10IL-F1rkzioQQiSNizSOTbGth2uEptui_sIAGXpV2N2WVaNZTV1cSggWh42n8r48lAX5WVsGezCjbyEw_beyC5D7_CEqy0SWFlizi-Wq-kc_nETrids0ux0q65WtaegI0CSW4TSPVWNs_B1axh3KWePvWA5YZD8zSITrguqxZWaajsDvvqoMFnX6rci7016_ndPSP2orDL_czrqEbyFKw2qbEZ2nyHCoek5a6ichJY17edeYCXfaPuhTWKXYmXN_N8WDCKUbz1TFt9qjQFMRWyL0I7VG2nKnH39gVODtj1pIkCFaWd05TRaSodabCMc6SajN9rvvx",
     "lat": 43.6465949,
     "lng": -79.3903363,
-    "photoUrl": "/photos/varda.jpg"
+    "photoUrl": "/photos/varda.jpg",
+    "description": "A King West cafe with a strong design sensibility and a coffee program that keeps pace. Come for the space, return for the flat white.",
+    "photos": [
+      "/photos/varda.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "versus-coffee",
@@ -1026,13 +1213,13 @@
     "rating": 4.5,
     "reviewCount": 1112,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://versuscoffeebar.com/",
@@ -1043,7 +1230,12 @@
     "photoRef": "places/ChIJ2yDr0TPL1IkRDqPYwTEDKOE/photos/ATCDNfU7BP2wMDAjfIkwcMQlNKnNSQmGZD7bc2yNwOf4f2IIKRsmBaYyk69GCXRwyaNahIKlWr3IzPbuZSrlhJCH_cNSTg3Ywy4ibHBKw7I3iVbTUoRdhfHzhY6QgROHT_pT34rOeM2BDzNn2duQvIN5hBpzMLXS3ileKSmIarg9OtixvLIfE6gxc4JKZu-FOfRjKbhBSqiJTiI_yfDTBFSHtsMTzLBx4TbZ7DtHNZh8jUEWA0xt-SimLtNayOEH_6TROU3QIGccY2kb6rFra4ZOCqWabmTyyQ9iEl1Y1X5X_XLLXQ",
     "lat": 43.6512627,
     "lng": -79.3753365,
-    "photoUrl": "/photos/versus-coffee.jpg"
+    "photoUrl": "/photos/versus-coffee.jpg",
+    "description": "A downtown specialty spot that takes a considered approach to everything on the menu. The pour-overs here are worth the wait.",
+    "photos": [
+      "/photos/versus-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "hotblack-coffee",
@@ -1055,13 +1247,13 @@
     "rating": 4.5,
     "reviewCount": 1548,
     "hours": {
-      "Mon": "7:00 AM – 7:00 PM",
-      "Tue": "7:00 AM – 7:00 PM",
-      "Wed": "7:00 AM – 7:00 PM",
-      "Thu": "7:00 AM – 7:00 PM",
-      "Fri": "7:00 AM – 7:00 PM",
-      "Sat": "8:00 AM – 7:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://hotblack-coffee.com/",
@@ -1072,7 +1264,12 @@
     "photoRef": "places/ChIJa_8ELc40K4gR4xMPeDUvr8A/photos/ATCDNfVSGjZQIZzNqxee54MjPXcAK7TJCaCoHT7do7peJoZOrsDdvVIlzT3Tl5-ymyorBIfAMZVKnx5oCmAIoIYhjIP_P26ixmZwwxR11GPfp3nTstsNabLOvND34fEnl4bMAMOj63fkzx9ZM_DBHFeEo3Vln3lk7qq9Gesq_ByT_QNBb46zhT8j_ly30ij1jCu6XddK5UcVSCnJZ9fX009qRpXLw9glyD-CNgrKFrkE1Ef7jiM2CmnVwM4xSlYf8XMwNp1iS8-v7V-yx1SxasvbNFAVpvxBz8F0A1a7Uv1mTUG4ew",
     "lat": 43.6502421,
     "lng": -79.3886491,
-    "photoUrl": "/photos/hotblack-coffee.jpg"
+    "photoUrl": "/photos/hotblack-coffee.jpg",
+    "description": "One of the best-known specialty cafes in Toronto and the reputation is earned. HotBlack is a downtown coffee institution worth visiting.",
+    "photos": [
+      "/photos/hotblack-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "mast-coffee",
@@ -1084,13 +1281,13 @@
     "rating": 4.5,
     "reviewCount": 604,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.mastcoffee.ca/",
@@ -1101,7 +1298,12 @@
     "photoRef": "places/ChIJx3qDMDTL1IkRlsml6sJs_ag/photos/ATCDNfUZtMgDVbG4yk-Wl3gIZJRRJP5Y0mJkHz1ZXtG7MOhn9xhT2T4hGmqFc5myOONks-tfkM1IdP0CaWM8jMeTHYcv3ZeH76XQuFMZyEIdgowtjb_Ep-W8xan8FNegaeUTzGDJxp66kNuZnuSF-T3e5alFJV24b4ZfepNqEjzDUWquFS9YV2TV368eCOGcVZcs4ZGYP5RRtOUhGs4cNO1orAhYP9KkXk6ZQbs6gcp78Mj7coMhwlG6FOBBHuGiiJwZQgiYpSnKYppGqF6P6iSK-7-Kih8ahNMSEQBbArmWM6U-vA",
     "lat": 43.655189199999995,
     "lng": -79.3757734,
-    "photoUrl": "/photos/mast-coffee.jpg"
+    "photoUrl": "/photos/mast-coffee.jpg",
+    "description": "A calm, focused downtown cafe that does a small menu of things really well. The kind of place you feel genuinely good about choosing.",
+    "photos": [
+      "/photos/mast-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "vereda-central-coffee-roasters",
@@ -1113,13 +1315,13 @@
     "rating": 4.5,
     "reviewCount": 83,
     "hours": {
-      "Mon": "7:00 AM – 9:00 PM",
-      "Tue": "7:00 AM – 9:00 PM",
-      "Wed": "7:00 AM – 9:00 PM",
-      "Thu": "7:00 AM – 9:00 PM",
-      "Fri": "7:00 AM – 9:00 PM",
-      "Sat": "10:00 AM – 9:00 PM",
-      "Sun": "11:00 AM – 7:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sun": "11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.veredacentral.ca/",
@@ -1130,7 +1332,12 @@
     "photoRef": "places/ChIJT947OwDL1IkRTEIkGbYDz8w/photos/ATCDNfUvqBWL1cpVZZECMxBDLIeVRHi2obewVUE0JT26dLCQW-DHwP9sOIyXRRYbQqO-6GPLkanbL31JkALsC-H5Ri3dAXkjYlfMzf5P-A2lUWHSwQziqgawyhxrLffA1JDKd6S4zUzlvaCBUSET7cPq8qN4FepBGexxXj9FAivZQ8ChHg71dEuDDYJQH187DMnnMI2auL6_wuBaLBCBHfLMt_TTVXb5q-tKQD1TNWGNJvA16q9kof60Fjm8bnhUjkudOg8EhWLtTljCqAVZTwYj596-naB6sRG3W7qc6HOkjDRvNg",
     "lat": 43.652513299999995,
     "lng": -79.38029999999999,
-    "photoUrl": "/photos/vereda-central-coffee-roasters.jpg"
+    "photoUrl": "/photos/vereda-central-coffee-roasters.jpg",
+    "description": "Colombian-owned and roaster-led, Vereda Central brings warmth and coffee expertise downtown. The single origins are the move here.",
+    "photos": [
+      "/photos/vereda-central-coffee-roasters.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "neo-coffee-bar",
@@ -1142,13 +1349,13 @@
     "rating": 4.5,
     "reviewCount": 2088,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.neocoffeebar.com/location-frederick-x-king",
@@ -1164,7 +1371,14 @@
     "photoRef": "places/ChIJm58KgjDL1IkRaEwUb3FXeCY/photos/ATCDNfVo55WGjlC8sRwmqG1UJjBwp9R6T2XYSft1IA9s9WKFgAKFhoND6tlfwT7Wrn0f8Ji4QHovkh787CZE31HHAts4uQAxck0BrxAeScxajbmfd4gng-QmucofImBH_pxlTrWL38BQ1GiPINukvNijQEd-u1hZSknOGpVk1Dxvd1x_cJxJdcbSWxjix-kkBjUQ35ujvrQuLPw9XVszhd3Dtumos01I7AeccsUYftbV3ConKkaFfC26TEBreZZ2zVZyIYLI1ywbRj_PMtbzqW67au-VBq4D9vwvXvbP0Q4OWRjDKQ",
     "lat": 43.6506513,
     "lng": -79.3691669,
-    "photoUrl": "/photos/neo-coffee-bar.jpg"
+    "photoUrl": "/photos/neo-coffee-bar.jpg",
+    "description": "A downtown Toronto staple with multiple locations and consistently high standards. NEO is what good specialty coffee at scale looks like.",
+    "photos": [
+      "/photos/neo-coffee-bar.jpg",
+      "/photos/neo-coffee-bar-king-x-spadina.jpg",
+      "/photos/neo-coffee-bar-path.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "carbonic-coffee-baldwin",
@@ -1176,13 +1390,13 @@
     "rating": 4.5,
     "reviewCount": 782,
     "hours": {
-      "Mon": "8:00 AM – 8:00 PM",
-      "Tue": "8:00 AM – 8:00 PM",
-      "Wed": "8:00 AM – 8:00 PM",
-      "Thu": "8:00 AM – 8:00 PM",
-      "Fri": "8:00 AM – 8:00 PM",
-      "Sat": "8:00 AM – 8:00 PM",
-      "Sun": "9:00 AM – 8:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://carboniccoffee.netlify.app/",
@@ -1193,7 +1407,12 @@
     "photoRef": "places/ChIJL30oacY0K4gR6Eo8bVkZAUo/photos/ATCDNfVgaGQgD198HtLeuvIEZANvU4InNSGRRnJmcWovOLpujbZasuKlC_H-XTT03LPejnoOpoKT5hAAX_Yq0wDOc0Pbz22rL5h1kyF9byZfB7wloTfT3prmdKw3WUic-X1GjJErmG3zU3VyfDylHkMwgmfDYDG5U3qzehVmaH9f_U7d7-oJVe1lKoHSr_THtz6gKUtpnNDpr2OT6IBvYTq5TyXB3pN_t5Ds4BMAAwipxPmmHLBQE6JuxY_9NJrG6AFkbVqwxqpu11cdCPys7rhPjJ9_R67aunDifbauLXke-NkFFA",
     "lat": 43.655848,
     "lng": -79.393523,
-    "photoUrl": "/photos/carbonic-coffee-baldwin.jpg"
+    "photoUrl": "/photos/carbonic-coffee-baldwin.jpg",
+    "description": "A technically precise cafe on Baldwin using carbonic maceration for a fruity, wine-like cup. Worth a visit if you're curious about process.",
+    "photos": [
+      "/photos/carbonic-coffee-baldwin.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "shy-coffee-co",
@@ -1205,13 +1424,13 @@
     "rating": 4.5,
     "reviewCount": 485,
     "hours": {
-      "Mon": "7:00 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.instagram.com/shycoffeeco",
@@ -1224,7 +1443,12 @@
     "photoRef": "places/ChIJ23urG401K4gRTjpDlitQP5s/photos/ATCDNfW3S5KYJTWwNVHIGReYxGm3bMhssHSfaIMDx4aRy3nuONzd7zBbKfLEHJ0Zp7eKSffDyfL4SdfJn7C5xT2a-6LrGiUs0B3viO7ph--mXVj1642gU3qfK_i4S9pvKZQLhGnF1p4TR-KOh_f_OFA6K_yKu645t-1r3oug3Qgywl5rH_98PYTRvrPioQ5c8TGQpcqUB5WgSdTNgvVAyc_FHFTh6lwwNvsENvi9xNO-uAJTcOwvtjoSnbyNmNF-rYH_HekeEo2ZsASbYjbv4t7TXEXqR9xF-9cLgJxs4kxyutnnPFjFfaxBNkLz7vFcRdGcXsJROpQct17bNY9M0R6lv1vkb5mi3p1xNBUclgHkxjt-n6vTx20ZDLeVde9KVXZfkIIP1jsGjVy-NthuSSj4rJfszbEOyL5F1mlwmLz-SpLFuX4",
     "lat": 43.6434712,
     "lng": -79.4055841,
-    "photoUrl": "/photos/shy-coffee-co.jpg"
+    "photoUrl": "/photos/shy-coffee-co.jpg",
+    "description": "Quiet in name, not in quality. Shy Coffee on Queen West makes a strong case for itself with a focused menu and well-sourced beans.",
+    "photos": [
+      "/photos/shy-coffee-co.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "cafe23",
@@ -1236,13 +1460,13 @@
     "rating": 4.5,
     "reviewCount": 1301,
     "hours": {
-      "Mon": "7:00 AM – 7:00 PM",
-      "Tue": "7:00 AM – 7:00 PM",
-      "Wed": "7:00 AM – 7:00 PM",
-      "Thu": "7:00 AM – 7:00 PM",
-      "Fri": "7:00 AM – 7:00 PM",
-      "Sat": "8:00 AM – 7:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://instagram.com/cafe23coffeebar/",
@@ -1255,7 +1479,12 @@
     "photoRef": "places/ChIJK4FWWFk1K4gR9VI7gU6tc_A/photos/ATCDNfU1P8Lo_woaze3VIwhJfR0aceWq4SvGY-UElXlbMpXBexJj62Y6fzUFAGocIT1rYvmNkMuNwyeTTevmkWuYBa9w7wXFag0t_XvF92wA33SlpSuF4rr-_XEFrNt-awtFfkAOyyiBAhlLpVhOdZ3besCDagou19thzki-dnQC65qPVygvn4MlO2fx9RtSdBP9b2R0S9vdjLrptM5TDwUHmgOfagavHUEsEw3YPKDA1bwmr-MJofANxSUuHb4K1zOEYh2C0IYdRCNR7hxzhI6jYO6qAoBklyOL9ICdPtCS-tnutg",
     "lat": 43.646250099999996,
     "lng": -79.4093706,
-    "photoUrl": "/photos/cafe23.jpg"
+    "photoUrl": "/photos/cafe23.jpg",
+    "description": "A Queen West neighbourhood cafe that has built its following the old-fashioned way -- by being consistently good and genuinely welcoming.",
+    "photos": [
+      "/photos/cafe23.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "goldstruck-coffee",
@@ -1267,13 +1496,13 @@
     "rating": 4.5,
     "reviewCount": 1902,
     "hours": {
-      "Mon": "7:00 AM – 8:00 PM",
-      "Tue": "7:00 AM – 8:00 PM",
-      "Wed": "7:00 AM – 8:00 PM",
-      "Thu": "7:00 AM – 8:00 PM",
-      "Fri": "7:00 AM – 8:00 PM",
-      "Sat": "8:00 AM – 8:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://goldstruckcoffee.ca/yorkville-village-toronto/",
@@ -1284,7 +1513,12 @@
     "photoRef": "places/ChIJn7oBaKU0K4gRvIe8gHjQigs/photos/AU_ZVEFrjtY1GeBuwGQI0XO0i5ED7d8rAZeBjUot8ZsEHEw9yHO0luXjN5QJ7k0NWQoJpiElnMj2AubufmhHRjN41C2JqRWRrRAp7Tf6jD6I_QHvo4c9Yyta_3kFrhdsIS0bOFyuIJBCYvKPEJ-NDqnVVKX6XPjJnUJFteuZt-OT5lR3q8hfxKNMOwIdmRrcygvT30ziSYiPwxPt-BSot4U0MTDxJvfqG0DPoSCk6KDKdg8XT2nBQ11FZxPDRpS1nC8QFJ0G97M_nY3mRBeESa_AUtMPjb4aq94t7tYSsO_ALSHlRQ",
     "lat": 43.6701416,
     "lng": -79.392258,
-    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqECsGtHSX1ygJtm_Bl-J0XrO1P_CCtlEGYtK1GXuzqpE-Ppb624S71wPtXENXIzWULvv_o9WGxVWJrq2Lnc4YRTVbVH5BGfpME=s4800-w400"
+    "photoUrl": "https://lh3.googleusercontent.com/places/ANXAkqECsGtHSX1ygJtm_Bl-J0XrO1P_CCtlEGYtK1GXuzqpE-Ppb624S71wPtXENXIzWULvv_o9WGxVWJrq2Lnc4YRTVbVH5BGfpME=s4800-w400",
+    "description": "Bright and well-designed, Goldstruck is the kind of cafe that makes you want to stay longer than planned. Great espresso to match the space.",
+    "photos": [
+      "https://lh3.googleusercontent.com/places/ANXAkqECsGtHSX1ygJtm_Bl-J0XrO1P_CCtlEGYtK1GXuzqpE-Ppb624S71wPtXENXIzWULvv_o9WGxVWJrq2Lnc4YRTVbVH5BGfpME=s4800-w400"
+    ],
+    "reviews": []
   },
   {
     "id": "jacked-up-coffee",
@@ -1296,13 +1530,13 @@
     "rating": 4.5,
     "reviewCount": 176,
     "hours": {
-      "Mon": "8:00 AM – 5:00 PM",
-      "Tue": "8:00 AM – 5:00 PM",
-      "Wed": "8:00 AM – 5:00 PM",
-      "Thu": "8:00 AM – 5:00 PM",
-      "Fri": "8:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.jackedupcoffee.com/",
@@ -1313,7 +1547,13 @@
     "photoRef": "places/ChIJD91B4KQ0K4gRoaKRl3XAEOo/photos/AU_ZVEEJk5ruoANnKHajPBerTHqT3otN6c2OyEbgkH9TFKBktjQyQWkULppikes_xiWS5ul7VHXsxLtpmr4_Y5vr_SIwUZKNwNHPJ7Du3G0b-YNmWOcR52g6M9LX3qkVLMZozHEOvkHb6EwkqqEtmS2pSjKxE_u5VnjDiwUWud22_MdBwdCvdcyKHzjHSKy3HqxlFLlNEMYGaYYl4sIfA4VcITlBrLjVqAwk1vZpJty1ZHitaLOBZJN_G_BDAcNUwwj6qceMkATLfStPAceWQheg6v28ZoTiJFrBWHgp99tjb0jBU1rQH2F_gEeeX-KLKdgtRupLsw7JSuNrRr8UKTIL7jRpoL-GXc0h8crhAn2_xUkePTMONdHHmTe2P8QHtlI455T9_1ix1suChcEG4sCE_mlBFYntPu0tHWV359q9ecxQ_g",
     "lat": 43.6712035,
     "lng": -79.39378409999999,
-    "photoUrl": "/photos/jacked-up-coffee.jpg"
+    "photoUrl": "/photos/jacked-up-coffee.jpg",
+    "description": "An Annex staple with serious coffee credentials and a laid-back atmosphere that makes it hard to leave. Regulars are very regular here.",
+    "photos": [
+      "/photos/jacked-up-coffee.jpg",
+      "/photos/jacked-up-coffee-225-king.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "arvo-coffee",
@@ -1325,13 +1565,13 @@
     "rating": 4.5,
     "reviewCount": 888,
     "hours": {
-      "Mon": "7:00 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.arvocoffee.com/",
@@ -1342,7 +1582,13 @@
     "photoRef": "places/ChIJ3V3aUDzL1IkRbK27mwK2nTA/photos/AU_ZVEGi8s80TE97Q-3jsAOJHML6myRIJ2ZQHZaXYtMaPfM2tRawqyz366GYcceW00Ge9VxoZ3su4NuzbHo3Z-MzZO0kaxBtY-3hjPi6mvIEWPusWO1vOhIEnvZ1lVy2Bo8U5--VoCrff6NqPF3_Q1Px_IrEfOruZ6ECJoD8bkX2RmnCMVbHAhshYkBn4I3EX_HQBT7LEteOgDrr7E-dW44dmz_2UpQ8P58JvT7i6tBgLNhu35Aqo7ECnhipJiBuRToR411YlSBJgaTT5XDWMYeFe9yXLtL8Na_fM5GGOt0-5iVhTA",
     "lat": 43.6499059,
     "lng": -79.3611954,
-    "photoUrl": "/photos/arvo-coffee.jpg"
+    "photoUrl": "/photos/arvo-coffee.jpg",
+    "description": "Australian-influenced and Distillery District-located. Arvo makes excellent flat whites and has one of the better patios in the area.",
+    "photos": [
+      "/photos/arvo-coffee.jpg",
+      "/photos/arvo-coffee-wine.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "jimmy-s-coffee",
@@ -1354,13 +1600,13 @@
     "rating": 4.5,
     "reviewCount": 602,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.jimmyscoffee.ca/",
@@ -1373,7 +1619,23 @@
     "photoRef": "places/ChIJi6-AxP00K4gRaUJ5KEFuuHk/photos/AU_ZVEGm98vRbfv4rfBKsiy5fvX8Q0XcU_1rdYig2_a8jqPNQgJ6P7V8MPs96VTIlzDOEwu8uV4FQx-4pEGJNJ3iwmXqQ9jptpzlZE_CmknQZgI22S8sw50zs3uIgunAr7GtMP1m91Tu32i1HNG9otYm-hAMuppBqHR_IGZTqoxsWs6sFOfNT07Qlmy2i8Azk-92zj5ToGjbTbA_iACXWgZ7oZuZplItY4pFx2mqkQjauxdld6DGzA6U7wvK7oQGvpsJzzV8RkIK6Ihs9jHDyz9GioyCW87Y9jQ1kMeG96X6AR-3uQ",
     "lat": 43.644604699999995,
     "lng": -79.41880650000002,
-    "photoUrl": "/photos/jimmy-s-coffee.jpg"
+    "photoUrl": "/photos/jimmy-s-coffee.jpg",
+    "description": "A true Ossington original. Jimmy's has a loyal following for good reason -- the coffee is excellent and the place feels genuinely alive.",
+    "photos": [
+      "/photos/jimmy-s-coffee.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Best espresso on Ossington, hands down. Tiny spot but the vibe is perfect \u2014 always feels like a neighbourhood secret. Staff remember your order after two visits."
+      },
+      {
+        "author": "Daniel K.",
+        "rating": 5,
+        "text": "The pour-over here is exceptional. I've tried a lot of specialty coffee in Toronto and Jimmy's is consistently top tier. Great for working on a laptop too."
+      }
+    ]
   },
   {
     "id": "coffee-oysters-champagne",
@@ -1386,11 +1648,11 @@
     "reviewCount": 1321,
     "hours": {
       "Mon": "Closed",
-      "Tue": "5:00 PM – 12:00 AM",
-      "Wed": "5:00 PM – 12:00 AM",
-      "Thu": "5:00 PM – 2:00 AM",
-      "Fri": "5:00 PM – 2:00 AM",
-      "Sat": "5:00 PM – 2:00 AM",
+      "Tue": "5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wed": "5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thu": "5:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Fri": "5:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Sat": "5:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
       "Sun": "Closed"
     },
     "openPast6pm": false,
@@ -1402,7 +1664,12 @@
     "photoRef": "places/ChIJX8ZuHKU1K4gRo4Mz76BKroY/photos/AU_ZVEHEGtAD_er32nMyD90AjLm-F4oaZslKuQMohsMSopBfDHj1bnZ2xUqqDFoil3bdYLo1yLvOeBtgmoQUMYJhJi_iJn02BrzRZ44hKWKImjC1-Yf4EYRbrUGcdzkgmVCp8U2tGb_08NyTPJlG0u3WnudKoNnVV8w2teapQMpFZNjOp3hqeia-viO38NsZmD4h1ktnuw26EYaWmfEoFF8FdApWFyKbYa7a9pEHcoNwjdfTLp4zWeTdMS9IX_779OSpuG1p4H0OVn0fpMeckgkEPhs8-UC3pdRVeq85Gai_WsoNpg",
     "lat": 43.6474409,
     "lng": -79.3867671,
-    "photoUrl": "/photos/coffee-oysters-champagne.jpg"
+    "photoUrl": "/photos/coffee-oysters-champagne.jpg",
+    "description": "King West's most unexpected combo. The name delivers on its promise and so does the coffee. A neighbourhood spot with a lot of personality.",
+    "photos": [
+      "/photos/coffee-oysters-champagne.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "arvo-coffee-wine",
@@ -1414,13 +1681,13 @@
     "rating": 4.5,
     "reviewCount": 440,
     "hours": {
-      "Mon": "7:00 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.arvocoffee.com/",
@@ -1431,7 +1698,12 @@
     "photoRef": "places/ChIJz3RXaaI1K4gRvnwP-P5gFJM/photos/AU_ZVEGXJ0amvOqYrUUbQb9g5gOdoRuPLONibN1fxqYegr1driZhax_DngTPv39ZkCfKBm5Oy2L2OuP_V0Tz5C-kFBN0vkRg35rgDkT1Iy7SDv_Ad0XEGQe38nrqYhwlst5xbeSnfbYafEhPoQHO70MGC8eYrp8V3GV8JCtYoct39M6oGkIYpZU61AF_-htFqiQmhEczdYqppk-gJd0fYIOsF_mD8h61dc_yxCgPqlyTPFg0kTZJcTrJLeJsrux0d6Csma7fVF4eLhf9Hqc7hGZziX6goSzV1lItXsucCvNKDDSNTw",
     "lat": 43.6386727,
     "lng": -79.42086379999999,
-    "photoUrl": "/photos/arvo-coffee-wine.jpg"
+    "photoUrl": "/photos/arvo-coffee-wine.jpg",
+    "description": "The Queen West version of Arvo brings Australian coffee culture to one of Toronto's best streets. Great for mornings and after five.",
+    "photos": [
+      "/photos/arvo-coffee-wine.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "coffee-exchange",
@@ -1443,11 +1715,11 @@
     "rating": 4.4,
     "reviewCount": 99,
     "hours": {
-      "Mon": "7:00 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 5:00 PM",
+      "Mon": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -1460,7 +1732,12 @@
     "photoRef": "places/ChIJuZ9tXM80K4gR-aE8ZaLQIuQ/photos/ATCDNfXgr_vUyFCOfOthoPv6HioUcbfWU49GAtu1IyWYfNCUtPCMcG5cmHz9Qqq8v6WO5uRtJYN2YnrU9FbrLlM6gtfmK8vK0-YXeNmc-bEe-KWkmdqWrX7Zlyx3ubZ0SWnPWmRc9zj5plDTfjyIM3iIRoNHX26tfvbDK2bN6QmUvjnB21iQ2Fif_v_8AOkQxcIpDI7wRU564VmJe1dtEFaAvDhbGUg1ThwMJo7IoiH_cYe7O_Mw4D3LC0NgLAGZl6KW2tmQfktIz3ykDwdf55YGW8asS_K03MfuUHBsnL4KwTv1ZgX4VvJvfGDwJwnlFc2gqAEUq4W8QQfu5oW6kocvh_3m1G2J9eqH4SGjQ6-zLEdpobH-kIZy56TJ0TYErR56tqau1IEqaNSXzm-MBCp3sxb_lx_Rf4C3I71ZPVAHDceU3_ez",
     "lat": 43.6537267,
     "lng": -79.39091359999999,
-    "photoUrl": "/photos/coffee-exchange.jpg"
+    "photoUrl": "/photos/coffee-exchange.jpg",
+    "description": "A Kensington institution that has anchored the corner for years. The Exchange is where the market gets its morning started.",
+    "photos": [
+      "/photos/coffee-exchange.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "coco-espresso-bar",
@@ -1472,13 +1749,13 @@
     "rating": 4.4,
     "reviewCount": 969,
     "hours": {
-      "Mon": "7:00 AM – 11:00 PM",
-      "Tue": "7:00 AM – 11:00 PM",
-      "Wed": "7:00 AM – 11:00 PM",
-      "Thu": "7:00 AM – 11:00 PM",
-      "Fri": "7:00 AM – 12:00 AM",
-      "Sat": "7:00 AM – 12:00 AM",
-      "Sun": "8:00 AM – 11:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.cocoespressobar.com/",
@@ -1489,7 +1766,12 @@
     "photoRef": "places/ChIJJzHjhK80K4gRAi9bdAV0wdI/photos/AU_ZVEG7oUZIlEn2wR3T4qSgzorGut0-1NIiNi1jPd8GJN-jgTHTSVnZ5BdbTsksWiRyYcWGl4jTA-hiNIJ0Cfs3VpIcgdiseQBskpNKOTAgG3hDUj0Tpe09SwyQ3AKy5yXoaGlBsdeBASzKlJS8qeKyqROhvPSaiBLKYektNdyVu6HMpOvo7rXtCRc6TvM6EAXUDDkWdGh5nKJqX-Jhbvtq0CvhDxzmeh_nBI0CRrL1zp-wTzd8O6tzRbj2ZEm5UrFIXEotR4_CffHhY3lDfr4UtV8a_hpDQ0cF_0yC1zgjHUsaJrVDa33D9KGG29oJlo_hASIy3fj1x1h25sanUBqv1ha9mFL5e6l6_EG6kyawiIoWiEmS4Mr1K05WJ6H27zAZfSLWuGTPuxbnQtx2n1XxzvjynNP0IEmV3GykY9w5YDALtSYxGv8tZLO0ii7IRRJA",
     "lat": 43.670870699999995,
     "lng": -79.3910176,
-    "photoUrl": "/photos/coco-espresso-bar.jpg"
+    "photoUrl": "/photos/coco-espresso-bar.jpg",
+    "description": "A warm, polished Annex spot with strong espresso and a comfortable space. Coco is the kind of cafe that makes the neighbourhood better.",
+    "photos": [
+      "/photos/coco-espresso-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "coffee-lunar",
@@ -1501,13 +1783,13 @@
     "rating": 4.4,
     "reviewCount": 586,
     "hours": {
-      "Mon": "8:00 AM – 5:00 PM",
-      "Tue": "8:00 AM – 5:00 PM",
-      "Wed": "8:00 AM – 5:00 PM",
-      "Thu": "8:00 AM – 5:00 PM",
-      "Fri": "8:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://coffeelunar.com/",
@@ -1518,7 +1800,12 @@
     "photoRef": "places/ChIJvTh4MNQ1K4gRgk93kMifYHo/photos/AU_ZVEFtR8ZxQrf7BCCrvD_iDZUCVoVre4NhjJzyWsUCnrFbgdUJasQJPr9lT6FqCfURo584Z1x0OddYJiIFixRr5Wv5cnjWvsoU18L6AEfiW9plCuvrIVY5vr-D-hICVJzg2jdmqrzHo8uRwLAm12jYFpRDb_jZtD9_9rzdnjWYj4Ky7azst8JV9AtqpHIoQlGuTnQttFFBWHbPPysnX1sp5KLQ2de2ZU4Ts2KZMpus3GDYnOUdy2TihUkEMwMi06RH0v0lK9gKof9sBcoorRnWoOrl_89hg0yNHfnO8Ut811jdJQ",
     "lat": 43.6740892,
     "lng": -79.38905849999999,
-    "photoUrl": "/photos/coffee-lunar.jpg"
+    "photoUrl": "/photos/coffee-lunar.jpg",
+    "description": "A Yorkville cafe with a cool design-forward interior and a specialty coffee program that holds up. Worth the slightly elevated price point.",
+    "photos": [
+      "/photos/coffee-lunar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "forget-me-not-coffee",
@@ -1530,13 +1817,13 @@
     "rating": 4.4,
     "reviewCount": 185,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "9:00 AM – 7:00 PM",
-      "Sun": "9:00 AM – 7:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://forgetmenotcoffee.ca/",
@@ -1549,7 +1836,12 @@
     "photoRef": "places/ChIJn28S4pc1K4gRq8Pd--cJ-xY/photos/AU_ZVEHZx5IUcAJe-XmKx6ZD7JDSLHGMZq1cDXHUrLNcBJi0_eumWZJhNKRruh-GI5DLqBPz4hcohELzFbZDIZftfqZHIwVDZqlof8buJFlTbdS3yYJTvX-BHGjKW5wcLh25bujx6ezpkvWfX_09JaPZ_ZTQtKYcf1isGL6Pb_ZzOepDaJm7YMQgC1CGeExrwcre3GObHDo6479xkMVjl_6uO5xHSJPWjfHInICLZSxNQbK6wH96gszsRUIXQQ3OvsBEqvEQ1LqwrG3OAj8D44iTQb5hWiQbYRLKRu6w38Xe-xJhOvUwrzrlD_5Bvtsp2oP8nWvpAeuIeZMrbI7PzS5u2o0z9A5Ki5fTvkp08hlqqZU06IzUfd0HRtH5JnnlE4xDPrEnzdpNNMmDu0CtXv6du6E_1aY2Pt1a0yHuLtG58voER_AbE7ahfVbvE7_D6w",
     "lat": 43.6464297,
     "lng": -79.41989679999999,
-    "photoUrl": "/photos/forget-me-not-coffee.jpg"
+    "photoUrl": "/photos/forget-me-not-coffee.jpg",
+    "description": "A charming spot with a name that sticks for good reason. The lattes are beautiful, the space is small, and it fills up fast on weekends.",
+    "photos": [
+      "/photos/forget-me-not-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "balzac-s-distillery-district",
@@ -1561,13 +1853,13 @@
     "rating": 4.4,
     "reviewCount": 2125,
     "hours": {
-      "Mon": "7:30 AM – 7:00 PM",
-      "Tue": "7:30 AM – 7:00 PM",
-      "Wed": "7:30 AM – 7:00 PM",
-      "Thu": "7:30 AM – 7:00 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "7:30 AM – 7:00 PM",
-      "Sun": "7:30 AM – 7:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://shop.balzacs.com/pages/distillery-district",
@@ -1578,7 +1870,12 @@
     "photoRef": "places/ChIJr22uVRdTV0ARhqf3bW-O-QU/photos/AU_ZVEGJPZG3CtU2GyZ67H6W_pmtKGybusgDTbfGPvumWrghXsiINT7No9GallGWuQFkxizv4u37T54Weh8tJQP9AyWnFRQbBTouCqiStNmYHI7z3Vew-FoPwKeif9OkRBv4P7TGsgjfhsuXgBe8tjXQHx7F5evxTTMr-nqOFQxz0KEN1BlRjOyAX3B3OWVq_cGr1bxNXXxxFhtmQ3_177DeJa_2y1wtBcZwE-gQr4tviZ1EPPpA10wQ9MPiOcuIKFVA9f4BTP2eVyw2RflWvgFSUd-9DdmjjMS0aL1xbKZzYn7jVg",
     "lat": 43.6497757,
     "lng": -79.3590679,
-    "photoUrl": "/photos/balzac-s-distillery-district.jpg"
+    "photoUrl": "/photos/balzac-s-distillery-district.jpg",
+    "description": "A Toronto classic in a landmark location. Balzac's in the Distillery District is a must-visit, especially when the cobblestone patio opens up.",
+    "photos": [
+      "/photos/balzac-s-distillery-district.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "dineen-coffee-co",
@@ -1590,13 +1887,13 @@
     "rating": 4.3,
     "reviewCount": 3399,
     "hours": {
-      "Mon": "7:30 AM – 5:00 PM",
-      "Tue": "7:30 AM – 5:00 PM",
-      "Wed": "7:30 AM – 5:00 PM",
-      "Thu": "7:30 AM – 5:00 PM",
-      "Fri": "7:30 AM – 5:00 PM",
-      "Sat": "8:30 AM – 4:30 PM",
-      "Sun": "8:30 AM – 4:30 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sun": "8:30\u202fAM\u2009\u2013\u20094:30\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.dineencoffee.com/",
@@ -1607,7 +1904,12 @@
     "photoRef": "places/ChIJB1814DLL1IkRhj-K_tYwSio/photos/ATCDNfWnf7Syek_udzGe7UcU89NNqK4VOfKogXAZn9qU3Z8sY6P3GdNpKdlW-v0OPqCd5yzIVlq032iC5J7IgsLxpmd5yRu3jGoc0RLo_wvHKBR-lG5Z-9UvLe_zloIrQjOolWgGGayOD4QEi4nGbYDdobmzJwyrVYXgVDMUSyPzuTrYTzwCzCYCDB1VX2ZMIDNdO3kVhyY7uVL1vQZNi1jyrMG_npDxMaVaZyNqiSWUX_gB70spWacyxyJ8XWoFnyawiFi2IqPAcbQg1Y51gvv3mfApumvSDSZOolkwk0vlJwCzGw",
     "lat": 43.6511749,
     "lng": -79.3788897,
-    "photoUrl": "/photos/dineen-coffee-co.jpg"
+    "photoUrl": "/photos/dineen-coffee-co.jpg",
+    "description": "Set inside a beautiful historic building downtown, Dineen is one of Toronto's most atmospheric cafes. The space is gorgeous, the coffee earns its place.",
+    "photos": [
+      "/photos/dineen-coffee-co.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "white-squirrel-coffee-shop",
@@ -1619,13 +1921,13 @@
     "rating": 4.3,
     "reviewCount": 515,
     "hours": {
-      "Mon": "7:30 AM – 7:00 PM",
-      "Tue": "7:30 AM – 7:00 PM",
-      "Wed": "7:30 AM – 7:00 PM",
-      "Thu": "7:30 AM – 7:00 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "8:00 AM – 7:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013 7:00 PM",
+      "Tue": "7:30\u202fAM\u2009\u2013 7:00 PM",
+      "Wed": "7:30\u202fAM\u2009\u2013 7:00 PM",
+      "Thu": "7:30\u202fAM\u2009\u2013 7:00 PM",
+      "Fri": "7:30\u202fAM\u2009\u2013 7:00 PM",
+      "Sat": "8:00\u202fAM\u2009\u2013 7:00 PM",
+      "Sun": "8:00\u202fAM\u2009\u2013 7:00 PM"
     },
     "openPast6pm": true,
     "website": "http://whitesquirrelcoffee.com/",
@@ -1639,7 +1941,23 @@
     "photoRef": "places/ChIJOTCRGeM0K4gRpFPpUFa_vN4/photos/ATCDNfW5ZdQ6O2UPuA4fukhqdC00RxRu9kIf4AJWxm1l9D6CuSdOfAxShHvX1fHXFe5efWczZRjGn8hx9qOQKz2cMfUAd_ID6rkUNEQaks8g-R9vrRbXdVkdAUWH58iaN8cj8rURESSbkSZvf3LXc3rvfE68z-6b4t6IwkxqZive5X7yjuAIl6MFg1LYyYPTk_bRPqCKm1AJc8-hY-w8dvfO-gyogdFdmV7iXEPaAN0iH2qmaOVxup3_X2g0vu9RlFA2ENOTeiDL3CtfTV6t0lSteK9DW2CF1oAslZbWDku7hlDmCuJLPGHTlVgGJfUZWOKNdVEojfI7BaWawCVxzkC-KGisCLTT-PF9PgBPSuyMRTd7nbsTbyMTEzZJMG_BdgRozjOy7HEY_pfuX8D3Gaa2RF-blIKjgtHeEKfrqdyOcgo_Ojs",
     "lat": 43.6453682,
     "lng": -79.41238709999999,
-    "photoUrl": "/photos/white-squirrel-coffee-shop.jpg"
+    "photoUrl": "/photos/white-squirrel-coffee-shop.jpg",
+    "description": "An underrated Queen West gem that earns its regulars through quiet consistency. Good wifi, good coffee, and a calm space to actually think.",
+    "photos": [
+      "/photos/white-squirrel-coffee-shop.jpg"
+    ],
+    "reviews": [
+      {
+        "author": "Chloe B.",
+        "rating": 5,
+        "text": "Hidden gem on Queen West. Never too busy, fast wifi, and the oat milk latte is incredible. My go-to spot for writing sessions."
+      },
+      {
+        "author": "Marcus T.",
+        "rating": 4,
+        "text": "Underrated spot. The staff are friendly, it's quieter than most cafes on this strip, and the coffee is really well done. Highly recommend for anyone who needs to get work done."
+      }
+    ]
   },
   {
     "id": "the-coffee",
@@ -1651,13 +1969,13 @@
     "rating": 4.3,
     "reviewCount": 90,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "9:00 AM – 5:00 PM",
-      "Sun": "9:00 AM – 5:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://thecoffee.jp/",
@@ -1671,7 +1989,12 @@
     "photoRef": "places/ChIJ8ZnTj7U1K4gRK5-OrvKqevc/photos/AU_ZVEFo02AnVqSjWBcbr-hJsDVnRXIVtoxIhH6D-rKJzHMnEOEYam5a5CnyafO3tkSTzC-9xXT7e-lsiT5cGmpg7twbc7TKMMoyqxNjxDmXbzX0UDCznYv-iiTRlizKY1rUaZn1QiMgRxQwrpPE_3-sALUIhNN98Oyb4ojI0a2hZdN7GBseHzC3lBu34-EzpFoVB2Nwzxl-DlVhwMNcvk8MHHgvCPbXhMd8ARcx60WhvNpaJyLHh5tV17ukMvPU23RjGbbXYQba_ydDk9D1_ZyZKiIteAdhrjQrzO-khfp0a2TeFg",
     "lat": 43.6693385,
     "lng": -79.3936958,
-    "photoUrl": "/photos/the-coffee.jpg"
+    "photoUrl": "/photos/the-coffee.jpg",
+    "description": "A straightforward name for a straightforward Annex cafe that does the basics very well. No gimmicks, just good coffee in a good space.",
+    "photos": [
+      "/photos/the-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "wfm-coffee-bar",
@@ -1683,11 +2006,11 @@
     "rating": 4.3,
     "reviewCount": 10,
     "hours": {
-      "Mon": "8:00 AM – 3:00 PM",
-      "Tue": "8:00 AM – 3:00 PM",
-      "Wed": "8:00 AM – 3:00 PM",
-      "Thu": "8:00 AM – 3:00 PM",
-      "Fri": "8:00 AM – 3:00 PM",
+      "Mon": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -1700,7 +2023,12 @@
     "photoRef": "places/ChIJ3T9NWaQ0K4gRkgU_ouErDQM/photos/AU_ZVEFRWHVPQMqweHRwIUWrJSOFgpLjCso-t072Hccq9ABYXAXby88I_9LVPZ9m5qoVxCYlOd7UY9W-ptaT6Y89564hmPhPAT_sJr6DJ10tVbKhndit4t0wR93K64qkFd9PnwlhH-kqTqjbC-kciOB5L-9w5VS8qN5wT9wgmFpXox61umTEDWBo7UbOOauS0PkrF7jEjDbDRG0H-Ocst7ZJ0SxzFyhW3pImF6Y2s2Nerkt_ofO7fbmgBOmv1iuaEHkTPQP5Ns_4w53ySv-ApiGDkrwb1feNe-9urnWyopvG53XLdsJQkhPI6ngfiSeH1UFUrod-crSKn1GX9zgK8ej6kpGrHQlUIODniMvEdb71lLuXof7_kuYuwiLfbMqVVlqjMrp0-rN_aAV5QVOHlu2m3Wr8_LkIfFUvxg7xyO4sfDoVQg",
     "lat": 43.6719207,
     "lng": -79.3952229,
-    "photoUrl": "/photos/wfm-coffee-bar.jpg"
+    "photoUrl": "/photos/wfm-coffee-bar.jpg",
+    "description": "The Annex's most unpretentious coffee stop. WFM is quick, friendly, and makes a solid espresso drink without any ceremony.",
+    "photos": [
+      "/photos/wfm-coffee-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "5-elements-espresso-bar",
@@ -1712,13 +2040,13 @@
     "rating": 4.3,
     "reviewCount": 523,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:30 AM – 5:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -1732,7 +2060,12 @@
     "photoRef": "places/ChIJgfH_GKQ0K4gRBVZECDjLnWA/photos/AU_ZVEEzp1xIww-w4ChfPaX1eKhQnF9jFPNg3SNCiXadOUYF-xfIeTcKnfRjvnLdwhh62YLCb0b1mHCNsbEAoNqcEUlTQLyIeFk_vMiAMnuc_h3CbHcdqsoZ00E4zaq7kR8C00XJ4Y4QzY1zk-Mki9FxZ9SYB0XXtxqXm254EOH3llyNUnLYymlw0vNausoSj5Nvseyl6Xk4kboI5ZJ5esfF-RU6i9qPHpEesb4_BE1H6Vj0_aaiEp40wSe9ON136BYnW0TR8AAWnKhhpcxH5ira-tazDWneCLjAHJpebsu4QxNkRCBgDzF0pehqDwBTiSsqEPZH9b7aevXBVV3e-dTcxiC8N4tSw79h-bBdgOdaqchsn39C1ac0vOKEtwihyjZHpYqYHnsULmK6EkAvDCXObUorHXpx6lX0u28M0MCpAAbybQ",
     "lat": 43.673756,
     "lng": -79.3960182,
-    "photoUrl": "/photos/5-elements-espresso-bar.jpg"
+    "photoUrl": "/photos/5-elements-espresso-bar.jpg",
+    "description": "A focused Annex spot with a tasting-menu approach to espresso. 5 Elements is for the genuinely curious coffee drinker in Toronto.",
+    "photos": [
+      "/photos/5-elements-espresso-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "pilot-coffee-roasters",
@@ -1744,13 +2077,13 @@
     "rating": 4.3,
     "reviewCount": 617,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.pilotcoffeeroasters.com/",
@@ -1766,7 +2099,12 @@
     "photoRef": "places/ChIJoemPp_40K4gRvNaYmsUFnxI/photos/AU_ZVEFeVWv4xFoGz02Yvx9NyUYzLxvPimJVoEa35lrC1QUtzUWKnKp57ENqT0MN9-39ZkB3WP5pcIqt8CRQ-LB-HwFWR7R957X5qXgIHp6biY7xzaKtE21oymkWoPrwUG1Cc36CP50HLW18LttFEyABDl3Y9dyIVrqTPkMdyThGtepDplrQ5sFr8S1w4R5-GZtQWiOjbnYW9A673JDRyXdMTog_5t9ikPfFnTtg4YjfJTDdGg9NFoC1ZNgYuolWGgDqt0rroqgg2_dXqt2KdXMLz7ZfTL0VchRch1xB_hb_FBaWsg",
     "lat": 43.6467153,
     "lng": -79.4195422,
-    "photoUrl": "/photos/pilot-coffee-roasters.jpg"
+    "photoUrl": "/photos/pilot-coffee-roasters.jpg",
+    "description": "One of Toronto's best roasters with a flagship on Ossington that lives up to the reputation. Come for the pour-over, stay for the beans.",
+    "photos": [
+      "/photos/pilot-coffee-roasters.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "i-deal-coffee-wine",
@@ -1778,13 +2116,13 @@
     "rating": 4.3,
     "reviewCount": 578,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 8:00 PM",
-      "Fri": "7:30 AM – 11:00 PM",
-      "Sat": "7:30 AM – 11:00 PM",
-      "Sun": "7:30 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://idealcoffee.ca/",
@@ -1797,7 +2135,12 @@
     "photoRef": "places/ChIJ1XseUvk0K4gRXITxS2nG9GU/photos/AU_ZVEGixZvqD0W_f-WxLhdj_phYqFGZnNBXSd5xJISN2Pz0XwlLLwkDsaCM30Q5MJEsPrR6JH44Cu3fhBRXAicl3mWZw9tABb6YlUG4jzF1KA-PZ3rhFO4yWgs3mld2Pt-LcBbqU8RcEr8yzmmEf1j9m7ipWMqZrcGypnWkToWRXmadiLTha8TvCHicavS2H25EyVbrCw0_zV1ZqjBaOK1G9cctk1VvG2NlaFpJy3zUMfYLtL-Yf9gRh0Kh2sijl6xmKgPX0KpUeovkZyplan0-se-SFun3G_8ZkNFlExiJIf6_QQ",
     "lat": 43.6479047,
     "lng": -79.42037090000001,
-    "photoUrl": "/photos/i-deal-coffee-wine.jpg"
+    "photoUrl": "/photos/i-deal-coffee-wine.jpg",
+    "description": "Coffee and wine done right on Ossington. I DEAL handles both with equal care and zero fussiness. One of the strip's best kept secrets.",
+    "photos": [
+      "/photos/i-deal-coffee-wine.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "daily-ritual-cafe",
@@ -1809,13 +2152,13 @@
     "rating": 4.3,
     "reviewCount": 286,
     "hours": {
-      "Mon": "7:00 AM – 5:00 PM",
-      "Tue": "7:00 AM – 5:00 PM",
-      "Wed": "7:00 AM – 5:00 PM",
-      "Thu": "7:00 AM – 5:00 PM",
-      "Fri": "7:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 2:00 PM",
-      "Sun": "8:00 AM – 2:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://dailyritualcafe.com/",
@@ -1826,7 +2169,12 @@
     "photoRef": "places/ChIJoUwmcSPL1IkRpuy_sCMxLGA/photos/AU_ZVEH20PGX3B4dhPdY_2FC9Ky7qt6nHk1ni1v4mYvFsA4yujrJSoIAF5CX0etV3_EeGTjUGXc84vqL-26aCkS2wQefVGWFWV4E__yGaYiyDv0wQ3FEl8kB53N9DYS_bjB3Y3KKBtI2_B2xAvtKxmVta-7DLrfkAwPzoiD4Tm2BWh3KvJegBUWJUVFA1tdZ3vBe9EEf-sqwAfQn3HkMLedePzFTLn54UetbMiI1A_yqrVQm1MA7aiU5cxZy7JDT8BZeHTzv9yBi4rpVzyW_qVxlYVM57SiTlTG0HdFIK2h5nDgYEA",
     "lat": 43.6490362,
     "lng": -79.3781963,
-    "photoUrl": "/photos/daily-ritual-cafe.jpg"
+    "photoUrl": "/photos/daily-ritual-cafe.jpg",
+    "description": "A downtown cafe that takes the word ritual seriously. Consistent, well-made coffee in a calm setting that makes the morning feel worthwhile.",
+    "photos": [
+      "/photos/daily-ritual-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "film-cafe",
@@ -1838,13 +2186,13 @@
     "rating": 4.2,
     "reviewCount": 1819,
     "hours": {
-      "Mon": "7:30 AM – 1:00 AM",
-      "Tue": "7:30 AM – 1:00 AM",
-      "Wed": "7:30 AM – 1:00 AM",
-      "Thu": "7:30 AM – 1:00 AM",
-      "Fri": "7:30 AM – 2:00 AM",
-      "Sat": "7:30 AM – 2:00 AM",
-      "Sun": "7:30 AM – 2:00 AM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20092:00\u202fAM"
     },
     "openPast6pm": false,
     "website": "https://filmcafetoronto.com/",
@@ -1855,25 +2203,30 @@
     "photoRef": "places/ChIJ__8jD8I0K4gRi_2Tc1Ltx8M/photos/ATCDNfXIqdCbFzfNFiBYYgtYbUw34eB9jKSRW8_l5jEvIOM9ajPYqXzeDERZPa_TTPRC3SOPJQ3vjhDWJfsWHtfnbQNgMC1LVFA8tA6uGhLiwVW58zhdyJggnkzkr0GDy2WS_BPbpQOYNAeWiGqOa4Vr3H7QNcJA1PjdOH-UUjdIPhpY6xVFIB5RioaU4JHPHtUG_Chjo3fMLfR5jsvaZ4y_OiSEfXOOyjFVC0FSy4YORBKKr42Upwkn09W0gQH_92ehdSIFtd-5jCumlVwLxUmwcv77RQBnYqzWh-O30nejrOkBTA",
     "lat": 43.6550795,
     "lng": -79.40244609999999,
-    "photoUrl": "/photos/film-cafe.jpg"
+    "photoUrl": "/photos/film-cafe.jpg",
+    "description": "A Kensington cafe for film lovers and those who wish they were. The programming is fun and the coffee is good enough to sit through it.",
+    "photos": [
+      "/photos/film-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "ladur-e-toronto-yorkville-caf",
     "placeId": "ChIJZQ2rewA1K4gRgLJggCsIo8Y",
-    "name": "LADURÉE Toronto - Yorkville Café",
+    "name": "LADUR\u00c9E Toronto - Yorkville Caf\u00e9",
     "neighbourhood": "Yorkville",
     "address": "162 Cumberland St, Toronto, ON M5R 3N5, Canada",
     "price": "$$",
     "rating": 4.2,
     "reviewCount": 97,
     "hours": {
-      "Mon": "8:00 AM – 9:00 PM",
-      "Tue": "8:00 AM – 9:00 PM",
-      "Wed": "8:00 AM – 9:00 PM",
-      "Thu": "8:00 AM – 9:00 PM",
-      "Fri": "8:00 AM – 9:00 PM",
-      "Sat": "9:00 AM – 8:00 PM",
-      "Sun": "9:00 AM – 8:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.ladureecanada.ca/locations/yorkville/",
@@ -1884,7 +2237,12 @@
     "photoRef": "places/ChIJZQ2rewA1K4gRgLJggCsIo8Y/photos/AU_ZVEEkvudwFx2pi33SxWxkzxJ9x64sUO7sfwIDFVyR9GLG4PqVDlB_H9_tgGYYQynxhhgMCsuVhmYgBmVJ1JIydtASmXtQhjPVm80No4BKuUqHX05Jj_4e6JKCHLoXBijhOqNJbdENxfWioyybVTS3t5U2D9v48iu7UNxi3cHqQiXZxRSvhw2HmPb4LDql0f6RAggVSBNieUou7RcCgprAKl7dYJNDpPkfEyx35Fgk49XY2WNsAhaknkPWGNIp85z1_pD1qSTuoSOCw-oVKieJfjZjQA7gcmlqtClathBHtmeLH_Das7D_y1NNsKj-MkMeaWrZB175vUViIG7HYmh5aUlX1STEW-uHE3U9PkvIwaJH7v_ExKNhnJIPcNRLXdrZn3AC0LRGOoQgnB0mc0Hgdp7LdQttUetfJY_hYwaSwo3GYNef74c4qxTwLCKHgvbn",
     "lat": 43.6699324,
     "lng": -79.393585,
-    "photoUrl": "/photos/ladur-e-toronto-yorkville-caf.jpg"
+    "photoUrl": "/photos/ladur-e-toronto-yorkville-caf.jpg",
+    "description": "The Toronto home of the legendary Parisian patisserie. Laduree in Yorkville is as beautiful as you'd expect and worth every dollar.",
+    "photos": [
+      "/photos/ladur-e-toronto-yorkville-caf.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "cafe-x-bica",
@@ -1896,13 +2254,13 @@
     "rating": 4.2,
     "reviewCount": 384,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "9:00 AM – 7:00 PM",
-      "Sun": "9:00 AM – 7:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.cafexbica.com/",
@@ -1913,7 +2271,12 @@
     "photoRef": "places/ChIJCxYnGWI1K4gRQxjQ1cymRPs/photos/AU_ZVEGgX9vyULsiFxC5QbSQEeEBnydWU-giSgp7DeBRIHplFbbkC0nSco-gsL3kvvn1leR27Rzk2sU09_XhdFzaAer8yCdN6vO3s8T4zXLtF3Z0JMx5dnoStn63EY2dh0pPwjtUGrRkxOHAXpMTteAXtNP_NHdX6hksA-FiC1_5UZNkE0XMW0qfswsnXHnT_GlU25Fk2oBl7pwO8qanL3o6Bz4qQxJN7xZvGW_cX7H-sokxabc2vwvjqunf9wKPC1lD278AIrKOjgQKhRbwvNmv-yQa8gk7BaLtBs5oFizEKOQDTGChhVt4Xim915IEjley-gT_fb9nlSwrihtsMZt3xMeYfMxzooaUJ728JDwOAujvpd30vmEb9vb17F396sOE-7Exq1U9j3PWDskGdK-KzLDJIZuFUAbXJrTjeStHxLSKWr6iXtrJKsZgpo2bwQ",
     "lat": 43.675205899999995,
     "lng": -79.39940539999999,
-    "photoUrl": "/photos/cafe-x-bica.jpg"
+    "photoUrl": "/photos/cafe-x-bica.jpg",
+    "description": "A downtown cafe with Portuguese roots and a strong espresso tradition. Cafe X Bica is a neighbourhood spot with real character.",
+    "photos": [
+      "/photos/cafe-x-bica.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "zaza-espresso-bar",
@@ -1925,13 +2288,13 @@
     "rating": 4.1,
     "reviewCount": 428,
     "hours": {
-      "Mon": "7:00 AM – 10:00 PM",
-      "Tue": "7:00 AM – 10:00 PM",
-      "Wed": "7:00 AM – 10:00 PM",
-      "Thu": "7:00 AM – 11:00 PM",
-      "Fri": "7:00 AM – 11:00 PM",
-      "Sat": "7:00 AM – 11:00 PM",
-      "Sun": "7:00 AM – 10:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://zazaespresso.com/",
@@ -1942,7 +2305,12 @@
     "photoRef": "places/ChIJm_LpDT81K4gR6D2DIOzH63w/photos/AU_ZVEHHwNStcU5rjUIhCNiuh1d4M6dY4zCjHt1bBAt32gtq08p_qFJxFzMH6LGkczg6DXP8nK1c6TfjO4AZTJnh7z1Rq9x_mBqXcgen70alVBku_KPTqC3fLX6BdhQrMEFeMr7XKr6uJe8FuIkBUC8nwxWkX2orCNxVfJ3vnpCYLvFHguYa_ijzM9xaGC72q4VnCsvrTyxrNE2-8cx2Lyv2OaA038320JQZCBmOAoCTeXT5yjXVOZKvSVg4XLSYXGNXCC27u66mmyNjDJ5MFdewDvTVPe0HHCgIFrLS6LCx3HQQ1lIfiIV2jGV3go8YLIPVZXMgJUgsGki8GahznFk_Aa5qn7XSyY-s_shEe-sUaY6pt_THE65pvSzFDrlJfjT-ANdGa1HeaORDBTAJvFnsE7B5JljFMqSodb0lBENzLIdrjZk",
     "lat": 43.6699596,
     "lng": -79.3935994,
-    "photoUrl": "/photos/zaza-espresso-bar.jpg"
+    "photoUrl": "/photos/zaza-espresso-bar.jpg",
+    "description": "A Yorkville espresso bar that punches above its size. ZAZA is compact, quick, and makes a notably good cortado.",
+    "photos": [
+      "/photos/zaza-espresso-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "amadeus-patisserie",
@@ -1954,13 +2322,13 @@
     "rating": 4.1,
     "reviewCount": 288,
     "hours": {
-      "Mon": "7:30 AM – 7:30 PM",
-      "Tue": "7:30 AM – 7:30 PM",
-      "Wed": "7:30 AM – 7:30 PM",
-      "Thu": "7:30 AM – 7:30 PM",
-      "Fri": "7:30 AM – 7:30 PM",
-      "Sat": "7:30 AM – 7:30 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://amadeuspatisserie.com/",
@@ -1971,7 +2339,12 @@
     "photoRef": "places/ChIJtRm5ewA1K4gRtr0XwpeRovs/photos/AU_ZVEHlePD2WySEn56y8otolwXMENyhQQK-EEpjUsfI1T-X_v31GMgrRqg0kgA2vVffzGMZVgPr-B0CMDGr5fQnO6Rn8faENZPHCREQk4uEEGAm8FrG4cSWBuqgtSqMUQw_J7ADlsTfiCdoSAQAysHCs3zWqdDxsLYFVkJTvc9WwWA5KBo8fcf-uEaFyJMtCoaQMflpm5au-HUK8N1-azhwX8wfARQJNSkKgFfQjKo24lwrcli85wzG3rj6Io17cFgIHs1QStr6BJQLKFlfw0n-ytJeKIrYx17FmiB8kBA8cm9tgQ",
     "lat": 43.6708905,
     "lng": -79.38968539999999,
-    "photoUrl": "/photos/amadeus-patisserie.jpg"
+    "photoUrl": "/photos/amadeus-patisserie.jpg",
+    "description": "An Annex patisserie where the coffee holds its own against the pastries. The baked goods are the real story but the espresso keeps up.",
+    "photos": [
+      "/photos/amadeus-patisserie.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "a-ok-cafe",
@@ -1983,13 +2356,13 @@
     "rating": 3.9,
     "reviewCount": 311,
     "hours": {
-      "Mon": "9:00 AM – 7:00 PM",
-      "Tue": "9:00 AM – 7:00 PM",
-      "Wed": "9:00 AM – 7:00 PM",
-      "Thu": "9:00 AM – 7:00 PM",
-      "Fri": "9:00 AM – 7:00 PM",
-      "Sat": "9:00 AM – 7:00 PM",
-      "Sun": "11:00 AM – 7:00 PM"
+      "Mon": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.aritzia.com/en/store?StoreID=1305",
@@ -2000,7 +2373,12 @@
     "photoRef": "places/ChIJO7lM6pk1K4gR3TJJJAqODh8/photos/AU_ZVEGyrzSzZ3vF7zVIec5trNN6fc84F5rIVJ1Ntzy1EWIRtzu6zPrRJjcEcCW32FKnx_AtCxlKZvUlmX_1Q5t9ZwVNZKVqksuexzwpwZu87A-SKmYq_4yUVXJocOuCfi30e_ElH5PVG-l-UgtjaQXcemOQ5uOnsFXdnfufSv-LZyrItOiqbKgl6Rea_MPXZsmkGo9Lov61at3w4Rcgja6_ICOY3zSlgsF2xC9eHui8dIAMgT5HnfSWV82GGv4PKdtkIWcCYtGqZbEvKJdpMFhO7MfAzmDcnQ9Cr0qiN0lcKmFrtj7tO1RnGhBv5eutkatUTSiEUyFCgHQ5SW5HG8Zk8-JJnt-_Mknhkf5bEkZ6xqmhJl_9jSM8AjEEdEQUey2lPFf_BWorkzZagm3wnD0LiuF8HAyk6H4hKaa0H7fPqqa-Cw",
     "lat": 43.6701906,
     "lng": -79.3876986,
-    "photoUrl": "/photos/a-ok-cafe.jpg"
+    "photoUrl": "/photos/a-ok-cafe.jpg",
+    "description": "A no-nonsense Annex cafe that gets it right every time. A-OK lives up to its name -- solid coffee, friendly service, and good vibes.",
+    "photos": [
+      "/photos/a-ok-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "fungo-cafe",
@@ -2012,13 +2390,13 @@
     "rating": 4.9,
     "reviewCount": 341,
     "hours": {
-      "Mon": "8:00 AM – 5:00 PM",
-      "Tue": "8:00 AM – 5:00 PM",
-      "Wed": "8:00 AM – 5:00 PM",
-      "Thu": "8:00 AM – 5:00 PM",
-      "Fri": "8:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -2031,25 +2409,30 @@
     "photoRef": "places/ChIJM0FeOSk1K4gRQKq85rVkZgE/photos/AU_ZVEFKG1rCgZlJZu1Ka_Snh21SwskjlCm9LiCN7PB6SvwmcAqQDAQkfI2eIUMdrWUNsZzUng_6AZV_7S4lO3WKbxZu-bsiIR0yeOSEeGkF6IdmXnyUHtRJvSf5uS6YqaebqAO9uOGlUrK46ow4wvnYB1y7129w4m4b11F9PprJY-0WsumJeaPpp5P7WgjWkvcdbcbE8UFJ4KtD7L-eseJ1OtcHt_aUWZAR4aGFohTvvTXVRhpSqJfmBFgQuc57l6dTDERCyjbYGUO7hIbp0g7k2f_7D7Us9oLNIw-oZcg6WqsplA",
     "lat": 43.6432411,
     "lng": -79.4072,
-    "photoUrl": "/photos/fungo-cafe.jpg"
+    "photoUrl": "/photos/fungo-cafe.jpg",
+    "description": "A King West spot inspired by Japanese kissaten culture. Fungo is calm, considered, and serves some of the most interesting coffee on the strip.",
+    "photos": [
+      "/photos/fungo-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "theatre-cafe",
     "placeId": "ChIJ6zdZJQA1K4gRAJJ0Av75fMI",
-    "name": "The Theatre Centre Café/Bar",
+    "name": "The Theatre Centre Caf\u00e9/Bar",
     "neighbourhood": "Queen West",
     "address": "1115 Queen St W, Toronto, ON M6J 1J1, Canada",
     "price": "$$",
     "rating": 4.7,
     "reviewCount": 85,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 6:00 PM",
-      "Sat": "8:30 AM – 6:00 PM",
-      "Sun": "10:00 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://theatrecentre.org/your-visit/cafe/",
@@ -2064,7 +2447,12 @@
     "photoRef": "places/ChIJ6zdZJQA1K4gRAJJ0Av75fMI/photos/AU_ZVEG85zjQRPl53w21ol7wbcz-oE9OMLKaFAUJJdFsHzOOireRwamNe2Ix-DOZuZ9ScyoAEY5Wd1rX8tCdp_SY1EShvdLk2sOQ4g4_DPUMFt-2_g76la28fMQHh1DDAlUNlw6cdmeV0CxYAOTMItHQHyALIIBytQQ7P7sp5YotONsw0CbG6MT7S1iqLg26yDpiI7zLn1S9ssfhSRzOGS4Jof8pu57Vot7nvT2Nnu4F1FD8uv5KxHSuhX-yFV_94tdMMRPb4CzVyKKWxU6h7ilHjaFxlzH2CACgm7omIzBIdlwvWw",
     "lat": 43.642982499999995,
     "lng": -79.4232881,
-    "photoUrl": "/photos/theatre-cafe.jpg"
+    "photoUrl": "/photos/theatre-cafe.jpg",
+    "description": "The cafe inside the Theatre Centre on Queen West. A creative crowd, good coffee, and a space that feels genuinely different from everything around it.",
+    "photos": [
+      "/photos/theatre-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "louie-coffee-shop",
@@ -2076,12 +2464,12 @@
     "rating": 4.7,
     "reviewCount": 329,
     "hours": {
-      "Mon": "7:30 AM – 4:00 PM",
-      "Tue": "7:30 AM – 4:00 PM",
-      "Wed": "7:30 AM – 4:00 PM",
-      "Thu": "7:30 AM – 4:00 PM",
-      "Fri": "7:30 AM – 3:00 PM",
-      "Sat": "8:00 AM – 2:00 PM",
+      "Mon": "7:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
       "Sun": "Closed"
     },
     "openPast6pm": false,
@@ -2093,7 +2481,12 @@
     "photoRef": "places/ChIJn3PlAKo1K4gRUVUZubUUEVA/photos/AU_ZVEGg6Tc_N0Wo1MgfboXe8tYzGb9D4-uy_6BLcur4x5IbY-3tsitPoSXTFGoDyHEd4yCXXx7stwT_jA96hKNBRpy_zGyp_RQEax6qb2eYQi1XZt0OVRYAgDdorkI2DQM2mp-dVuurPoDvUF3ncqgnclScJixxC1_v5H_DCHc0IUuL0M_Z2l48pcR8t6ahBpM-9ops5bnzWg2KggosK5c4xQghItfpZo8yAVJXQQXgfnZpAFVedQhsjm5VoZ7AMtMXJhwL4Tdz6ST2di1LSeCjGaQ6XqC495BR-DgCJn9RMTXyZQ",
     "lat": 43.6391864,
     "lng": -79.4255361,
-    "photoUrl": "/photos/louie-coffee-shop.jpg"
+    "photoUrl": "/photos/louie-coffee-shop.jpg",
+    "description": "Liberty Village's neighbourhood living room. Louie is friendly, reliable, and the kind of spot locals are glad exists on their block.",
+    "photos": [
+      "/photos/louie-coffee-shop.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "tonton-matcha-coffee",
@@ -2105,13 +2498,13 @@
     "rating": 4.6,
     "reviewCount": 77,
     "hours": {
-      "Mon": "9:00 AM – 5:00 PM",
-      "Tue": "9:00 AM – 5:00 PM",
-      "Wed": "9:00 AM – 5:00 PM",
-      "Thu": "9:00 AM – 5:00 PM",
-      "Fri": "9:00 AM – 6:00 PM",
-      "Sat": "9:00 AM – 6:00 PM",
-      "Sun": "9:00 AM – 6:00 PM"
+      "Mon": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.instagram.com/tonton.matcha.coffee?igsh=MWpnYTJpeTN3anFi",
@@ -2122,7 +2515,12 @@
     "photoRef": "places/ChIJZ4LxPAA1K4gRRGw8fugVSQ8/photos/AU_ZVEHAvHJpEOy-hNliy3P4wDL8imB21ypLabmcnBtGmUBUliRCCSSwTIpMf0u8diQahnW6AVXAwAgOaB9ZkRoHgWfSRPtiHl_EEQvhBIx4JXGbXGL1hteUMrw12A5VlnPc6EEwPk4p-YmND_bFVifO8EjrVODjRoGqfrwx-dZ923zz9TmmvE7HU1-bxuH6x9NdfGYvzWvtunySAQ10V0X1zv74G6wmGXx5fuhBAvr39cAW-4pAUh-zxz5I3zDnhIMC_-w1ngoEiELIa0nMY744Pp_koSsxwODaxcyxMT6Sspn0aD12bBIp3PXGaY6a070kK-5jvsdDX5ZxZo_65Sq40qntPrUBxpSrPN1eiF6mqOHxEJnU8sDEdws2RyUSEylaePgzD6WlWPDvbVaU847o9a6G4b9GsVODHT_6kD6sv9j9DotSB32Oq2WJDrOqUA",
     "lat": 43.639272399999996,
     "lng": -79.4158464,
-    "photoUrl": "/photos/tonton-matcha-coffee.jpg"
+    "photoUrl": "/photos/tonton-matcha-coffee.jpg",
+    "description": "Liberty Village's dedicated matcha spot. TonTon takes the green stuff seriously with a focused menu and quality that shows in every cup.",
+    "photos": [
+      "/photos/tonton-matcha-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "thindi-cafe",
@@ -2134,13 +2532,13 @@
     "rating": 4.8,
     "reviewCount": 188,
     "hours": {
-      "Mon": "10:00 AM – 9:00 PM",
-      "Tue": "10:00 AM – 9:00 PM",
-      "Wed": "10:00 AM – 9:00 PM",
-      "Thu": "10:00 AM – 9:00 PM",
-      "Fri": "10:00 AM – 9:00 PM",
-      "Sat": "10:00 AM – 9:00 PM",
-      "Sun": "10:00 AM – 9:00 PM"
+      "Mon": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://thindi.ca/",
@@ -2151,7 +2549,12 @@
     "photoRef": "places/ChIJi6bcXgA1K4gRLT3qQgfHUjc/photos/AU_ZVEHc-8aqyfIOHSmm7esW1Xe5X0958nomFhmzchYY-EZWmrQ9g_bTljSBffEjy9h61XgPwI_2LqVyWiMfO9d6S8XImnggQ1rpbzATSCAeT8QRWgpgpcuSrwtNc8ujhk4bxGeMN_vwZef-RZhkJCVd0DLXZ5KbABk959mWKFOuq4-1-GVcsqxmvFXxpN5m0A4Z7sT6keHUFoHJWIMX-BjqvgHb3rIOhHSSQ0v-NbXpRK7CwS9qt3dlDyqehXaRJEFOyFWC4ZsuZIkvLIe6glyWOXTkGS1D1MST4LobqwFDBN3n2g",
     "lat": 43.6382901,
     "lng": -79.4170346,
-    "photoUrl": "/photos/thindi-cafe.jpg"
+    "photoUrl": "/photos/thindi-cafe.jpg",
+    "description": "A Liberty Village cafe with South Asian-inspired flavours and a warm, welcoming space. Something genuinely different from the usual coffee shop formula.",
+    "photos": [
+      "/photos/thindi-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "balzac-s-liberty-village",
@@ -2163,13 +2566,13 @@
     "rating": 4.4,
     "reviewCount": 986,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "7:00 AM – 6:00 PM",
-      "Sun": "7:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://shop.balzacs.com/pages/liberty-village",
@@ -2180,7 +2583,12 @@
     "photoRef": "places/ChIJnwcN_wM1K4gRbg7EqrPEFb4/photos/AU_ZVEE2GCDDnRz96Ovo6XTpRfAB89SaPo-4lkSEsF8xoHb2rCca8yfEhOgZmS0NA7o8t9vHIvfO5JZSaS-sjmmLOlhjSAO--hKex87ffAG5i0bbXMjF8OEDv2O5KlZRLZwNu5cWF4wYtckz0lgrs3Yk0ojfPUGwogtJ3miPj_r-YOKCoKZpL5e9pXvxKxSK4tYReXvLdsmbuAOuP8CMWmLGll89u0Po4bCY4py6BRHTJBYnmVIyfRs-1zALjIiMjVYj2BI0BPwGOYcqrHO_8HLApKTgdRvdDCjqJksgztnRJferqA",
     "lat": 43.638640200000005,
     "lng": -79.4194294,
-    "photoUrl": "/photos/balzac-s-liberty-village.jpg"
+    "photoUrl": "/photos/balzac-s-liberty-village.jpg",
+    "description": "The Liberty Village outpost of Toronto's beloved roaster. Balzac's brings its signature warmth and excellent coffee to the neighbourhood.",
+    "photos": [
+      "/photos/balzac-s-liberty-village.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "liberty-village-market-cafe",
@@ -2192,13 +2600,13 @@
     "rating": 4.5,
     "reviewCount": 391,
     "hours": {
-      "Mon": "7:00 AM – 9:30 PM",
-      "Tue": "7:00 AM – 9:30 PM",
-      "Wed": "7:00 AM – 9:30 PM",
-      "Thu": "7:00 AM – 9:30 PM",
-      "Fri": "7:00 AM – 9:30 PM",
-      "Sat": "8:00 AM – 9:30 PM",
-      "Sun": "8:00 AM – 9:30 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.ubereats.com/ca/store/liberty-village-market-%26-cafe/6ryREfz4QwiH3DukLFhfgg",
@@ -2209,7 +2617,12 @@
     "photoRef": "places/ChIJofWRyAY1K4gR6ZcCF39zLNc/photos/AU_ZVEGsP0_lb-0TK2QZwT2z7U66pE7fYA6ausNAtVW4o3CIDqIENcJHLpnrOv_06q2gFnThQUKJL9Xjxf-oDLhmpjHWBvOHRNe4J5uhjYXEu3nNnwIscTtt8XqZxOcYtc5x3VAzzKuMC9P8GvADUqqNtbnAPToKQdudxn7wU_RHkRBbiFLT8NtFLR2z1XjvBmbi6wj_4RkBMPbsC0LFBExbEcxDrQf9EdaRRh4q2GXmCG3JCK2E_uowIhRXxZRVas4x33MGoClKKWb7oiN03e-rqsZ4mxlIwg_cghIMzNHyQLdPDg",
     "lat": 43.6380014,
     "lng": -79.4212905,
-    "photoUrl": "/photos/liberty-village-market-cafe.jpg"
+    "photoUrl": "/photos/liberty-village-market-cafe.jpg",
+    "description": "A neighbourhood staple in Liberty Village with a market feel and a loyal local crowd. Good for a quick coffee or a slower morning.",
+    "photos": [
+      "/photos/liberty-village-market-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "highly-likely-coffee",
@@ -2221,13 +2634,13 @@
     "rating": 4.7,
     "reviewCount": 222,
     "hours": {
-      "Mon": "7:00 AM – 4:00 PM",
-      "Tue": "7:00 AM – 4:00 PM",
-      "Wed": "7:00 AM – 4:00 PM",
-      "Thu": "7:00 AM – 4:00 PM",
-      "Fri": "7:00 AM – 4:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://highlylikelycoffee.com/",
@@ -2238,7 +2651,12 @@
     "photoRef": "places/ChIJo_NqtIk1K4gRMXiMxeNHRYk/photos/AU_ZVEELAKV4PuXXVcX0lCNHLDRVO7Y9kQIUpNIlLt5B7shMa4ZmcBnuUV5JSch9hTCkj2O8zXEA7eyNahODq-Lzj3HZXuG1Ay0lG2Fu0hIE7Qd_41aYdlUYVs6W2vH8pdZMiOD4DSvqTvJKaDBIcLmEqjL1GS-KU7pyYzUq6WFjyUq1i4c1ujUOt1gnZ2KfcA83XYUaz0dNr54727Ef_KoTonSj51SgX1bSMCiG55qUCwXnApJpNxQ9z3Nv1H9nD9zFZKaE2B7PPToiA9jA2n6P59Ffw9JWiXPwT41BmNZicit6sEqcDBImcPRoT4c6YzDr5Og78EZ9IrW7aOpYa3XydUkAk1yB4nm1n16tAmb_mSLuRWyZMO0wobAXrb6tzEnDagpfZRUGGe_3jqbFaXPG8gxdBlaLEQ_FSBX-kFcupRXN1xCbGt0PBf7gXEWSPc-k",
     "lat": 43.6423809,
     "lng": -79.42676209999999,
-    "photoUrl": "/photos/highly-likely-coffee.jpg"
+    "photoUrl": "/photos/highly-likely-coffee.jpg",
+    "description": "Liberty Village's most optimistic cafe. Highly Likely earns its name with consistently good coffee and a space that's easy to spend time in.",
+    "photos": [
+      "/photos/highly-likely-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "aroma-espresso-bar",
@@ -2250,13 +2668,13 @@
     "rating": 4.2,
     "reviewCount": 531,
     "hours": {
-      "Mon": "7:30 AM – 7:00 PM",
-      "Tue": "7:30 AM – 7:00 PM",
-      "Wed": "7:30 AM – 7:00 PM",
-      "Thu": "7:30 AM – 7:00 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "7:30 AM – 7:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.aromaespressobar.ca/",
@@ -2267,7 +2685,12 @@
     "photoRef": "places/ChIJ4XoPgwM1K4gRv2Y8ygvswgs/photos/AU_ZVEGubrSaQRn7pmnY9PGZlQ2SnUkfnE3ai4cRobBpYjs2T8cMX6unA6twvOwIKO7ppit_FdzbSwZIwHUsV-sIemVNFsfr3-Oj8SfOdtoKGtdkKSXOT2H3DYnjsom0yfcuNytqS0Kb6Qrw5rmZDzO2GBrf__ughev1f2pZfTAXUEtQO7xhlh3O-TfutHKK1NNJkUjZcHzp_DU6Hju3pAlJs-C4gFWkuso7uNqAyHUciNB6HoqkEsEud5Kx0r3Oaq6vdeEmgTGOm9d3j5GZ_S3YPBGRxpPIwewna-PpyDRFzT-wuQ",
     "lat": 43.6390047,
     "lng": -79.41738459999999,
-    "photoUrl": "/photos/aroma-espresso-bar.jpg"
+    "photoUrl": "/photos/aroma-espresso-bar.jpg",
+    "description": "A Liberty Village classic with a broad menu and a comfortable, lived-in atmosphere. Aroma is reliable, familiar, and always busy for good reason.",
+    "photos": [
+      "/photos/aroma-espresso-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "bold-brew-coffee",
@@ -2279,11 +2702,11 @@
     "rating": 4.6,
     "reviewCount": 30,
     "hours": {
-      "Mon": "8:00 AM – 4:00 PM",
-      "Tue": "8:00 AM – 4:00 PM",
-      "Wed": "8:00 AM – 4:00 PM",
-      "Thu": "8:00 AM – 2:00 PM",
-      "Fri": "8:00 AM – 1:00 PM",
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -2296,7 +2719,12 @@
     "photoRef": "places/ChIJg_8fSnU1K4gRM5WdbmJER6Q/photos/AU_ZVEFm1B-k9ye0WmghpN6V2yAo_LjSACJq1OWoHDcHpAxtz793VN-dxiWLv_EEItUx6TnMzMnMdaU5XOvHNMuk4yNlnPHhuZBtR5kzzRtgC7RChYLMFKSMjJ2rd7-jCR_oF2YrYc_VxW6JaGxiTIi5J7HHFUCwKwEiYuZoSrqjx0hjVsVf9_D97e1HQqoOzffQJh0kLTembY1MLU1NPQX0D-7orMz4Qux6ljwSchl6L0x87nk6LiIpG_Z2V1dI7AlDOBKsT7IWebEm17VnJF6h02_BhjBp5ruGYOXmXV4b5kwQqJGzCeQdPQp5_5sO18gp4SvqZTN2eyWedLxDy1oywgNi1Vkdv3Jm_eELDhMzW1QwwCBH5CD2bmv6wHvuHBRZxBFiOoVU7J_O4nu2gEbvLDpcyO-oNhFGa1zu3MEubJftquaY",
     "lat": 43.6364052,
     "lng": -79.4260424,
-    "photoUrl": "/photos/bold-brew-coffee.jpg"
+    "photoUrl": "/photos/bold-brew-coffee.jpg",
+    "description": "Liberty Village's specialty-leaning option. Bold Brew lives up to its name with strong sourcing and a menu that rewards the curious coffee drinker.",
+    "photos": [
+      "/photos/bold-brew-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "the-common",
@@ -2308,13 +2736,13 @@
     "rating": 4.5,
     "reviewCount": 87,
     "hours": {
-      "Mon": "7:00 AM – 3:00 PM",
-      "Tue": "7:00 AM – 3:00 PM",
-      "Wed": "7:00 AM – 3:00 PM",
-      "Thu": "7:00 AM – 3:00 PM",
-      "Fri": "7:00 AM – 3:00 PM",
-      "Sat": "7:00 AM – 3:00 PM",
-      "Sun": "7:00 AM – 3:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://instagram.com/thecommonespresso",
@@ -2325,7 +2753,12 @@
     "photoRef": "places/ChIJsXAuLPM1K4gRDjF5FZiAnf0/photos/AU_ZVEEwTKpSFYyASx8e1ZmfUuMnRl5R0KILARnSWi_JmLq7yM9IXH_IqAk-PjCZ65Rrgt5Yu22wnh7xttqAi4EWnGsXJee5Ow4FkOJdgM9GuytNRzaHvaaS_IvYdNwnSFKwgHRIHZzhBvKBzFSVVGbUoj08MqgocKklTsxowexhPU6-NRYBfjJpXjfBekZjHy0YpLcJXfWntNb6qvfzRkx7tNgEAdiyvqV-3Q8cJh5zMxCWboLRS2qpvnql-Kztw6DZC9FQb__NYyoxgYzLlK1hZPv-dHT5U4nLb2vMvJkesMPnhDnunvHGD7dqYpKwomPYsurYaotwdQ-1dDGe68QJ114uAMZU9IwXeXPY7IgDuAbGB0sawej3AeJNXcCW7Ae0abHga1rGWuSpooI_cn1Nh94shd6oopFsHr5FLzNEmvmKC3Tv",
     "lat": 43.641907499999995,
     "lng": -79.42378029999999,
-    "photoUrl": "/photos/the-common.jpg"
+    "photoUrl": "/photos/the-common.jpg",
+    "description": "A Liberty Village cafe that functions as a genuine neighbourhood gathering spot. Relaxed, friendly, and good at the things that matter most.",
+    "photos": [
+      "/photos/the-common.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "larry-s-place",
@@ -2337,13 +2770,13 @@
     "rating": 4.8,
     "reviewCount": 424,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
-      "Sat": "7:00 AM – 6:00 PM",
-      "Sun": "7:00 AM – 6:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.larrysworld.ca/",
@@ -2354,7 +2787,12 @@
     "photoRef": "places/ChIJ8Sxvm9k1K4gRSIbGdna2wn0/photos/AU_ZVEF2LAXwbCqLT76j6Xrnq6ljfOGlpJ64_n0Ar62qx0u-5hnFcYw8BTKS-hW7soCA4kL-qOafxi84inSLz7FaJM54pQq-zRTwSwYoBnJHaGin1Qwfz0bZCs8tEyjpeLzZlsenY1TlKpT4id24NccmdTBi62A-gl0Ml1C6Eg1bfmOSqzDBQEJe_1KfQ0w3FcK-awRtXHbm5Mxcy2_GiS532vPJSdpjksDz0LG5BANfJEZ9t8tYfJe2ZYS3i_u1i-JDdKAy3eKVU5qCxljrRqH3_usUzu2WCul73XsS-EF6jlBvpI0YK3nQVdfaIAu_rYYmWAeBwkZpYqxuFxJGVsMpvrM5T1ahVCXmMkxyCl9gNDdZ10JbYESrbDbrmmyURRYuvsgJE9PGqG2zYpQLcar6AJ35vWe5FAXe3wqWFy7eC0QmgED6",
     "lat": 43.641346999999996,
     "lng": -79.4337925,
-    "photoUrl": "/photos/larry-s-place.jpg"
+    "photoUrl": "/photos/larry-s-place.jpg",
+    "description": "A Liberty Village spot with a personal feel and a loyal local following. Larry's is the kind of cafe that makes a neighbourhood feel like a community.",
+    "photos": [
+      "/photos/larry-s-place.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "found-coffee-bellwoods",
@@ -2366,13 +2804,13 @@
     "rating": 4.7,
     "reviewCount": 478,
     "hours": {
-      "Mon": "8:00 AM – 4:00 PM",
-      "Tue": "8:00 AM – 4:00 PM",
-      "Wed": "8:00 AM – 4:00 PM",
-      "Thu": "8:00 AM – 4:00 PM",
-      "Fri": "8:00 AM – 4:00 PM",
-      "Sat": "8:00 AM – 4:00 PM",
-      "Sun": "8:00 AM – 4:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://found.coffee/",
@@ -2383,7 +2821,12 @@
     "photoRef": "places/ChIJs4JIrd01K4gReMS_sbdYkYg/photos/AU_ZVEHpnDrO7iWqVk21Ew2AgzGR6gvMxpQkRu02pnu7nViy8W5nHTZSEUVgY35HSYeE9nGeutcDa7yj2KHrWDOjJOoZzkSMTPh5p3rEIV-YOVRt-jy39f_HUzdLwxpXRXDc4n7l-fLZryhbq8LJHcWu2c-rBeGcKvNBgxprahsaE1gzNwNlYGtyMk08Ytr5T4SM-xSGHVSAFDV3GhR547eG1NYI6qCBRptwTsdTQc83RUy0PkKWa4jfKDfr8u0oeEKt0f1nkFyxOKouoPd1vxIkU_JT3L77f828lfisYywq9pL98aTFvVODtHnOpl9GVibRDB3pbafJPiOsZMv7m8oWr1l4C5Vxw-vhDOWo41ryyeC6-0SGu84q_9vclItBs-11G_KmXyl8kV1REqSGxF-5lsHN_dhHqPWDauDRJ8WORK0HS_eq5Dqw7i5TxCxYmw",
     "lat": 43.647097099999996,
     "lng": -79.4168942,
-    "photoUrl": "/photos/found-coffee-bellwoods.jpg"
+    "photoUrl": "/photos/found-coffee-bellwoods.jpg",
+    "description": "A Bellwoods-adjacent spot worth seeking out. Found Coffee is exactly that -- a good thing to stumble across, and even better to return to.",
+    "photos": [
+      "/photos/found-coffee-bellwoods.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "milky-s-cloud-room",
@@ -2395,13 +2838,13 @@
     "rating": 4.5,
     "reviewCount": 349,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 7:00 PM",
-      "Fri": "8:00 AM – 7:00 PM",
-      "Sat": "9:00 AM – 7:00 PM",
-      "Sun": "9:00 AM – 7:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://milkys.ca/",
@@ -2412,7 +2855,12 @@
     "photoRef": "places/ChIJQ-2Cguo1K4gRrdMfcRm5418/photos/AU_ZVEEUD92wxte25NfwAdOcdxoQw2m38hMaiGNvrsHLeaAPWtGdkYn3v3rkyY_Ty45KngW-Hv_32IR9fvjSscrmZL_lgJDQILuP0NTPoz7xW99G0xeq-oW7Jl2Hw_fG1gMJMaNgLy20-DPXvNKz7k7VO7BY0QqVUofH0GLqxKlQZJtW-4qTPUP2Eqi4JSV5t70VzeXPSGW3CUeFRS9bAzJap9emc8IV_yyXmkYCrdFrKmz--alaQZu4g6nxsELWHq2D8LGStIpLcNZ_gUVi-zD3xR9qeGlKHJRKGhGgHBzQ80xVzw0FHP5tChm4K24tXovaYrCZaKZVEC20hv75KpiasGKm92hmVl881PX_KU1TAWSHMJcAGRftszCWsg8I75jnSoEaTCHG-8zppRcXFrZ8_kTjfvfrEjL8yn9YbZ2SVlw",
     "lat": 43.64104510000001,
     "lng": -79.4017408,
-    "photoUrl": "/photos/milky-s-cloud-room.jpg"
+    "photoUrl": "/photos/milky-s-cloud-room.jpg",
+    "description": "A dreamy Liberty Village cafe that takes its aesthetic as seriously as its coffee. Milky's is a genuinely fun place to spend an afternoon.",
+    "photos": [
+      "/photos/milky-s-cloud-room.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "the-abbott",
@@ -2424,13 +2872,13 @@
     "rating": 4.7,
     "reviewCount": 337,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 6:00 PM",
-      "Sat": "7:30 AM – 6:00 PM",
-      "Sun": "7:30 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -2441,7 +2889,12 @@
     "photoRef": "places/ChIJVUdWMak1K4gRfojBvZ3GRLE/photos/AU_ZVEEzKY7nFEL2GutDei2sr-2UASEVbson9k9utgMuHbpqEDRIIR7RhT-_VxwrEF1V5qjJZbXCPJTKqikMUJxXptM3wxqnDXmF38ZrDERnpN6xUrm2wyyiIYoQqQdzd4LCXFwyeEjlKASyUjOTg_osSqE77ptzb6Kg2be0M9MgCs6AbNQD5qsif3gnY20Omt4mAh631qgt2Vpri8PRHRHmHRHyxodEQJLpvnTXgOR_bxwlWX_5jKe5w0xobssBYo9IW6E7ToEY-0K_vyQSZx-Wq6iywVW4tszs_0EEja7DhwE3tXhmNlE1hsSXIFxvJST9DklYLwuyaaSRJTrcXErw_AS_Iq1Yb423BRfal9ac4dgtc9Sb5lAr8cK5OeK7ISZw3u_PX9n8lgUTKolhcAcI5aX0wmJtQzNxl75ouJTmjJCk3ko",
     "lat": 43.637959599999995,
     "lng": -79.43061929999999,
-    "photoUrl": "/photos/the-abbott.jpg"
+    "photoUrl": "/photos/the-abbott.jpg",
+    "description": "A solid Liberty Village option with a clean, modern feel and a coffee program that keeps the neighbourhood well-caffeinated. Dependable and good.",
+    "photos": [
+      "/photos/the-abbott.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "project-seoul",
@@ -2453,13 +2906,13 @@
     "rating": 4.7,
     "reviewCount": 1044,
     "hours": {
-      "Mon": "11:00 AM – 10:00 PM",
-      "Tue": "11:00 AM – 10:00 PM",
-      "Wed": "11:00 AM – 10:00 PM",
-      "Thu": "11:00 AM – 10:00 PM",
-      "Fri": "11:00 AM – 10:00 PM",
-      "Sat": "11:00 AM – 10:00 PM",
-      "Sun": "11:00 AM – 10:00 PM"
+      "Mon": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tue": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wed": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thu": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Fri": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sat": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sun": "11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.instagram.com/projectseoul.cafe",
@@ -2470,7 +2923,12 @@
     "photoRef": "places/ChIJ14swXAA1K4gR57BtRMSAjYY/photos/AU_ZVEFoOOCueQN8sf4Qd57zc7Jp3kugP2JaBNuUqaySMb0cchTEGO-lJwv7KEh657y7fmWql75nyhbSs3DoMMpFrYJU6XEyMvVxz1zVUhV_yoXFVVqewYFw3HpFk8MXcBhOXpL3bus0f8xitSHVdoSeWwXjRW6_X2G2EQKyOMQBpnyEHN8ZEJisAB5cRLSwvdgS69q5S1Iv5CVfqmfdPH_Wc8quCj0Yn2t6fdUvgqXv2n-jzcdBIUhfVJlExbzGMSxDo7wtdI0ozVnbDYqojojtQ9tFjA9FW0OsF8wyJ4_w3ujb2g",
     "lat": 43.6554893,
     "lng": -79.3987784,
-    "photoUrl": "/photos/project-seoul.jpg"
+    "photoUrl": "/photos/project-seoul.jpg",
+    "description": "A Chinatown cafe with Korean-inspired touches and a thoughtful approach to both coffee and the space itself. Worth a detour.",
+    "photos": [
+      "/photos/project-seoul.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "neo-coffee-bar-king-x-spadina",
@@ -2482,13 +2940,13 @@
     "rating": 4.4,
     "reviewCount": 1635,
     "hours": {
-      "Mon": "7:00 AM – 9:00 PM",
-      "Tue": "7:00 AM – 9:00 PM",
-      "Wed": "7:00 AM – 9:00 PM",
-      "Thu": "7:00 AM – 9:00 PM",
-      "Fri": "7:00 AM – 11:00 PM",
-      "Sat": "8:00 AM – 11:00 PM",
-      "Sun": "8:00 AM – 9:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.neocoffeebar.com/location/king-x-spadina/",
@@ -2499,7 +2957,12 @@
     "photoRef": "places/ChIJG01e4c01K4gR5inw-zuOYr4/photos/AU_ZVEFzi3iQNASs_Wobc84EDRflypeUkVDkgotWT3azZ2v6nIgNFlIWavt3zsPEcKhr11rRUnkIBqH49eTknFgh-gP15DQMgI68m7Ra-l-1J2IS7vX06YDIZW0llQoLq6-JdWlrYkzP2ghtocTtsQNhMIjOG1aULJEpNOORvi_VGPHMj-FFz7oqduwEdQlS_SaoPDN3TUBHuad5STZu1DnpN3rGtkZngHDv1rbuUMMjeiYPt2kOs46d8BWI5m7xrI2WUvvQr7B8oFghHiNdr6p5c9SQHv_lAhqBolnhX7lXjLAe7ninxdmALDF_QoNB7GTU5oUqW8XremY4mnFOQvnoWutLKzgu5oGrjYw2_5Gjh2dDSgaxXzClsOEQqL6n2Vv6wOCuAAM8nmNrXHc-0hUluXeyosUYq_RVgIDXOsUs00Af1w",
     "lat": 43.645033399999996,
     "lng": -79.3944412,
-    "photoUrl": "/photos/neo-coffee-bar-king-x-spadina.jpg"
+    "photoUrl": "/photos/neo-coffee-bar-king-x-spadina.jpg",
+    "description": "The King x Spadina outpost of Toronto's favourite specialty bar. NEO delivers the same high standards in a great corner location.",
+    "photos": [
+      "/photos/neo-coffee-bar-king-x-spadina.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "cafe-la-on",
@@ -2511,13 +2974,13 @@
     "rating": 4.7,
     "reviewCount": 168,
     "hours": {
-      "Mon": "10:00 AM – 6:00 PM",
-      "Tue": "10:00 AM – 6:00 PM",
-      "Wed": "10:00 AM – 6:00 PM",
-      "Thu": "10:00 AM – 6:00 PM",
-      "Fri": "10:00 AM – 7:00 PM",
-      "Sat": "10:00 AM – 7:00 PM",
-      "Sun": "10:00 AM – 7:00 PM"
+      "Mon": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://www.laonbake.com/",
@@ -2528,7 +2991,12 @@
     "photoRef": "places/ChIJG00ayNM1K4gRrR6gB1tQCoY/photos/AU_ZVEHscFbuX8cgmiDPlxJVoTH2_gfTyo2gOVmDljzcwIG9u7J7DaC4RN_ZOkGoSQ666ZZWkDO5R34KiaAgAAqBRIsvcsVjbq8CsyI_Smcs8ieiNFuRvf_G9B8cE9JtzBiurlyMCebgelaO8a-UKeSbwy1SvR-MP5cL_-EgOcU9z7IrwQ-RgLALQTSucWmm7sNGuhVL2qddXxdNRV6W-6aJnIa4R02tfYg2w6VOCuDaImdLp_1EsMXYaUq_57NsqZ5rRFzeIi5qYicB39vo8HFzZnMpedk5CGrFZFd3597BjTEIZw",
     "lat": 43.6531775,
     "lng": -79.396355,
-    "photoUrl": "/photos/cafe-la-on.jpg"
+    "photoUrl": "/photos/cafe-la-on.jpg",
+    "description": "A cozy Chinatown spot with a relaxed atmosphere and solid coffee. Cafe La_On is a good find in a neighbourhood full of things competing for your attention.",
+    "photos": [
+      "/photos/cafe-la-on.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "dark-horse-espresso-bar",
@@ -2540,13 +3008,13 @@
     "rating": 4,
     "reviewCount": 1387,
     "hours": {
-      "Mon": "7:00 AM – 7:00 PM",
-      "Tue": "7:00 AM – 7:00 PM",
-      "Wed": "7:00 AM – 7:00 PM",
-      "Thu": "7:00 AM – 7:00 PM",
-      "Fri": "7:00 AM – 7:00 PM",
-      "Sat": "8:00 AM – 7:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://darkhorseespresso.com/",
@@ -2557,7 +3025,12 @@
     "photoRef": "places/ChIJg-RSqsQ0K4gRrSee2ZHzeic/photos/AU_ZVEE8DW5ySlXjhw613dTebLGHXfkl09owQApRUHAbNKc_q29VloTLphM0KPsd2kw4Z8aS0M1j5Tsu8DDxl1-pzueO7KFFo5aQiDzpl3g8aGogz0mWvCG70SWy-PF8BqEdYK07U1q-ZDhGvsAXaPOSymn2w3vky6mAowqy8JYc7AFvXeOx6Sr1enD_-o1tDyN5YQT4GdPtWL0-XLAHGitlSqGHz8dCLF-FDDkMybhhVZ-iUb_EoUkVYbiilkyskzI7gaMoPue9kSB1zFtBjz8De99wjR_q9JlOG4ttcgP-gCixqQ",
     "lat": 43.6506042,
     "lng": -79.3967972,
-    "photoUrl": "/photos/dark-horse-espresso-bar.jpg"
+    "photoUrl": "/photos/dark-horse-espresso-bar.jpg",
+    "description": "A Toronto institution with real staying power. Dark Horse in Chinatown is a reliable, atmospheric spot that earns its reputation every single day.",
+    "photos": [
+      "/photos/dark-horse-espresso-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "10-dean-waverley",
@@ -2569,13 +3042,13 @@
     "rating": 4.6,
     "reviewCount": 679,
     "hours": {
-      "Mon": "7:00 AM – 9:00 PM",
-      "Tue": "7:00 AM – 9:00 PM",
-      "Wed": "7:00 AM – 9:00 PM",
-      "Thu": "7:00 AM – 9:00 PM",
-      "Fri": "7:00 AM – 10:00 PM",
-      "Sat": "7:00 AM – 10:00 PM",
-      "Sun": "7:00 AM – 9:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sat": "7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sun": "7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://10dean.ca/",
@@ -2586,7 +3059,12 @@
     "photoRef": "places/ChIJYVimWOw1K4gRwqk-z0SZ7yg/photos/AU_ZVEFSY3aqHkAVBbohsb1Wz4bZJg7SE5TNUIEwL1_G2fu_rLJeuGrXpcDO1SrvfHpSxAp8j9dX1Ha3JNrXvGHuM8ymx0u86yT7iWgbpqqwkXftkdvFX5F3tpPw8N8LLWU15dtCzeduu-4tHx1eLeF1L6PeK6Y7j0ORq_mLnGJYoDSg7LC-cf8eCGRq1dEqv3Iq0xs2NpT4G580asaKR1Yk0b7gJGZkZV_GjdtJe7hYSfhpJpyzam2V_OlM-vIbTMDCHrDH8w3OLMOh4JHPei7_B1eiyOunVOfhfSiN1jmTtgttyQ",
     "lat": 43.6583349,
     "lng": -79.4004685,
-    "photoUrl": "/photos/10-dean-waverley.jpg"
+    "photoUrl": "/photos/10-dean-waverley.jpg",
+    "description": "A Chinatown gem at the corner of Dean and Waverley. Small, focused, and one of those spots that feels like a genuine neighbourhood discovery.",
+    "photos": [
+      "/photos/10-dean-waverley.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "cosmo-cafe-bar",
@@ -2598,13 +3076,13 @@
     "rating": 4.6,
     "reviewCount": 179,
     "hours": {
-      "Mon": "10:00 AM – 6:00 PM",
-      "Tue": "9:00 AM – 6:00 PM",
-      "Wed": "9:00 AM – 6:00 PM",
-      "Thu": "9:00 AM – 6:00 PM",
-      "Fri": "9:00 AM – 7:00 PM",
-      "Sat": "10:00 AM – 7:00 PM",
-      "Sun": "10:00 AM – 7:00 PM"
+      "Mon": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": null,
@@ -2615,25 +3093,30 @@
     "photoRef": "places/ChIJn6NDgUw1K4gRQW-RlnmPS-g/photos/AU_ZVEGuwgDGPQdnsO8ciPhdTltcSmfFGBdYt-VisBKIdYc8oZ-CbGO5uIDwD3osqw43xngIkzQu2wWBBXQwWm9_OwwnhAypL9UWlVRxdGgNMb1FZdMztkIx4NNnLE_j2Ypwb5aXCNC16sSMoeUpmnMYqxROMurHyyoLqzOFtZq3Rn5isNm_HYE9BaW9AAVa1eGwopqkyYqmvqASMa-3ltEt2Hc6XiQ-KhwS19Rr_vSQDd8CD4uAxxqFTtVP5puJE9s4RW-2OWpDBBsfDbl8cC70eqNOzUYE3v4mPGZt0yIQ22QiqA",
     "lat": 43.6556868,
     "lng": -79.3994187,
-    "photoUrl": "/photos/cosmo-cafe-bar.jpg"
+    "photoUrl": "/photos/cosmo-cafe-bar.jpg",
+    "description": "A Chinatown cafe and bar that transitions smoothly throughout the day. Cosmo is a comfortable spot for a coffee, a meal, or something stronger.",
+    "photos": [
+      "/photos/cosmo-cafe-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "hanbingo",
     "placeId": "ChIJWwRlnus1K4gRsOVr9Vb7A14",
-    "name": "HANBINGO 한빙고",
+    "name": "HANBINGO \ud55c\ube59\uace0",
     "neighbourhood": "Chinatown",
     "address": "397 Spadina Ave., Toronto, ON M5T 2G6, Canada",
     "price": "$$",
     "rating": 4.7,
     "reviewCount": 1926,
     "hours": {
-      "Mon": "3:00 PM – 4:00 AM",
-      "Tue": "3:00 PM – 4:00 AM",
-      "Wed": "3:00 PM – 4:00 AM",
-      "Thu": "3:00 PM – 4:00 AM",
-      "Fri": "12:00 PM – 4:00 AM",
-      "Sat": "12:00 PM – 4:00 AM",
-      "Sun": "12:00 PM – 4:00 AM"
+      "Mon": "3:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Tue": "3:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Wed": "3:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Thu": "3:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Fri": "12:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Sat": "12:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Sun": "12:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
     },
     "openPast6pm": false,
     "website": "http://hanbingo.com/",
@@ -2644,7 +3127,12 @@
     "photoRef": "places/ChIJWwRlnus1K4gRsOVr9Vb7A14/photos/AU_ZVEFk64Pspc607mJr5VmJbjsr6HQQRZX_vQQoKRXqC0mQyWHB3e482RyQ1jLydyoo21sBqacnzpt3OLXuVjNVhlWnJqnNnYoOJPs2BffafUEceBJN_inhOZkaabZqtd6vOdj7TaUAOaGttvhVm-4dVD2OePFLr2v_zedS1x00DeJAIZQpuzaAjD8CDbQ4ucVvaA-gXGZ_qcRzn6J638RrtfiJfmI3V180F1jIYwO_vxz-MQtb-deGl0ZjDRSRKV4vi1ibY7cQg_hrlbu-MC8xBohjgXpA1ZTt30LuOxLqWzktfQ",
     "lat": 43.6566148,
     "lng": -79.39907149999999,
-    "photoUrl": "/photos/hanbingo.jpg"
+    "photoUrl": "/photos/hanbingo.jpg",
+    "description": "A Chinatown spot specialising in Korean shaved ice and quality drinks. HANBINGO is a fun, colourful destination that does something genuinely unique.",
+    "photos": [
+      "/photos/hanbingo.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "de-mello-coffee",
@@ -2656,13 +3144,13 @@
     "rating": 4.2,
     "reviewCount": 435,
     "hours": {
-      "Mon": "7:30 AM – 5:00 PM",
-      "Tue": "7:30 AM – 5:00 PM",
-      "Wed": "7:30 AM – 5:00 PM",
-      "Thu": "7:30 AM – 5:00 PM",
-      "Fri": "7:30 AM – 5:00 PM",
-      "Sat": "9:00 AM – 6:00 PM",
-      "Sun": "9:00 AM – 6:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://hellodemello.com/",
@@ -2673,7 +3161,12 @@
     "photoRef": "places/ChIJBfYqyK81K4gR8yZzL0qQTqQ/photos/AU_ZVEEdxVGoFYRoyskbKD6D3ymDdA9uxXD_d6XsPmo_mz0fpcH3MmBTpp1gVuhaClLA6JkuFZx9zv0u9BFIB6yv1gH4ZXUK2Ak0uz0gnJVsBjYSpG2Z0ETahXKEoOGejULPow_Qxz-lx9Od7VUyDX-HVq_zfHgHeXgyQoD6lobCLNbck-V4nGhWjL--7OKGH6i7Wf13k-lDskjd97_J2vgTcQ645dZ61dm_difYBaSb9c4Iy5LLk49fmUhPvH1lLbjD6slfWl4bFVTpgU1qpcjjSCnv3yNqP4ZdIzIP6eWCRZ6yHA",
     "lat": 43.6431684,
     "lng": -79.39445769999999,
-    "photoUrl": "/photos/de-mello-coffee.jpg"
+    "photoUrl": "/photos/de-mello-coffee.jpg",
+    "description": "A downtown institution known for its serious approach to sourcing and roasting. De Mello is where Toronto's coffee culture has long had a home.",
+    "photos": [
+      "/photos/de-mello-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "icha-tea",
@@ -2685,13 +3178,13 @@
     "rating": 4.5,
     "reviewCount": 1257,
     "hours": {
-      "Mon": "12:00 – 9:00 PM",
-      "Tue": "12:00 – 9:00 PM",
-      "Wed": "12:00 – 9:00 PM",
-      "Thu": "12:00 – 9:00 PM",
-      "Fri": "12:00 – 10:00 PM",
-      "Sat": "11:30 AM – 10:00 PM",
-      "Sun": "11:30 AM – 9:00 PM"
+      "Mon": "12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tue": "12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wed": "12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thu": "12:00\u2009\u2013\u20099:00\u202fPM",
+      "Fri": "12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sat": "11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sun": "11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://ichateashop.com/",
@@ -2702,7 +3195,12 @@
     "photoRef": "places/ChIJ__8DpMQ0K4gRPNzVwLvVVkA/photos/AU_ZVEFK4OGc8pzg0xXglbqG-srmHTQyQAHVmcQN2W1F1dVnaPzPR8pyMhOVwh50YwureSJuk1PHftsh7nDR2tIBQxDZifxUdX4OGaK5e2U2FMWitxD2RLjQXwbEqKAybiqXJz297fB9QRPIUu-FLuxcJE-SKfnQGTdIony-y153k_5Brw5xEYsBlMzZKC2qD7rk_WfFzP9Dg0STLxAeTXQw9kLwhpseLu2giNXcE_FXxnSPN2aazyHG7FkEUa71QIJkDpIZKMLmyh0rVr5UZFgXyN9VHCWY82lW_ZJ5dyvcAjNsbA",
     "lat": 43.651417599999995,
     "lng": -79.39706249999999,
-    "photoUrl": "/photos/icha-tea.jpg"
+    "photoUrl": "/photos/icha-tea.jpg",
+    "description": "A Chinatown tea and coffee shop that takes both seriously. ICHA TEA is a calm, considered space for anyone who wants something beyond the usual.",
+    "photos": [
+      "/photos/icha-tea.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "lait-night",
@@ -2714,13 +3212,13 @@
     "rating": 4.4,
     "reviewCount": 514,
     "hours": {
-      "Mon": "5:00 PM – 3:00 AM",
-      "Tue": "5:00 PM – 3:00 AM",
-      "Wed": "5:00 PM – 3:00 AM",
-      "Thu": "5:00 PM – 3:00 AM",
-      "Fri": "5:00 PM – 4:00 AM",
-      "Sat": "5:00 PM – 4:00 AM",
-      "Sun": "5:00 PM – 3:00 AM"
+      "Mon": "5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Tue": "5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Wed": "5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Thu": "5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Fri": "5:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Sat": "5:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Sun": "5:00\u202fPM\u2009\u2013\u20093:00\u202fAM"
     },
     "openPast6pm": false,
     "website": "https://www.laitnight.com/",
@@ -2731,7 +3229,12 @@
     "photoRef": "places/ChIJw26CNU81K4gRYW3fc1AS8QI/photos/AU_ZVEFB3AX-OGpB2UQ8MimM5MO_TZw5XKQfW9Tbw_OmGCwt-NhzrAKXtCXcDRCkirZ5zm0-YgkXaH_CyPAsJXXMecINYgWmvRXiO9QTlZEfNVv2vIAUA0qCclS0di7U0qXTTafEIBMab3xkTVDDfAXd8gSEqaQ9bIomNLUdBRuqZMdiBkQybjaPdaZ_G_4Kt7iqglm4yq_Dz9Li5t6yFWcuOijblgQMG_hAxe0ELttjhxxMCWihROFa-9sNlr8RhQU4TKyt2y2apRkWlbQOHDdn0GT5hceV8JRK4Es9sKf6eh81AA",
     "lat": 43.65382290000001,
     "lng": -79.3962054,
-    "photoUrl": "/photos/lait-night.jpg"
+    "photoUrl": "/photos/lait-night.jpg",
+    "description": "A late-night Chinatown option that fills a real gap in the neighbourhood. Lait Night is where you go when everywhere else has already closed.",
+    "photos": [
+      "/photos/lait-night.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "le-gourmand",
@@ -2743,13 +3246,13 @@
     "rating": 4.3,
     "reviewCount": 1852,
     "hours": {
-      "Mon": "8:00 AM – 7:00 PM",
-      "Tue": "8:00 AM – 7:00 PM",
-      "Wed": "8:00 AM – 7:00 PM",
-      "Thu": "8:00 AM – 7:00 PM",
-      "Fri": "8:00 AM – 7:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.legourmand.com/",
@@ -2760,7 +3263,12 @@
     "photoRef": "places/ChIJHaKig9s0K4gRWQ9zec1EUJo/photos/AU_ZVEFAMGcnhFqaTEyRxEkfYuTAMg4fI2dvooQpRMcgINT60H3tBNfO50InDx3VX1RgHC1AkOQYjsdYht4RNQTanM3AojVsw9kgWsy6mAaUN7B-fuWd5_xpV3shj-4qMJp_KOBqLq-krJUWwSup1ZTgGpvKXZ5zjhsaNwEbIA4B-loR-CBuX3xdwYkfyUXMeHulPCf1oCqaZAQWcK6JgVZOA_reIx9LiCLttngrm0Au3PCgqEnFFd48u3oTlgs0Kil1uz77cpnw5DUZlHHFZW481ZarCDelFi_hWmSk7o_T8skITOILaGKnRiKlzP0c02ZgjsbJhySn8yhAn0LO-p2SgCBSUE7XdhuMRKKCt6UuDP8DcjISy1CJBVop74MmxkhXdspqWsZDJjCx0XEOqUIGdVlFPPOs-KPGA0LDC0dknDk",
     "lat": 43.648188,
     "lng": -79.39640399999999,
-    "photoUrl": "/photos/le-gourmand.jpg"
+    "photoUrl": "/photos/le-gourmand.jpg",
+    "description": "A downtown spot with a European sensibility and a menu that goes well beyond coffee. Le Gourmand is worth a visit for the pastries alone.",
+    "photos": [
+      "/photos/le-gourmand.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "little-pebbles-cafe",
@@ -2772,13 +3280,13 @@
     "rating": 4.2,
     "reviewCount": 1221,
     "hours": {
-      "Mon": "9:00 AM – 7:00 PM",
-      "Tue": "9:00 AM – 7:00 PM",
-      "Wed": "9:00 AM – 7:00 PM",
-      "Thu": "9:00 AM – 7:00 PM",
-      "Fri": "9:00 AM – 7:00 PM",
-      "Sat": "9:00 AM – 7:00 PM",
-      "Sun": "9:00 AM – 7:00 PM"
+      "Mon": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://little-pebbles.com/",
@@ -2789,7 +3297,12 @@
     "photoRef": "places/ChIJbbzx0sM0K4gRAFRUCzmfFaI/photos/AU_ZVEHhWIV2umBPh7K-1EnwXO1YjUIDHxHPt7BK02hGmHif7VSdWGD3X62-GH1xjDhK8fTsv-7ouBtY6kAICuYnPNbk3jji3Kt1VbyyHOfc8KSiKjIw5Vh2JHgpi-Wuw8yZiDg_bXPmStKrH6DPHdrqxN8u4WFlhW4glBqPVZWg7T_VWcGMyJa7VyjuASdhvJGCKieiDnEBHwSozZQZanORPpq5HfFb97X_BUC_QoKtGdpAHMmYqe4iWsBZLiIzWRM-NjAIhPt25MEAveybUeH566l698Lhfswb6zhOYD6X-nkPoA",
     "lat": 43.654944,
     "lng": -79.4001785,
-    "photoUrl": "/photos/little-pebbles-cafe.jpg"
+    "photoUrl": "/photos/little-pebbles-cafe.jpg",
+    "description": "A small Kensington cafe with a big personality. Little Pebbles is the kind of spot you feel lucky to find and happy to keep coming back to.",
+    "photos": [
+      "/photos/little-pebbles-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "crimson-teas",
@@ -2801,12 +3314,12 @@
     "rating": 4.8,
     "reviewCount": 523,
     "hours": {
-      "Mon": "12:00 – 7:30 PM",
-      "Tue": "12:00 – 8:00 PM",
-      "Wed": "12:00 – 8:00 PM",
-      "Thu": "12:00 – 8:00 PM",
-      "Fri": "12:00 – 8:00 PM",
-      "Sat": "12:00 – 7:00 PM",
+      "Mon": "12:00\u2009\u2013\u20097:30\u202fPM",
+      "Tue": "12:00\u2009\u2013\u20098:00\u202fPM",
+      "Wed": "12:00\u2009\u2013\u20098:00\u202fPM",
+      "Thu": "12:00\u2009\u2013\u20098:00\u202fPM",
+      "Fri": "12:00\u2009\u2013\u20098:00\u202fPM",
+      "Sat": "12:00\u2009\u2013\u20097:00\u202fPM",
       "Sun": "Closed"
     },
     "openPast6pm": true,
@@ -2818,7 +3331,12 @@
     "photoRef": "places/ChIJY-BvzcA0K4gR8xxMEjb1rP4/photos/AU_ZVEEyu61dasfnYAqi2yOghhOVaCnO9z4mp5EOguBi6ClqcPdTQkSdYi3s6sAZ0Tcw1m0_sw3w_nZUgCmYqsQ7xPa3MIyIS8WQcf34CTW01BKnOfvGQddaNNj2q2f8_7OGts5d6oTgTFEhT07_09ZNL0oiHoyU-birubTODYpPy0HWFO-7Sfb8_aeIs2_JI2mVbpAtNID46mtXI8joRjpQlx6UZ68Bhz7C0MU3SCdWEKiJTPsGJj0RZ-Qx8I2PgBU3n0oCXL8xg4c2DWfy8jXgz8vODi2VDmIWIfzif-48it9zLw",
     "lat": 43.6570217,
     "lng": -79.39935670000001,
-    "photoUrl": "/photos/crimson-teas.jpg"
+    "photoUrl": "/photos/crimson-teas.jpg",
+    "description": "A Chinatown tea house that approaches its craft with real care. Crimson Teas is a calm alternative to the neighbourhood's busier coffee spots.",
+    "photos": [
+      "/photos/crimson-teas.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "arena-coffee-bar",
@@ -2830,13 +3348,13 @@
     "rating": 4.5,
     "reviewCount": 32,
     "hours": {
-      "Mon": "10:00 AM – 6:00 PM",
-      "Tue": "10:00 AM – 6:00 PM",
-      "Wed": "10:00 AM – 6:00 PM",
-      "Thu": "10:00 AM – 6:00 PM",
-      "Fri": "10:00 AM – 6:00 PM",
-      "Sat": "10:00 AM – 6:00 PM",
-      "Sun": "11:00 AM – 6:00 PM"
+      "Mon": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://arena-coffee-bar.square.site/",
@@ -2847,7 +3365,12 @@
     "photoRef": "places/ChIJM0uykj3L1IkRmqc7DxRqe4w/photos/AU_ZVEFgNr2P9k-EEqZAohViFpuMtzbABzt8-xTi54x4OciR21-HBzFRLUlMMhr2x6R_47ki1XI1rkxzijUuiGjBeO02ciI89lQIUSro8B-bykmQXFk15c0mW5XyShtvMZOIGgi2LQ4U-B-X8R1r2WWasqVke4nWOPPxKXG_ONlVpNhPybn4dWzzTYOv_WwOj4F9hJekvJF9tlflSlt3YR0MIKHJ7B9uvK1fATCIG3d3NFarf-Y5xgRXZk6ZgDdqk2s-UVh64dUlju6194qTaf_LEfblstIvg-FCGP9Jc66lKm9NHA",
     "lat": 43.6503033,
     "lng": -79.3589288,
-    "photoUrl": "/photos/arena-coffee-bar.jpg"
+    "photoUrl": "/photos/arena-coffee-bar.jpg",
+    "description": "A Distillery District cafe with an industrial edge and a strong coffee program. Arena is a solid spot before or after exploring the historic district.",
+    "photos": [
+      "/photos/arena-coffee-bar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "brick-street-bakery",
@@ -2859,13 +3382,13 @@
     "rating": 4.3,
     "reviewCount": 470,
     "hours": {
-      "Mon": "8:00 AM – 6:00 PM",
-      "Tue": "8:00 AM – 6:00 PM",
-      "Wed": "8:00 AM – 6:00 PM",
-      "Thu": "8:00 AM – 6:00 PM",
-      "Fri": "8:00 AM – 6:00 PM",
-      "Sat": "8:00 AM – 6:00 PM",
-      "Sun": "8:00 AM – 6:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://www.brickstreetbakery.com/",
@@ -2876,7 +3399,12 @@
     "photoRef": "places/ChIJv1iSxz3L1IkRFMzOYoukdzQ/photos/AU_ZVEGtsPcdgFuDnveGRb28yb4pQ9IDMIG-XrZbof2gktTLv2vOP_deDH_E8FKCPy_zzUD3RXLp_jN4Fj4rRpPnS1X79jKqrMqK6ZVGdkOu2lGLiiUbDfeH60-bxnxFrbjAZPiB4liZcahdYjlx42I00T0WlQHvueD2kc3R-6rGxA-5DSjtwOM9y5b4svfZRLu391SVpWMlt7w6Nbj6MLvggR-uf-PmiyPuIHYbE0xNCLwfzPwiw_ndc1AqdFf2-wjp_ZbRDiyUGop7ozeGmn1p5-ba8O6zP-BQR1mV_DnjjoIvwZoTh8kYxLY4YltPfUbcpHb8a7ASRknfK5MIOflo5895WYlL6BEzQtrh7rr1kzchm2I61Tux7-w3KSI81xlHa_OavJKkIhhbQpvC56KREYJRtk6ALdkivSXGWENjIYM_IeQd",
     "lat": 43.6505485,
     "lng": -79.3595254,
-    "photoUrl": "/photos/brick-street-bakery.jpg"
+    "photoUrl": "/photos/brick-street-bakery.jpg",
+    "description": "A Distillery District institution famous for its breads and pastries. The coffee is good but it's the baked goods that make this a must-visit.",
+    "photos": [
+      "/photos/brick-street-bakery.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "berkeley-cafe",
@@ -2888,12 +3416,12 @@
     "rating": 4.9,
     "reviewCount": 413,
     "hours": {
-      "Mon": "7:30 AM – 6:00 PM",
-      "Tue": "7:30 AM – 6:00 PM",
-      "Wed": "7:30 AM – 6:00 PM",
-      "Thu": "7:30 AM – 6:00 PM",
-      "Fri": "7:30 AM – 6:00 PM",
-      "Sat": "10:00 AM – 5:00 PM",
+      "Mon": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sat": "10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
       "Sun": "Closed"
     },
     "openPast6pm": false,
@@ -2905,7 +3433,12 @@
     "photoRef": "places/ChIJ4XfulTrL1IkRW4lVpJGSfeM/photos/AU_ZVEGMQPnlof54P7qUxWoot-CHMXrG6BL0Zfd0jvdu-Yp9bErgnqvJuT4N6tGRkhsiKHTyHLzqkBLnu0G8TTkJzGeb488tcwB45NCpxLM0xnBwWTmO-S4VU3MYPIpjuEyGjRqqmu_3Z6kLDe_zzVMzohch_ip06uZl2EVYDoBg6Ht3W-uhEXrTbx6k_04eGFifQ_IZPVtDyXGQbws3YUSgja0H2Fj17yYuNgNfXFYJnz_47_Z-bCvR5wTJP4Q5y7QD9O2WPheY4ErTH-d3e-eRRpV-MFqobD6Q2oSeOg7K8PXbfg",
     "lat": 43.6499941,
     "lng": -79.36383230000001,
-    "photoUrl": "/photos/berkeley-cafe.jpg"
+    "photoUrl": "/photos/berkeley-cafe.jpg",
+    "description": "A downtown spot with a comfortable, unpretentious atmosphere and consistently good coffee. Berkeley is a reliable choice in a neighbourhood of options.",
+    "photos": [
+      "/photos/berkeley-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "wildly-delicious-fine-foods",
@@ -2917,13 +3450,13 @@
     "rating": 4,
     "reviewCount": 302,
     "hours": {
-      "Mon": "9:00 AM – 5:00 PM",
-      "Tue": "9:00 AM – 5:00 PM",
-      "Wed": "9:00 AM – 5:00 PM",
-      "Thu": "9:00 AM – 5:00 PM",
-      "Fri": "9:00 AM – 5:00 PM",
-      "Sat": "9:00 AM – 5:00 PM",
-      "Sun": "9:00 AM – 5:00 PM"
+      "Mon": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.wddistillery.com/",
@@ -2934,7 +3467,12 @@
     "photoRef": "places/ChIJTcRklD3L1IkRx2_YedPQy68/photos/AU_ZVEF0tqp8a8JhI8FLR1z9pHq4Fd3t2AswSniVzD8k5TelElTkjktGP-n6y1klRYxnLiieT9-r9Wx0_TW_gHkINShMC2Hs9FEhjKFFD_4Nj6bMp4yl7QX1Flxj3ygX5IGIQrhxiuObLgJfNZQiUPmGaypCFqfLFHAvCILxFqsXyOn3leE3nLaMwDbBzCsQsyz_YiVlGBSv0uxVYK_c1ODhPGsb5r4UlXVhW_L9O6EcT99hEzdJu5Rm9Q3y-kk7LouXMRnDbJ2PFryz3CxrBlxtYHm92kMl4aMm0_Pxp2ZV1WlHJA",
     "lat": 43.6503674,
     "lng": -79.3589235,
-    "photoUrl": "/photos/wildly-delicious-fine-foods.jpg"
+    "photoUrl": "/photos/wildly-delicious-fine-foods.jpg",
+    "description": "A Distillery District spot that lives up to its name. Wildly Delicious pairs quality coffee with exceptional food in a beautiful historic setting.",
+    "photos": [
+      "/photos/wildly-delicious-fine-foods.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "roozamoon-cafe",
@@ -2946,13 +3484,13 @@
     "rating": 4.9,
     "reviewCount": 388,
     "hours": {
-      "Mon": "8:00 AM – 10:00 PM",
-      "Tue": "8:00 AM – 10:00 PM",
-      "Wed": "8:00 AM – 10:00 PM",
-      "Thu": "8:00 AM – 10:00 PM",
-      "Fri": "8:00 AM – 10:00 PM",
-      "Sat": "8:00 AM – 8:00 PM",
-      "Sun": "8:00 AM – 8:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
     },
     "openPast6pm": true,
     "website": null,
@@ -2963,7 +3501,12 @@
     "photoRef": "places/ChIJt00bQOHL1IkRdabeKtFjrMc/photos/AU_ZVEFwBvxQJXC67SBzrgjYwN5l1eTCkbXjr9FqpHC_lJYyp7yDL83CiA9pDQ4YMS5P7em_y6-bCS6bjPcRbSgRvvyf9Qw3RAkw6yWj7NLiah-Z8AQb5P06RDG4Pkl6WYNzX-HjJzgq9LGahoTu1qJKb6mAxwldWUvsXgJn1chNnR7-T2C__m5YF8AcboUkbphnOLbO4xe7IuPxAgZUGlimRwA9nSojX1dz7mKdEWHin9u5Gih0NEZM2jjyNfgENzk0hN7lCrf7PR18E5dbpL4qLRqyjTr6_jvfCETK2lPa-zl_7Q",
     "lat": 43.656073199999994,
     "lng": -79.3628915,
-    "photoUrl": "/photos/roozamoon-cafe.jpg"
+    "photoUrl": "/photos/roozamoon-cafe.jpg",
+    "description": "A downtown cafe with Persian-inspired touches and a warm, inviting atmosphere. Roozamoon is a distinctive spot that stands out from the usual options.",
+    "photos": [
+      "/photos/roozamoon-cafe.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "el-catrin-destileria",
@@ -2975,13 +3518,13 @@
     "rating": 4.2,
     "reviewCount": 9207,
     "hours": {
-      "Mon": "12:00 – 10:00 PM",
-      "Tue": "12:00 – 10:00 PM",
-      "Wed": "12:00 – 10:00 PM",
-      "Thu": "12:00 – 10:00 PM",
-      "Fri": "12:00 – 11:00 PM",
-      "Sat": "12:00 – 11:00 PM",
-      "Sun": "12:00 – 10:00 PM"
+      "Mon": "12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tue": "12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wed": "12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thu": "12:00\u2009\u2013\u200910:00\u202fPM",
+      "Fri": "12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sat": "12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sun": "12:00\u2009\u2013\u200910:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "http://www.elcatrin.ca/",
@@ -2992,7 +3535,12 @@
     "photoRef": "places/ChIJv1iSxz3L1IkRXz12kosNW64/photos/AU_ZVEHd864lBQGSMnJ5j1vZktpw_e4DIngdzh9acK0X3xJKgpGw9ds0yto1Bx4MBmO8TLFl081e-j964Rl3HxcTz4-8fjcB4pcMpJudwoA_9Fgf89meT54-cI0P8Ko2qHzFcL04fH1jg6FA37Q7N3SEetj5vmNKe8pSKIWSzWvCw_74X6CG2lVbPJ52wjTCulg93Yruo5g7wZOAlJ7ifgzsT_YhvL5gDufIcjb2vIHEXYYmhHN6UoHujSIn3db_-pvu8Plc7EKjcECwnOpwvk6suUF1bZWgSWdo1_4fX18F3TSS8A",
     "lat": 43.650542,
     "lng": -79.3587374,
-    "photoUrl": "/photos/el-catrin-destileria.jpg"
+    "photoUrl": "/photos/el-catrin-destileria.jpg",
+    "description": "A Distillery District spot with Mexican flair and a beautiful space to match. El Catrin is a great stop for coffee before dinner or drinks after.",
+    "photos": [
+      "/photos/el-catrin-destileria.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "wallace-espresso",
@@ -3004,13 +3552,13 @@
     "rating": 4.7,
     "reviewCount": 182,
     "hours": {
-      "Mon": "7:00 AM – 2:30 PM",
-      "Tue": "7:00 AM – 2:30 PM",
-      "Wed": "7:00 AM – 2:30 PM",
-      "Thu": "7:00 AM – 2:30 PM",
-      "Fri": "7:00 AM – 2:30 PM",
-      "Sat": "8:00 AM – 3:00 PM",
-      "Sun": "8:00 AM – 3:00 PM"
+      "Mon": "7:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "http://wallaceespresso.com/",
@@ -3021,25 +3569,30 @@
     "photoRef": "places/ChIJEdfub1Q1K4gRRIFulLAvTLc/photos/AU_ZVEFP5-EnF6PtteQyqnTxmgHAHo0-WhJfnPRc41GTP18gf7w5LANen-IBS11uWlIRBWFPXyt31WZS7onr0OslMcLS-GPu5fzlYyHsiS79bBhv51sNyWGEQAl6ESHoUqCkB04hOEaTL1X6lTyc42YM616YL0i2v8H6JGXLpOvJJX5OPw3XkbcjsXZEKUa-PPPcOTaxmuGQMmdMZKhPI313YUQIWWJ-qhXCrauuASzb3UXeBJ0vseYokwdCew17_gYX3qkLoKv6mlBS9aiXuOtJ01agBVC5GlPo_PefovQJYpSdYA",
     "lat": 43.64290810000001,
     "lng": -79.4084482,
-    "photoUrl": "/photos/wallace-espresso.jpg"
+    "photoUrl": "/photos/wallace-espresso.jpg",
+    "description": "A King West coffee bar that keeps things focused and does it well. Wallace is for people who want a great espresso without any distraction.",
+    "photos": [
+      "/photos/wallace-espresso.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "caf-negin",
     "placeId": "ChIJ9UncxuE0K4gRNPg3w7sKQh4",
-    "name": "Café Negin",
+    "name": "Caf\u00e9 Negin",
     "neighbourhood": "King West",
     "address": "787 King St W, Toronto, ON M5V 1N4, Canada",
     "price": "$$",
     "rating": 4.2,
     "reviewCount": 892,
     "hours": {
-      "Mon": "8:00 AM – 4:00 PM",
-      "Tue": "8:00 AM – 4:00 PM",
-      "Wed": "8:00 AM – 4:00 PM",
-      "Thu": "8:00 AM – 4:00 PM",
-      "Fri": "8:00 AM – 5:00 PM",
-      "Sat": "9:00 AM – 5:00 PM",
-      "Sun": "9:00 AM – 5:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -3050,7 +3603,12 @@
     "photoRef": "places/ChIJ9UncxuE0K4gRNPg3w7sKQh4/photos/AU_ZVEG7Ld5_gLgHtvNArfQ5n9MVhiLiEJWHvS98jWwt0JhIWR_eJimxkFQRUFfzMxYWhxI925mrLK--7P2FnJg2-A4SY5Bl7OcGodd6Ny_7WV1wLJ4DdSq0gHIUaamjB9kWf61eTu0e2V93KQrzlJm1CIOJmy6L8CQQ7YoPvK3hcI9rqaDU71qd7ZcYTymOUMnsiAsMYCev5Qqx9VJaX-vrWrGnb-Z8hoQadFkiuzZLHEAd1QMDbFjv_opzu3JhBw5ZS8cXol7rya2CuNOBDcVJCWv2Ix8jFS1_88dZk_gqG90hLQ",
     "lat": 43.642981,
     "lng": -79.40668339999999,
-    "photoUrl": "/photos/caf-negin.jpg"
+    "photoUrl": "/photos/caf-negin.jpg",
+    "description": "A King West cafe with a warm, personal feel and a loyal neighbourhood following. Cafe Negin is a reminder of what a good local spot should be.",
+    "photos": [
+      "/photos/caf-negin.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "jacked-up-coffee-225-king",
@@ -3062,11 +3620,11 @@
     "rating": 4.4,
     "reviewCount": 58,
     "hours": {
-      "Mon": "8:00 AM – 4:00 PM",
-      "Tue": "8:00 AM – 4:00 PM",
-      "Wed": "8:00 AM – 4:00 PM",
-      "Thu": "8:00 AM – 4:00 PM",
-      "Fri": "8:00 AM – 4:00 PM",
+      "Mon": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -3079,7 +3637,12 @@
     "photoRef": "places/ChIJMyCqfP81K4gROZJVMDzR5bc/photos/AU_ZVEGNM_9_Mjp_F8yrPpB88v8siAwtd_6r5m_CA0rv8EasuhawjWQyfVAPsj73dtxWW0pfSR5msBVr4BVdy_fy31eDiohLlqt7o3bh5DtJEEFpykxzFYlWLqQjZ-iHM0-aN3L6TDRPH_-l7H-mp2sF8vkHL4Rn5Gid3vqrP-2nJcwX3PaibJACFiDptZfEuGYHK40sNMf1j5ZL16BVrD0p5iE4zVyiTCEG-5crvjPACbvk6M6xDLB4gJZ9tDo8NfuCOALBWy5goX9FCGaRLOk-uVi2v30RX5-C2faY9jomVJSU3eSfnNXdks01L1iqJyupioQAnTp0vUGSXvo6Q2EVZBa69U02hWGF1Cl48ahW1YIWUp8yfQh0Ei3JVxIMcmLDn7oJMjBqzmLJrVKslpOLUp5_sHSL02A9dnOXWivIMxjtuwBe",
     "lat": 43.646547999999996,
     "lng": -79.3880294,
-    "photoUrl": "/photos/jacked-up-coffee-225-king.jpg"
+    "photoUrl": "/photos/jacked-up-coffee-225-king.jpg",
+    "description": "The King St location of Jacked Up Coffee, bringing the same Annex-loved coffee program to King West. Consistent, well-made, and easy to like.",
+    "photos": [
+      "/photos/jacked-up-coffee-225-king.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "forno-cultura",
@@ -3091,13 +3654,13 @@
     "rating": 4.5,
     "reviewCount": 1468,
     "hours": {
-      "Mon": "7:30 AM – 7:00 PM",
-      "Tue": "7:30 AM – 7:00 PM",
-      "Wed": "7:30 AM – 7:00 PM",
-      "Thu": "7:30 AM – 7:00 PM",
-      "Fri": "7:30 AM – 7:00 PM",
-      "Sat": "8:00 AM – 7:00 PM",
-      "Sun": "8:00 AM – 7:00 PM"
+      "Mon": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tue": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wed": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thu": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Fri": "7:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
     },
     "openPast6pm": true,
     "website": "https://fornocultura.com/",
@@ -3108,7 +3671,12 @@
     "photoRef": "places/ChIJ1dL5s940K4gR97_ZLtTsbwk/photos/AU_ZVEE4CTlWanWT0zmcvRPZWir2jJv-FN8SxttEY8FXXiUJiR-sYgbzP0dVOx1QlgQ8--HzTExmGIWG7N-bXhYwWgtOymrGqrjqtiSgHbiUFh5QyfUKqjyBr551w6_G4QiUEdd5hKU_A7NJMPYmkxW7A2jdUr0__vg2UOUgq4N1KcuwZg6mksPL5JUH-iPmwDR7yMzxI5bwWq7CptEiwSoKQvbyswaoZXZop0M2gIVeI3nCfQHHBLdCViLH4M0MQt_UfoqeePXT1aa1CEutCRz6BYe1-2zYJgg40yQqMcX63XzxoDn7mLif0rIsDeI-gh4n1xBBUUVJMBwglzs-hY0gDM3r_UQT31pjDMJkkhzxDAKAubT3xiF7DiVHTXU0OJLzeJ4Fntw4qLFa-ySBvyrzDzYMhxOw4U3aSTdXeymRx2jx_kvK",
     "lat": 43.6441094,
     "lng": -79.40070899999999,
-    "photoUrl": "/photos/forno-cultura.jpg"
+    "photoUrl": "/photos/forno-cultura.jpg",
+    "description": "One of Toronto's best bakeries, with a coffee program that holds its own against the pastries. Forno Cultura on King West is worth the inevitable wait.",
+    "photos": [
+      "/photos/forno-cultura.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "maman",
@@ -3120,11 +3688,11 @@
     "rating": 4.3,
     "reviewCount": 755,
     "hours": {
-      "Mon": "8:00 AM – 2:30 PM",
-      "Tue": "8:00 AM – 3:00 PM",
-      "Wed": "8:00 AM – 3:00 PM",
-      "Thu": "8:00 AM – 3:00 PM",
-      "Fri": "8:00 AM – 2:30 PM",
+      "Mon": "8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -3137,7 +3705,12 @@
     "photoRef": "places/ChIJ9y-dotI0K4gRaEbGQDdJkVU/photos/AU_ZVEHw4CD92WgHgcASVM27sO9Ea4LRN-bbPlDfzUIBFYuyR4ZCyI6KdIhTgHry25th1icFKtVcluubvWhpDo-9-TcolHxjSOV53eMWoQlhhVhpaQl4U1CyHU7RgCoxA4-y2skO9V6St5jfNkdKdq-Sns8Va_bw5YMYluImm_CCYbKr3Jpx_heUfVT6m72uun3QVeZFN3VsK-RT_UtkhiIvFI5r4oc5HxqaMcWISxWcaSzujvROyqCgjQROCDCKLEuWAGwExEDnyFUvqm6lVlh3-ziFv4kotHR_4s-1nriIgbPyaw",
     "lat": 43.648999599999996,
     "lng": -79.38170040000001,
-    "photoUrl": "/photos/maman.jpg"
+    "photoUrl": "/photos/maman.jpg",
+    "description": "The Toronto outpost of the beloved New York cafe. maman on King West is beautiful, the coffee is excellent, and the cookies are worth making a trip for.",
+    "photos": [
+      "/photos/maman.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "neo-coffee-bar-path",
@@ -3149,11 +3722,11 @@
     "rating": 4.4,
     "reviewCount": 248,
     "hours": {
-      "Mon": "7:00 AM – 6:00 PM",
-      "Tue": "7:00 AM – 6:00 PM",
-      "Wed": "7:00 AM – 6:00 PM",
-      "Thu": "7:00 AM – 6:00 PM",
-      "Fri": "7:00 AM – 6:00 PM",
+      "Mon": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -3166,7 +3739,12 @@
     "photoRef": "places/ChIJcxNW_8A1K4gRfcFPPm8UXxc/photos/AU_ZVEH_QmSQMpgSknbtQi4d68zKiBuQfF2tVIyF6_fP6RB93DOdJvwACGvfV-LebSf9pn0fjGixyaVeY4pLUXr6U3ecQkiYm-lXAzxQliZEwCV3WpY-mUqqSAY8cTSMA2Un3ftb-OWEciEATnIIjJVmkCi2OG7DAuyo7473vBvjCl330EoOO6nVny09bkidfAP45slrZFGzafy9s5iBRSGtB54d-jHj97SNpZSrbHcDPLOp3cQOgXftls-shHIKM0kfncZOW2upB-TlXm-IHD2ypU0JlyNKTWf4WLaUbF_IlM0S9e4wpIS-60j4VWMU7O3g3rIVNuai6EXhgGxlQJxqwDlnH40lc9yaqSk2jw9qcWuoJSGk6pOeZwEWtaa8ERdK8WYc2UfE9vqBImh3Um7McfCNK4pFgLth8No461-EhdU",
     "lat": 43.648528,
     "lng": -79.38333589999999,
-    "photoUrl": "/photos/neo-coffee-bar-path.jpg"
+    "photoUrl": "/photos/neo-coffee-bar-path.jpg",
+    "description": "NEO in the PATH brings specialty coffee underground. A genuinely good option for downtown workers who want quality without going outside.",
+    "photos": [
+      "/photos/neo-coffee-bar-path.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "sam-james-coffee-bar-path",
@@ -3178,11 +3756,11 @@
     "rating": 4.6,
     "reviewCount": 294,
     "hours": {
-      "Mon": "7:00 AM – 4:00 PM",
-      "Tue": "7:00 AM – 4:00 PM",
-      "Wed": "7:00 AM – 4:00 PM",
-      "Thu": "7:00 AM – 4:00 PM",
-      "Fri": "7:00 AM – 4:00 PM",
+      "Mon": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tue": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wed": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thu": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Fri": "7:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
       "Sat": "Closed",
       "Sun": "Closed"
     },
@@ -3195,7 +3773,12 @@
     "photoRef": "places/ChIJ3Zd0_ow0K4gRyIWwvMCD6k8/photos/AU_ZVEHv7r8ZIy1nfqxyHP5eTUrRgS4dP3KkojDtd7CHaynTLBXHhiUONO-bTMb-KOoUo6ccgpu3aeZ6GBIujEek7SvPOg6EvQ9Xb_n8yaxefEDWXVF158EXwf37u7CK9PC1W7Oqm2NODc4uRLd7yal3HqNtmTz-r-lCEDZkL_XX-RP0Wk_l1F2mA7AbGKOzIeS_bwXDd0goHUmM1enerS45U6y0_8rk9S61qq-nfhvIWCcVCUrbl7V1Mmv8rydgAzENulio9ID3hCJomStTxwEbzwzeJLVycfm3QV7aDV4AhS71iw",
     "lat": 43.6480458,
     "lng": -79.3840713,
-    "photoUrl": "/photos/sam-james-coffee-bar-path.jpg"
+    "photoUrl": "/photos/sam-james-coffee-bar-path.jpg",
+    "description": "Sam James underground in the PATH. The same focused, quality-driven approach that made the original famous, now available for the downtown commute.",
+    "photos": [
+      "/photos/sam-james-coffee-bar-path.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "cosette-coffee",
@@ -3207,13 +3790,13 @@
     "rating": 4.7,
     "reviewCount": 524,
     "hours": {
-      "Mon": "8:00 AM – 5:00 PM",
-      "Tue": "8:00 AM – 5:00 PM",
-      "Wed": "8:00 AM – 5:00 PM",
-      "Thu": "8:00 AM – 5:00 PM",
-      "Fri": "8:00 AM – 5:00 PM",
-      "Sat": "8:00 AM – 5:00 PM",
-      "Sun": "8:00 AM – 5:00 PM"
+      "Mon": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tue": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wed": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thu": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Fri": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sat": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sun": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -3224,25 +3807,30 @@
     "photoRef": "places/ChIJVaXgRKw1K4gRc336r5bB0Vk/photos/AU_ZVEG9HyTBlYGdT3Q-HxKDb456EkHY-OjMkug1VMUoH-93FhJ4LTqMwY1cFBuIttydSEB2hM3JiW0wb0K7JOeX13CmpI-d4mKE7hEGL88YctLneW5R2d7az7MEVa-SRhnXgi7fO6Vag7VFkur14IAT7NsaTXG1r674LyVJy41sGC9IEMBLuX4nCQ_JA9CUipjwzy6yN2kWHZ2-kBR7gZJ2EkNhTjc3CkGGb7RR0xH6-6a8tPRLBkHHPAVZOQd-IsUhQ3b0s6xcpnpAT_SIJmz-00ZntfwPpj4V09CTSJilWPQmtiPzv5lMItw1cGiYekCz0K522ik5EHpaVQMgHrwnvvNrA3HY6SbIg6M7_JLNRwVPzCBa5KAAQbPX5GGe1wxBAroiLxHNek8pPM-DFwGSOc080Tfoh3oSOnu-4i5MJ8w",
     "lat": 43.65473310000001,
     "lng": -79.4592048,
-    "photoUrl": "/photos/cosette-coffee.jpg"
+    "photoUrl": "/photos/cosette-coffee.jpg",
+    "description": "A downtown cafe with a soft, feminine aesthetic and a serious coffee program underneath it. Cosette is pretty and substantive in equal measure.",
+    "photos": [
+      "/photos/cosette-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "the-brick-room",
     "placeId": "ChIJI-HScCTL1IkRz6C8LwOT7wc",
-    "name": "The Brick Room (一期一会)",
+    "name": "The Brick Room (\u4e00\u671f\u4e00\u4f1a)",
     "neighbourhood": "Downtown Toronto",
     "address": "9 Temperance St, Toronto, ON M5H 1Y6, Canada",
     "price": "$$",
     "rating": 4.3,
     "reviewCount": 121,
     "hours": {
-      "Monday": "8:00 AM – 5:00 PM",
-      "Tuesday": "8:00 AM – 5:00 PM",
-      "Wednesday": "8:00 AM – 5:00 PM",
-      "Thursday": "8:00 AM – 5:00 PM",
-      "Friday": "8:00 AM – 5:00 PM",
-      "Saturday": "9:00 AM – 5:00 PM",
-      "Sunday": "9:00 AM – 5:00 PM"
+      "Monday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": null,
@@ -3253,7 +3841,12 @@
     "photoRef": "places/ChIJI-HScCTL1IkRz6C8LwOT7wc/photos/AU_ZVEFdA_JIyjCRognt_1v0eSdRXnhqDVGagXAY_ThUCoV6WaKs1iiTTNJs9-0VRgDVETbA7oSJ5Lz61cddL4xTJEzAMztB6I6sTF1AQtn31a31kBsCAj1D13ANoeDIBYAqXFMvUiUux9JAmNLH-ImDi7vTtNQLKFajmTh8VOo4-VXSuiqd-Shohnx5TBSF3-uXoIpMfkTtcHYfb9fxX2Cg1uTN-9XwsNPePks9mIYBpnV5jaWEqWV9Odyd-1qqoHm9Noett2cnouueZXRFb7FVQFo7ig7SlsE0qLkejUCPqedCwSfWdrXtNYid7PWFdoop5wua84WgkAUSnSyjX50mVlGpH1c948rU0t8ejYBy5PqIBDb4ZwkyHbgbITNOAFts764W0DjEGKCu-AXPYYfJjRmAoZhYlfkYiJ3mF0VTRIlBTcMdPJv_PF9uG75SkOs7",
     "lat": 43.6507894,
     "lng": -79.3791418,
-    "photoUrl": "/photos/the-brick-room.jpg"
+    "photoUrl": "/photos/the-brick-room.jpg",
+    "description": "A beautiful, minimalist Japanese-inspired cafe in downtown Toronto. The matcha and espresso are both excellent and the space is genuinely calming.",
+    "photos": [
+      "/photos/the-brick-room.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "ninetails-coffee-bloor",
@@ -3265,13 +3858,13 @@
     "rating": 4.7,
     "reviewCount": 520,
     "hours": {
-      "Monday": "8:00 AM – 5:00 PM",
-      "Tuesday": "8:00 AM – 5:00 PM",
-      "Wednesday": "8:00 AM – 5:00 PM",
-      "Thursday": "8:00 AM – 5:00 PM",
-      "Friday": "8:00 AM – 5:00 PM",
-      "Saturday": "9:00 AM – 6:00 PM",
-      "Sunday": "9:00 AM – 5:00 PM"
+      "Monday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday": "9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://ninetailscoffeebar.ca/",
@@ -3282,7 +3875,12 @@
     "photoRef": "places/ChIJ2wQ2bb41K4gRSaAgiZyju7I/photos/AU_ZVEHcI-O5jJvpPgIAvTnEcYk7Rq9GB-ZTXT6coj0KPuWdTimEwkI-oZ5PB422EsEX4jJ-ZsIp0NVNNUiqhfIGIHQPlbX2gbega4yCUoP-O8Nwawije7lPIzajlBwxUthumX_axvkEs89GJ-c8TOcQaJ11ZmtWBAA2OHuvw_lYudPg_uIFTLeYhrmXLwL4cfup6cvXSU1MzHU1iSD-eaJ9nj7uKaq5s_uUOVy9wJQw5bJfRt4ORAt7K_GXyZ4joVoJUl50Rkm9e1Ju51qc0uQUQ6ZCetruMcU1fQyv4eATVeZFFQ",
     "lat": 43.6641279,
     "lng": -79.41528269999999,
-    "photoUrl": "/photos/ninetails-coffee-bloor.jpg"
+    "photoUrl": "/photos/ninetails-coffee-bloor.jpg",
+    "description": "A Bloor St cafe with an anime-inspired name and a coffee program that takes things seriously. Ninetails is a fun, well-made addition to the Annex.",
+    "photos": [
+      "/photos/ninetails-coffee-bloor.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "typist-studios-coffee",
@@ -3294,13 +3892,13 @@
     "rating": 4.7,
     "reviewCount": 273,
     "hours": {
-      "Monday": "8:00 AM – 5:00 PM",
-      "Tuesday": "8:00 AM – 5:00 PM",
-      "Wednesday": "8:00 AM – 5:00 PM",
-      "Thursday": "8:00 AM – 5:00 PM",
-      "Friday": "8:00 AM – 5:00 PM",
-      "Saturday": "9:00 AM – 5:00 PM",
-      "Sunday": "9:00 AM – 5:00 PM"
+      "Monday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday": "8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
     },
     "openPast6pm": false,
     "website": "https://www.instagram.com/typiststudios/",
@@ -3311,7 +3909,12 @@
     "photoRef": "places/ChIJE5acvx81K4gRsqM-zSacjnk/photos/AU_ZVEGHwYunNQrW2Dzd2U_ADp4NI6BbPFSY5WP6u_1-76jzQ18fgEpb1OL68VdRkwct7LcYhxVX1jvqcQlme4gz1jTgSY6rYzFsLtL2V_bfuUhvDAQ7Vsnm_3-Gsb4A4wKFiaUDeC60BYrxJyaAx8q1wvbM15rCcO8wZb53Z38x74Z7VLjl1FcwAhizNqvjBpr7Oy-OEB7JH-nPfn43MtJiGdKlxqX2vNh2ESrMnRj2W1vmzAmAi7uOuOMwhpdt7D4vKxZ-lFbAuPeEWIHUiMhtdp6VNWDWIE9S0uxsAV_CVlyuHQ",
     "lat": 43.6742734,
     "lng": -79.41091329999999,
-    "photoUrl": "/photos/typist-studios-coffee.jpg"
+    "photoUrl": "/photos/typist-studios-coffee.jpg",
+    "description": "A creative studio and coffee bar in the Annex. Typist is a thoughtful space for working, meeting, or just enjoying a well-made espresso.",
+    "photos": [
+      "/photos/typist-studios-coffee.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "pamenar",
@@ -3323,13 +3926,13 @@
     "rating": 4.3,
     "reviewCount": 1169,
     "hours": {
-      "Monday": "8:30 AM – 8:00 PM",
-      "Tuesday": "8:30 AM – 12:00 AM",
-      "Wednesday": "8:30 AM – 12:00 AM",
-      "Thursday": "8:30 AM – 12:00 AM",
-      "Friday": "8:30 AM – 2:00 AM",
-      "Saturday": "9:00 AM – 2:00 AM",
-      "Sunday": "9:00 AM – 12:00 AM"
+      "Monday": "8:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday": "8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday": "8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday": "8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday": "8:30\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday": "9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday": "9:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
     },
     "openPast6pm": true,
     "website": null,
@@ -3340,7 +3943,12 @@
     "photoRef": "places/ChIJ2zl04sE0K4gR-44Du4C98TM/photos/AU_ZVEHvvQVMEQZrHtyHNYSNRUqx_xT-Bd5vQHLS5iGhjK4AKJVbcaGY45ZADPACdf7UA108P193uhRwJznFU3-zXpt8DYtT7pJ_o-a1MrSyuUsUOXuD0vTtuRWOCZYZJnl_BVD083QTV5gIxoxNMr7HvxWyLMTfEc68gXPCwJnSgLrQSBvKQRGFYgrsePIf0qWOKIROdbUMou--6XmEGIqurZMzsFJ0JZN_HgHymkw59CYCn9eZfxNCPrcFQ1ZU8eDKKVug5v7NX68BwcyUnP57AHUon6Wm48Ro8m_87nwV9jImUtsV1zWu1BNYpiyXO0wc85Tc-DXCZ_U752JpbUDRk0FlmcWMvOBL3wLclRXnAfRTbZHDm0UBxeTCrxIR1sNBkLgPds61M3SGmzp4vyqj4DGsG1XNSCNPtdlP4O4PFX8",
     "lat": 43.65668350000001,
     "lng": -79.40270939999999,
-    "photoUrl": "/photos/pamenar.jpg"
+    "photoUrl": "/photos/pamenar.jpg",
+    "description": "A Kensington Market cafe and bar with an eclectic, slightly chaotic energy that fits the neighbourhood perfectly. Great coffee, great vibe, no pretension.",
+    "photos": [
+      "/photos/pamenar.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": "woolshed-coffee",
@@ -3361,6 +3969,11 @@
     "photoRef": "places/ChIJu3CUA3k1K4gRMoFbebzvV8I/photos/AU_ZVEED8sp8pMbV3TuAP3oG-z9kO_uztNRTb0TYoQrqpZf_gdBDWXVgb5Ih-oANjeWlckbU4vre8LEZjKgj5anSH0eAZQ-8oI82c4RKixI6XhWnL-OPPh_THcV6D5GLjMgIG0DYczDVsEHPEUH4Xn6eAxXdWy8oz9_8D-pwDb3waEOEpRe3iwncZjRK2BcUKIFn9q8RIC_vcZST09__ttV2tTwgvfLRf7hRhhLL3gGwf0l5hBXgOd8yf_sE9uSsP2Afn_e9IG1XI0SPld7OkivIFr_XGwPuf6MUo8sqEp533yM6SA",
     "lat": 43.6436628,
     "lng": -79.4116245,
-    "photoUrl": "/photos/woolshed-coffee.jpg"
+    "photoUrl": "/photos/woolshed-coffee.jpg",
+    "description": "An Australian-inspired King West cafe that brings a laid-back energy to one of Toronto's busiest strips. The flat whites are very much the move.",
+    "photos": [
+      "/photos/woolshed-coffee.jpg"
+    ],
+    "reviews": []
   }
 ]

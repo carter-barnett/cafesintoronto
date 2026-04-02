@@ -1,0 +1,254 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import cafesData from '../../../cafes.json';
+
+export function getStaticPaths() {
+  return (cafesData as any[]).map((cafe) => ({
+    params: { slug: cafe.id },
+    props: { cafe },
+  }));
+}
+
+const { cafe } = Astro.props;
+
+const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(cafe.name + ' ' + cafe.address)}`;
+
+const tagColors: Record<string, string> = {
+  "Great for dates":    "bg-blue-50 text-blue-700",
+  "Great for working":  "bg-green-50 text-green-700",
+  "Great for meet-ups": "bg-purple-50 text-purple-700",
+  "Natural light":      "bg-yellow-50 text-yellow-700",
+  "Cozy vibes":         "bg-orange-50 text-orange-700",
+  "Aesthetic":          "bg-pink-50 text-pink-700",
+  "Spacious":           "bg-teal-50 text-teal-700",
+  "Modern":             "bg-gray-100 text-gray-700",
+};
+
+const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+
+const neighbourhoodSlug = cafe.neighbourhood.toLowerCase().replace(/\s+/g, '-');
+
+const reviews: { author: string; rating: number; text: string }[] = cafe.reviews ?? [];
+const photos: string[] = cafe.photos ?? (cafe.photoUrl ? [cafe.photoUrl] : []);
+
+const pageDescription = cafe.description
+  ?? `${cafe.name} in ${cafe.neighbourhood}, Toronto. ${cafe.tags?.length > 0 ? cafe.tags.join(', ') + '.' : ''} Address, hours, and more.`;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CafeOrCoffeeShop",
+  "name": cafe.name,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": cafe.address,
+    "addressLocality": "Toronto",
+    "addressRegion": "ON",
+    "addressCountry": "CA",
+  },
+  ...(cafe.rating && { "aggregateRating": { "@type": "AggregateRating", "ratingValue": cafe.rating, "reviewCount": cafe.reviewCount } }),
+  ...(cafe.website && { "url": cafe.website }),
+};
+---
+
+<Layout
+  title={`${cafe.name} — Cafes In Toronto`}
+  description={pageDescription}
+  image={photos[0] ? `https://cafesintoronto.com${photos[0]}` : undefined}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
+
+  <main class="max-w-2xl mx-auto px-4 py-10">
+
+    <!-- Back link -->
+    <a href="/" class="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-espresso mb-6 transition-colors">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+      </svg>
+      All cafes
+    </a>
+
+    <!-- Photos -->
+    {photos.length === 1 && (
+      <div class="w-full h-56 sm:h-72 rounded-2xl overflow-hidden mb-8 bg-gray-100">
+        <img src={photos[0]} alt={cafe.name} class="w-full h-full object-cover" />
+      </div>
+    )}
+    {photos.length > 1 && (
+      <div class="relative w-full h-56 sm:h-72 rounded-2xl overflow-hidden mb-8 bg-gray-100 group" id="slideshow">
+        {photos.map((src: string, i: number) => (
+          <img
+            src={src}
+            alt={`${cafe.name} photo ${i + 1}`}
+            class={`absolute inset-0 w-full h-full object-cover transition-opacity duration-500 ${i === 0 ? 'opacity-100' : 'opacity-0'}`}
+            data-slide={i}
+          />
+        ))}
+        <button
+          id="prev-btn"
+          class="absolute left-3 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white rounded-full w-10 h-10 flex items-center justify-center transition-colors shadow-md"
+          aria-label="Previous photo"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+          </svg>
+        </button>
+        <button
+          id="next-btn"
+          class="absolute right-3 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white rounded-full w-10 h-10 flex items-center justify-center transition-colors shadow-md"
+          aria-label="Next photo"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </button>
+        <div class="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-2">
+          {photos.map((_: string, i: number) => (
+            <button
+              class="dot w-2.5 h-2.5 rounded-full bg-white/50 transition-all shadow"
+              data-index={i}
+              aria-label={`Go to photo ${i + 1}`}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+
+    <script>
+      const slides = document.querySelectorAll<HTMLImageElement>('[data-slide]');
+      const dots = document.querySelectorAll<HTMLButtonElement>('.dot');
+      let current = 0;
+
+      function goTo(n: number) {
+        slides[current].classList.replace('opacity-100', 'opacity-0');
+        dots[current]?.classList.replace('bg-white', 'bg-white/50');
+        current = (n + slides.length) % slides.length;
+        slides[current].classList.replace('opacity-0', 'opacity-100');
+        dots[current]?.classList.replace('bg-white/50', 'bg-white');
+      }
+
+      document.getElementById('prev-btn')?.addEventListener('click', () => goTo(current - 1));
+      document.getElementById('next-btn')?.addEventListener('click', () => goTo(current + 1));
+      dots.forEach((dot, i) => dot.addEventListener('click', () => goTo(i)));
+      dots[0]?.classList.replace('bg-white/50', 'bg-white');
+    </script>
+
+    <!-- Header -->
+    <header class="mb-6">
+      <div class="flex items-start justify-between gap-4">
+        <div>
+          <h1 class="text-3xl font-bold text-espresso mb-1">{cafe.name}</h1>
+          <a href={`/${neighbourhoodSlug}`} class="text-sm text-caramel hover:underline">
+            {cafe.neighbourhood}
+          </a>
+          <span class="text-sm text-gray-400"> · {cafe.price}</span>
+        </div>
+        {cafe.rating && (
+          <div class="text-right flex-shrink-0">
+            <p class="text-2xl font-bold text-espresso">{cafe.rating} ★</p>
+            <p class="text-xs text-gray-400">{cafe.reviewCount} Google reviews</p>
+          </div>
+        )}
+      </div>
+    </header>
+
+    <!-- Tags -->
+    {cafe.tags?.length > 0 && (
+      <div class="flex flex-wrap gap-2 mb-6">
+        {cafe.tags.map((tag: string) => (
+          <span class={`text-sm px-3 py-1 rounded-full font-medium ${tagColors[tag] ?? "bg-gray-100 text-gray-600"}`}>
+            {tag}
+          </span>
+        ))}
+      </div>
+    )}
+
+    <!-- Description -->
+    {cafe.description && (
+      <p class="text-gray-600 leading-relaxed mb-8">{cafe.description}</p>
+    )}
+
+    <!-- Details grid -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 mb-8">
+
+      <!-- Address & links -->
+      <div>
+        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-2">Address</p>
+        <p class="text-sm text-gray-700 mb-3">{cafe.address}</p>
+        <div class="flex flex-col gap-2">
+          <a
+            href={mapsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-1.5 text-sm font-medium text-caramel hover:underline"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+            View on Google Maps
+          </a>
+          {cafe.website && (
+            <a
+              href={cafe.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-sm font-medium text-caramel hover:underline"
+            >
+              Website ↗
+            </a>
+          )}
+        </div>
+      </div>
+
+      <!-- Hours -->
+      {cafe.hours && (
+        <div>
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-2">Hours</p>
+          <div class="space-y-1">
+            {days.map((day) => cafe.hours[day] && (
+              <div class="flex gap-3 text-sm">
+                <span class="text-gray-400 w-8">{day}</span>
+                <span class="text-gray-700">{cafe.hours[day]}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <!-- Quick info -->
+    {(cafe.wifi || cafe.busyness || cafe.openPast6pm) && (
+      <div class="border-t border-gray-100 pt-6 mb-8">
+        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-3">Good to know</p>
+        <div class="flex flex-wrap gap-x-6 gap-y-2 text-sm text-gray-600">
+          {cafe.wifi && <span>Wifi: {cafe.wifi}</span>}
+          {cafe.busyness && (
+            <span class={cafe.busyness.toLowerCase().includes("no laptop") ? "text-red-500" : ""}>
+              {cafe.busyness}
+            </span>
+          )}
+          {cafe.openPast6pm && <span class="text-green-600 font-medium">Open past 6pm</span>}
+        </div>
+      </div>
+    )}
+
+    <!-- Reviews -->
+    {reviews.length > 0 && (
+      <div class="border-t border-gray-100 pt-6">
+        <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-4">From Google Reviews</p>
+        <div class="space-y-4">
+          {reviews.map((review) => (
+            <div class="bg-white rounded-xl border border-gray-100 p-4">
+              <div class="flex items-center gap-2 mb-2">
+                <span class="text-sm font-medium text-espresso">{review.author}</span>
+                <span class="text-xs text-yellow-500">{"★".repeat(review.rating)}</span>
+              </div>
+              <p class="text-sm text-gray-600 leading-relaxed">{review.text}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+  </main>
+</Layout>

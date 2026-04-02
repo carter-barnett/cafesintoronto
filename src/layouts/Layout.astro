@@ -29,6 +29,7 @@ const canonical = new URL(Astro.url.pathname, "https://cafesintoronto.com").href
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
+    <slot name="head" />
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-012EHZ2GEH"></script>
     <script>
