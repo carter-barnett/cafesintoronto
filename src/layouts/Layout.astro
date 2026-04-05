@@ -47,6 +47,21 @@ const canonical = new URL(Astro.url.pathname, "https://cafesintoronto.com").href
       <div class="max-w-2xl mx-auto px-4 py-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-gray-400">
         <span>© {new Date().getFullYear()} Cafes In Toronto</span>
         <div class="flex items-center gap-4">
+          <div class="relative group">
+            <button class="text-caramel hover:underline font-medium">Neighbourhoods ▾</button>
+            <div class="absolute bottom-full right-0 mb-2 hidden group-hover:block bg-white border border-gray-200 rounded-xl shadow-lg py-2 w-48 z-10">
+              <a href="/chinatown" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Chinatown</a>
+              <a href="/distillery" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Distillery</a>
+              <a href="/downtown-toronto" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Downtown Toronto</a>
+              <a href="/kensington-market" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Kensington Market</a>
+              <a href="/king-west" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">King West</a>
+              <a href="/liberty-village" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Liberty Village</a>
+              <a href="/ossington" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Ossington</a>
+              <a href="/queen-west" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Queen West</a>
+              <a href="/the-annex" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">The Annex</a>
+              <a href="/yorkville" class="block px-4 py-1.5 text-sm text-gray-600 hover:text-espresso hover:bg-gray-50">Yorkville</a>
+            </div>
+          </div>
           <a href="/blog" class="text-caramel hover:underline font-medium">Blog</a>
           <a href="/submit" class="text-caramel hover:underline font-medium">+ Submit a cafe</a>
         </div>
