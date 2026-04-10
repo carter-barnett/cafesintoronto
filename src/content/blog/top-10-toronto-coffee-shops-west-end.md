@@ -11,7 +11,7 @@ These are the ten worth knowing.
 
 ## [FIKA Cafe](/cafes/fika-cafe) — Kensington Market
 
-![FIKA Cafe](/photos/fika-cafe.jpg)
+![Interior of FIKA Cafe in Kensington Market, Toronto](/photos/fika-cafe.jpg)
 
 FIKA is one of the most-reviewed cafes in the west end for a reason. The Swedish-inspired space is warm and well put together, the coffee is consistently good, and the pastries are made in-house. It gets busy but handles the volume well. A Kensington anchor.
 
@@ -22,7 +22,7 @@ FIKA is one of the most-reviewed cafes in the west end for a reason. The Swedish
 
 ## [Fungo Cafe](/cafes/fungo-cafe) — King West
 
-![Fungo Cafe](/photos/fungo-cafe.jpg)
+![Fungo Cafe espresso bar on King West, Toronto](/photos/fungo-cafe.jpg)
 
 One of the highest-rated cafes in the city. Fungo is a small, focused operation on King West with a serious espresso program and a crowd that knows what they're there for. The space is minimal and the coffee is the point. Get there early on weekdays.
 
@@ -33,7 +33,7 @@ One of the highest-rated cafes in the city. Fungo is a small, focused operation 
 
 ## [Moonbean Coffee Company](/cafes/moonbean-coffee-company) — Kensington Market
 
-![Moonbean Coffee Company](/photos/moonbean-coffee-company.jpg)
+![Inside Moonbean Coffee Company in Kensington Market, Toronto](/photos/moonbean-coffee-company.jpg)
 
 Moonbean has been in Kensington for over 30 years and has the kind of worn-in warmth that takes decades to earn. Mismatched furniture, good drip coffee, regulars who've been coming since before you knew the neighbourhood existed. One of the few cafes in Toronto that actually feels like it belongs to the street it's on.
 
@@ -44,7 +44,7 @@ Moonbean has been in Kensington for over 30 years and has the kind of worn-in wa
 
 ## [Larry's Place](/cafes/larry-s-place) — Liberty Village
 
-![Larry's Place](/photos/larry-s-place.jpg)
+![Larry's Place cafe in Liberty Village, Toronto](/photos/larry-s-place.jpg)
 
 Larry's is the kind of neighbourhood cafe that makes a neighbourhood feel like one. High ratings, a loyal following, and a vibe that's welcoming without trying too hard. Liberty Village needed a place like this and Larry's delivered.
 
@@ -55,7 +55,7 @@ Larry's is the kind of neighbourhood cafe that makes a neighbourhood feel like o
 
 ## [Forno Cultura](/cafes/forno-cultura) — King West
 
-![Forno Cultura](/photos/forno-cultura.jpg)
+![Forno Cultura bakery and coffee on King West, Toronto](/photos/forno-cultura.jpg)
 
 Primarily a bakery, but the espresso program is strong enough to stand on its own. Forno Cultura on King West is one of those places where the smell of bread makes the coffee taste better. Busy on weekends, but worth the line.
 
@@ -66,7 +66,7 @@ Primarily a bakery, but the espresso program is strong enough to stand on its ow
 
 ## [Nonni Cafe & Bakery](/cafes/nonni-cafe-bakery) — King West
 
-![Nonni Cafe & Bakery](/photos/nonni-cafe-bakery.jpg)
+![Nonni Cafe and Bakery interior on King West, Toronto](/photos/nonni-cafe-bakery.jpg)
 
 Nonni has fast wifi, good coffee, and a room that works for both catching up with someone and getting work done. One of the better all-around options on the King West corridor. Reliable without being boring.
 
@@ -77,7 +77,7 @@ Nonni has fast wifi, good coffee, and a room that works for both catching up wit
 
 ## [Rooms Coffee](/cafes/rooms-coffee) — Ossington
 
-![Rooms Coffee](/photos/rooms-coffee.jpg)
+![Rooms Coffee on Ossington Avenue, Toronto](/photos/rooms-coffee.jpg)
 
 A strong contender on Ossington with great ratings and a crowd that comes back consistently. The coffee is well-sourced, the space is comfortable, and it holds its own on a street that has no shortage of options.
 
@@ -88,7 +88,7 @@ A strong contender on Ossington with great ratings and a crowd that comes back c
 
 ## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne) — King West
 
-![Coffee Oysters Champagne](/photos/coffee-oysters-champagne.jpg)
+![Coffee Oysters Champagne cafe on King West, Toronto](/photos/coffee-oysters-champagne.jpg)
 
 The name tells you the vibe. Coffee Oysters Champagne does specialty coffee in the morning and leans into the bar side as the day goes on. It's one of the more interesting spots on King West and the coffee is genuinely worth a visit on its own.
 
@@ -99,7 +99,7 @@ The name tells you the vibe. Coffee Oysters Champagne does specialty coffee in t
 
 ## [Jimmy's Coffee](/cafes/jimmy-s-coffee) — Ossington
 
-![Jimmy's Coffee](/photos/jimmy-s-coffee.jpg)
+![Jimmy's Coffee on Ossington Avenue, Toronto](/photos/jimmy-s-coffee.jpg)
 
 Jimmy's has been an Ossington institution for years. Fast wifi, solid coffee, and a relaxed energy that makes it easy to stay a while. It fills up, so come early if you need a seat. One of the most dependable cafes in the west end.
 
@@ -110,7 +110,7 @@ Jimmy's has been an Ossington institution for years. Fast wifi, solid coffee, an
 
 ## [Library Coffee](/cafes/library-coffee) — Queen West
 
-![Library Coffee](/photos/library-coffee.jpg)
+![Library Coffee on Queen West, Toronto](/photos/library-coffee.jpg)
 
 Low-key, quiet, and consistently good. Library Coffee on Queen West earns its regulars through reliability rather than hype. Good wifi, a calm room, and coffee that doesn't disappoint. The name fits.
 
