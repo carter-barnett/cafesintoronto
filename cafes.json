@@ -489,7 +489,7 @@
     "lat": 43.6590503,
     "lng": -79.3849008,
     "photoUrl": "/photos/black-wolf-coffee.jpg",
-    "description": "A no-nonsense downtown spot serving well-made espresso drinks to a crowd that knows what they want. Quick service, consistent quality.",
+    "description": "A downtown espresso bar with a dark, focused aesthetic and drinks to match. Black Wolf is for people who take their coffee seriously.",
     "photos": [
       "/photos/black-wolf-coffee.jpg",
       "/photos/black-wolf-coffee-extra-1.jpg",
@@ -643,7 +643,7 @@
     "lat": 43.6547931,
     "lng": -79.38507899999999,
     "photoUrl": "/photos/hailed-coffee-elizabeth-st.jpg",
-    "description": "Compact and consistent on Elizabeth St. Hailed keeps things simple with well-pulled shots and a crowd that keeps coming back for more.",
+    "description": "A compact Elizabeth St cafe with well-pulled shots and a focused menu. Hailed is a quiet alternative to the busier options nearby.",
     "photos": [
       "/photos/hailed-coffee-elizabeth-st.jpg",
       "/photos/hailed-coffee-elizabeth-st-extra-1.jpg",
@@ -874,7 +874,7 @@
     "lat": 43.6483436,
     "lng": -79.39019789999999,
     "photoUrl": "/photos/daily-dose-coffee-bar.jpg",
-    "description": "Quick, reliable, and well-located downtown. Daily Dose does exactly what the name promises -- a solid cup to get your morning going right.",
+    "description": "A go-to downtown coffee stop with fast service and a well-executed menu. Daily Dose is the kind of reliable spot that fills up early for a reason.",
     "photos": [
       "/photos/daily-dose-coffee-bar.jpg",
       "/photos/daily-dose-coffee-bar-extra-1.jpg",
@@ -1569,7 +1569,7 @@
     "lat": 43.6628761,
     "lng": -79.4223794,
     "photoUrl": "/photos/hello-coffee.jpg",
-    "description": "A cheerful downtown spot with an approachable menu and a name that pretty much says it all. Good for a quick stop or a longer stay.",
+    "description": "A cheerful downtown cafe with good espresso and an easy, welcoming atmosphere. Hello Coffee is exactly what it sounds like.",
     "photos": [
       "/photos/hello-coffee.jpg",
       "/photos/hello-coffee-extra-1.jpg",
@@ -1800,7 +1800,7 @@
     "lat": 43.6445264,
     "lng": -79.3669735,
     "photoUrl": "/photos/lazy-barista.jpg",
-    "description": "The name is ironic -- the coffee here is anything but lazy. A downtown favourite for those who know where to find a proper espresso.",
+    "description": "The name is ironic — the coffee here is anything but lazy. A downtown favourite with a focused menu and a loyal weekday crowd.",
     "photos": [
       "/photos/lazy-barista.jpg",
       "/photos/lazy-barista-extra-1.jpg",
@@ -1954,7 +1954,7 @@
     "lat": 43.6504334,
     "lng": -79.39732359999999,
     "photoUrl": "/photos/graination-specialty-coffee.jpg",
-    "description": "Serious about specialty but approachable about it. Graination is a downtown gem for anyone who wants great coffee without the attitude.",
+    "description": "A downtown specialty cafe that takes sourcing and brewing seriously without making it intimidating. Graination is worth seeking out.",
     "photos": [
       "/photos/graination-specialty-coffee.jpg",
       "/photos/graination-specialty-coffee-extra-1.jpg",
@@ -2570,7 +2570,7 @@
     "lat": 43.6540359,
     "lng": -79.3607918,
     "photoUrl": "/photos/mercury-espresso.jpg",
-    "description": "A downtown classic that has stayed relevant by staying consistent. Mercury makes great espresso and has the loyal regulars to prove it.",
+    "description": "A downtown Toronto staple that has been making consistently great espresso since before specialty coffee was trendy. Mercury has staying power.",
     "photos": [
       "/photos/mercury-espresso.jpg",
       "/photos/mercury-espresso-extra-1.jpg",
@@ -2724,7 +2724,7 @@
     "lat": 43.6512627,
     "lng": -79.3753365,
     "photoUrl": "/photos/versus-coffee.jpg",
-    "description": "A downtown specialty spot that takes a considered approach to everything on the menu. The pour-overs here are worth the wait.",
+    "description": "A precise downtown specialty cafe with a menu built around single origins and careful extraction. Versus is for the coffee-curious.",
     "photos": [
       "/photos/versus-coffee.jpg",
       "/photos/versus-coffee-extra-1.jpg",
@@ -2878,7 +2878,7 @@
     "lat": 43.655189199999995,
     "lng": -79.3757734,
     "photoUrl": "/photos/mast-coffee.jpg",
-    "description": "A calm, focused downtown cafe that does a small menu of things really well. The kind of place you feel genuinely good about choosing.",
+    "description": "A calm, pared-back downtown cafe with a small menu done really well. Mast is the kind of place you go when you want good coffee without fuss.",
     "photos": [
       "/photos/mast-coffee.jpg",
       "/photos/mast-coffee-extra-1.jpg",
@@ -4360,7 +4360,7 @@
     "lat": 43.6693385,
     "lng": -79.3936958,
     "photoUrl": "/photos/the-coffee.jpg",
-    "description": "A straightforward name for a straightforward Annex cafe that does the basics very well. No gimmicks, just good coffee in a good space.",
+    "description": "A tucked-away Annex cafe that earns its regulars through reliability. Fast wifi, usually quiet, and a room that makes it easy to stay.",
     "photos": [
       "/photos/the-coffee.jpg",
       "/photos/the-coffee-extra-1.jpg",
@@ -4437,7 +4437,7 @@
     "lat": 43.6719207,
     "lng": -79.3952229,
     "photoUrl": "/photos/wfm-coffee-bar.jpg",
-    "description": "The Annex's most unpretentious coffee stop. WFM is quick, friendly, and makes a solid espresso drink without any ceremony.",
+    "description": "The Annex's no-frills coffee stop on Bloor. WFM keeps the menu short, the line moving, and the espresso consistently good.",
     "photos": [
       "/photos/wfm-coffee-bar.jpg",
       "/photos/wfm-coffee-bar-extra-1.jpg",
@@ -5062,7 +5062,7 @@
     "lat": 43.6699596,
     "lng": -79.3935994,
     "photoUrl": "/photos/zaza-espresso-bar.jpg",
-    "description": "A Yorkville espresso bar that punches above its size. ZAZA is compact, quick, and makes a notably good cortado.",
+    "description": "A compact Yorkville espresso bar open late into the evening. ZAZA punches above its size with precise espresso and a quick-moving counter.",
     "photos": [
       "/photos/zaza-espresso-bar.jpg",
       "/photos/zaza-espresso-bar-extra-1.jpg",
@@ -5761,7 +5761,7 @@
     "lat": 43.6380014,
     "lng": -79.4212905,
     "photoUrl": "/photos/liberty-village-market-cafe.jpg",
-    "description": "A neighbourhood staple in Liberty Village with a market feel and a loyal local crowd. Good for a quick coffee or a slower morning.",
+    "description": "A neighbourhood staple in Liberty Village with a market layout and a loyal local crowd. Good coffee, good energy, and usually a seat to be found.",
     "photos": [
       "/photos/liberty-village-market-cafe.jpg",
       "/photos/liberty-village-market-cafe-extra-1.jpg",
@@ -5992,7 +5992,7 @@
     "lat": 43.6364052,
     "lng": -79.4260424,
     "photoUrl": "/photos/bold-brew-coffee.jpg",
-    "description": "Liberty Village's specialty-leaning option. Bold Brew lives up to its name with strong sourcing and a menu that rewards the curious coffee drinker.",
+    "description": "Liberty Village's specialty-forward option. Bold Brew sources carefully and brews with intention — a strong choice if you want more than a standard latte.",
     "photos": [
       "/photos/bold-brew-coffee.jpg",
       "/photos/bold-brew-coffee-extra-1.jpg",
@@ -6069,7 +6069,7 @@
     "lat": 43.641907499999995,
     "lng": -79.42378029999999,
     "photoUrl": "/photos/the-common.jpg",
-    "description": "A Liberty Village cafe that functions as a genuine neighbourhood gathering spot. Relaxed, friendly, and good at the things that matter most.",
+    "description": "A Liberty Village cafe that functions as the neighbourhood's living room. The Common is relaxed, consistent, and good for staying a while.",
     "photos": [
       "/photos/the-common.jpg",
       "/photos/the-common-extra-1.jpg",

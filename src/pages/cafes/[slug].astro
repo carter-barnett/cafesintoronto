@@ -31,8 +31,10 @@ const neighbourhoodSlug = cafe.neighbourhood.toLowerCase().replace(/\s+/g, '-');
 const reviews: { author: string; rating: number; text: string }[] = cafe.reviews ?? [];
 const photos: string[] = cafe.photos ?? (cafe.photoUrl ? [cafe.photoUrl] : []);
 
-const pageDescription = cafe.description
-  ?? `${cafe.name} is a coffee shop in ${cafe.neighbourhood}, Toronto. Rated ${cafe.rating}★ with ${cafe.reviewCount} reviews. See photos, hours, and directions.`;
+const descriptionBase = cafe.description
+  ? cafe.description.split('.')[0] + '.'
+  : `${cafe.name} is a coffee shop in ${cafe.neighbourhood}, Toronto.`;
+const pageDescription = `${descriptionBase} Rated ${cafe.rating}★ by ${cafe.reviewCount} visitors. ${cafe.neighbourhood}, Toronto — see hours, photos, and directions.`;
 
 const jsonLd = {
   "@context": "https://schema.org",
