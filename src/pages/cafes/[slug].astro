@@ -32,7 +32,7 @@ const reviews: { author: string; rating: number; text: string }[] = cafe.reviews
 const photos: string[] = cafe.photos ?? (cafe.photoUrl ? [cafe.photoUrl] : []);
 
 const pageDescription = cafe.description
-  ?? `${cafe.name} in ${cafe.neighbourhood}, Toronto. ${cafe.tags?.length > 0 ? cafe.tags.join(', ') + '.' : ''} Address, hours, and more.`;
+  ?? `${cafe.name} is a coffee shop in ${cafe.neighbourhood}, Toronto. Rated ${cafe.rating}★ with ${cafe.reviewCount} reviews. See photos, hours, and directions.`;
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -51,7 +51,7 @@ const jsonLd = {
 ---
 
 <Layout
-  title={`${cafe.name} — Cafes In Toronto`}
+  title={`${cafe.name} | Coffee Shop in ${cafe.neighbourhood}, Toronto`}
   description={pageDescription}
   image={photos[0] ? `https://cafesintoronto.com${photos[0]}` : undefined}
 >
