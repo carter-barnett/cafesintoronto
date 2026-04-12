@@ -74,7 +74,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "moments",
@@ -151,7 +152,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "6x8-market",
@@ -228,7 +230,8 @@
       "delivery": null,
       "dineIn": null,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "sip-sip",
@@ -305,7 +308,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "kandl-kaf",
@@ -382,7 +386,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Australian-Style Café"
   },
   {
     "id": "solaris-coffee",
@@ -459,7 +464,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "black-wolf-coffee",
@@ -536,7 +542,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "ivy-coffee-shop",
@@ -613,7 +620,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "hailed-coffee-elizabeth-st",
@@ -690,7 +698,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "mystik-cafe",
@@ -767,7 +776,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "epos-cafe-restaurant",
@@ -844,7 +854,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "daily-dose-coffee-bar",
@@ -921,7 +932,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "fahrenheit-coffee",
@@ -998,7 +1010,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": false
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "goldstruck-coffee",
@@ -1075,7 +1088,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "el-pacho-coffee-roasters",
@@ -1152,7 +1166,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Coffee Roaster"
   },
   {
     "id": "library-coffee",
@@ -1229,7 +1244,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "augusta-coffee-bar",
@@ -1306,7 +1322,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "the-harmony-cafe-bar",
@@ -1383,7 +1400,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "san-cafe",
@@ -1460,7 +1478,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "nonni-cafe-bakery",
@@ -1539,7 +1558,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Bakery & Café"
   },
   {
     "id": "hello-coffee",
@@ -1616,7 +1636,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "library-coffee",
@@ -1693,7 +1714,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": false
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "nabulu-coffee",
@@ -1770,7 +1792,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "lazy-barista",
@@ -1847,7 +1870,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "hale-coffee-company",
@@ -1924,7 +1948,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "graination-specialty-coffee",
@@ -2001,7 +2026,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "fika-cafe",
@@ -2078,7 +2104,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "moonbean-coffee-company",
@@ -2155,7 +2182,8 @@
       "delivery": false,
       "dineIn": null,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "butter-blue",
@@ -2232,7 +2260,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "wu-wei-coffee",
@@ -2309,7 +2338,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "aeset-coffee-co",
@@ -2386,7 +2416,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "rooms-coffee",
@@ -2463,7 +2494,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "rooms-17-baldwin",
@@ -2540,7 +2572,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "mercury-espresso",
@@ -2617,7 +2650,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "varda",
@@ -2694,7 +2728,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Australian-Style Café"
   },
   {
     "id": "versus-coffee",
@@ -2771,7 +2806,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "hotblack-coffee",
@@ -2848,7 +2884,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "mast-coffee",
@@ -2925,7 +2962,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "vereda-central-coffee-roasters",
@@ -3002,7 +3040,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Coffee Roaster"
   },
   {
     "id": "neo-coffee-bar",
@@ -3084,7 +3123,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Café & Workspace"
   },
   {
     "id": "carbonic-coffee-baldwin",
@@ -3161,7 +3201,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "shy-coffee-co",
@@ -3240,7 +3281,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "cafe23",
@@ -3319,7 +3361,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Café & Workspace"
   },
   {
     "id": "goldstruck-coffee",
@@ -3396,7 +3439,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "jacked-up-coffee",
@@ -3473,7 +3517,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "arvo-coffee",
@@ -3550,7 +3595,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Australian-Style Café"
   },
   {
     "id": "jimmy-s-coffee",
@@ -3629,7 +3675,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Café & Workspace"
   },
   {
     "id": "coffee-oysters-champagne",
@@ -3706,7 +3753,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "arvo-coffee-wine",
@@ -3783,7 +3831,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Australian-Style Café"
   },
   {
     "id": "coffee-exchange",
@@ -3860,7 +3909,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "coco-espresso-bar",
@@ -3937,7 +3987,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "coffee-lunar",
@@ -4014,7 +4065,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "forget-me-not-coffee",
@@ -4093,7 +4145,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "balzac-s-distillery-district",
@@ -4170,7 +4223,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "dineen-coffee-co",
@@ -4247,7 +4301,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "white-squirrel-coffee-shop",
@@ -4327,7 +4382,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "the-coffee",
@@ -4407,7 +4463,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Café & Workspace"
   },
   {
     "id": "wfm-coffee-bar",
@@ -4483,7 +4540,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "5-elements-espresso-bar",
@@ -4563,7 +4621,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Café & Workspace"
   },
   {
     "id": "pilot-coffee-roasters",
@@ -4645,7 +4704,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Coffee Roaster"
   },
   {
     "id": "i-deal-coffee-wine",
@@ -4724,7 +4784,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Coffee & Wine Bar"
   },
   {
     "id": "daily-ritual-cafe",
@@ -4801,7 +4862,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "film-cafe",
@@ -4878,7 +4940,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Neighbourhood Café"
   },
   {
     "id": "ladur-e-toronto-yorkville-caf",
@@ -4955,7 +5018,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Patisserie & Café"
   },
   {
     "id": "cafe-x-bica",
@@ -5032,7 +5096,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "zaza-espresso-bar",
@@ -5109,7 +5174,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "amadeus-patisserie",
@@ -5186,7 +5252,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Patisserie & Café"
   },
   {
     "id": "a-ok-cafe",
@@ -5263,7 +5330,8 @@
       "delivery": false,
       "dineIn": null,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Neighbourhood Café"
   },
   {
     "id": "fungo-cafe",
@@ -5342,7 +5410,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Japanese-Style Café"
   },
   {
     "id": "theatre-cafe",
@@ -5423,7 +5492,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Café & Bar"
   },
   {
     "id": "louie-coffee-shop",
@@ -5500,7 +5570,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "tonton-matcha-coffee",
@@ -5577,7 +5648,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Matcha Café"
   },
   {
     "id": "thindi-cafe",
@@ -5654,7 +5726,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "balzac-s-liberty-village",
@@ -5731,7 +5804,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Coffee Roaster"
   },
   {
     "id": "liberty-village-market-cafe",
@@ -5808,7 +5882,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "highly-likely-coffee",
@@ -5885,7 +5960,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "aroma-espresso-bar",
@@ -5962,7 +6038,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "bold-brew-coffee",
@@ -6039,7 +6116,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "the-common",
@@ -6116,7 +6194,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "larry-s-place",
@@ -6193,7 +6272,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "found-coffee-bellwoods",
@@ -6270,7 +6350,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "milky-s-cloud-room",
@@ -6347,7 +6428,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "the-abbott",
@@ -6424,7 +6506,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "project-seoul",
@@ -6501,7 +6584,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Korean-Inspired Café"
   },
   {
     "id": "neo-coffee-bar-king-x-spadina",
@@ -6578,7 +6662,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "cafe-la-on",
@@ -6655,7 +6740,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "dark-horse-espresso-bar",
@@ -6732,7 +6818,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "10-dean-waverley",
@@ -6809,7 +6896,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "cosmo-cafe-bar",
@@ -6886,7 +6974,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Café & Bar"
   },
   {
     "id": "hanbingo",
@@ -6963,7 +7052,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Korean Dessert Café"
   },
   {
     "id": "de-mello-coffee",
@@ -7040,7 +7130,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Coffee Roaster"
   },
   {
     "id": "icha-tea",
@@ -7117,7 +7208,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Tea & Coffee"
   },
   {
     "id": "lait-night",
@@ -7194,7 +7286,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Late-Night Coffee"
   },
   {
     "id": "le-gourmand",
@@ -7271,7 +7364,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "little-pebbles-cafe",
@@ -7348,7 +7442,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": false
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "crimson-teas",
@@ -7425,7 +7520,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Tea & Coffee"
   },
   {
     "id": "arena-coffee-bar",
@@ -7502,7 +7598,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "brick-street-bakery",
@@ -7579,7 +7676,8 @@
       "delivery": true,
       "dineIn": null,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Bakery & Café"
   },
   {
     "id": "berkeley-cafe",
@@ -7656,7 +7754,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "wildly-delicious-fine-foods",
@@ -7733,7 +7832,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "roozamoon-cafe",
@@ -7810,7 +7910,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "el-catrin-destileria",
@@ -7887,7 +7988,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "wallace-espresso",
@@ -7964,7 +8066,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "caf-negin",
@@ -8041,7 +8144,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "jacked-up-coffee-225-king",
@@ -8118,7 +8222,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "forno-cultura",
@@ -8195,7 +8300,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Bakery & Café"
   },
   {
     "id": "maman",
@@ -8272,7 +8378,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "neo-coffee-bar-path",
@@ -8349,7 +8456,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "sam-james-coffee-bar-path",
@@ -8426,7 +8534,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": false
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "cosette-coffee",
@@ -8503,7 +8612,8 @@
       "delivery": true,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "the-brick-room",
@@ -8580,7 +8690,8 @@
       "delivery": null,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Japanese-Style Café"
   },
   {
     "id": "ninetails-coffee-bloor",
@@ -8657,7 +8768,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Specialty Coffee"
   },
   {
     "id": "typist-studios-coffee",
@@ -8734,7 +8846,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Café & Workspace"
   },
   {
     "id": "pamenar",
@@ -8811,7 +8924,8 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": true
-    }
+    },
+    "descriptor": "Coffee & Bar"
   },
   {
     "id": "woolshed-coffee",
@@ -8880,6 +8994,7 @@
       "delivery": false,
       "dineIn": true,
       "goodForGroups": null
-    }
+    },
+    "descriptor": "Australian-Style Café"
   }
 ]

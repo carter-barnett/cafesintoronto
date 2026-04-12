@@ -31,10 +31,13 @@ const neighbourhoodSlug = cafe.neighbourhood.toLowerCase().replace(/\s+/g, '-');
 const reviews: { author: string; rating: number; text: string }[] = cafe.reviews ?? [];
 const photos: string[] = cafe.photos ?? (cafe.photoUrl ? [cafe.photoUrl] : []);
 
-const descriptionBase = cafe.description
-  ? cafe.description.split('.')[0] + '.'
+const firstSentence = cafe.description
+  ? (cafe.description.match(/^.+?(?:\.\s|$)/)?.[0] ?? cafe.description.split('. ')[0] + '.')
   : `${cafe.name} is a coffee shop in ${cafe.neighbourhood}, Toronto.`;
-const pageDescription = `${descriptionBase} Rated ${cafe.rating}★ by ${cafe.reviewCount} visitors. ${cafe.neighbourhood}, Toronto — see hours, photos, and directions.`;
+const openHour = cafe.hours ? Object.values(cafe.hours).find(h => h && h !== 'Closed') : null;
+const openTime = openHour ? openHour.split('\u2013')[0].trim() : null;
+const practicalDetail = openTime ? `Open from ${openTime}.` : '';
+const pageDescription = `${firstSentence.trim()}${practicalDetail ? ' ' + practicalDetail : ''} Find address, hours and reviews on Cafes In Toronto.`;
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -53,7 +56,7 @@ const jsonLd = {
 ---
 
 <Layout
-  title={`${cafe.name} | Coffee Shop in ${cafe.neighbourhood}, Toronto`}
+  title={`${cafe.name} | ${cafe.descriptor ?? 'Specialty Coffee'} in ${cafe.neighbourhood}${cafe.neighbourhood.includes('Toronto') ? '' : ', Toronto'}`}
   description={pageDescription}
   image={photos[0] ? `https://cafesintoronto.com${photos[0]}` : undefined}
 >
