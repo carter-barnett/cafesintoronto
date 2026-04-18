@@ -1,0 +1,22 @@
+# Redirect non-trailing-slash URLs to trailing-slash (301 permanent)
+# Cafe detail pages
+/cafes/:slug  /cafes/:slug/  301
+
+# Blog pages
+/blog/:slug  /blog/:slug/  301
+/blog  /blog/  301
+
+# Static pages
+/submit  /submit/  301
+
+# Neighbourhood pages
+/chinatown  /chinatown/  301
+/distillery  /distillery/  301
+/downtown-toronto  /downtown-toronto/  301
+/kensington-market  /kensington-market/  301
+/king-west  /king-west/  301
+/liberty-village  /liberty-village/  301
+/ossington  /ossington/  301
+/queen-west  /queen-west/  301
+/the-annex  /the-annex/  301
+/yorkville  /yorkville/  301
