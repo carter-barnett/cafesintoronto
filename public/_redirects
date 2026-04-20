@@ -1,3 +1,6 @@
+# www to non-www (301 permanent)
+https://www.cafesintoronto.com/* https://cafesintoronto.com/:splat 301
+
 # Redirect non-trailing-slash URLs to trailing-slash (301 permanent)
 # Cafe detail pages
 /cafes/:slug  /cafes/:slug/  301

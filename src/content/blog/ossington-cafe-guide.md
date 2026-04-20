@@ -1,6 +1,6 @@
 ---
-title: "Ossington Coffee Guide: The Independent Cafes on One of Toronto's Best Streets (2026)"
-description: "Ossington Avenue has five of the most distinct independent cafes in Toronto. Here's what each one is actually like — hours, vibe, and what to order."
+title: "Ossington Cafe Guide (2026)"
+description: "5 independent coffee shops on Ossington Avenue, Toronto — rated, reviewed, and worth your time. Hours, what to order, and how to spend a morning on the strip."
 pubDate: 2026-04-18
 coverImage: "/photos/rooms-coffee.jpg"
 ---
@@ -9,7 +9,7 @@ Ossington Avenue is one of those streets that got good and stayed that way. It d
 
 Here's the full breakdown.
 
-## [Rooms Coffee](/cafes/rooms-coffee) — The beautiful one
+## [Rooms Coffee](/cafes/rooms-coffee): The beautiful one
 
 ![Rooms Coffee on Ossington Avenue, Toronto](/photos/rooms-coffee.jpg)
 
@@ -20,29 +20,29 @@ The interior at Rooms is genuinely one of the nicest cafe spaces in Toronto. Hig
 
 ---
 
-## [Jimmy's Coffee](/cafes/jimmy-s-coffee) — The original
+## [Jimmy's Coffee](/cafes/jimmy-s-coffee): The original
 
 ![Jimmy's Coffee on Ossington Avenue, Toronto](/photos/jimmy-s-coffee.jpg)
 
-Jimmy's has been on Ossington long enough to watch the street change around it and still be the place people come back to. Open from 7am, fast wifi, and a crowd that knows what they want. It fills up — come early if you need a seat and plan to stay. Over 600 reviews and one of the most loyal followings on the strip.
+Jimmy's has been on Ossington long enough to watch the street change around it and still be the place people come back to. Open from 7am, fast wifi, and a crowd that knows what they want. It fills up, so come early if you need a seat and plan to stay. Over 600 reviews and one of the most loyal followings on the strip.
 
 **Best for:** Early mornings, working, regulars
 **Order:** Drip coffee or cappuccino
 
 ---
 
-## [Forget Me Not Coffee](/cafes/forget-me-not-coffee) — The charming one
+## [Forget Me Not Coffee](/cafes/forget-me-not-coffee): The charming one
 
 ![Forget Me Not Coffee on Ossington Avenue, Toronto](/photos/forget-me-not-coffee.jpg)
 
 Small, warm, and the lattes are worth the trip on their own. Forget Me Not opens at 7:30am and stays open past 6pm, which gives it a longer window than most on the street. The space fills up fast on weekends so arrive with some patience or come on a weekday when it's easier to settle in.
 
 **Best for:** Latte lovers, early and evening visits, a quick catch-up
-**Order:** Latte — the presentation is worth it
+**Order:** Latte. The presentation is worth it.
 
 ---
 
-## [Pilot Coffee Roasters](/cafes/pilot-coffee-roasters) — The roaster
+## [Pilot Coffee Roasters](/cafes/pilot-coffee-roasters): The roaster
 
 ![Pilot Coffee Roasters on Ossington Avenue, Toronto](/photos/pilot-coffee-roasters.jpg)
 
@@ -53,7 +53,7 @@ One of Toronto's most respected roasters with a flagship on Ossington that lives
 
 ---
 
-## [I DEAL Coffee & Wine](/cafes/i-deal-coffee-wine) — The dual-purpose one
+## [I DEAL Coffee & Wine](/cafes/i-deal-coffee-wine): The dual-purpose one
 
 ![I DEAL Coffee and Wine on Ossington Avenue, Toronto](/photos/i-deal-coffee-wine.jpg)
 
@@ -66,7 +66,7 @@ Coffee in the morning, wine in the evening, and both handled with the same level
 
 ## How to spend a morning on Ossington
 
-Start at [Jimmy's](/cafes/jimmy-s-coffee) or [Pilot](/cafes/pilot-coffee-roasters) early — both open at 7am and handle the morning crowd well. Walk the strip north toward Bloor when it's quiet. Come back for a second coffee at [Rooms](/cafes/rooms-coffee) when it opens at 8. If you're staying into the afternoon, [I DEAL](/cafes/i-deal-coffee-wine) has the wifi and the hours to make it worth settling in.
+Start at [Jimmy's](/cafes/jimmy-s-coffee) or [Pilot](/cafes/pilot-coffee-roasters) early. Both open at 7am and handle the morning crowd well. Walk the strip north toward Bloor when it's quiet. Come back for a second coffee at [Rooms](/cafes/rooms-coffee) when it opens at 8. If you're staying into the afternoon, [I DEAL](/cafes/i-deal-coffee-wine) has the wifi and the hours to make it worth settling in.
 
 ---
 
