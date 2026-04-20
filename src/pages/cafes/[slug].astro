@@ -39,6 +39,33 @@ const openTime = openHour ? openHour.split('\u2013')[0].trim() : null;
 const practicalDetail = openTime ? `Open from ${openTime}.` : '';
 const pageDescription = `${firstSentence.trim()}${practicalDetail ? ' ' + practicalDetail : ''} Find address, hours and reviews on Cafes In Toronto.`;
 
+const dayMap: Record<string, string> = {
+  Mon: 'Monday', Tue: 'Tuesday', Wed: 'Wednesday', Thu: 'Thursday',
+  Fri: 'Friday', Sat: 'Saturday', Sun: 'Sunday',
+  Monday: 'Monday', Tuesday: 'Tuesday', Wednesday: 'Wednesday', Thursday: 'Thursday',
+  Friday: 'Friday', Saturday: 'Saturday', Sunday: 'Sunday',
+};
+function to24h(t: string): string {
+  const [time, period] = t.trim().split(' ');
+  let [h, m] = time.split(':').map(Number);
+  if (period === 'PM' && h !== 12) h += 12;
+  if (period === 'AM' && h === 12) h = 0;
+  return `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}`;
+}
+const openingHours = cafe.hours
+  ? Object.entries(cafe.hours as Record<string, string>)
+      .filter(([, v]) => v && v !== 'Closed')
+      .map(([day, range]) => {
+        const [open, close] = range.split('\u2013').map((s: string) => s.trim());
+        return {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": `https://schema.org/${dayMap[day] ?? day}`,
+          "opens": to24h(open),
+          "closes": to24h(close),
+        };
+      })
+  : [];
+
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "CafeOrCoffeeShop",
@@ -52,11 +79,12 @@ const jsonLd = {
   },
   ...(cafe.rating && { "aggregateRating": { "@type": "AggregateRating", "ratingValue": cafe.rating, "reviewCount": cafe.reviewCount } }),
   ...(cafe.website && { "url": cafe.website }),
+  ...(openingHours.length > 0 && { "openingHoursSpecification": openingHours }),
 };
 ---
 
 <Layout
-  title={`${cafe.name} | ${cafe.descriptor ?? 'Specialty Coffee'} in ${cafe.neighbourhood}${cafe.neighbourhood.includes('Toronto') ? '' : ', Toronto'}`}
+  title={cafe.pageTitle ?? `${cafe.name} | ${cafe.descriptor ?? 'Specialty Coffee'} in ${cafe.neighbourhood}${cafe.neighbourhood.includes('Toronto') ? '' : ', Toronto'}`}
   description={pageDescription}
   image={photos[0] ? `https://cafesintoronto.com${photos[0]}` : undefined}
 >
