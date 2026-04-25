@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# Prevent photo files from being indexed as standalone pages
+Disallow: /photos/
+
 Sitemap: https://cafesintoronto.com/sitemap-index.xml
