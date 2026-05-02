@@ -46,8 +46,10 @@ const dayMap: Record<string, string> = {
   Friday: 'Friday', Saturday: 'Saturday', Sunday: 'Sunday',
 };
 function to24h(t: string): string {
-  const [time, period] = t.trim().split(' ');
-  let [h, m] = time.split(':').map(Number);
+  // Normalize all Unicode spaces (narrow no-break, thin, non-breaking) to regular space
+  const normalized = t.trim().replace(/[   ]+/g, ' ');
+  const [time, period] = normalized.split(' ');
+  let [h, m = 0] = time.split(':').map(Number);
   if (period === 'PM' && h !== 12) h += 12;
   if (period === 'AM' && h === 12) h = 0;
   return `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}`;

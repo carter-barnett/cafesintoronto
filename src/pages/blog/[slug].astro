@@ -12,6 +12,34 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const postUrl = `https://cafesintoronto.com/blog/${post.id}/`;
+const blogJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": post.data.title,
+  "description": post.data.description,
+  "url": postUrl,
+  "datePublished": post.data.pubDate.toISOString(),
+  "dateModified": post.data.pubDate.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "Cafes In Toronto",
+    "url": "https://cafesintoronto.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cafes In Toronto",
+    "url": "https://cafesintoronto.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cafesintoronto.com/favicon.svg"
+    }
+  },
+  ...(post.data.coverImage && {
+    "image": `https://cafesintoronto.com${post.data.coverImage}`
+  }),
+};
 ---
 
 <Layout
@@ -19,6 +47,7 @@ const { Content } = await render(post);
   description={post.data.description}
   image={post.data.coverImage ? `https://cafesintoronto.com${post.data.coverImage}` : undefined}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(blogJsonLd)} slot="head" />
   <main class="max-w-2xl mx-auto px-4 py-10">
 
     <a href="/blog" class="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-espresso mb-6 transition-colors">

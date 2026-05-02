@@ -27,6 +27,28 @@ const filters = [
 
 const cafes = cafesData as any[];
 
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Cafes In Toronto",
+  "url": "https://cafesintoronto.com",
+  "description": "Find the right cafe in Toronto for working, dates, or just enjoying a coffee.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://cafesintoronto.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+};
+
+const orgJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Cafes In Toronto",
+  "url": "https://cafesintoronto.com",
+  "logo": "https://cafesintoronto.com/favicon.svg",
+  "sameAs": []
+};
+
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "ItemList",
@@ -60,6 +82,8 @@ const jsonLd = {
 ---
 
 <Layout title="Cafes In Toronto" description="Find the right cafe in Toronto for working, dates, or just enjoying a coffee.">
+  <script type="application/ld+json" set:html={JSON.stringify(websiteJsonLd)} slot="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} slot="head" />
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <main class="max-w-2xl mx-auto px-4 py-10">
 
@@ -103,7 +127,7 @@ const jsonLd = {
 
     <!-- Cafe list -->
     <div class="space-y-4" id="cafe-list">
-      {cafes.map((cafe) => (
+      {cafes.map((cafe, i) => (
         <div
           class="cafe-item"
           data-neighbourhood={cafe.neighbourhood}
@@ -111,7 +135,7 @@ const jsonLd = {
           data-open6pm={cafe.openPast6pm ? "true" : "false"}
           data-sponsored={cafe.isSponsored ? "true" : "false"}
         >
-          <CafeCard cafe={cafe} />
+          <CafeCard cafe={cafe} priority={i === 0} />
         </div>
       ))}
     </div>

@@ -19,9 +19,10 @@ export interface Props {
     photoRef: string | null;
     photoUrl: string | null;
   };
+  priority?: boolean;
 }
 
-const { cafe } = Astro.props;
+const { cafe, priority = false } = Astro.props;
 
 const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(cafe.name + ' ' + cafe.address)}`;
 
@@ -107,7 +108,8 @@ const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
           src={cafe.photoUrl}
           alt={cafe.name}
           class="w-full h-full object-cover"
-          loading="lazy"
+          loading={priority ? "eager" : "lazy"}
+          fetchpriority={priority ? "high" : "auto"}
         />
       ) : (
         <span class="text-xs text-gray-400 text-center px-1">No photo</span>

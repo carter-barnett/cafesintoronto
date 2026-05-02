@@ -1,0 +1,28 @@
+# Cafes In Toronto
+> A curated directory of the best independent coffee shops in Toronto, Canada. Each listing includes hours, address, Google rating, tags for working/dates/meetups, and wifi info.
+
+## Homepage
+https://cafesintoronto.com/
+
+## Neighbourhoods
+https://cafesintoronto.com/the-annex/
+https://cafesintoronto.com/kensington-market/
+https://cafesintoronto.com/ossington/
+https://cafesintoronto.com/king-west/
+https://cafesintoronto.com/queen-west/
+https://cafesintoronto.com/downtown-toronto/
+https://cafesintoronto.com/chinatown/
+https://cafesintoronto.com/distillery/
+https://cafesintoronto.com/yorkville/
+https://cafesintoronto.com/liberty-village/
+
+## Blog
+https://cafesintoronto.com/blog/
+https://cafesintoronto.com/blog/annex-cafe-guide/
+https://cafesintoronto.com/blog/kensington-market-cafe-guide/
+https://cafesintoronto.com/blog/ossington-cafe-guide/
+https://cafesintoronto.com/blog/king-west-cafe-guide/
+https://cafesintoronto.com/blog/best-cafes-for-remote-work-in-toronto/
+https://cafesintoronto.com/blog/best-toronto-cafes-open-past-6pm/
+https://cafesintoronto.com/blog/top-10-toronto-coffee-shops-west-end/
+https://cafesintoronto.com/blog/best-coffee-shops-in-toronto-not-starbucks/
