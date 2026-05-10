@@ -1,7 +1,7 @@
 ---
 title: "The Liberty Village Cafe Guide (2026)"
 description: "7 independent coffee shops in Liberty Village, Toronto. From a neighbourhood living room to a dedicated matcha bar, rated and reviewed."
-pubDate: 2026-05-02
+pubDate: 2026-05-10
 coverImage: "/photos/larry-s-place.jpg"
 ---
 

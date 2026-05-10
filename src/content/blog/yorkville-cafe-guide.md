@@ -1,7 +1,7 @@
 ---
 title: "The Yorkville Cafe Guide (2026)"
 description: "7 independent coffee shops in Yorkville, Toronto. From a 4.9-star hidden gem to a late-night Parisian patisserie, rated and reviewed."
-pubDate: 2026-05-02
+pubDate: 2026-05-10
 coverImage: "/photos/sip-sip.jpg"
 ---
 
