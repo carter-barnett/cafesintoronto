@@ -253,7 +253,10 @@
     },
     "openPast6pm": true,
     "website": "http://www.889community.com/",
-    "tags": [],
+    "tags": [
+      "Great for dates",
+      "Aesthetic"
+    ],
     "wifi": null,
     "busyness": null,
     "isSponsored": false,
@@ -3698,7 +3701,10 @@
     },
     "openPast6pm": false,
     "website": "https://www.sipshucksip.com/",
-    "tags": [],
+    "tags": [
+      "Great for dates",
+      "Aesthetic"
+    ],
     "wifi": null,
     "busyness": null,
     "isSponsored": false,
@@ -4728,7 +4734,8 @@
     "openPast6pm": true,
     "website": "http://idealcoffee.ca/",
     "tags": [
-      "Laptops OK"
+      "Laptops OK",
+      "Great for dates"
     ],
     "wifi": "Fast",
     "busyness": "No laptops weekends",
@@ -4885,7 +4892,10 @@
     },
     "openPast6pm": false,
     "website": "https://filmcafetoronto.com/",
-    "tags": [],
+    "tags": [
+      "Great for dates",
+      "Aesthetic"
+    ],
     "wifi": null,
     "busyness": null,
     "isSponsored": false,
@@ -6529,7 +6539,10 @@
     },
     "openPast6pm": true,
     "website": "https://www.instagram.com/projectseoul.cafe",
-    "tags": [],
+    "tags": [
+      "Great for dates",
+      "Aesthetic"
+    ],
     "wifi": null,
     "busyness": null,
     "isSponsored": false,
@@ -7466,7 +7479,9 @@
     },
     "openPast6pm": true,
     "website": "http://www.crimsonteas.com/",
-    "tags": [],
+    "tags": [
+      "Great for dates"
+    ],
     "wifi": null,
     "busyness": null,
     "isSponsored": false,
