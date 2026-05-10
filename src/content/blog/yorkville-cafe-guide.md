@@ -9,13 +9,13 @@ Yorkville has a reputation for being polished and expensive, and some of its caf
 
 ## How to spend a morning in Yorkville
 
-Start at [Goldstruck](/cafes/goldstruck-coffee) or [Coco](/cafes/coco-espresso-bar) when they open at 7am for an early coffee before the streets fill up. Walk Cumberland or Yorkville Avenue while it's quiet. Stop into [Amadeus Patisserie](/cafes/amadeus-patisserie) at 7:30am for something to eat. If you want the best cup in the neighbourhood, [Sip Sip](/cafes/sip-sip) opens at 9am and it's worth the wait. For evenings, [Coco](/cafes/coco-espresso-bar) stays open until 11pm and [ZAZA](/cafes/zaza-espresso-bar) until 10pm: two of the latest closes in the city.
+Start at [Goldstruck](/cafes/goldstruck-coffee/) or [Coco](/cafes/coco-espresso-bar/) when they open at 7am for an early coffee before the streets fill up. Walk Cumberland or Yorkville Avenue while it's quiet. Stop into [Amadeus Patisserie](/cafes/amadeus-patisserie/) at 7:30am for something to eat. If you want the best cup in the neighbourhood, [Sip Sip](/cafes/sip-sip/) opens at 9am and it's worth the wait. For evenings, [Coco](/cafes/coco-espresso-bar/) stays open until 11pm and [ZAZA](/cafes/zaza-espresso-bar/) until 10pm: two of the latest closes in the city.
 
 Here's what each one is actually like.
 
 ---
 
-## [Sip Sip](/cafes/sip-sip): The hidden one
+## [Sip Sip](/cafes/sip-sip/): The hidden one
 
 ![Sip Sip cafe interior in Yorkville, Toronto](/photos/sip-sip.jpg)
 
@@ -26,7 +26,7 @@ The highest-rated cafe in the neighbourhood and the least obvious about it. Sip 
 
 ---
 
-## [EPOS Cafe & Restaurant](/cafes/epos-cafe-restaurant): The all-day one
+## [EPOS Cafe & Restaurant](/cafes/epos-cafe-restaurant/): The all-day one
 
 ![EPOS Cafe and Restaurant in Yorkville, Toronto](/photos/epos-cafe-restaurant.jpg)
 
@@ -37,7 +37,7 @@ A Yorkville all-day spot rated 4.8★ that handles breakfast and lunch as confid
 
 ---
 
-## [Aeset Coffee Co.](/cafes/aeset-coffee-co): The specialty one
+## [Aeset Coffee Co.](/cafes/aeset-coffee-co/): The specialty one
 
 ![Aeset Coffee Co. cafe in Yorkville, Toronto](/photos/aeset-coffee-co.jpg)
 
@@ -48,7 +48,7 @@ A quiet Yorkville gem with a serious approach to sourcing and brewing. Small, fo
 
 ---
 
-## [Goldstruck Coffee](/cafes/goldstruck-coffee): The neighbourhood one
+## [Goldstruck Coffee](/cafes/goldstruck-coffee/): The neighbourhood one
 
 ![Goldstruck Coffee bright interior in Yorkville, Toronto](/photos/goldstruck-coffee.jpg)
 
@@ -59,7 +59,7 @@ Bright, well-designed, and the most-reviewed cafe in Yorkville with over 1,900 G
 
 ---
 
-## [Amadeus Patisserie](/cafes/amadeus-patisserie): The bakery
+## [Amadeus Patisserie](/cafes/amadeus-patisserie/): The bakery
 
 ![Amadeus Patisserie baked goods and coffee in Yorkville, Toronto](/photos/amadeus-patisserie.jpg)
 
@@ -70,7 +70,7 @@ A Yorkville patisserie with standout baked goods and espresso that holds its own
 
 ---
 
-## [LADURÉE Toronto](/cafes/ladur-e-toronto-yorkville-caf): The Parisian one
+## [LADURÉE Toronto](/cafes/ladur-e-toronto-yorkville-caf/): The Parisian one
 
 ![LADURÉE Toronto Yorkville patisserie cafe interior](/photos/ladur-e-toronto-yorkville-caf.jpg)
 
@@ -81,7 +81,7 @@ The Toronto outpost of the legendary Parisian patisserie. LADURÉE is a genuinel
 
 ---
 
-## [ZAZA Espresso Bar](/cafes/zaza-espresso-bar): The late one
+## [ZAZA Espresso Bar](/cafes/zaza-espresso-bar/): The late one
 
 ![ZAZA Espresso Bar compact espresso bar in Yorkville, Toronto](/photos/zaza-espresso-bar.jpg)
 
@@ -92,7 +92,7 @@ A compact espresso bar open until 10pm, one of the later closes in the neighbour
 
 ---
 
-## [Coco Espresso Bar](/cafes/coco-espresso-bar): The latest one
+## [Coco Espresso Bar](/cafes/coco-espresso-bar/): The latest one
 
 ![Coco Espresso Bar warm interior in Yorkville, Toronto](/photos/coco-espresso-bar.jpg)
 
@@ -105,4 +105,4 @@ Open until 11pm on weekdays and with nearly 1,000 Google reviews at 4.4★, Coco
 
 Yorkville has more going on than the neighbourhood's reputation suggests. Whether you're after the best single cup in the city or somewhere to sit until 11pm with a good espresso, the options are here.
 
-All Yorkville cafes are in the main directory. Browse the full list on the [Yorkville cafe page](/yorkville).
+All Yorkville cafes are in the main directory. Browse the full list on the [Yorkville cafe page](/yorkville/).

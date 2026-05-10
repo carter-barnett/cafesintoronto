@@ -9,7 +9,7 @@ Ossington Avenue is one of those streets that got good and stayed that way. It d
 
 Here's the full breakdown.
 
-## [Rooms Coffee](/cafes/rooms-coffee): The beautiful one
+## [Rooms Coffee](/cafes/rooms-coffee/): The beautiful one
 
 ![Rooms Coffee on Ossington Avenue, Toronto](/photos/rooms-coffee.jpg)
 
@@ -20,7 +20,7 @@ The interior at Rooms is genuinely one of the nicest cafe spaces in Toronto. Hig
 
 ---
 
-## [Jimmy's Coffee](/cafes/jimmy-s-coffee): The original
+## [Jimmy's Coffee](/cafes/jimmy-s-coffee/): The original
 
 ![Jimmy's Coffee on Ossington Avenue, Toronto](/photos/jimmy-s-coffee.jpg)
 
@@ -31,7 +31,7 @@ Jimmy's has been on Ossington long enough to watch the street change around it a
 
 ---
 
-## [Forget Me Not Coffee](/cafes/forget-me-not-coffee): The charming one
+## [Forget Me Not Coffee](/cafes/forget-me-not-coffee/): The charming one
 
 ![Forget Me Not Coffee on Ossington Avenue, Toronto](/photos/forget-me-not-coffee.jpg)
 
@@ -42,7 +42,7 @@ Small, warm, and the lattes are worth the trip on their own. Forget Me Not opens
 
 ---
 
-## [Pilot Coffee Roasters](/cafes/pilot-coffee-roasters): The roaster
+## [Pilot Coffee Roasters](/cafes/pilot-coffee-roasters/): The roaster
 
 ![Pilot Coffee Roasters on Ossington Avenue, Toronto](/photos/pilot-coffee-roasters.jpg)
 
@@ -53,7 +53,7 @@ One of Toronto's most respected roasters with a flagship on Ossington that lives
 
 ---
 
-## [I DEAL Coffee & Wine](/cafes/i-deal-coffee-wine): The dual-purpose one
+## [I DEAL Coffee & Wine](/cafes/i-deal-coffee-wine/): The dual-purpose one
 
 ![I DEAL Coffee and Wine on Ossington Avenue, Toronto](/photos/i-deal-coffee-wine.jpg)
 
@@ -66,8 +66,8 @@ Coffee in the morning, wine in the evening, and both handled with the same level
 
 ## How to spend a morning on Ossington
 
-Start at [Jimmy's](/cafes/jimmy-s-coffee) or [Pilot](/cafes/pilot-coffee-roasters) early. Both open at 7am and handle the morning crowd well. Walk the strip north toward Bloor when it's quiet. Come back for a second coffee at [Rooms](/cafes/rooms-coffee) when it opens at 8. If you're staying into the afternoon, [I DEAL](/cafes/i-deal-coffee-wine) has the wifi and the hours to make it worth settling in.
+Start at [Jimmy's](/cafes/jimmy-s-coffee/) or [Pilot](/cafes/pilot-coffee-roasters/) early. Both open at 7am and handle the morning crowd well. Walk the strip north toward Bloor when it's quiet. Come back for a second coffee at [Rooms](/cafes/rooms-coffee/) when it opens at 8. If you're staying into the afternoon, [I DEAL](/cafes/i-deal-coffee-wine/) has the wifi and the hours to make it worth settling in.
 
 ---
 
-All five Ossington cafes are in the main directory. Browse the full list on the [Ossington cafe page](/ossington).
+All five Ossington cafes are in the main directory. Browse the full list on the [Ossington cafe page](/ossington/).

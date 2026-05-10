@@ -9,7 +9,7 @@ Kensington Market is one of the few neighbourhoods in Toronto that still feels l
 
 This is the full guide. Every cafe worth knowing, with honest notes on what each one is actually like.
 
-## [FIKA Cafe](/cafes/fika-cafe): The Swedish one
+## [FIKA Cafe](/cafes/fika-cafe/): The Swedish one
 
 ![Interior of FIKA Cafe in Kensington Market, Toronto](/photos/fika-cafe.jpg)
 
@@ -20,7 +20,7 @@ Named after the Swedish tradition of a proper coffee break, which is exactly wha
 
 ---
 
-## [Moonbean Coffee Company](/cafes/moonbean-coffee-company): The institution
+## [Moonbean Coffee Company](/cafes/moonbean-coffee-company/): The institution
 
 ![Inside Moonbean Coffee Company in Kensington Market, Toronto](/photos/moonbean-coffee-company.jpg)
 
@@ -31,7 +31,7 @@ Over 30 years in Kensington and the community around it is as strong as the coff
 
 ---
 
-## [Augusta Coffee Bar](/cafes/augusta-coffee-bar): The local's pick
+## [Augusta Coffee Bar](/cafes/augusta-coffee-bar/): The local's pick
 
 ![Augusta Coffee Bar in Kensington Market, Toronto](/photos/augusta-coffee-bar.jpg)
 
@@ -42,7 +42,7 @@ Right on Augusta, which is the heart of the market. Augusta Coffee Bar is unpret
 
 ---
 
-## [Wu Wei Coffee](/cafes/wu-wei-coffee): The calm one
+## [Wu Wei Coffee](/cafes/wu-wei-coffee/): The calm one
 
 ![Wu Wei Coffee 无为 in Kensington Market, Toronto](/photos/wu-wei-coffee.jpg)
 
@@ -53,7 +53,7 @@ Named after the Taoist concept of effortless action. Wu Wei is genuinely calm in
 
 ---
 
-## [Carbonic Coffee (Baldwin)](/cafes/carbonic-coffee-baldwin): The specialty one
+## [Carbonic Coffee (Baldwin)](/cafes/carbonic-coffee-baldwin/): The specialty one
 
 ![Carbonic Coffee on Baldwin Street in Kensington Market, Toronto](/photos/carbonic-coffee-baldwin.jpg)
 
@@ -64,7 +64,7 @@ Carbonic uses carbonic maceration, a process borrowed from winemaking, to produc
 
 ---
 
-## [FILM CAFE](/cafes/film-cafe): The late-night one
+## [FILM CAFE](/cafes/film-cafe/): The late-night one
 
 ![FILM CAFE in Kensington Market, Toronto](/photos/film-cafe.jpg)
 
@@ -75,7 +75,7 @@ Open until 1am, which makes FILM CAFE a genuine outlier in Toronto's cafe scene.
 
 ---
 
-## [Mystik Cafe](/cafes/mystik-cafe): The eclectic one
+## [Mystik Cafe](/cafes/mystik-cafe/): The eclectic one
 
 ![Mystik Cafe in Kensington Market, Toronto](/photos/mystik-cafe.jpg)
 
@@ -86,7 +86,7 @@ Reliably weird in the best possible way. Mystik is one of those Kensington spots
 
 ---
 
-## [Little Pebbles Cafe](/cafes/little-pebbles-cafe): The neighbourhood gem
+## [Little Pebbles Cafe](/cafes/little-pebbles-cafe/): The neighbourhood gem
 
 ![Little Pebbles Cafe in Kensington Market, Toronto](/photos/little-pebbles-cafe.jpg)
 
@@ -99,8 +99,8 @@ Small, personal, and the kind of spot you feel lucky to find. Little Pebbles has
 
 ## How to spend a morning in Kensington
 
-Start early at [Augusta Coffee Bar](/cafes/augusta-coffee-bar) or [Moonbean](/cafes/moonbean-coffee-company) when the market is quiet. Walk Augusta and Baldwin before the crowds arrive. If you're into specialty, stop into [Carbonic](/cafes/carbonic-coffee-baldwin) for a filter. End at [FIKA](/cafes/fika-cafe) for a pastry when it opens at 10:30. The whole loop takes about two hours and covers the best the neighbourhood has.
+Start early at [Augusta Coffee Bar](/cafes/augusta-coffee-bar/) or [Moonbean](/cafes/moonbean-coffee-company/) when the market is quiet. Walk Augusta and Baldwin before the crowds arrive. If you're into specialty, stop into [Carbonic](/cafes/carbonic-coffee-baldwin/) for a filter. End at [FIKA](/cafes/fika-cafe/) for a pastry when it opens at 10:30. The whole loop takes about two hours and covers the best the neighbourhood has.
 
 ---
 
-All 14 Kensington Market cafes are in the main directory. Browse the full list on the [Kensington Market cafe page](/kensington-market).
+All 14 Kensington Market cafes are in the main directory. Browse the full list on the [Kensington Market cafe page](/kensington-market/).

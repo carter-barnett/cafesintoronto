@@ -2,14 +2,14 @@
 title: "Best Coffee Shops in Toronto That Aren't Starbucks (2026)"
 description: "Toronto has some of the best independent coffee shops in Canada. Here are 5 local spots worth switching to — better coffee, better vibe, no green cups."
 pubDate: 2026-04-12
-coverImage: "/photos/fungo-cafe.jpg"
+coverImage: "/photos/moments.jpg"
 ---
 
 Nothing against a Starbucks when you're in an airport. But Toronto has an independent coffee scene that genuinely competes with any city in North America, and once you find your spots, there's no going back.
 
 These are five of the best local cafes in the city — spread across neighbourhoods, different vibes, all worth knowing.
 
-## [Moments](/cafes/moments) — Downtown Toronto
+## [Moments](/cafes/moments/) — Downtown Toronto
 
 ![Moments cafe interior in Downtown Toronto](/photos/moments.jpg)
 
@@ -20,7 +20,7 @@ One of the highest-rated cafes in the city with a loyal following that shows up 
 
 ---
 
-## [Fungo Cafe](/cafes/fungo-cafe) — King West
+## [Fungo Cafe](/cafes/fungo-cafe/) — King West
 
 ![Fungo Cafe espresso bar on King West, Toronto](/photos/fungo-cafe.jpg)
 
@@ -31,7 +31,7 @@ One of the top-rated cafes in the west end and a strong argument for why indepen
 
 ---
 
-## [Crimson Teas](/cafes/crimson-teas) — Chinatown
+## [Crimson Teas](/cafes/crimson-teas/) — Chinatown
 
 ![Crimson Teas in Chinatown, Toronto](/photos/crimson-teas.jpg)
 
@@ -42,7 +42,7 @@ Over 500 reviews and one of the most-loved spots in Chinatown. Crimson Teas does
 
 ---
 
-## [Ninetails Coffee](/cafes/ninetails-coffee-bloor) — The Annex
+## [Ninetails Coffee](/cafes/ninetails-coffee-bloor/) — The Annex
 
 ![Ninetails Coffee on Bloor Street in The Annex, Toronto](/photos/ninetails-coffee-bloor.jpg)
 
@@ -53,7 +53,7 @@ Ninetails has built a real following in the Annex with great coffee and a space 
 
 ---
 
-## [FIKA Cafe](/cafes/fika-cafe) — Kensington Market
+## [FIKA Cafe](/cafes/fika-cafe/) — Kensington Market
 
 ![Interior of FIKA Cafe in Kensington Market, Toronto](/photos/fika-cafe.jpg)
 

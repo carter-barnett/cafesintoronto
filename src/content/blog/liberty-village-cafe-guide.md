@@ -9,13 +9,13 @@ Liberty Village has one of the most concentrated cafe scenes in Toronto. The nei
 
 ## How to spend a morning in Liberty Village
 
-Start at [Larry's Place](/cafes/larry-s-place), [Arvo](/cafes/arvo-coffee-wine), or [Balzac's](/cafes/balzac-s-liberty-village) when they open at 7am. Walk King Street west toward the village while it's quiet. [Highly Likely](/cafes/highly-likely-coffee) opens at 7am too and is worth a stop for the coffee and the name. If you're there for matcha, [TonTon](/cafes/tonton-matcha-coffee) opens at 9am. For a late afternoon or evening, [Liberty Village Market](/cafes/liberty-village-market-cafe) stays until 9:30pm: the latest close in the neighbourhood.
+Start at [Larry's Place](/cafes/larry-s-place/), [Arvo](/cafes/arvo-coffee-wine/), or [Balzac's](/cafes/balzac-s-liberty-village/) when they open at 7am. Walk King Street west toward the village while it's quiet. [Highly Likely](/cafes/highly-likely-coffee/) opens at 7am too and is worth a stop for the coffee and the name. If you're there for matcha, [TonTon](/cafes/tonton-matcha-coffee/) opens at 9am. For a late afternoon or evening, [Liberty Village Market](/cafes/liberty-village-market-cafe/) stays until 9:30pm: the latest close in the neighbourhood.
 
 Here's what each one is actually like.
 
 ---
 
-## [Larry's Place](/cafes/larry-s-place): The neighbourhood one
+## [Larry's Place](/cafes/larry-s-place/): The neighbourhood one
 
 ![Larry's Place cafe interior in Liberty Village, Toronto](/photos/larry-s-place.jpg)
 
@@ -26,7 +26,7 @@ A Liberty Village spot with a personal feel that most neighbourhood cafes only a
 
 ---
 
-## [Highly Likely Coffee](/cafes/highly-likely-coffee): The optimistic one
+## [Highly Likely Coffee](/cafes/highly-likely-coffee/): The optimistic one
 
 ![Highly Likely Coffee in Liberty Village, Toronto](/photos/highly-likely-coffee.jpg)
 
@@ -37,7 +37,7 @@ The name is a promise and it delivers. Highly Likely is rated 4.7★ with consis
 
 ---
 
-## [Found Coffee | Bellwoods](/cafes/found-coffee-bellwoods): The hidden one
+## [Found Coffee | Bellwoods](/cafes/found-coffee-bellwoods/): The hidden one
 
 ![Found Coffee Bellwoods cafe in Liberty Village area, Toronto](/photos/found-coffee-bellwoods.jpg)
 
@@ -48,7 +48,7 @@ Worth seeking out. Found Coffee sits at the edge of the neighbourhood near Trini
 
 ---
 
-## [Arvo Coffee & Wine](/cafes/arvo-coffee-wine): The Australian one
+## [Arvo Coffee & Wine](/cafes/arvo-coffee-wine/): The Australian one
 
 ![Arvo Coffee and Wine bar in Liberty Village, Toronto](/photos/arvo-coffee-wine.jpg)
 
@@ -59,7 +59,7 @@ Australian coffee culture and a wine list in one room. Arvo brings a relaxed, fl
 
 ---
 
-## [TonTon Matcha + Coffee](/cafes/tonton-matcha-coffee): The matcha one
+## [TonTon Matcha + Coffee](/cafes/tonton-matcha-coffee/): The matcha one
 
 ![TonTon Matcha and Coffee cafe in Liberty Village, Toronto](/photos/tonton-matcha-coffee.jpg)
 
@@ -70,7 +70,7 @@ Liberty Village's dedicated matcha cafe, rated 4.6★ for its matcha lattes and 
 
 ---
 
-## [Liberty Village Market & Cafe](/cafes/liberty-village-market-cafe): The all-day one
+## [Liberty Village Market & Cafe](/cafes/liberty-village-market-cafe/): The all-day one
 
 ![Liberty Village Market and Cafe in Toronto](/photos/liberty-village-market-cafe.jpg)
 
@@ -81,7 +81,7 @@ A neighbourhood staple with a market layout and a loyal local following. Liberty
 
 ---
 
-## [Balzac's Liberty Village](/cafes/balzac-s-liberty-village): The classic one
+## [Balzac's Liberty Village](/cafes/balzac-s-liberty-village/): The classic one
 
 ![Balzac's Liberty Village coffee shop in Toronto](/photos/balzac-s-liberty-village.jpg)
 
@@ -94,4 +94,4 @@ The Liberty Village outpost of Toronto's most recognisable independent roaster. 
 
 Liberty Village is an easy neighbourhood to spend a morning in. The cafes are close together, the streets are walkable, and most of the good options open before 8am. Whether you want the best matcha in the city or just a solid flat white before work, it's here.
 
-All Liberty Village cafes are in the main directory. Browse the full list on the [Liberty Village cafe page](/liberty-village).
+All Liberty Village cafes are in the main directory. Browse the full list on the [Liberty Village cafe page](/liberty-village/).

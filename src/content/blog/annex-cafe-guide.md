@@ -9,7 +9,7 @@ The Annex is one of Toronto's most walkable neighbourhoods and the cafe scene re
 
 Here's what each one is actually like.
 
-## [Ninetails Coffee](/cafes/ninetails-coffee-bloor): The specialty one
+## [Ninetails Coffee](/cafes/ninetails-coffee-bloor/): The specialty one
 
 ![Ninetails Coffee on Bloor Street in The Annex, Toronto](/photos/ninetails-coffee-bloor.jpg)
 
@@ -20,7 +20,7 @@ Named after the nine-tailed fox from Japanese folklore and takes its coffee just
 
 ---
 
-## [Kandl Kafé](/cafes/kandl-kaf): The cosy one
+## [Kandl Kafé](/cafes/kandl-kaf/): The cosy one
 
 ![Kandl Kafé in The Annex, Toronto](/photos/kandl-kaf.jpg)
 
@@ -31,7 +31,7 @@ A warm, neighbourhood living-room cafe that earns its 4.9★ rating through cons
 
 ---
 
-## [Typist Studios & Coffee](/cafes/typist-studios-coffee): The workspace one
+## [Typist Studios & Coffee](/cafes/typist-studios-coffee/): The workspace one
 
 ![Typist Studios and Coffee in The Annex, Toronto](/photos/typist-studios-coffee.jpg)
 
@@ -42,7 +42,7 @@ A creative studio and coffee bar built around the idea of working in a well-desi
 
 ---
 
-## [Jacked Up Coffee](/cafes/jacked-up-coffee): The laid-back one
+## [Jacked Up Coffee](/cafes/jacked-up-coffee/): The laid-back one
 
 ![Jacked Up Coffee in The Annex, Toronto](/photos/jacked-up-coffee.jpg)
 
@@ -53,7 +53,7 @@ An Annex staple with serious coffee credentials and a relaxed atmosphere that ma
 
 ---
 
-## [5 Elements Espresso Bar](/cafes/5-elements-espresso-bar): The precise one
+## [5 Elements Espresso Bar](/cafes/5-elements-espresso-bar/): The precise one
 
 ![5 Elements Espresso Bar in The Annex, Toronto](/photos/5-elements-espresso-bar.jpg)
 
@@ -64,7 +64,7 @@ A tasting-menu approach to espresso — small, focused, and technically precise.
 
 ---
 
-## [A-OK Cafe](/cafes/a-ok-cafe): The all-day one
+## [A-OK Cafe](/cafes/a-ok-cafe/): The all-day one
 
 ![A-OK Cafe in The Annex, Toronto](/photos/a-ok-cafe.jpg)
 
@@ -77,8 +77,8 @@ The name fits. A-OK opens at 9am and stays until 7pm, giving it the longest hour
 
 ## How to spend a morning in the Annex
 
-Start at [5 Elements](/cafes/5-elements-espresso-bar) when it opens at 7:30 for an early espresso. Walk Bloor west before the street fills up. Stop into [Ninetails](/cafes/ninetails-coffee-bloor) or [Kandl](/cafes/kandl-kaf) mid-morning for a second coffee and somewhere to sit. If you need to get work done, [Typist](/cafes/typist-studios-coffee) has the best setup for it. End at [A-OK](/cafes/a-ok-cafe) if you're still there in the afternoon.
+Start at [5 Elements](/cafes/5-elements-espresso-bar/) when it opens at 7:30 for an early espresso. Walk Bloor west before the street fills up. Stop into [Ninetails](/cafes/ninetails-coffee-bloor/) or [Kandl](/cafes/kandl-kaf/) mid-morning for a second coffee and somewhere to sit. If you need to get work done, [Typist](/cafes/typist-studios-coffee/) has the best setup for it. End at [A-OK](/cafes/a-ok-cafe/) if you're still there in the afternoon.
 
 ---
 
-All Annex cafes are in the main directory. Browse the full list on the [Annex cafe page](/the-annex).
+All Annex cafes are in the main directory. Browse the full list on the [Annex cafe page](/the-annex/).

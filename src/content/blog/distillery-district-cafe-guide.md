@@ -9,13 +9,13 @@ The Distillery District is one of Toronto's most distinctive neighbourhoods. Vic
 
 ## How to spend a morning in the Distillery District
 
-The district moves slower than the rest of the city. That's the point. Start at [Arvo](/cafes/arvo-coffee) when it opens at 7am for an early flat white before the cobblestones fill with visitors. Walk the main pedestrian lane while it's quiet. Stop into [Brick Street Bakery](/cafes/brick-street-bakery) when it opens at 8am for something to eat. If you're staying into the afternoon, [Balzac's](/cafes/balzac-s-distillery-district) has the hours and the patio for it. Come back in the evening: it's one of the few spots in the neighbourhood open until 7pm.
+The district moves slower than the rest of the city. That's the point. Start at [Arvo](/cafes/arvo-coffee/) when it opens at 7am for an early flat white before the cobblestones fill with visitors. Walk the main pedestrian lane while it's quiet. Stop into [Brick Street Bakery](/cafes/brick-street-bakery/) when it opens at 8am for something to eat. If you're staying into the afternoon, [Balzac's](/cafes/balzac-s-distillery-district/) has the hours and the patio for it. Come back in the evening: it's one of the few spots in the neighbourhood open until 7pm.
 
 Here's what each one is actually like.
 
 ---
 
-## [Balzac's Coffee Roasters](/cafes/balzac-s-distillery-district): The iconic one
+## [Balzac's Coffee Roasters](/cafes/balzac-s-distillery-district/): The iconic one
 
 ![Balzac's Coffee Roasters inside the Distillery District, Toronto](/photos/balzac-s-distillery-district.jpg)
 
@@ -26,7 +26,7 @@ The most-reviewed cafe in the neighbourhood with good reason. Balzac's has been 
 
 ---
 
-## [Arvo Coffee](/cafes/arvo-coffee): The Australian one
+## [Arvo Coffee](/cafes/arvo-coffee/): The Australian one
 
 ![Arvo Coffee flat white bar in the Distillery District, Toronto](/photos/arvo-coffee.jpg)
 
@@ -37,7 +37,7 @@ Australian-influenced and serious about the flat white. Arvo is one of the highe
 
 ---
 
-## [Brick Street Bakery](/cafes/brick-street-bakery): The bakery
+## [Brick Street Bakery](/cafes/brick-street-bakery/): The bakery
 
 ![Brick Street Bakery pastries and coffee in the Distillery District, Toronto](/photos/brick-street-bakery.jpg)
 
@@ -48,7 +48,7 @@ A Distillery institution. Brick Street has been here long enough to feel like pa
 
 ---
 
-## [Wildly Delicious Fine Foods](/cafes/wildly-delicious-fine-foods): The deli one
+## [Wildly Delicious Fine Foods](/cafes/wildly-delicious-fine-foods/): The deli one
 
 ![Wildly Delicious Fine Foods cafe in the Distillery District, Toronto](/photos/wildly-delicious-fine-foods.jpg)
 
@@ -59,7 +59,7 @@ The name isn't wrong. Wildly Delicious pairs good coffee with a food program tha
 
 ---
 
-## [Arena Coffee Bar](/cafes/arena-coffee-bar): The neighbourhood one
+## [Arena Coffee Bar](/cafes/arena-coffee-bar/): The neighbourhood one
 
 ![Arena Coffee Bar interior in the Distillery District, Toronto](/photos/arena-coffee-bar.jpg)
 
@@ -72,4 +72,4 @@ The newest addition to the district and the quietest of the five. Arena leans in
 
 The Distillery District is an easy neighbourhood to spend a few hours in, and the cafe options make it easier. Whether you're here for the galleries, the market, or just a walk on the cobblestones, there's a good coffee waiting at the start, middle, and end of the day.
 
-All Distillery District cafes are in the main directory. Browse the full list on the [Distillery cafe page](/distillery).
+All Distillery District cafes are in the main directory. Browse the full list on the [Distillery cafe page](/distillery/).

@@ -9,7 +9,7 @@ King West has one of the most varied cafe lineups in the city. You've got a Japa
 
 Here's what each one is actually like.
 
-## [Fungo Cafe](/cafes/fungo-cafe): The Japanese-style one
+## [Fungo Cafe](/cafes/fungo-cafe/): The Japanese-style one
 
 ![Fungo Cafe espresso bar on King West, Toronto](/photos/fungo-cafe.jpg)
 
@@ -20,7 +20,7 @@ Inspired by the Japanese kissaten tradition — calm, considered, and precise ab
 
 ---
 
-## [Forno Cultura](/cafes/forno-cultura): The bakery
+## [Forno Cultura](/cafes/forno-cultura/): The bakery
 
 ![Forno Cultura bakery and coffee on King West, Toronto](/photos/forno-cultura.jpg)
 
@@ -31,7 +31,7 @@ One of the best bakeries in Toronto with a coffee program that holds its own. Fo
 
 ---
 
-## [Nonni Cafe & Bakery](/cafes/nonni-cafe-bakery): The neighbourhood staple
+## [Nonni Cafe & Bakery](/cafes/nonni-cafe-bakery/): The neighbourhood staple
 
 ![Nonni Cafe and Bakery interior on King West, Toronto](/photos/nonni-cafe-bakery.jpg)
 
@@ -42,7 +42,7 @@ Italian-leaning and reliably good. Nonni opens at 7:30am and stays open until 8p
 
 ---
 
-## [Woolshed Coffee](/cafes/woolshed-coffee): The Australian one
+## [Woolshed Coffee](/cafes/woolshed-coffee/): The Australian one
 
 ![Woolshed Coffee on King West, Toronto](/photos/woolshed-coffee.jpg)
 
@@ -53,7 +53,7 @@ Australian-inspired and built around the kind of flat white culture that takes t
 
 ---
 
-## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne): The unexpected one
+## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne/): The unexpected one
 
 ![Coffee Oysters Champagne cafe on King West, Toronto](/photos/coffee-oysters-champagne.jpg)
 
@@ -64,7 +64,7 @@ The name delivers on its promise. Coffee in the morning, oysters and champagne a
 
 ---
 
-## [Wallace Espresso](/cafes/wallace-espresso): The focused one
+## [Wallace Espresso](/cafes/wallace-espresso/): The focused one
 
 ![Wallace Espresso on King West, Toronto](/photos/wallace-espresso.jpg)
 
@@ -75,7 +75,7 @@ A tight, focused espresso bar that opens at 7am and does exactly what it promise
 
 ---
 
-## [Shy Coffee Co.](/cafes/shy-coffee-co): The quiet one
+## [Shy Coffee Co.](/cafes/shy-coffee-co/): The quiet one
 
 ![Shy Coffee Co. on King West, Toronto](/photos/shy-coffee-co.jpg)
 
@@ -88,8 +88,8 @@ Quiet in name, not in quality. Shy Coffee opens at 7am, stays until 5pm, and mak
 
 ## How to spend a morning on King West
 
-Start at [Wallace](/cafes/wallace-espresso) or [Shy](/cafes/shy-coffee-co) when they open at 7am. Walk west toward Bathurst while it's quiet. Stop into [Forno Cultura](/cafes/forno-cultura) when it opens at 7:30 for something to eat. If you're staying to work, [Nonni](/cafes/nonni-cafe-bakery) has the wifi and the hours. Come back in the afternoon for a proper espresso at [Fungo](/cafes/fungo-cafe) before it closes at 5.
+Start at [Wallace](/cafes/wallace-espresso/) or [Shy](/cafes/shy-coffee-co/) when they open at 7am. Walk west toward Bathurst while it's quiet. Stop into [Forno Cultura](/cafes/forno-cultura/) when it opens at 7:30 for something to eat. If you're staying to work, [Nonni](/cafes/nonni-cafe-bakery/) has the wifi and the hours. Come back in the afternoon for a proper espresso at [Fungo](/cafes/fungo-cafe/) before it closes at 5.
 
 ---
 
-All King West cafes are in the main directory. Browse the full list on the [King West cafe page](/king-west).
+All King West cafes are in the main directory. Browse the full list on the [King West cafe page](/king-west/).

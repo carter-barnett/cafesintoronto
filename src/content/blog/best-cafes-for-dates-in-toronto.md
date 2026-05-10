@@ -9,7 +9,7 @@ The best date cafes in Toronto have something beyond good coffee: a reason to st
 
 ---
 
-## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne): The most memorable one
+## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne/): The most memorable one
 
 ![Coffee Oysters Champagne interior in King West, Toronto](/photos/coffee-oysters-champagne.jpg)
 
@@ -20,7 +20,7 @@ The name is the concept and the concept works. This King West spot serves specia
 
 ---
 
-## [Sip Sip](/cafes/sip-sip): The intimate one
+## [Sip Sip](/cafes/sip-sip/): The intimate one
 
 ![Sip Sip cafe in Yorkville, Toronto](/photos/sip-sip.jpg)
 
@@ -31,7 +31,7 @@ The highest-rated cafe in Yorkville at 4.9★ and the least obvious about it. Si
 
 ---
 
-## [Project Seoul](/cafes/project-seoul): The aesthetic one
+## [Project Seoul](/cafes/project-seoul/): The aesthetic one
 
 ![Project Seoul Korean-inspired cafe in Chinatown, Toronto](/photos/project-seoul.jpg)
 
@@ -42,7 +42,7 @@ A Korean-inspired specialty cafe in Chinatown with a 4.7★ rating across 1,044 
 
 ---
 
-## [Crimson Teas](/cafes/crimson-teas): The tea house one
+## [Crimson Teas](/cafes/crimson-teas/): The tea house one
 
 ![Crimson Teas tea house in Chinatown, Toronto](/photos/crimson-teas.jpg)
 
@@ -53,7 +53,7 @@ A proper Chinatown tea house rated 4.8★ across 523 reviews. Crimson Teas is ca
 
 ---
 
-## [FILM CAFE](/cafes/film-cafe): The cinema one
+## [FILM CAFE](/cafes/film-cafe/): The cinema one
 
 ![FILM CAFE in Kensington Market, Toronto](/photos/film-cafe.jpg)
 
@@ -64,7 +64,7 @@ A cinema-themed cafe in Kensington Market with a 4.2★ rating across 1,819 revi
 
 ---
 
-## [I DEAL COFFEE & WINE](/cafes/i-deal-coffee-wine): The flexible one
+## [I DEAL COFFEE & WINE](/cafes/i-deal-coffee-wine/): The flexible one
 
 ![I DEAL Coffee and Wine on Ossington, Toronto](/photos/i-deal-coffee-wine.jpg)
 
@@ -75,7 +75,7 @@ Coffee and wine on Ossington, rated 4.3★ across 578 reviews. I DEAL handles bo
 
 ---
 
-## [NEO COFFEE BAR](/cafes/neo-coffee-bar): The reliable one
+## [NEO COFFEE BAR](/cafes/neo-coffee-bar/): The reliable one
 
 ![NEO COFFEE BAR interior in Downtown Toronto](/photos/neo-coffee-bar.jpg)
 

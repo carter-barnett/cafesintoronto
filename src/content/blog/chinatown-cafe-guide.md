@@ -2,20 +2,20 @@
 title: "The Chinatown Cafe Guide (2026)"
 description: "8 independent coffee shops in Chinatown, Toronto. From a 7am institution to the city's best late-night specialty cafe, rated and reviewed."
 pubDate: 2026-05-10
-coverImage: "/photos/project-seoul.jpg"
+coverImage: "/photos/dark-horse-espresso-bar.jpg"
 ---
 
 Chinatown is one of Toronto's most layered neighbourhoods, and its cafe scene reflects that. You'll find a 7am institution that's been there for decades alongside a Korean-inspired specialty bar, a pair of serious tea houses, and one of the only cafes in the city still pulling espresso shots past midnight.
 
 ## How to spend a morning in Chinatown
 
-Start at [Coffee Exchange](/cafes/coffee-exchange) or [Dark Horse](/cafes/dark-horse-espresso-bar) when they open at 7am. Both are on Spadina and both are reliable. [Library Coffee](/cafes/library-coffee) opens at 8am and is the quieter option if you want to sit and work. [10 DEAN | Waverley](/cafes/10-dean-waverley) opens at 7am too and stays until 9pm, one of the few all-day options in the neighbourhood. For something different, [Project Seoul](/cafes/project-seoul) opens at 11am. Tea drinkers have two serious options: [Crimson Teas](/cafes/crimson-teas) and [ICHA TEA](/cafes/icha-tea) both open at noon. And if you end up in Chinatown after dark, [Lait Night](/cafes/lait-night) opens at 5pm and runs until 3am on weekdays.
+Start at [Coffee Exchange](/cafes/coffee-exchange/) or [Dark Horse](/cafes/dark-horse-espresso-bar/) when they open at 7am. Both are on Spadina and both are reliable. [Library Coffee](/cafes/library-coffee/) opens at 8am and is the quieter option if you want to sit and work. [10 DEAN | Waverley](/cafes/10-dean-waverley/) opens at 7am too and stays until 9pm, one of the few all-day options in the neighbourhood. For something different, [Project Seoul](/cafes/project-seoul/) opens at 11am. Tea drinkers have two serious options: [Crimson Teas](/cafes/crimson-teas/) and [ICHA TEA](/cafes/icha-tea/) both open at noon. And if you end up in Chinatown after dark, [Lait Night](/cafes/lait-night/) opens at 5pm and runs until 3am on weekdays.
 
 Here's what each one is actually like.
 
 ---
 
-## [Coffee Exchange](/cafes/coffee-exchange): The institution
+## [Coffee Exchange](/cafes/coffee-exchange/): The institution
 
 ![Coffee Exchange cafe in Chinatown, Toronto](/photos/coffee-exchange.jpg)
 
@@ -26,7 +26,7 @@ Coffee Exchange has been at its corner long enough that it's become part of how 
 
 ---
 
-## [Dark Horse Espresso Bar](/cafes/dark-horse-espresso-bar): The atmospheric one
+## [Dark Horse Espresso Bar](/cafes/dark-horse-espresso-bar/): The atmospheric one
 
 ![Dark Horse Espresso Bar in Chinatown, Toronto](/photos/dark-horse-espresso-bar.jpg)
 
@@ -37,7 +37,7 @@ One of Toronto's most recognised independent names, and the Chinatown location e
 
 ---
 
-## [Library Coffee](/cafes/library-coffee): The quiet one
+## [Library Coffee](/cafes/library-coffee/): The quiet one
 
 ![Library Coffee in Chinatown, Toronto](/photos/library-coffee.jpg)
 
@@ -48,7 +48,7 @@ The name fits. Library Coffee is rated 4.6★ across 960 reviews and has a loyal
 
 ---
 
-## [10 DEAN | Waverley](/cafes/10-dean-waverley): The neighbourhood gem
+## [10 DEAN | Waverley](/cafes/10-dean-waverley/): The neighbourhood gem
 
 ![10 DEAN Waverley cafe in Chinatown, Toronto](/photos/10-dean-waverley.jpg)
 
@@ -59,7 +59,7 @@ Tucked at the corner of Dean and Waverley, this is one of those places you walk 
 
 ---
 
-## [Project Seoul](/cafes/project-seoul): The Korean one
+## [Project Seoul](/cafes/project-seoul/): The Korean one
 
 ![Project Seoul cafe in Chinatown, Toronto](/photos/project-seoul.jpg)
 
@@ -70,7 +70,7 @@ Korean-inspired and seriously considered. Project Seoul is rated 4.7★ across 1
 
 ---
 
-## [Crimson Teas](/cafes/crimson-teas): The tea house
+## [Crimson Teas](/cafes/crimson-teas/): The tea house
 
 ![Crimson Teas tea house in Chinatown, Toronto](/photos/crimson-teas.jpg)
 
@@ -81,7 +81,7 @@ A proper tea house in a neighbourhood that has more options for tea than most of
 
 ---
 
-## [ICHA TEA](/cafes/icha-tea): The tea and coffee one
+## [ICHA TEA](/cafes/icha-tea/): The tea and coffee one
 
 ![ICHA TEA in Chinatown, Toronto](/photos/icha-tea.jpg)
 
@@ -92,7 +92,7 @@ ICHA takes both tea and coffee seriously, which is rarer than it should be. Rate
 
 ---
 
-## [Lait Night](/cafes/lait-night): The late one
+## [Lait Night](/cafes/lait-night/): The late one
 
 ![Lait Night specialty cafe in Chinatown, Toronto](/photos/lait-night.jpg)
 
@@ -105,4 +105,4 @@ Open until 3am on weekdays and 4am on weekends, Lait Night is one of the only sp
 
 Chinatown's cafe scene runs from 7am to 4am in the morning, which is genuinely unusual for Toronto. Whether you're there for a quiet morning pour-over or a late espresso after a long dinner, you can find it here.
 
-All Chinatown cafes are in the main directory. Browse the full list on the [Chinatown cafe page](/chinatown).
+All Chinatown cafes are in the main directory. Browse the full list on the [Chinatown cafe page](/chinatown/).

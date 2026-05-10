@@ -2,14 +2,14 @@
 title: "Best Cafe Patios in Toronto (2026)"
 description: "8 Toronto cafes with outdoor seating worth seeking out. From a cobblestone Distillery patio to a Japanese kissaten with a terrace, rated and reviewed."
 pubDate: 2026-05-10
-coverImage: "/photos/balzac-s-distillery-district.jpg"
+coverImage: "/photos/jimmy-s-coffee.jpg"
 ---
 
 Toronto's outdoor cafe season is short, so it's worth knowing which patios are actually good. These eight have confirmed outdoor seating and coffee that justifies the trip.
 
 ---
 
-## [Fungo Cafe](/cafes/fungo-cafe): The Japanese one
+## [Fungo Cafe](/cafes/fungo-cafe/): The Japanese one
 
 ![Fungo Cafe outdoor seating in King West, Toronto](/photos/fungo-cafe.jpg)
 
@@ -20,7 +20,7 @@ A King West cafe inspired by Japanese kissaten culture, rated 4.9★ across 341 
 
 ---
 
-## [Balzac's Distillery District](/cafes/balzac-s-distillery-district): The cobblestone one
+## [Balzac's Distillery District](/cafes/balzac-s-distillery-district/): The cobblestone one
 
 ![Balzac's Distillery District patio on cobblestone, Toronto](/photos/balzac-s-distillery-district.jpg)
 
@@ -31,7 +31,7 @@ The most recognisable patio in Toronto's cafe scene. Balzac's sits inside the Di
 
 ---
 
-## [Augusta Coffee Bar](/cafes/augusta-coffee-bar): The Kensington one
+## [Augusta Coffee Bar](/cafes/augusta-coffee-bar/): The Kensington one
 
 ![Augusta Coffee Bar outdoor seating on Augusta Avenue, Toronto](/photos/augusta-coffee-bar.jpg)
 
@@ -42,7 +42,7 @@ Right on Augusta Avenue in Kensington Market, rated 4.7★ across 276 reviews. T
 
 ---
 
-## [Moonbean Coffee Company](/cafes/moonbean-coffee-company): The institution
+## [Moonbean Coffee Company](/cafes/moonbean-coffee-company/): The institution
 
 ![Moonbean Coffee Company patio in Kensington Market, Toronto](/photos/moonbean-coffee-company.jpg)
 
@@ -53,7 +53,7 @@ Moonbean has been a Kensington institution for decades, and the outdoor seating 
 
 ---
 
-## [Ninetails Coffee | Bloor](/cafes/ninetails-coffee-bloor): The Annex one
+## [Ninetails Coffee | Bloor](/cafes/ninetails-coffee-bloor/): The Annex one
 
 ![Ninetails Coffee Bloor outdoor patio in The Annex, Toronto](/photos/ninetails-coffee-bloor.jpg)
 
@@ -64,7 +64,7 @@ An anime-inspired name and a coffee program that takes things seriously. Ninetai
 
 ---
 
-## [Jimmy's Coffee](/cafes/jimmy-s-coffee): The Ossington one
+## [Jimmy's Coffee](/cafes/jimmy-s-coffee/): The Ossington one
 
 ![Jimmy's Coffee outdoor patio on Ossington, Toronto](/photos/jimmy-s-coffee.jpg)
 
@@ -75,7 +75,7 @@ A true Ossington original with a loyal following and outdoor seating that fills 
 
 ---
 
-## [Rooms Coffee](/cafes/rooms-coffee): The beautiful one
+## [Rooms Coffee](/cafes/rooms-coffee/): The beautiful one
 
 ![Rooms Coffee outdoor seating on Ossington, Toronto](/photos/rooms-coffee.jpg)
 
@@ -86,7 +86,7 @@ One of the most considered cafe interiors in Toronto, and the outdoor seating ex
 
 ---
 
-## [10 DEAN | Waverley](/cafes/10-dean-waverley): The late one
+## [10 DEAN | Waverley](/cafes/10-dean-waverley/): The late one
 
 ![10 DEAN Waverley cafe outdoor seating in Chinatown, Toronto](/photos/10-dean-waverley.jpg)
 

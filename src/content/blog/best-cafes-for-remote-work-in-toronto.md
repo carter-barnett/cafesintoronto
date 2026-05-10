@@ -9,7 +9,7 @@ Working from a cafe in Toronto is hit or miss. Some places have wifi passwords w
 
 These are the ones worth knowing about.
 
-## [White Squirrel Coffee Shop](/cafes/white-squirrel-coffee-shop) — Queen West
+## [White Squirrel Coffee Shop](/cafes/white-squirrel-coffee-shop/) — Queen West
 
 Quiet, consistent, and easy to overlook if you don't know it. White Squirrel on Queen West has reliable wifi, a calm room, and the kind of low-key energy that makes it easy to focus. It doesn't try to be anything other than a good place to sit and get work done, and that's exactly why it works.
 
@@ -18,7 +18,7 @@ Quiet, consistent, and easy to overlook if you don't know it. White Squirrel on 
 
 ---
 
-## [NEO COFFEE BAR](/cafes/neo-coffee-bar) — Downtown Toronto
+## [NEO COFFEE BAR](/cafes/neo-coffee-bar/) — Downtown Toronto
 
 NEO is one of the sharper specialty operations in the city and the downtown location handles a working crowd well. Fast wifi, good espresso, and a space that takes itself seriously without being precious about it. Weekday mornings are the sweet spot. No laptops on weekends or after 5pm, so plan accordingly.
 
@@ -27,7 +27,7 @@ NEO is one of the sharper specialty operations in the city and the downtown loca
 
 ---
 
-## [Typist Studios & Coffee](/cafes/typist-studios-coffee) — The Annex
+## [Typist Studios & Coffee](/cafes/typist-studios-coffee/) — The Annex
 
 The name tells you most of what you need to know. Typist is a creative studio and coffee bar in the Annex built around the idea of working in a well-designed space. The coffee is good, the atmosphere is focused, and it's one of the few places in the city where showing up with a laptop feels like the intended use.
 
@@ -36,7 +36,7 @@ The name tells you most of what you need to know. Typist is a creative studio an
 
 ---
 
-## [Library Coffee](/cafes/library-coffee) — Queen West
+## [Library Coffee](/cafes/library-coffee/) — Queen West
 
 Low-key and bookish in the best way. Library Coffee is the kind of place that naturally attracts people who want to sit quietly and disappear for a few hours. The room is calm, the coffee is solid, and the name sets expectations that the space actually delivers on.
 
@@ -45,7 +45,7 @@ Low-key and bookish in the best way. Library Coffee is the kind of place that na
 
 ---
 
-## [The Coffee](/cafes/the-coffee) — The Annex
+## [The Coffee](/cafes/the-coffee/) — The Annex
 
 Small, usually quiet, and fast wifi. The Coffee in the Annex is a reliable option when you need somewhere to post up without a lot of noise or distraction. It tends to stay manageable even during peak hours, which is more than most Annex spots can say.
 
@@ -54,7 +54,7 @@ Small, usually quiet, and fast wifi. The Coffee in the Annex is a reliable optio
 
 ---
 
-## [Jimmy's Coffee](/cafes/jimmy-s-coffee) — Ossington
+## [Jimmy's Coffee](/cafes/jimmy-s-coffee/) — Ossington
 
 Jimmy's has been a neighbourhood staple on Ossington for years and has the kind of comfortable, lived-in feel that makes working there easy. Fast wifi and good coffee, but it fills up. Come early if you need a seat, especially on weekday mornings when the regulars are in.
 
@@ -63,7 +63,7 @@ Jimmy's has been a neighbourhood staple on Ossington for years and has the kind 
 
 ---
 
-## [Fungo Cafe](/cafes/fungo-cafe) — King West
+## [Fungo Cafe](/cafes/fungo-cafe/) — King West
 
 Fungo takes its coffee seriously and the setup is good for working. Fast wifi and a well-considered space, but it closes at 5pm, so it's a daytime option only. Good for morning blocks or lunch hour sessions, not post-work meetings.
 
@@ -73,7 +73,7 @@ Fungo takes its coffee seriously and the setup is good for working. Fast wifi an
 
 ---
 
-## [5 Elements Espresso Bar](/cafes/5-elements-espresso-bar) — The Annex
+## [5 Elements Espresso Bar](/cafes/5-elements-espresso-bar/) — The Annex
 
 A focused espresso bar in the Annex with fast wifi and a room that stays manageable most of the week. Busy on weekends but solid for weekday work. The coffee is the kind you actually notice, which makes staying longer easy to justify.
 
@@ -82,7 +82,7 @@ A focused espresso bar in the Annex with fast wifi and a room that stays managea
 
 ---
 
-## [Cafe23](/cafes/cafe23) — Queen West
+## [Cafe23](/cafes/cafe23/) — Queen West
 
 Cafe23 on Queen West has fast wifi and a setup that works well for longer visits. It gets busy, so get there early if you want a seat. Once you're in, it's a solid place to stay put. Good coffee and a crowd that's used to working.
 

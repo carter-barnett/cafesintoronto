@@ -2,14 +2,14 @@
 title: "Top 10 Toronto Coffee Shops in the West End (2026)"
 description: "From Kensington Market to King West, these are the best independent coffee shops in Toronto's west end — rated, reviewed, and worth your time."
 pubDate: 2026-04-10
-coverImage: "/photos/fika-cafe.jpg"
+coverImage: "/photos/moonbean-coffee-company.jpg"
 ---
 
 Toronto's west end has more good coffee per block than anywhere else in the city. Queen West, Ossington, Kensington Market, King West, and Liberty Village all have their own rhythm, and each one has a handful of spots that locals return to without thinking twice.
 
 These are the ten worth knowing.
 
-## [FIKA Cafe](/cafes/fika-cafe) — Kensington Market
+## [FIKA Cafe](/cafes/fika-cafe/) — Kensington Market
 
 ![Interior of FIKA Cafe in Kensington Market, Toronto](/photos/fika-cafe.jpg)
 
@@ -20,7 +20,7 @@ FIKA is one of the most-reviewed cafes in the west end for a reason. The Swedish
 
 ---
 
-## [Fungo Cafe](/cafes/fungo-cafe) — King West
+## [Fungo Cafe](/cafes/fungo-cafe/) — King West
 
 ![Fungo Cafe espresso bar on King West, Toronto](/photos/fungo-cafe.jpg)
 
@@ -31,7 +31,7 @@ One of the highest-rated cafes in the city. Fungo is a small, focused operation 
 
 ---
 
-## [Moonbean Coffee Company](/cafes/moonbean-coffee-company) — Kensington Market
+## [Moonbean Coffee Company](/cafes/moonbean-coffee-company/) — Kensington Market
 
 ![Inside Moonbean Coffee Company in Kensington Market, Toronto](/photos/moonbean-coffee-company.jpg)
 
@@ -42,7 +42,7 @@ Moonbean has been in Kensington for over 30 years and has the kind of worn-in wa
 
 ---
 
-## [Larry's Place](/cafes/larry-s-place) — Liberty Village
+## [Larry's Place](/cafes/larry-s-place/) — Liberty Village
 
 ![Larry's Place cafe in Liberty Village, Toronto](/photos/larry-s-place.jpg)
 
@@ -53,7 +53,7 @@ Larry's is the kind of neighbourhood cafe that makes a neighbourhood feel like o
 
 ---
 
-## [Forno Cultura](/cafes/forno-cultura) — King West
+## [Forno Cultura](/cafes/forno-cultura/) — King West
 
 ![Forno Cultura bakery and coffee on King West, Toronto](/photos/forno-cultura.jpg)
 
@@ -64,7 +64,7 @@ Primarily a bakery, but the espresso program is strong enough to stand on its ow
 
 ---
 
-## [Nonni Cafe & Bakery](/cafes/nonni-cafe-bakery) — King West
+## [Nonni Cafe & Bakery](/cafes/nonni-cafe-bakery/) — King West
 
 ![Nonni Cafe and Bakery interior on King West, Toronto](/photos/nonni-cafe-bakery.jpg)
 
@@ -75,7 +75,7 @@ Nonni has fast wifi, good coffee, and a room that works for both catching up wit
 
 ---
 
-## [Rooms Coffee](/cafes/rooms-coffee) — Ossington
+## [Rooms Coffee](/cafes/rooms-coffee/) — Ossington
 
 ![Rooms Coffee on Ossington Avenue, Toronto](/photos/rooms-coffee.jpg)
 
@@ -86,7 +86,7 @@ A strong contender on Ossington with great ratings and a crowd that comes back c
 
 ---
 
-## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne) — King West
+## [Coffee Oysters Champagne](/cafes/coffee-oysters-champagne/) — King West
 
 ![Coffee Oysters Champagne cafe on King West, Toronto](/photos/coffee-oysters-champagne.jpg)
 
@@ -97,7 +97,7 @@ The name tells you the vibe. Coffee Oysters Champagne does specialty coffee in t
 
 ---
 
-## [Jimmy's Coffee](/cafes/jimmy-s-coffee) — Ossington
+## [Jimmy's Coffee](/cafes/jimmy-s-coffee/) — Ossington
 
 ![Jimmy's Coffee on Ossington Avenue, Toronto](/photos/jimmy-s-coffee.jpg)
 
@@ -108,7 +108,7 @@ Jimmy's has been an Ossington institution for years. Fast wifi, solid coffee, an
 
 ---
 
-## [Library Coffee](/cafes/library-coffee) — Queen West
+## [Library Coffee](/cafes/library-coffee/) — Queen West
 
 ![Library Coffee on Queen West, Toronto](/photos/library-coffee.jpg)
 
@@ -119,4 +119,4 @@ Low-key, quiet, and consistently good. Library Coffee on Queen West earns its re
 
 ---
 
-All west end cafes are in the main directory. Browse by neighbourhood: [Kensington Market](/kensington-market), [King West](/king-west), [Ossington](/ossington), [Queen West](/queen-west), or [Liberty Village](/liberty-village).
+All west end cafes are in the main directory. Browse by neighbourhood: [Kensington Market](/kensington-market/), [King West](/king-west/), [Ossington](/ossington/), [Queen West](/queen-west/), or [Liberty Village](/liberty-village/).
