@@ -3,6 +3,7 @@ title: "Leslieville Cafe Guide (2026)"
 description: "A neighbourhood-by-neighbourhood guide to the best cafes in Leslieville, Toronto — from cozy espresso bars to sprawling brunch spots with excellent pour-overs."
 pubDate: 2026-05-31
 slug: "leslieville-cafe-guide"
+coverImage: "/photos/pilot-coffee-roasters.jpg"
 ---
 
 ![Pilot Coffee Roasters - one of Toronto's best independent roasters, located near Leslieville](/photos/pilot-coffee-roasters.jpg)
