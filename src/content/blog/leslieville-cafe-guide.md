@@ -5,6 +5,8 @@ pubDate: 2026-05-31
 slug: "leslieville-cafe-guide"
 ---
 
+![Pilot Coffee Roasters - one of Toronto's best independent roasters, located near Leslieville](/photos/pilot-coffee-roasters.jpg)
+
 ## Leslieville: Toronto's Laid-Back East End Coffee Haven
 
 If you've ever wandered down Queen Street East on a slow Sunday morning, coffee cup in hand, watching cyclists glide past old brick storefronts and toddlers in strollers — you already know why Leslieville is one of Toronto's most beloved neighbourhoods. What you might not know is just how good the coffee scene has become here.
@@ -59,7 +61,7 @@ Remarkable Bean has been a Leslieville institution for years, and it's the kind 
 
 The room is comfortable in the truest sense: mismatched furniture, shelves of books, regulars who know each other's names. The coffee is solid and unpretentious. This isn't the place to geek out over single-origin geisha processed on a raised bed in Ethiopia — it's the place to settle into a chair with a well-made cappuccino and lose an hour to conversation or a good book.
 
-It's also genuinely excellent for remote work. There's wifi, plenty of seating, and a pace to the room that doesn't make you feel pressured to give up your table. On weekend mornings, expect it to be busy — regulars love this place.
+It's also genuinely excellent for remote work. There's wifi, plenty of seating, and a pace to the room that doesn't make you feel pressured to give up your table. If working from cafes is your thing, check out our full list of [best cafes for remote work in Toronto](/blog/best-cafes-for-remote-work-in-toronto). On weekend mornings, expect it to be busy — regulars love this place.
 
 **Best for:** Working remotely, slow mornings, regulars and newcomers alike
 **Vibe:** Classic neighbourhood cafe, unpretentious, warm
@@ -81,7 +83,9 @@ Come early on weekends unless you enjoy waiting. The lineups are real, but the e
 
 ### Pilot Coffee Roasters (Riverside)
 
-Technically just west of Leslieville proper, the Pilot Coffee location near Riverside is close enough to include in any east-end cafe crawl — and good enough to make the trip worthwhile even if you're coming specifically for it.
+Technically just west of Leslieville proper, the [Pilot Coffee Roasters](/cafes/pilot-coffee-roasters) location near Riverside is close enough to include in any east-end cafe crawl — and good enough to make the trip worthwhile even if you're coming specifically for it.
+
+![Pilot Coffee Roasters - exceptional pour-overs and single-origin filter coffee near Leslieville](/photos/pilot-coffee-roasters.jpg)
 
 Pilot is one of Toronto's best independent roasters, with a national reputation built on careful sourcing, precise roasting, and a commitment to traceability that goes beyond marketing language. Their cafes reflect this seriousness: the coffee is exceptional, the staff can talk about the beans in meaningful detail, and the seasonal filter coffee rotation is genuinely exciting.
 
@@ -105,6 +109,8 @@ It's not the place to grab a quick coffee before work. It's the place to spend a
 
 ---
 
+![Jimmy's Coffee - a beloved independent cafe just west of Leslieville on Ossington](/photos/jimmy-s-coffee.jpg)
+
 ## Neighbourhood Context: Moving Through Leslieville
 
 One of the pleasures of Leslieville's cafe scene is that a proper crawl is completely walkable. Queen Street East is your main corridor, and you can move between most of these spots without ever needing transit.
@@ -121,7 +127,7 @@ If you're parking or cycling in, the bike lanes on Queen East are good, and park
 
 **Weekend mornings (before 10am):** Arrive early to beat the brunch crowds. After 10am on Saturdays and Sundays, Lady Marmalade and Remarkable Bean in particular get very busy.
 
-**Weekend afternoons:** A lovely time to crawl — the street comes alive, most spots have room, and you can take your time moving between them.
+**Weekend afternoons:** A lovely time to crawl — the street comes alive, most spots have room, and you can take your time moving between them. Several spots also have great outdoor seating — see our guide to [best cafe patios in Toronto](/blog/best-cafe-patios-in-toronto) for the full rundown.
 
 **Evenings:** Boxcar Social shifts into bar mode and remains a great option. Most other cafes close between 5–6pm.
 
@@ -131,14 +137,14 @@ If you're parking or cycling in, the bike lanes on Queen East are good, and park
 
 Here's a practical route if you want to experience the best of what Leslieville has to offer in a single morning or afternoon:
 
-1. **Start:** Pilot Coffee Roasters (Riverside) — pour-over to wake up
+1. **Start:** [Pilot Coffee Roasters](/cafes/pilot-coffee-roasters) (Riverside) — pour-over to wake up
 2. **Walk east on Queen:** Stop at Sam James Coffee Bar for an espresso
 3. **Mid-morning:** Settle into Remarkable Bean for a second cup and a read
 4. **Late morning/lunch:** Lady Marmalade for brunch (go early to avoid the wait)
 5. **Afternoon:** Boxcar Social for a matcha or filter coffee, linger as long as you like
 6. **Optional detour:** Merchants of Green Coffee if you want something genuinely different
 
-The whole crawl is under 3km of walking if you stay on or near Queen East. With leisurely stops, plan for 3–4 hours.
+The whole crawl is under 3km of walking if you stay on or near Queen East. With leisurely stops, plan for 3–4 hours. If you want to extend west, the [Ossington cafe guide](/blog/ossington-cafe-guide) picks up right where Leslieville leaves off.
 
 ---
 
